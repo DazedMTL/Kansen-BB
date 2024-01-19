@@ -26,14 +26,14 @@
 *5329|
 ;旧ナンバー[vo_t s="tugumi0324"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0012"]
-[ns]丞実[nse]
-「兄ちゃん……」[pcms]
+[ns]Tsugumi[nse]
+"Big brother..."[pcms]
 
 
 *5330|
 [fc]
-[ns]克己[nse]
-「うわっ！　つ、丞実！？」[pcms]
+[ns]Kazumi[nse]
+"Whoa! T-Tsugumi!?"[pcms]
 
 [se buf1 storage="seB013"]
 ;;//♪SE人が倒れる
@@ -42,20 +42,19 @@
 
 *5331|
 [fc]
-突然、背後からぷにっとしたものに抱きつかれ、[r]
-俺の身体が前に押されていった。[pcms]
+Suddenly, something soft hugged me from behind, pushing my body[r]
+forward.[pcms]
 
 
 *5332|
 [fc]
-この感触は裸じゃない。[r]
-水着か何かか……？[pcms]
+This sensation isn't bare skin. Is it a swimsuit or something...?[pcms]
 
 
 *5333|
 [fc]
-[ns]克己[nse]
-「丞実、お前……！」[pcms]
+[ns]Kazumi[nse]
+"Tsugumi, you...!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_miz_a"][ChrSetParts layer=5 chface="F2_tug01"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 
@@ -63,56 +62,55 @@
 *5334|
 ;旧ナンバー[vo_t s="tugumi0325"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0013"]
-[ns]丞実[nse]
-「ふふふふふっ……」[pcms]
+[ns]Tsugumi[nse]
+"Hehehehe..."[pcms]
 
 
 *5335|
 [fc]
-[ns]克己[nse]
-「あっ！　馬鹿っ！」[pcms]
+[ns]Kazumi[nse]
+"Ah! You idiot!"[pcms]
 
 
 *5336|
 [fc]
-丞実の指が、俺のそそり立つものに絡まるように伸びてくる。[pcms]
+Tsugumi's fingers are reaching out, entwining around my erect member.[pcms]
 
 
 *5337|
 [fc]
-後ろからは、二つのふくらみがぎゅっと押しつけられ、[r]
-硬くなった乳首が感じられるくらいだった。[pcms]
+From behind, two mounds are pressed tightly against me, and I can feel[r]
+her hard nipples.[pcms]
 
 
 *5338|
 ;旧ナンバー[vo_t s="tugumi0326"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0014"]
-[ns]丞実[nse]
-「兄ちゃん、いい身体してるねぇ……」[pcms]
+[ns]Tsugumi[nse]
+"Big brother, you have such a nice body..."[pcms]
 
 
 *5339|
 [fc]
-[ns]克己[nse]
-「なにオヤジみたいなこと言ってるんだよ！」[pcms]
+[ns]Kazumi[nse]
+"What are you saying, like some old man!"[pcms]
 
 
 *5340|
 [fc]
-濡れた水着の感触とやわらかい胸が、[r]
-反則みたいに脳を刺激する。[pcms]
+The sensation of the wet swimsuit and her soft breasts is unfairly[r]
+stimulating my brain.[pcms]
 
 
 *5341|
 [fc]
-そして、勃起のおさまらないチンコに、[r]
-華奢な指がまとわりついていた。[pcms]
+And then, slender fingers are twined around my unyielding erection.[pcms]
 
 
 *5342|
 [fc]
-[ns]克己[nse]
-「そ、そこは駄目だって！」[pcms]
+[ns]Kazumi[nse]
+"That place is off-limits!"[pcms]
 
 ;;//m:イベントここからでは
 
@@ -142,54 +140,52 @@
 *5343|
 ;旧ナンバー[vo_t s="tugumi0327"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0015"]
-[ns]丞実[nse]
-「兄ちゃんのここ……ガチガチ。[r]
-　気持ちよくしてあげるね……」[pcms]
+[ns]Tsugumi[nse]
+"Big brother's here... so hard. I'll make you feel good..."[pcms]
 
 
 *5344|
 [fc]
-丞実の指が、俺のチンコを根本からしごき上げ、[r]
-痺れるような快感を生み出している。[pcms]
+Tsugumi's fingers stroke my dick from the base to the tip, creating a[r]
+tingling pleasure.[pcms]
 
 
 *5345|
 ;旧ナンバー[vo_t s="tugumi0328"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0016"]
-[ns]丞実[nse]
-「ふふっ……あたしの水着姿に興奮したの？[r]
-　好きだもんね、兄ちゃん……水着の女の子～……」[pcms]
+[ns]Tsugumi[nse]
+"Hehe... Are you excited by my swimsuit? You like it, don't you, big[r]
+brother... girls in swimsuits~..."[pcms]
 
 
 *5346|
 [fc]
-[ns]克己[nse]
-「す、好きだけど……それとコレは……」[pcms]
+[ns]Kazumi[nse]
+"I-I like them but... this is different..."[pcms]
 
 
 *5347|
 ;旧ナンバー[vo_t s="tugumi0329"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0017"]
-[ns]丞実[nse]
-「小さい頃から、あたしとか、静の水着姿を、[r]
-　エッチな目をして見てたの、知ってるんだよ……？」[pcms]
+[ns]Tsugumi[nse]
+"Ever since we were little, I knew you were looking at me and Shizuka[r]
+in our swimsuits with those lecherous eyes..."[pcms]
 
 
 *5348|
 [fc]
-……やばい、バレてた。[r]
-よくまあそんな古いこと覚えてるもんだ……。[pcms]
+...Crap, she knew. How does she remember such old stuff...?[pcms]
 
 
 *5349|
 [fc]
-って、そうじゃなくて！[pcms]
+But that's not the point![pcms]
 
 
 *5350|
 [fc]
-[ns]克己[nse]
-「くおおっ！　なにしてんのおおおっ！」[pcms]
+[ns]Kazumi[nse]
+"Grrr! What are you doinggg?!"[pcms]
 
 ;;//■イベントCG　tug_H001
 [evcg storage="tug_H001b"][trans_c cross time=500]
@@ -198,15 +194,14 @@
 *5351|
 ;旧ナンバー[vo_t s="tugumi0330"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0018"]
-[ns]丞実[nse]
-「こんなに堅くしてるってことは……、[r]
-　さっきの聞いてた……？」[pcms]
+[ns]Tsugumi[nse]
+"If it's this hard... did you hear what happened earlier...?"[pcms]
 
 
 *5352|
 [fc]
-[ns]克己[nse]
-「さっきのって、なんだよ！」[pcms]
+[ns]Kazumi[nse]
+"What happened earlier, what are you talking about!"[pcms]
 
 ;;//■イベントCG　tug_H001
 [evcg storage="tug_H001c"][trans_c cross time=500]
@@ -215,21 +210,21 @@
 *5353|
 ;旧ナンバー[vo_t s="tugumi0331"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0019"]
-[ns]丞実[nse]
-「とぼけないでよ……あたしがオナニーしてたの、[r]
-　聞いてたんでしょ……？」[pcms]
+[ns]Tsugumi[nse]
+"Don't play dumb... You were listening to me masturbate, weren't[r]
+you...?"[pcms]
 
 
 *5354|
 [fc]
-[ns]克己[nse]
-「うっ……」[pcms]
+[ns]Kazumi[nse]
+"Ugh..."[pcms]
 
 
 *5355|
 [fc]
-こいつ、わざと聞こえるように声を立ててたのか？[r]
-なんでそんなことを……くううっ。[pcms]
+Did she deliberately make sure her voice was audible? Why would she do[r]
+that... grrr.[pcms]
 
 ;;//■イベントCG　tug_H001
 [evcg storage="tug_H001a"][trans_c cross time=500]
@@ -238,113 +233,110 @@
 *5356|
 ;旧ナンバー[vo_t s="tugumi0332"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0020"]
-[ns]丞実[nse]
-「兄ちゃん……助けに来てくれてありがとうね……、[r]
-　あたし、本当に嬉しかったんだ……」[pcms]
+[ns]Tsugumi[nse]
+"Big brother... thank you for coming to help me... I was really[r]
+happy..."[pcms]
 
 
 *5357|
 [fc]
-[ns]克己[nse]
-「そ、それとこれとは違うだろうっ！[r]
-　とにかく一回離れろっ！」[pcms]
+[ns]Kazumi[nse]
+"That's different from this! Just back off for a second!"[pcms]
 
 
 *5358|
 ;旧ナンバー[vo_t s="tugumi0333"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0021"]
-[ns]丞実[nse]
-「ああぁんっ、にいちゃぁん……」[pcms]
+[ns]Tsugumi[nse]
+"Aaahnn, big brooother..."[pcms]
 
 
 *5359|
 [fc]
-まるで子供の頃みたいに甘えながら、俺に抱きついてくる丞実。[pcms]
+Just like when we were kids, Tsugumi clings to me, seeking comfort.[pcms]
 
 
 *5360|
 [fc]
-でも、スポーツをしているだけあって、[r]
-その力はもう子供のそれじゃなかった。[pcms]
+But with her sports training, her strength is no longer that of a[r]
+child's.[pcms]
 
 
 *5361|
 ;旧ナンバー[vo_t s="tugumi0334"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0022"]
-[ns]丞実[nse]
-「なんか、身体が熱くなって我慢できなかったの。[r]
-　兄ちゃんが家にいる頃から、良くお風呂でしてたから……」[pcms]
+[ns]Tsugumi[nse]
+"Somehow, my body got so hot I couldn't stand it. Ever since you were[r]
+at home, I often did it in the bath..."[pcms]
 
 
 *5362|
 [fc]
-[ns]克己[nse]
-「な、お前……」[pcms]
+[ns]Kazumi[nse]
+"You, what..."[pcms]
 
 
 *5363|
 [fc]
-妹のそんな告白を聞くとは思いもしなかった。[r]
-こいつ、オナニーはお風呂派だったのかよ。[pcms]
+I never expected to hear such a confession from my sister. So she's a[r]
+bath-time masturbator, huh.[pcms]
 
 
 *5364|
 ;旧ナンバー[vo_t s="tugumi0335"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0023"]
-[ns]丞実[nse]
-「兄ちゃんが聞いてるって思ったら……止められなくて、[r]
-　最後までやっちゃった……」[pcms]
+[ns]Tsugumi[nse]
+"When I thought big brother was listening... I couldn't stop and went[r]
+all the way..."[pcms]
 
 
 *5365|
 [fc]
-[ns]克己[nse]
-「最後までって……」[pcms]
+[ns]Kazumi[nse]
+"All the way to..."[pcms]
 
 
 *5366|
 ;旧ナンバー[vo_t s="tugumi0336"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0024"]
-[ns]丞実[nse]
-「うん……すぐにイッちゃった……」[pcms]
+[ns]Tsugumi[nse]
+"Yeah... I came almost immediately..."[pcms]
 
 
 *5367|
 [fc]
-丞実が、おれのチンコをぐにぐにと、[r]
-強弱を付けるようにしごいてくる。[pcms]
+Tsugumi is stroking my dick firmly yet gently, varying the pressure.[pcms]
 
 
 *5368|
 [fc]
-[ns]克己[nse]
-「あうっ……」[pcms]
+[ns]Kazumi[nse]
+"Ahh..."[pcms]
 
 
 *5369|
 ;旧ナンバー[vo_t s="tugumi0337"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0025"]
-[ns]丞実[nse]
-「兄ちゃんは、こんなにガチガチにしてるんだね……、[r]
-　どうしてしなかったの？」[pcms]
+[ns]Tsugumi[nse]
+"Big brother, you're so hard... Why didn't you do it?"[pcms]
 
 
 *5370|
 [fc]
-丞実が更に身体をすり寄せて、[r]
-胸をぎゅっと押しつけてくる。[pcms]
+Tsugumi presses her body even closer, pushing her breasts against me[r]
+tightly.[pcms]
 
 
 *5371|
 [fc]
-チンコを掴まれた腕と大きい胸で、[r]
-サンドイッチにされているみたいな感じだ。[pcms]
+With my dick being gripped in one hand and sandwiched between her[r]
+large breasts, it feels like I'm being squeezed from both sides.[pcms]
 
 
 *5372|
 [fc]
-[ns]克己[nse]
-「どうしてって、なにを……？」[pcms]
+[ns]Kazumi[nse]
+"What do you mean 'why didn't I'... what are you talking about?"[pcms]
 
 ;;//■イベントCG　tug_H001
 [evcg storage="tug_H001d"][trans_c cross time=500]
@@ -353,35 +345,35 @@
 *5373|
 ;旧ナンバー[vo_t s="tugumi0338"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0026"]
-[ns]丞実[nse]
-「オナニーだよ……あたしの声で興奮したから、[r]
-　こんなにガチガチになってるんでしょ？」[pcms]
+[ns]Tsugumi[nse]
+"Masturbation... You got this hard because you were excited by my[r]
+voice, right?"[pcms]
 
 
 *5374|
 [fc]
-丞実が、チンコをしごきだすと、[r]
-思わず腰がへなへなと砕けてしまう。[pcms]
+As Tsugumi starts stroking my cock, my hips involuntarily give in and[r]
+crumble.[pcms]
 
 
 *5375|
 ;旧ナンバー[vo_t s="tugumi0339"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0027"]
-[ns]丞実[nse]
-「どうして精液出さなかったの？[r]
-　兄ちゃんだから、我慢強かったの？」[pcms]
+[ns]Tsugumi[nse]
+"Why didn't you let out your semen? Were you being strong because[r]
+you're my big brother?"[pcms]
 
 
 *5376|
 [fc]
-そんなことを言いながら、丞実はチンコの先端に指を伸ばし、[r]
-俺の皮をぬるっとむいていった。[pcms]
+While saying that, Tsugumi stretches her finger to the tip of my cock[r]
+and smoothly peels back the foreskin.[pcms]
 
 
 *5377|
 [fc]
-[ns]克己[nse]
-「ば、馬鹿、なにしてるんだ……くっ……」[pcms]
+[ns]Kazumi[nse]
+"Idiot, what are you doing...ugh..."[pcms]
 
 ;;//■イベントCG　tug_H001
 [evcg storage="tug_H001a"][trans_c cross time=500]
@@ -390,145 +382,138 @@
 *5378|
 ;旧ナンバー[vo_t s="tugumi0340"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0028"]
-[ns]丞実[nse]
-「兄ちゃんの、すごく堅いよ……、[r]
-　でもね……あたしの方はね……熱くて、やわらかいんだよ？」[pcms]
+[ns]Tsugumi[nse]
+"Big brother, you're so hard... But you know... my place is hot and[r]
+soft."[pcms]
 
 
 *5379|
 [fc]
-思わず丞実の身体を想像してまう。[r]
-あの健康的に焼けた、しなやかな身体を……。[pcms]
+Involuntarily, I imagine Tsugumi's body. That healthy, tanned, supple[r]
+body...[pcms]
 
 
 *5380|
 [fc]
-あれが、熱くてやわらかいって……どんなご褒美なんだよ！[pcms]
+That's hot and soft... what kind of reward is that![pcms]
 
 
 *5381|
 [fc]
-丞実が、押しつけた胸を上下させて、[r]
-俺にすり寄せてくる。[pcms]
+Tsugumi moves her pressed breasts up and down, rubbing herself against[r]
+me.[pcms]
 
 
 *5382|
 ;旧ナンバー[vo_t s="tugumi0341"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0029"]
-[ns]丞実[nse]
-「脱衣所で、あたしの身体、覗いてたでしょ？」[pcms]
+[ns]Tsugumi[nse]
+"You were peeking at my body in the changing room, weren't you?"[pcms]
 
 
 *5383|
 [fc]
-[ns]克己[nse]
-「ち、違う、あれはお前がいきなり脱ぎはじめるから……」[pcms]
+[ns]Kazumi[nse]
+"No, that's not it. You started undressing out of nowhere..."[pcms]
 
 
 *5384|
 ;旧ナンバー[vo_t s="tugumi0342"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0030"]
-[ns]丞実[nse]
-「ふふふっ……兄ちゃんのエッチ……、[r]
-　でも嬉しい……」[pcms]
+[ns]Tsugumi[nse]
+"Hehehe... Big brother, you're such a pervert... But I'm happy..."[pcms]
 
 
 *5385|
 [fc]
-う、嬉しいって……俺が欲情することがそんなに嬉しいのか？[pcms]
+Happy... she's happy that I'm lusting after her?[pcms]
 
 
 *5386|
 [fc]
-なんだか、これじゃ誘われてるみたいで……。[pcms]
+Somehow, it feels like she's inviting me...[pcms]
 
 
 *5387|
 ;旧ナンバー[vo_t s="tugumi0343"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0031"]
-[ns]丞実[nse]
-「兄ちゃんも……あたしの熱くてやわらかいところ、[r]
-　さわってもいいんだよ？」[pcms]
+[ns]Tsugumi[nse]
+"Big brother can also touch my hot and soft place if he wants."[pcms]
 
 
 *5388|
 [fc]
-[ns]克己[nse]
-「さ、さわってって……触ったら駄目だろう！」[pcms]
+[ns]Kazumi[nse]
+"Touch... but touching is bad, isn't it!"[pcms]
 
 
 *5389|
 ;旧ナンバー[vo_t s="tugumi0344"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0032"]
-[ns]丞実[nse]
-「ううん、あたしは大丈夫。[r]
-　おっぱいの方じゃないよ？」[pcms]
+[ns]Tsugumi[nse]
+"No, it's okay for me. It's not my breasts though?"[pcms]
 
 
 *5390|
 [fc]
-おっぱいの方じゃない、熱くてやわらかいところって……、[r]
-つまりそれは……。[pcms]
+Not the breasts, but the hot and soft place... that means...[pcms]
 
 
 *5391|
 ;旧ナンバー[vo_t s="tugumi0345"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0033"]
-[ns]丞実[nse]
-「もういっこのやわらかいところ……、[r]
-　疼いて疼いて、いっぱい蜜があふれ出してるところ……」[pcms]
+[ns]Tsugumi[nse]
+"My other soft place... it's throbbing and overflowing with honey..."[pcms]
 
 
 *5392|
 [fc]
-[ns]克己[nse]
-「んくおおおおっ！」[pcms]
+[ns]Kazumi[nse]
+"Nghhhhh!"[pcms]
 
 
 *5393|
 [fc]
-丞実が、俺の皮を剥いたところを、[r]
-優しく撫で回し、しごき立ててくる。[pcms]
+Tsugumi gently caresses and vigorously strokes the area where she[r]
+peeled back my foreskin.[pcms]
 
 
 *5394|
 ;旧ナンバー[vo_t s="tugumi0346"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0034"]
-[ns]丞実[nse]
-「ねぇ……さわって？[r]
-　あたしのことも、気持ちよくして……？」[pcms]
+[ns]Tsugumi[nse]
+"Hey... touch me? Make me feel good too...?"[pcms]
 
 
 *5395|
 [fc]
-丞実が、濡れているという恥丘を俺の足に押し当ててくる。[pcms]
+Tsugumi presses her wet mound against my leg.[pcms]
 
 
 *5396|
 [fc]
-そこは、本当にやわらかくて、[r]
-水着越しにもぬるぬると濡れているみたいだった。[pcms]
+It's truly soft, and even through the swimsuit, it feels slippery and[r]
+wet.[pcms]
 
 
 *5397|
 [fc]
-[ns]克己[nse]
-「あっ……かっ……くううっ……」[pcms]
+[ns]Kazumi[nse]
+"Ah... gah... ughhh..."[pcms]
 
 
 *5398|
 ;旧ナンバー[vo_t s="tugumi0347"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0035"]
-[ns]丞実[nse]
-「我慢しないでいいんだよ……、[r]
-　ここを、こんなガチガチにして、どうして我慢するの？」[pcms]
+[ns]Tsugumi[nse]
+"You don't have to hold back... Why do you hold back when you're this[r]
+hard?"[pcms]
 
 
 *5399|
 [fc]
-[ns]克己[nse]
-「どうしてって、お前は妹で、[r]
-　俺が守らなくちゃいけないから……」[pcms]
+[ns]Kazumi[nse]
+"Why? Because you're my sister, and I have to protect you..."[pcms]
 
 ;;//se_sex02.ogg(LOOP)
 [se_HLoop buf2 storage="se_sex02"]
@@ -537,40 +522,40 @@
 *5400|
 ;旧ナンバー[vo_t s="tugumi0348"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0036"]
-[ns]丞実[nse]
-「嬉しい……兄ちゃんが、あたしを守って……、[r]
-　その代わり、たくさん気持ちよくしてあげる……」[pcms]
+[ns]Tsugumi[nse]
+"I'm happy... Big brother is protecting me... In return, I'll make you[r]
+feel really good..."[pcms]
 
 
 *5401|
 [fc]
-[ns]克己[nse]
-「あぐうあああああっ！」[pcms]
+[ns]Kazumi[nse]
+"Agghhhhh!"[pcms]
 
 
 *5402|
 [fc]
-丞実は、ボディーソープを手に取ると、[r]
-それを手のひらに馴染ませながら、俺のチンコをしごいてきた。[pcms]
+Tsugumi takes some body soap in her hand, lets it blend into her palm,[r]
+and starts stroking my dick with it.[pcms]
 
 
 *5403|
 [fc]
-ぬるぬると滑るやわらかな感触が、[r]
-皮を剥かれたそこにやさしい刺激を与えてくる。[pcms]
+The slippery sensation glides smoothly, giving gentle stimulation to[r]
+the exposed area.[pcms]
 
 
 *5404|
 ;旧ナンバー[vo_t s="tugumi0349"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0037"]
-[ns]丞実[nse]
-「ねぇ、兄ちゃんもさわって……あたしを一人にしないで……」[pcms]
+[ns]Tsugumi[nse]
+"Hey, touch me too... don't leave me alone..."[pcms]
 
 
 *5405|
 [fc]
-俺は、その押しつけてくる腰を払いのけるつもりで、[r]
-丞実のそこに手を当てていく。[pcms]
+I intend to push away the hips that she's pressing against me, but[r]
+instead, I find my hand touching her there.[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -582,50 +567,50 @@
 *5406|
 ;旧ナンバー[vo_t s="tugumi0350"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0038"]
-[ns]丞実[nse]
-「んはぁぁぁああっ……いい、もっとしてぇ……」[pcms]
+[ns]Tsugumi[nse]
+"Nhaaaaah... good, do it more..."[pcms]
 
 
 *5407|
 [fc]
-[ns]克己[nse]
-「くうっ、うううううっ……」[pcms]
+[ns]Kazumi[nse]
+"Guhh, uuuuuh..."[pcms]
 
 
 *5408|
 [fc]
-丞実のそこは、妹とは思えないほど熱くてやわらかくて……、[r]
-俺の指に吸い付くみたいにフィットしていた。[pcms]
+Tsugumi's place is so hot and soft that it's hard to believe she's my[r]
+sister... My fingers fit as if they're being sucked in.[pcms]
 
 
 *5409|
 [fc]
-ぬるぬるとした密が指先に絡んで、[r]
-そのたぎった熱を伝えてくる。[pcms]
+The slippery secretions twine around my fingertips, conveying their[r]
+seething heat.[pcms]
 
 
 *5410|
 ;旧ナンバー[vo_t s="tugumi0351"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0039"]
-[ns]丞実[nse]
-「あ、あたしも、いっぱいしてあげるからね……」[pcms]
+[ns]Tsugumi[nse]
+"Ah, I'll do a lot for you too..."[pcms]
 
 
 *5411|
 [fc]
-丞実の指が、剥けたばかりの亀頭ををこね回し、[r]
-裏筋をくねくねと刺激してくる。[pcms]
+Tsugumi's fingers knead the freshly exposed glans, stimulating the[r]
+frenulum in a wriggling motion.[pcms]
 
 
 *5412|
 [fc]
-こんなテクニック……どこで覚えたのか……。[pcms]
+Such technique... where did she learn this...?[pcms]
 
 
 *5413|
 [fc]
-[ns]克己[nse]
-「くううっ……ううあああっ……」[pcms]
+[ns]Kazumi[nse]
+"Guuuh... uuuahhh..."[pcms]
 
 ;;//■イベントCG　tug_H001 マンコいじり
 [evcg storage="tug_H001f"][trans_c cross time=500]
@@ -634,66 +619,64 @@
 *5414|
 ;旧ナンバー[vo_t s="tugumi0352"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0040"]
-[ns]丞実[nse]
-「あたし、上手に出来てる……？[r]
-　去年、水泳部で一緒だった石見君とね、練習したんだよ」[pcms]
+[ns]Tsugumi[nse]
+"Am I doing it well...? Last year, I practiced with Ishimi-kun from[r]
+the swim club."[pcms]
 
 
 *5415|
 [fc]
-な、なに……？[r]
-それって、つまりセックスしてたって事なのか……？[pcms]
+What...? Does that mean she's been having sex...?[pcms]
 
 
 *5416|
 [fc]
-俺は、丞実の思わぬテクニックに股間を翻弄されながら、[r]
-話に聞き入ってしまう。[pcms]
+While my crotch is being toyed with by Tsugumi's unexpected technique,[r]
+I find myself engrossed in her story.[pcms]
 
 
 *5417|
 ;旧ナンバー[vo_t s="tugumi0353"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0041"]
-[ns]丞実[nse]
-「驚いた……？[r]
-　水泳部のシャワー室でね……しちゃったの……」[pcms]
+[ns]Tsugumi[nse]
+"Surprised...? In the swim club's shower room... we did it..."[pcms]
 
 
 *5418|
 [fc]
-ハッキリ言って、妹の初体験告白は、[r]
-俺にとってショック以外の何者でもなかった。[pcms]
+To be honest, my sister's confession of her first experience was[r]
+nothing short of a shock to me.[pcms]
 
 
 *5419|
 [fc]
-丞実がこんなにエロいのは、体験済みだったからなのか……。[pcms]
+Is Tsugumi this erotic because she's already experienced...?[pcms]
 
 
 *5420|
 ;旧ナンバー[vo_t s="tugumi0354"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0042"]
-[ns]丞実[nse]
-「去年の夏に初めてしてから、夏休みには毎日してたの。[r]
-　それも、一日に何度も何度も……」[pcms]
+[ns]Tsugumi[nse]
+"Since my first time last summer, I did it every day during the summer[r]
+break. And not just once, but many times a day..."[pcms]
 
 
 *5421|
 [fc]
-[ns]克己[nse]
-「うううっ……」[pcms]
+[ns]Kazumi[nse]
+"Uuuuh..."[pcms]
 
 
 *5422|
 [fc]
-夏休みに毎日……一日に何回もなんて……、[r]
-うらやましすぎる。[pcms]
+Every day during summer break... several times a day... that's just[r]
+too enviable.[pcms]
 
 
 *5423|
 [fc]
-俺は、更にチンコをそそり立てながら、[r]
-丞実のマッサージに身をゆだねていった。[pcms]
+With my cock standing even more erect, I surrender myself to Tsugumi's[r]
+massage.[pcms]
 
 ;;//■イベントCG　tug_H001 マンコいじり
 [evcg storage="tug_H001g"][trans_c cross time=500]
@@ -702,20 +685,19 @@
 *5424|
 ;旧ナンバー[vo_t s="tugumi0355"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0043"]
-[ns]丞実[nse]
-「でもね、石見君が浮気したからフっちゃった」[pcms]
+[ns]Tsugumi[nse]
+"But you know, Ishimi-kun cheated on me, so I dumped him."[pcms]
 
 
 *5425|
 [fc]
-な、なら、もう丞実はフリーてことなのか……、[r]
-いや、待て待て、何考えてるんだ俺は。[pcms]
+What, so Tsugumi is free now...? No, wait, what am I thinking?[pcms]
 
 
 *5426|
 [fc]
-丞実は、俺の勃起をやさしく揉みほぐし、[r]
-しごきたてながら、耳元でそっとささやきつづける。[pcms]
+Tsugumi gently kneads my erection and continues to stroke it while[r]
+whispering softly in my ear.[pcms]
 
 ;;//■イベントCG　tug_H001 マンコいじり
 [evcg storage="tug_H001e"][trans_c cross time=500]
@@ -724,109 +706,107 @@
 *5427|
 ;旧ナンバー[vo_t s="tugumi0356"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0044"]
-[ns]丞実[nse]
-「どんなふうにしたか、聞きたい？[r]
-　聞きたいよね……ふふっ……」[pcms]
+[ns]Tsugumi[nse]
+"Do you want to hear how we did it? You want to know, right...[r]
+hehe..."[pcms]
 
 
 *5428|
 [fc]
-[ns]克己[nse]
-「そ、そんなこと……」[pcms]
+[ns]Kazumi[nse]
+"Such things..."[pcms]
 
 
 *5429|
 [fc]
-甘い声をささやきかけられると、[r]
-思わず出してしまいそうになる。[pcms]
+When she whispers in that sweet voice, I almost let it out[r]
+unintentionally.[pcms]
 
 
 *5430|
 [fc]
-こんな熟練のテクニックを覚えているなんて……、[r]
-我慢できそうにない……。[pcms]
+With such skilled technique... I don't think I can hold back...[pcms]
 
 
 *5431|
 ;旧ナンバー[vo_t s="tugumi0357"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0045"]
-[ns]丞実[nse]
-「初めてのときはね……紺色の水着を着て……。[r]
-　シャワーを浴びながら、立ちバックしちゃったの」[pcms]
+[ns]Tsugumi[nse]
+"The first time, I was wearing a navy blue swimsuit... We did it[r]
+standing from behind while showering."[pcms]
 
 
 *5432|
 [fc]
-シャワー室の立ちバック……しかも水着のオプション付き……。[r]
-俺の青春には縁のなかったものだ。[pcms]
+Standing doggy style in the shower room... and with the swimsuit[r]
+option... That's something I never experienced in my youth.[pcms]
 
 
 *5433|
 ;旧ナンバー[vo_t s="tugumi0358"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0046"]
-[ns]丞実[nse]
-「すごく気持ちよくて興奮しちゃった……、[r]
-　初めては痛いっていうけど、あたしは痛くなかったよ」[pcms]
+[ns]Tsugumi[nse]
+"It felt so good and exciting... People say the first time hurts, but[r]
+it didn't hurt for me."[pcms]
 
 
 *5434|
 [fc]
-初めてなのに痛くないって、[r]
-どんだけエロい身体してるんだよ。[pcms]
+Not hurting on her first time... just how erotic is her body?[pcms]
 
 
 *5435|
 [fc]
-丞実の指の感触と、俺の手に伝わってくる熱いぬるぬるで、[r]
-頭がおかしくなってしまいそうだった。[pcms]
+The sensation of Tsugumi's fingers and the hot slipperiness[r]
+transmitted to my hand were enough to drive me crazy.[pcms]
 
 
 *5436|
 ;旧ナンバー[vo_t s="tugumi0359"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0047"]
-[ns]丞実[nse]
-「お腹の奥の方まで、オチンチンに抉られる感覚がすごかった。[r]
-　どんなに締め付けても押し返してくるくらい堅くて、[r]
-　絶対に逆らえないって、してる間は思っちゃうの……」[pcms]
+[ns]Tsugumi[nse]
+"The feeling of being gouged deep inside my belly by a cock was[r]
+amazing. No matter how tight I squeezed, it was so hard it pushed[r]
+back, and during it, I felt like I couldn't resist at all..."[pcms]
 
 
 *5437|
 [fc]
-[ns]克己[nse]
-「そ、そんな……くううっ……」[pcms]
+[ns]Kazumi[nse]
+"Such things... guuuh..."[pcms]
 
 
 *5438|
 [fc]
-まるで、俺が丞実と初体験をしているように思えてきて、[r]
-腰の奥から熱いものがせり上がってくる。[pcms]
+It feels as if I'm the one having my first experience with Tsugumi,[r]
+and something hot surges up from deep within my hips.[pcms]
 
 
 *5439|
 ;旧ナンバー[vo_t s="tugumi0360"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0048"]
-[ns]丞実[nse]
-「それでね、最後はお尻に精液かけられちゃった。[r]
-　熱くて白い精液、あたしのお尻にどびゅって……いっぱい」[pcms]
+[ns]Tsugumi[nse]
+"And then, in the end, he came on my butt. The hot white cum just[r]
+splattered all over my butt..."[pcms]
 
 
 *5440|
 [fc]
-[ns]克己[nse]
-「うううううっ……！」[pcms]
+[ns]Kazumi[nse]
+"Uuuuuuh...!"[pcms]
 
 
 *5441|
 ;旧ナンバー[vo_t s="tugumi0361"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0049"]
-[ns]丞実[nse]
-「兄ちゃんも、いっぱい出していいよ」[pcms]
+[ns]Tsugumi[nse]
+"Big brother, you can let out a lot too."[pcms]
 
 
 *5442|
 [fc]
-[ns]克己[nse]
-「はうあああっ！　くううぅううっ！　がああぁぁっ！」[pcms]
+[ns]Kazumi[nse]
+"Hauaaaah! Guuuuuh! Gaaaah!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -839,22 +819,21 @@
 
 *5443|
 [fc]
-俺は、自分でもよくわからないほどの興奮に包まれて、[r]
-熱いマグマを放出していた。[pcms]
+I was enveloped in an excitement I couldn't quite understand and[r]
+released a torrent of hot magma.[pcms]
 
 
 *5444|
 [fc]
-丞実の話に合わせるように、[r]
-そのタイミングで自然に解き放ってしまう。[pcms]
+As if in sync with Tsugumi's story, I naturally let go at that moment.[pcms]
 
 
 *5445|
 ;旧ナンバー[vo_t s="tugumi0362"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0050"]
-[ns]丞実[nse]
-「あは……いっぱい出てる、こんなにいっぱい、[r]
-　気持ちいい？　兄ちゃん……」[pcms]
+[ns]Tsugumi[nse]
+"Aha... you're letting out so much, this much... Does it feel good?[r]
+Big brother..."[pcms]
 
 ;;//■イベントCG　tug_H001
 [evcg storage="tug_H001i"][trans_c cross time=500]
@@ -862,88 +841,84 @@
 
 *5446|
 [fc]
-丞実は喜びながら、射精中のチンコを更に促すように、[r]
-精液を搾り取るような動きで擦り立ててきた。[pcms]
+Tsugumi joyfully continues to stroke my ejaculating cock as if coaxing[r]
+out more semen with her movements.[pcms]
 
 
 *5447|
 [fc]
-[ns]克己[nse]
-「ううううっ、ふうううっ……」[pcms]
+[ns]Kazumi[nse]
+"Uuuuuh, fuuuuh..."[pcms]
 
 
 *5448|
 [fc]
-丞実でイッてしまった。[r]
-妹で、最高に興奮しながら……。[pcms]
+I came with Tsugumi. With my sister, and in the utmost excitement...[pcms]
 
 
 *5449|
 ;旧ナンバー[vo_t s="tugumi0363"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0051"]
-[ns]丞実[nse]
-「溜まってたんだね？　こんなにいっぱい出たもんね」[pcms]
+[ns]Tsugumi[nse]
+"You were really pent up, huh? You came so much."[pcms]
 
 
 *5450|
 [fc]
-[ns]克己[nse]
-「こ、これは……なんていうか……」[pcms]
+[ns]Kazumi[nse]
+"Th-this is... well, you see..."[pcms]
 
 
 *5451|
 [fc]
-俺はしどろもどろになりながら、必死に言い訳を考えていた。[r]
-妹と、こんなことをしてしまった言い訳を……。[pcms]
+I was stumbling over my words, desperately trying to think of an[r]
+excuse. An excuse for doing such things with my sister...[pcms]
 
 
 *5452|
 ;旧ナンバー[vo_t s="tugumi0364"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0052"]
-[ns]丞実[nse]
-「兄ちゃんは、童貞なの？」[pcms]
+[ns]Tsugumi[nse]
+"Big brother, are you a virgin?"[pcms]
 
 
 *5453|
 [fc]
-[ns]克己[nse]
-「なっ、くっ……」[pcms]
+[ns]Kazumi[nse]
+"Wha-, ugh..."[pcms]
 
 
 *5454|
 [fc]
-俺は、恥辱で顔を真っ赤にしながら、[r]
-ただ顔を伏せることしかできない。[pcms]
+I could only hang my head in shame, my face burning red, unable to[r]
+look up.[pcms]
 
 
 *5455|
 [fc]
-妹の赤裸々な告白を聞いて、[r]
-自分がしているみたいな気分になりながら、[r]
-実は童貞だと気づかれていたなんて……。[pcms]
+Listening to my sister's frank confession, feeling as if I was the one[r]
+doing it, and now to be realized as a virgin...[pcms]
 
 
 *5456|
 ;旧ナンバー[vo_t s="tugumi0365"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0053"]
-[ns]丞実[nse]
-「キャハハっ！　キモッ！！[r]
-　いい年コイて、マジ童貞だったの？　ふふっ……童貞って、[r]
-　……成人式過ぎたら消えるんじゃないの？」[pcms]
+[ns]Tsugumi[nse]
+"Kyahaha! Gross!! You're really a virgin at your age? Fufu... I[r]
+thought virginity disappeared after the coming-of-age ceremony?"[pcms]
 
 
 *5457|
 [fc]
-[ns]克己[nse]
-「くそっ、どうせ俺は童貞ですよ！[r]
-　笑いたければ笑え！」[pcms]
+[ns]Kazumi[nse]
+"Damn it, yes, I'm a virgin! Laugh if you want to laugh!"[pcms]
 
 
 *5458|
 ;旧ナンバー[vo_t s="tugumi0366"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0054"]
-[ns]丞実[nse]
-「ふふふっ……兄ちゃん、かわいい……」[pcms]
+[ns]Tsugumi[nse]
+"Fufufu... Big brother, you're so cute..."[pcms]
 
 ;;//se_sex02.ogg(LOOP)
 [se_HLoop buf2 storage="se_sex02"]
@@ -951,40 +926,39 @@
 
 *5459|
 [fc]
-勃起が収まらない俺の股間を、[r]
-丞実がねちこく撫で回しつづけている。[pcms]
+Tsugumi continues to stroke my still-erect cock with a teasing touch.[pcms]
 
 
 *5460|
 [fc]
-それが気持ちよくて、俺は丞実を振り払えないでいた。[pcms]
+It feels so good that I can't bring myself to push her away.[pcms]
 
 
 *5461|
 ;旧ナンバー[vo_t s="tugumi0367"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0055"]
-[ns]丞実[nse]
-「妹の手コキで射精して、まだこんなにしてるなんて……、[r]
-　兄ちゃんは変態さんだよね」[pcms]
+[ns]Tsugumi[nse]
+"To ejaculate from your sister's handjob and still be this hard... Big[r]
+brother, you're such a pervert."[pcms]
 
 
 *5462|
 [fc]
-[ns]克己[nse]
-「ああそうさ、俺は童貞の変態さんなんだよ！」[pcms]
+[ns]Kazumi[nse]
+"Yeah, that's right, I'm a virgin pervert!"[pcms]
 
 
 *5463|
 [fc]
-自分の中で、羞恥と興奮がない交ぜになり、[r]
-もうどうしていいのか、わからなくなってしまう。[pcms]
+Inside me, shame and excitement are mixing together, and I no longer[r]
+know what to do with myself.[pcms]
 
 
 *5464|
 ;旧ナンバー[vo_t s="tugumi0368"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0056"]
-[ns]丞実[nse]
-「大丈夫だよ兄ちゃん……あたしに任せて……？」[pcms]
+[ns]Tsugumi[nse]
+"It's okay, big brother... Leave it to me...?"[pcms]
 
 ;;//seフェード停止###[stop_se buf1]
 [stop_seHLoop buf2]
@@ -995,22 +969,21 @@
 
 *5465|
 [fc]
-丞実は身に付けていた白い水着を、[r]
-肩から脱ぐようにしておっぱい出す。[pcms]
+Tsugumi slips off the white swimsuit she was wearing from her[r]
+shoulders, exposing her breasts.[pcms]
 
 
 *5466|
 [fc]
-ぽろんと、[r]
-坂道を転がるみたいに零れ出てきた二つのふくらみに、[r]
-俺の目は釘付けになってしまった。[pcms]
+Her breasts spill out as if tumbling down a hill, and my eyes are[r]
+glued to the two mounds.[pcms]
 
 
 *5467|
 ;旧ナンバー[vo_t s="tugumi0369"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0057"]
-[ns]丞実[nse]
-「兄ちゃんは、こういうの知ってる……？」[pcms]
+[ns]Tsugumi[nse]
+"Big brother, do you know about this...?"[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -1029,8 +1002,8 @@
 
 *5468|
 [fc]
-[ns]克己[nse]
-「あううううっ！」[pcms]
+[ns]Kazumi[nse]
+"Auuuuuh!"[pcms]
 
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002b"][trans_c cross time=500]
@@ -1038,14 +1011,14 @@
 
 *5469|
 [fc]
-丞実は、大きなふくらみを俺の前に差し出すと、[r]
-そのままチンコを挟んで、先端にキスしはじめた。[pcms]
+Tsugumi presents her large breasts in front of me and sandwiches my[r]
+cock between them, starting to kiss the tip.[pcms]
 
 
 *5470|
 [fc]
-出したばかりで敏感になっているのか、[r]
-疲れを感じさせない勢いで、俺の物が勢いよく上を向いている。[pcms]
+Perhaps because it's just been released and is sensitive, my member[r]
+points upwards with unabated vigor.[pcms]
 
 ;;//se_sex02.ogg(LOOP)
 [se_HLoop buf1 storage="se_sex02"]
@@ -1057,42 +1030,40 @@
 *5471|
 ;旧ナンバー[vo_t s="tugumi0370"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0058"]
-[ns]丞実[nse]
-「うふふっ、兄ちゃんって、かわいいなぁ……んちゅ……」[pcms]
+[ns]Tsugumi[nse]
+"Ufufu, big brother, you're so cute... nchu..."[pcms]
 
 
 *5472|
 [fc]
-[ns]克己[nse]
-「こ、こんなの、お前……くうううっ……！」[pcms]
+[ns]Kazumi[nse]
+"Th-this kind of thing, you... guuuuh...!"[pcms]
 
 
 *5473|
 ;旧ナンバー[vo_t s="tugumi0371"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0059"]
-[ns]丞実[nse]
-「これ、すごいでしょう？」[pcms]
+[ns]Tsugumi[nse]
+"This is amazing, isn't it?"[pcms]
 
 
 *5474|
 [fc]
-丞実は、こんないやらしいテクニックを、[r]
-さも自慢そうに微笑んで見せた。[pcms]
+Tsugumi shows off her lewd technique with a proud smile.[pcms]
 
 
 *5475|
 [fc]
-妹なのに……俺は丞実のことを、[r]
-前と同じ目では見られなくなっている。[pcms]
+Despite being my sister... I can no longer look at Tsugumi the same[r]
+way as before.[pcms]
 
 
 *5476|
 ;旧ナンバー[vo_t s="tugumi0372"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0060"]
-[ns]丞実[nse]
-「うん……んちゅ……これね、[r]
-　三上先輩に教えてもらったんだ……これをしたらね……、[r]
-　んむっ……石見君、あっという間に射精しちゃったよ」[pcms]
+[ns]Tsugumi[nse]
+"Yeah... nchu... I learned this from Mikami-senpai... When I did this[r]
+to him... mmm... Ishimi-kun came in no time."[pcms]
 
 ;mmmm メインキャラ４人のBGVはファイルが変わった時だけ指定して、途中のマイク位置の変更はマクロに任せる
 [bgv_t s="R_tug_BIN0072" "旧tugumi0384"]
@@ -1100,22 +1071,22 @@
 
 *5477|
 [fc]
-[ns]克己[nse]
-「三上先輩！？　それ誰だよ！」[pcms]
+[ns]Kazumi[nse]
+"Mikami-senpai!? Who's that!?"[pcms]
 
 
 *5478|
 [fc]
-俺は、丞実の口から出てきた知らない男の名前に驚いていた。[r]
-まさか、そいつとも関係してたって言うのか……？[pcms]
+I was shocked by the unfamiliar male name that came out of Tsugumi's[r]
+mouth. Could it be that she's been involved with him too...?[pcms]
 
 
 *5479|
 ;旧ナンバー[vo_t s="tugumi0373"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0061"]
-[ns]丞実[nse]
-「三上先輩はＯＢで、水泳部のコーチしてた人……んちゅ……、[r]
-　兄ちゃんと同い年なんだよ？　しかも結構イケメンだし」[pcms]
+[ns]Tsugumi[nse]
+"Mikami-senpai is an OB who used to coach the swimming club... nchu...[r]
+He's the same age as you, big brother. And he's quite handsome too."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t s="tugumi0384"]
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002e"][trans_c cross time=500]
@@ -1123,21 +1094,21 @@
 
 *5480|
 [fc]
-[ns]克己[nse]
-「うううっ……くうぅああぁっ……」[pcms]
+[ns]Kazumi[nse]
+"Uuuuh... kuuuahhhh!"[pcms]
 
 
 *5481|
 [fc]
-丞実は、自分の男遍歴を語りながらも、[r]
-手と口を休めることなくパイズリフェラを続けていた。[pcms]
+While talking about her history with men, Tsugumi continued her[r]
+paizuri blowjob without resting her hands or mouth.[pcms]
 
 
 *5482|
 [fc]
-そのテクニックは、童貞の俺からしたらプロそのもの。[r]
-今までの男達に、どれほど仕込まれてきたのか、[r]
-想像するだけでも勃起がおさまらない。[pcms]
+Her technique was professional from the perspective of a virgin like[r]
+me. Just imagining how much she had been trained by her previous men[r]
+made it impossible for my erection to subside.[pcms]
 
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002d"][trans_c cross time=500]
@@ -1146,9 +1117,9 @@
 *5483|
 ;旧ナンバー[vo_t s="tugumi0374"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0062"]
-[ns]丞実[nse]
-「石見君と秋に別れちゃったんだけど……んむうぅ……、[r]
-　身体は疼くし……じゅるっ……人肌恋しくなってたから……」[pcms]
+[ns]Tsugumi[nse]
+"I broke up with Ishimi-kun in the fall but... mmmuuu... My body was[r]
+aching and... slurp... I was longing for human warmth..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t s="tugumi0384"]
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002e"][trans_c cross time=500]
@@ -1156,20 +1127,20 @@
 
 *5484|
 [fc]
-弾力のあるおっぱいに挟まれたチンコが、[r]
-右から左から角度を付けた舌の攻撃にさらされていた。[pcms]
+My cock was trapped between her elastic breasts, subjected to an[r]
+assault by her tongue from every angle.[pcms]
 
 
 *5485|
 [fc]
-そして、俺の先っぽから滴がこぼれると、[r]
-唇を寄せてきてすっぽりと覆い尽くし、舐め取ってしまう。[pcms]
+And when a drop spilled from my tip, she brought her lips close and[r]
+covered it completely, licking it off.[pcms]
 
 
 *5486|
 [fc]
-[ns]克己[nse]
-「つ、丞実……あああぁぁあぁっ……」[pcms]
+[ns]Kazumi[nse]
+"Ts-Tsugumi... aaaaahhhhh!"[pcms]
 
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002d"][trans_c cross time=500]
@@ -1178,50 +1149,48 @@
 *5487|
 ;旧ナンバー[vo_t s="tugumi0375"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0063"]
-[ns]丞実[nse]
-「ちゅっ……んむっ……その先輩ね、私の身体を、[r]
-　いやらしく見てるのに気づいていたの……」[pcms]
+[ns]Tsugumi[nse]
+"Chu... nmuu... That senpai, he noticed he was looking at my body[r]
+lewdly..."[pcms]
 
 
 *5488|
 [fc]
-[ns]克己[nse]
-「も、もういい……それ以上は……」[pcms]
+[ns]Kazumi[nse]
+"That's enough... don't say any more..."[pcms]
 
 
 *5489|
 ;旧ナンバー[vo_t s="tugumi0376"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0064"]
-[ns]丞実[nse]
-「聞いて……兄ちゃんに聞いて欲しいの……」[pcms]
+[ns]Tsugumi[nse]
+"Listen... I want you to listen, big brother..."[pcms]
 
 
 *5490|
 [fc]
-ど、どうして……俺はショックと興奮で、[r]
-頭がどうにかなってしまいそうなのに……。[pcms]
+Why... Despite the shock and excitement making my head spin...[pcms]
 
 
 *5491|
 ;旧ナンバー[vo_t s="tugumi0377"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0065"]
-[ns]丞実[nse]
-「あむうぅ……だからね、ちょっと誘惑したら、[r]
-　その日のうちに部屋に誘われて……んくっ……、[r]
-　メチャクチャにされちゃった……」[pcms]
+[ns]Tsugumi[nse]
+"Ammuu... So, when I tempted him a little, I was invited to his room[r]
+that very day... ngh... and he made a mess of me..."[pcms]
 
 
 *5492|
 [fc]
-[ns]克己[nse]
-「め、メチャクチャ……？」[pcms]
+[ns]Kazumi[nse]
+"Made a mess...?"[pcms]
 
 
 *5493|
 ;旧ナンバー[vo_t s="tugumi0378"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0066"]
-[ns]丞実[nse]
-「男の人って……んふっ……ケダモノだよね？」[pcms]
+[ns]Tsugumi[nse]
+"Men are... nhuff... beasts, aren't they?"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t s="tugumi0384"]
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002e"][trans_c cross time=500]
@@ -1229,14 +1198,14 @@
 
 *5494|
 [fc]
-そんなケダモノの相手を、今までずっとしてきたっていうのか、[r]
-このテクニックはそのために覚えたものだってのか……。[pcms]
+So she's been dealing with such beasts all this time, and she learned[r]
+these techniques because of them...[pcms]
 
 
 *5495|
 [fc]
-俺は、なんだか妹を寝取られたみたいな気分になりながら、[r]
-酷く興奮していることに気が付いていた。[pcms]
+I realized I was terribly excited, feeling as though my sister had[r]
+been taken away from me.[pcms]
 
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002d"][trans_c cross time=500]
@@ -1245,9 +1214,9 @@
 *5496|
 ;旧ナンバー[vo_t s="tugumi0379"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0067"]
-[ns]丞実[nse]
-「石見君は、童貞だったからだと思ったのに……、[r]
-　はんむうっ……三上先輩も……すごく激しくて……」[pcms]
+[ns]Tsugumi[nse]
+"I thought it was because Ishimi-kun was a virgin... hmmmuu... but[r]
+Mikami-senpai was also... very intense..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t s="tugumi0384"]
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002e"][trans_c cross time=500]
@@ -1255,25 +1224,25 @@
 
 *5497|
 [fc]
-[ns]克己[nse]
-「あああっ……くぁっ……や、やべぇ……」[pcms]
+[ns]Kazumi[nse]
+"Aaaaah... kuaah... damn, this is bad..."[pcms]
 
 
 *5498|
 [fc]
-俺は、さっき出したばかりだというのに、[r]
-またチンコが射精の準備を始めていることに焦ってしまう。[pcms]
+I had just ejaculated a while ago, yet my cock was already preparing[r]
+to ejaculate again.[pcms]
 
 
 *5499|
 [fc]
-こんな気持ちになりながら精液をぶっ放そうとしているなんて、[r]
-俺はどこか壊れてしまったんじゃないか？[pcms]
+As I'm about to let out my semen while feeling like this, have I gone[r]
+mad somewhere?[pcms]
 
 
 *5500|
 [fc]
-混乱した頭が、ただただ快楽を求めて疼きつづけていた。[pcms]
+My confused mind continued to throb, seeking only pleasure.[pcms]
 
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002d"][trans_c cross time=500]
@@ -1282,16 +1251,16 @@
 *5501|
 ;旧ナンバー[vo_t s="tugumi0380"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0068"]
-[ns]丞実[nse]
-「三上先輩ね……んちゅうぅ……その日、２、３時間で……、[r]
-　あたしの身体の色んなところ使ってね……んふぅ……、[r]
-　５回も射精したんだよ……」[pcms]
+[ns]Tsugumi[nse]
+"Mikami-senpai... nchu... in just two or three hours that day...[r]
+nfu... he used various parts of my body and... ejaculated five[r]
+times..."[pcms]
 
 
 *5502|
 [fc]
-[ns]克己[nse]
-「くそっ……こんな……ああぁぁぁっ……」[pcms]
+[ns]Kazumi[nse]
+"Damn it... this is... aaaaahhhhh!"[pcms]
 
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002d"][trans_c cross time=500]
@@ -1300,10 +1269,9 @@
 *5503|
 ;旧ナンバー[vo_t s="tugumi0381"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0069"]
-[ns]丞実[nse]
-「先輩は、中に入れるよりも、[r]
-　パイズリとかフェラが大好きで……、[r]
-　いっぱい仕込まれちゃった……んじゅうっ……」[pcms]
+[ns]Tsugumi[nse]
+"Senpai preferred paizuri and blowjobs over putting it inside... and[r]
+he taught me a lot... njyuu..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t s="tugumi0384"]
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002e"][trans_c cross time=500]
@@ -1311,13 +1279,13 @@
 
 *5504|
 [fc]
-そのテクニックで、今は俺が喜んでいる。[pcms]
+And now, with those techniques, I am the one who is pleased.[pcms]
 
 
 *5505|
 [fc]
-兄なんて立場で文句を言えた義理はないんだけど……、[r]
-この気持ちよさだけは本物だった。[pcms]
+I have no right to complain about being her brother... but this[r]
+pleasure is the real deal.[pcms]
 
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002d"][trans_c cross time=500]
@@ -1326,16 +1294,16 @@
 *5506|
 ;旧ナンバー[vo_t s="tugumi0382"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0070"]
-[ns]丞実[nse]
-「あむぅ……練習中の校内とか、車の中とか……、[r]
-　セックスする前も終わった後も……んちゅぅ……、[r]
-　必ずお掃除させられたの……だから、上手でしょ……？」[pcms]
+[ns]Tsugumi[nse]
+"Ammu... during practice at school, in the car... before and after[r]
+sex... nchu... I was always made to clean up... That's why I'm good at[r]
+it, right...?"[pcms]
 
 
 *5507|
 [fc]
-[ns]克己[nse]
-「くううっ……で、出ちまう……ぐあああっ！」[pcms]
+[ns]Kazumi[nse]
+"Kuuuh... I'm gonna cum... guaaaah!"[pcms]
 
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002d"][trans_c cross time=500]
@@ -1344,8 +1312,8 @@
 *5508|
 ;旧ナンバー[vo_t s="tugumi0383"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0071"]
-[ns]丞実[nse]
-「先っぽまで、すごく堅くなってる……出していいんだよ……？」[pcms]
+[ns]Tsugumi[nse]
+"It's gotten so hard at the tip... you can let it out, okay...?"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t s="tugumi0384"]
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002e"][trans_c cross time=500]
@@ -1353,20 +1321,20 @@
 
 *5509|
 [fc]
-丞実は話をやめると、俺の亀頭をぱくっと咥えて口内におさめ、[r]
-舌を絡みつかせるように舐め回してきた。[pcms]
+As Tsugumi stopped talking, she took my glans into her mouth and[r]
+wrapped her tongue around it, licking all over.[pcms]
 
 
 *5510|
 [fc]
-[ns]克己[nse]
-「ば、馬鹿、そんなにしたら……あああぁぁっ！」[pcms]
+[ns]Kazumi[nse]
+"Idiot, if you do that much more... aaaaahhh!"[pcms]
 
 
 *5511|
 [fc]
-俺の反応を見て気分を良くしたのか、[r]
-少し微笑んだ丞実は、更にチンコに吸い付いてくる。[pcms]
+Seeing my reaction and seemingly pleased by it, Tsugumi smiled[r]
+slightly and sucked even harder on my cock.[pcms]
 
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002d"][trans_c cross time=500]
@@ -1375,9 +1343,8 @@
 *5512|
 ;旧ナンバー[vo_t s="tugumi0384"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0072"]
-[ns]丞実[nse]
-「んっ……んっんっ……んっんっ……じゅっ……、[r]
-　うくっ……んっ……んちゅっ」[pcms]
+[ns]Tsugumi[nse]
+"Nn... nn-nn-nn... juu... muku... nn... nchu"[pcms]
 ;[bgv_t s="R_tug_BIN0072" "旧tugumi0384"]
 
 ;;//■イベントCG　tug_H002
@@ -1386,20 +1353,20 @@
 
 *5513|
 [fc]
-[ns]克己[nse]
-「や、やばいって……それ以上……くううっ……」[pcms]
+[ns]Kazumi[nse]
+"It's dangerous... if you do any more than that... kuuuh..."[pcms]
 
 
 *5514|
 [fc]
-パイズリで左右から圧迫されたチンコが、[r]
-胸の谷間から顔を出している。[pcms]
+My cock, compressed from left and right by paizuri, was peeking out[r]
+from between her breasts.[pcms]
 
 
 *5515|
 [fc]
-そこを、狙い撃ちするかのように、[r]
-丞実が口をかぶせてくるからたまらない。[pcms]
+It was unbearable as Tsugumi targeted it as if aiming and covered it[r]
+with her mouth.[pcms]
 
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002d"][trans_c cross time=500]
@@ -1408,9 +1375,9 @@
 *5516|
 ;旧ナンバー[vo_t s="tugumi0385"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0073"]
-[ns]丞実[nse]
-「兄ちゃんも好きなんでしょ……？[r]
-　んうっ……んっ……んんっ……んっ……」[pcms]
+[ns]Tsugumi[nse]
+"You like it too, don't you, big brother...? Nuhh... nn... nnnn...[r]
+nn..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t s="tugumi0384"]
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002e"][trans_c cross time=500]
@@ -1418,15 +1385,14 @@
 
 *5517|
 [fc]
-パイズリとフェラのダブル責めに、[r]
-聞きたくなかった身内の体験話で、[r]
-俺は最高に盛り上がっていた。[pcms]
+Between the double assault of paizuri and blowjob, and the unwanted[r]
+stories of a family member's experiences, I was incredibly turned on.[pcms]
 
 
 *5518|
 [fc]
-身体が自分のものではなくなったみたいに、[r]
-快感を求めて疼いている。[pcms]
+My body felt like it wasn't my own anymore, throbbing in search of[r]
+pleasure.[pcms]
 
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002d"][trans_c cross time=500]
@@ -1435,9 +1401,9 @@
 *5519|
 ;旧ナンバー[vo_t s="tugumi0386"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0074"]
-[ns]丞実[nse]
-「いいよ……んちゅ……兄ちゃんの精液……、[r]
-　ビュービュー出していいよ……」[pcms]
+[ns]Tsugumi[nse]
+"It's okay... nchu... you can let out your semen, big brother... shoot[r]
+it out..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t s="tugumi0384"]
 
 ;;//■イベントCG　tug_H002
@@ -1446,8 +1412,8 @@
 
 *5520|
 [fc]
-[ns]克己[nse]
-「くそっ……出るっ……出ちまう……！」[pcms]
+[ns]Kazumi[nse]
+"Damn it... it's coming out... I'm gonna cum...!"[pcms]
 
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002f"][trans_c cross time=500]
@@ -1456,15 +1422,15 @@
 *5521|
 ;旧ナンバー[vo_t s="tugumi0387"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0075"]
-[ns]丞実[nse]
-「じゅぼっ……んっ……んちゅちゅっ……んちゅっ……」[pcms]
+[ns]Tsugumi[nse]
+"Juboo... nn... nchuchu... nchu..."[pcms]
 ;いらなくね？　[bgv_t s="R_tug_BIN0075" "旧tugumi0387"]
 
 
 *5522|
 [fc]
-[ns]克己[nse]
-「くおおおぉぉっ！　丞実ぃぃぃぃっ！」[pcms]
+[ns]Kazumi[nse]
+"Kuoooooh! Tsugumiiiiii!"[pcms]
 
 [bgvstop t]
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
@@ -1478,21 +1444,21 @@
 
 *5523|
 [fc]
-やわらかい胸に挟まれたチンコから、[r]
-押し出されるみたいに精液が飛び出ていった。[pcms]
+The semen burst forth from my cock, sandwiched between her soft[r]
+breasts.[pcms]
 
 
 *5524|
 [fc]
-丞実は、音を立てて亀頭から唇を離すと、[r]
-シャワーを浴びるみたいに吹き出る精液に顔を突っ込んでいく。[pcms]
+Tsugumi made a noise as she released her lips from the glans and dove[r]
+her face into the ejaculate spraying like a shower.[pcms]
 
 
 *5525|
 ;旧ナンバー[vo_t s="tugumi0388"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0076"]
-[ns]丞実[nse]
-「あふっ、すごい、あぁぁっ、んううっ！」[pcms]
+[ns]Tsugumi[nse]
+"Ahff, amazing, ahhh, nuuuh!"[pcms]
 
 ;;//■イベントCG　tug_H002
 [evcg storage="tug_H002h"][trans_c cross time=1000]
@@ -1500,35 +1466,36 @@
 
 *5526|
 [fc]
-その白いしぶきを顔いっぱいで受け止めている丞実は、[r]
-うっとりとした笑顔で、身体を白く汚していった。[pcms]
+Tsugumi, with her face full of white splashes, smiled blissfully as[r]
+her body became covered in white.[pcms]
 
 
 *5527|
 ;旧ナンバー[vo_t s="tugumi0389"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0077"]
-[ns]丞実[nse]
-「熱くて、濃くて、すごい匂い……」[pcms]
+[ns]Tsugumi[nse]
+"It's hot, thick, and has such a strong smell..."[pcms]
 [bgv_t to1 "旧tugumiZ0006"]
 
 
 *5528|
 [fc]
-断続的な射精で、胸まで垂れた精液に彩られながら、[r]
-舌なめずりして恍惚の表情を浮かべる。[pcms]
+With intermittent ejaculation, she was adorned with semen dripping[r]
+down to her breasts, licking her lips with an ecstatic expression.[pcms]
 
 
 *5529|
 [fc]
-[ns]克己[nse]
-「ああっ……はぁっ……くそっ……」[pcms]
+[ns]Kazumi[nse]
+"Aaah... haaah... damn it..."[pcms]
 
 
 *5530|
 ;旧ナンバー[vo_t s="tugumi0390"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0078"]
-[ns]丞実[nse]
-「兄ちゃんの美味しい……濃くていい味だよ？」[pcms]
+[ns]Tsugumi[nse]
+"Big brother's cum is delicious... it has a rich and good taste,[r]
+doesn't it?"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to1 "旧tugumiZ0006"]
 ;mmmm 不要な気がするけど元命令あるしなぁ でも止めとくか
 [bgvstop t]
@@ -1536,218 +1503,217 @@
 
 *5531|
 [fc]
-[ns]克己[nse]
-「くっ……」[pcms]
+[ns]Kazumi[nse]
+"Kuh..."[pcms]
 
 
 *5532|
 [fc]
-精液の味が、美味しいかどうかわかるのかよ……、[r]
-いったいどれだけ咥えてきたんだ……。[pcms]
+Can you even tell if semen tastes good... How many times have you[r]
+sucked it...?[pcms]
 
 
 *5533|
 ;旧ナンバー[vo_t s="tugumi0391"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0079"]
-[ns]丞実[nse]
-「やっぱり兄妹だから、ぴったり合うのかな？」[pcms]
+[ns]Tsugumi[nse]
+"Maybe it's because we're siblings that we match so perfectly?"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to1 "旧tugumiZ0006"]
 
 
 *5534|
 [fc]
-[ns]克己[nse]
-「もう、やめてくれ……」[pcms]
+[ns]Kazumi[nse]
+"Please, just stop..."[pcms]
 
 
 *5535|
 [fc]
-俺の懇願にも、丞実は笑顔を絶やすことなく、[r]
-怪しく微笑んでみせる。[pcms]
+Despite my pleading, Tsugumi never stopped smiling, giving me a[r]
+mischievous grin.[pcms]
 
 
 *5536|
 ;旧ナンバー[vo_t s="tugumi0392"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0080"]
-[ns]丞実[nse]
-「そんなこと言って……まだ、ガチガチじゃん！」[pcms]
+[ns]Tsugumi[nse]
+"You say that, but you're still hard as a rock!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to1 "旧tugumiZ0006"]
 
 
 *5537|
 [fc]
-[ns]克己[nse]
-「うおおおおっ！」[pcms]
+[ns]Kazumi[nse]
+"Uoooooh!"[pcms]
 
 
 *5538|
 [fc]
-丞実は、おっぱいで挟んだチンコを、[r]
-ぎゅっと絞り込むように挟んでくる。[pcms]
+Tsugumi squeezed my cock between her breasts, tightening her grip as[r]
+if milking it.[pcms]
 
 
 *5539|
 [fc]
-俺は、その気持ちよさに、思わず声を上げてしまっていた。[pcms]
+I couldn't help but raise my voice from the pleasure.[pcms]
 
 
 *5540|
 ;旧ナンバー[vo_t s="tugumi0393"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0081"]
-[ns]丞実[nse]
-「みんなそうだよね～？　あたしが童貞もらってあげた、[r]
-　黒田君と牛木君も、もう無理とか言ってたけど、[r]
-　チンコガチガチだったもん」[pcms]
+[ns]Tsugumi[nse]
+"It's the same with everyone, right? Kuroda-kun and Ushiki-kun, who I[r]
+took the virginity of, said they couldn't anymore, but their cocks[r]
+were rock hard."[pcms]
 
 
 *5541|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *5542|
 ;旧ナンバー[vo_t s="tugumi0394"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0082"]
-[ns]丞実[nse]
-「無理って言ってから、結局、二人で８回も、[r]
-　私の身体で射精してたんだよ？」[pcms]
+[ns]Tsugumi[nse]
+"After saying they couldn't, in the end, they ejaculated 8 times using[r]
+my body, you know?"[pcms]
 
 
 *5543|
 [fc]
-[ns]克己[nse]
-「また、聞いたことない名前なんだけど……、[r]
-　その二人って誰……？」[pcms]
+[ns]Kazumi[nse]
+"Again, who are these people I've never heard of... Who are those[r]
+two...?"[pcms]
 
 
 *5544|
 [fc]
-俺はもう、あきらめにも似た心境で、[r]
-丞実の関係した男の名前を聞いてみた。[pcms]
+I asked about the names of the men Tsugumi had been involved with,[r]
+feeling almost resigned.[pcms]
 
 
 *5545|
 ;旧ナンバー[vo_t s="tugumi0395"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0083"]
-[ns]丞実[nse]
-「部活の後輩。私と三上先輩が更衣室のベンチで[r]
-　セックスしてたの見ちゃったみたいで……、[r]
-　部活の最終日にお願いしてきたの」[pcms]
+[ns]Tsugumi[nse]
+"They're juniors from the club. It seems they saw me and Mikami-senpai[r]
+having sex on the changing room bench... They came to me on the last[r]
+day of the club activities asking for a favor."[pcms]
 
 
 *5546|
 [fc]
-[ns]克己[nse]
-「お願い……？」[pcms]
+[ns]Kazumi[nse]
+"A favor...?"[pcms]
 
 
 *5547|
 ;旧ナンバー[vo_t s="tugumi0396"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0084"]
-[ns]丞実[nse]
-「そう、やらせて……ってお願い。[r]
-　二人とも、かわいい顔してたから、黒田君の家に行って、[r]
-　水着姿で３Ｐしちゃった。スゴかったよ～？」[pcms]
+[ns]Tsugumi[nse]
+"Yeah, they begged 'please let us do it' with such cute faces. So I[r]
+went to Kuroda-kun's house and had a threesome in my swimsuit. It was[r]
+amazing~"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to1 "旧tugumiZ0006"]
 
 
 *5548|
 [fc]
-本当に楽しそうに笑う丞実を見ているうちに、[r]
-俺はまた元気を取り戻しつつあった。[pcms]
+Watching Tsugumi laugh so genuinely about it, I found myself regaining[r]
+my vigor.[pcms]
 
 
 *5549|
 [fc]
-こいつは……俺の妹はエロ娘なんだ。[pcms]
+This girl... my sister is a lewd girl.[pcms]
 
 
 *5550|
 [fc]
-ニンフォマニアとか何とか、そこまでいかなくても、[r]
-エッチ大好きな女の子なんだ。[pcms]
+She might not be a nymphomaniac or anything, but she's definitely a[r]
+girl who loves sex.[pcms]
 
 
 *5551|
-;旧ナンバー[vo_t s="tugumi0397"[r]
+;[pcms]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0085"]
-[ns]丞実[nse]
-「兄ちゃんの童貞も、あたしがもらってあげるからね？[r]
-　そうして欲しいでしょ？」[pcms]
+[ns]Tsugumi[nse]
+"I'll take your virginity too, big brother. You want that, don't you?"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to1 "旧tugumiZ0006"]
 
 
 *5552|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *5553|
 [fc]
-何かが間違っている……間違っているんだけど……、[r]
-俺はその誘惑に抗いきれなかった。[pcms]
+Something is wrong... it's wrong but... I couldn't resist the[r]
+temptation.[pcms]
 
 
 *5554|
 [fc]
-[ns]克己[nse]
-「た……頼む……」[pcms]
+[ns]Kazumi[nse]
+"P-Please..."[pcms]
 
 
 *5555|
 ;旧ナンバー[vo_t s="tugumi0398"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0086"]
-[ns]丞実[nse]
-「お願いしますでしょ？　兄ちゃん」[pcms]
+[ns]Tsugumi[nse]
+"You mean 'please', right? Big brother."[pcms]
 
 
 *5556|
 [fc]
-[ns]克己[nse]
-「くっ……お、お願いします」[pcms]
+[ns]Kazumi[nse]
+"Kuh... p-please."[pcms]
 
 
 *5557|
 ;旧ナンバー[vo_t s="tugumi0399"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0087"]
-[ns]丞実[nse]
-「ふふふっ、兄ちゃんかわいい。[r]
-　ホント、男の人ってこうなるとみんなかわいいよね」[pcms]
+[ns]Tsugumi[nse]
+"Fufufu, big brother is so cute. Really, all men become cute at times[r]
+like this."[pcms]
 
 
 *5558|
 [fc]
-丞実は、このままいくと、とんでもない女になる。[r]
-いや、もしかして俺が知らないだけで、これが普通なのかも。[pcms]
+If things continue this way, Tsugumi will become an unbelievable[r]
+woman. Or maybe, unbeknownst to me, this is normal.[pcms]
 
 
 *5559|
 ;旧ナンバー[vo_t s="tugumi0400"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0088"]
-[ns]丞実[nse]
-「でも……ちゃんと言えたから、させてあげる」[pcms]
+[ns]Tsugumi[nse]
+"But... since you asked properly, I'll let you do it."[pcms]
 
 
 *5560|
 [fc]
-[ns]克己[nse]
-「おおおおおっ！」[pcms]
+[ns]Kazumi[nse]
+"Ooooooh!"[pcms]
 
 
 *5561|
 ;旧ナンバー[vo_t s="tugumi0401"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0089"]
-[ns]丞実[nse]
-「んっ……んんっ……んっ……ふうむっ……んちゅ……」[pcms]
+[ns]Tsugumi[nse]
+"Nn... nnnn... nn... fuumm... nchu..."[pcms]
 ;mmmm いらなくね？　[bgv_t s="R_tug_BIN0089" "旧tugumi0401"]
 
 
 *5562|
 [fc]
-俺の堅さを確認するみたいに、[r]
-胸で締め上げ、舌で確認をしていく。[pcms]
+She confirmed my hardness by squeezing with her breasts and checking[r]
+with her tongue.[pcms]
 
 
 
@@ -1755,8 +1721,8 @@
 *5563|
 ;旧ナンバー[vo_t s="tugumi0402"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0090"]
-[ns]丞実[nse]
-「心配しないで任せてね？」[pcms]
+[ns]Tsugumi[nse]
+"Don't worry, just leave it to me."[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -1777,372 +1743,368 @@
 
 *5564|
 [fc]
-丞実は、俺のことを押し倒すと、[r]
-そこにまたがるような格好で乗ってきた。[pcms]
+Tsugumi pushed me down and straddled me in a position that suggested[r]
+she was about to ride.[pcms]
 
 
 *5565|
 [fc]
-いわゆる、騎乗位の姿勢だ。[pcms]
+It was the so-called cowgirl position.[pcms]
 
 
 *5566|
 ;旧ナンバー[vo_t s="tugumi0403"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0091"]
-[ns]丞実[nse]
-「ああぁ……コレ久しぶり……」[pcms]
+[ns]Tsugumi[nse]
+"Aaah... It's been a while since I've done this..."[pcms]
 [bgv_t to1 "旧tugumiZ0006"]
 
 
 *5567|
 [fc]
-丞実は、恍惚とした表情で水着の股間部分をずらしていった。[pcms]
+Tsugumi shifted the crotch of her swimsuit aside with an ecstatic[r]
+expression on her face.[pcms]
 
 
 *5568|
 [fc]
-俺は思わず、その光景に釘付けになるが、[r]
-そこに現れたのは想像していたものとは違うものだった。[pcms]
+I was involuntarily transfixed by the sight before me, but what[r]
+appeared was different from what I had imagined.[pcms]
 
 
 *5569|
 [fc]
-[ns]克己[nse]
-「まっ……しろ？　丞実、お前パイパンなのか！？」[pcms]
+[ns]Kazumi[nse]
+"Wha... white? Tsugumi, you're shaved down there!?"[pcms]
 
 
 *5570|
 ;旧ナンバー[vo_t s="tugumi0404"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0092"]
-[ns]丞実[nse]
-「そうだよ……でも、競泳やってるからじゃなくて、[r]
-　体質なの。兄ちゃん見るの久しぶりだもんね……。[r]
-　あの頃とかわらないでしょ？　ぜんぜん生えないんだよ……」[pcms]
+[ns]Tsugumi[nse]
+"That's right... But it's not because I swim competitively, it's just[r]
+my body type. It's been a while since you've seen it, right, Onii-[r]
+chan...? It hasn't changed since then, right? It just doesn't grow..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to1 "旧tugumiZ0006"]
 
 
 *5571|
 [fc]
-毛が生えていないからなのか、[r]
-あそこが妙にエロく生々しく映えて見える。[pcms]
+Perhaps because there was no hair, her pussy looked strangely erotic[r]
+and vivid.[pcms]
 
 
 *5572|
 ;旧ナンバー[vo_t s="tugumi0405"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0093"]
-[ns]丞実[nse]
-「もう、こんなに堅くして……あぁ……もったいない……」[pcms]
+[ns]Tsugumi[nse]
+"Geez, getting this hard... Ah... what a waste..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to1 "旧tugumiZ0006"]
 
 
 *5573|
 [fc]
-丞実は、濡れ濡れになっているあそこに挿入せず、[r]
-チンコを擦りつけるようにしながら、嬉しそうにしていた。[pcms]
+Tsugumi, with her soaking wet pussy, didn't insert it but rubbed my[r]
+cock against it, looking pleased.[pcms]
 
 
 *5574|
 [fc]
-入れずに焦らしているのか、待たされている俺は、[r]
-もう我慢なんか出来そうもなくて、[r]
-腰を突き上げてしまいたい衝動に駆られていた。[pcms]
+Whether she was teasing me by not inserting it or not, I couldn't[r]
+stand it any longer and felt the urge to thrust my hips up.[pcms]
 
 
 *5575|
 ;旧ナンバー[vo_t s="tugumi0406"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0094"]
-[ns]丞実[nse]
-「あぁ、もぅ……いつ以来だろう……」[pcms]
+[ns]Tsugumi[nse]
+"Ah, geez... I wonder when was the last time..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to1 "旧tugumiZ0006"]
 
 
 *5576|
 [fc]
-チンコをあそこに擦りつけながら、[r]
-楽しみで仕方ないように、丞実がソワソワしている。[pcms]
+While rubbing my cock against her pussy, Tsugumi fidgeted as if she[r]
+couldn't wait any longer.[pcms]
 
 
 *5577|
 [fc]
-いつ以来って……最近はしてなかったってことなのか……？[r]
-俺のいぶかしそうな目を見て、丞実が妖しい笑みを浮かべる。[pcms]
+When was the last time... Does that mean she hasn't done it[r]
+recently...? Seeing my puzzled look, Tsugumi gave a mischievous smile.[pcms]
 
 
 *5578|
 ;旧ナンバー[vo_t s="tugumi0407"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0095"]
-[ns]丞実[nse]
-「最後にセックスしたのはねぇ、卒業式の日だよ？」[pcms]
+[ns]Tsugumi[nse]
+"The last time I had sex was on graduation day."[pcms]
 [bgv_t to3 "旧tugumiZ0008"]
 
 
 *5579|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *5580|
 [fc]
-それって、つまり……。[r]
-半年以上も前……？[pcms]
+That means... more than half a year ago...?[pcms]
 
 
 *5581|
 [fc]
-って事は……それって……！[pcms]
+Which means... that's...![pcms]
 
 
 *5582|
 [fc]
-セックスしたくて飢えている女の子とか、[r]
-妹じゃなかったら最高なのに。[pcms]
+If she wasn't my sister and just a girl starving for sex, that would[r]
+be amazing.[pcms]
 
 
 *5583|
 ;旧ナンバー[vo_t s="tugumi0408"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0096"]
-[ns]丞実[nse]
-「石見君がね、土下座してお願いしてきたから、[r]
-　さよならセックスしてあげたの」[pcms]
+[ns]Tsugumi[nse]
+"Ishimi-kun begged me on his knees, so I gave him goodbye sex."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to3 "旧tugumiZ0008"]
 
 
 *5584|
 [fc]
-[ns]克己[nse]
-「そ、卒業式にさよならセックス……」[pcms]
+[ns]Kazumi[nse]
+"So, goodbye sex on graduation day..."[pcms]
 
 
 *5585|
 [fc]
-俺の人生には、全く存在しなかったヒストリーだ。[pcms]
+That's a history that never existed in my life.[pcms]
 
 
 *5586|
 [fc]
-丞実が妹じゃなければ、なんて思わず考えて、[r]
-すぐにそれを否定することで頭を埋めていった。[pcms]
+I couldn't help but think if Tsugumi wasn't my sister, and immediately[r]
+buried that thought by denying it.[pcms]
 
 
 *5587|
 ;旧ナンバー[vo_t s="tugumi0409"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0097"]
-[ns]丞実[nse]
-「そのときも、初めてを思い出して立ちバックでしたんだけど、[r]
-　最後は今と同じ格好で犯してあげたんだよ？」[pcms]
+[ns]Tsugumi[nse]
+"That time too, we did it standing from behind remembering our first[r]
+time, but in the end, I let him do me in the same position as now."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to3 "旧tugumiZ0008"]
 
 
 *5588|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *5589|
 [fc]
-丞実は、エロいだけじゃなくて、[r]
-女性主導のえっちが大好きだったのか……。[pcms]
+So Tsugumi not only likes erotic things but also prefers to take the[r]
+lead during sex...[pcms]
 
 
 *5590|
 [fc]
-それとも、男を犯すことに喜びを覚えてるだけとかなのか……？[pcms]
+Or maybe she just enjoys dominating men...[pcms]
 
 
 *5591|
 ;旧ナンバー[vo_t s="tugumi0410"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0098"]
-[ns]丞実[nse]
-「兄ちゃんも、犯して欲しいなら……お願いして？」[pcms]
+[ns]Tsugumi[nse]
+"If you want to be dominated, Onii-chan... please beg for it?"[pcms]
 
 
 *5592|
 [fc]
-[ns]克己[nse]
-「え……」[pcms]
+[ns]Kazumi[nse]
+"Eh..."[pcms]
 
 
 *5593|
 ;旧ナンバー[vo_t s="tugumi0411"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0099"]
-[ns]丞実[nse]
-「そう、みっともなくお願いしてくれたら、[r]
-　たくさん犯してあげるよ……」[pcms]
+[ns]Tsugumi[nse]
+"That's right, if you beg pathetically enough, I'll dominate you[r]
+lots..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to3 "旧tugumiZ0008"]
 
 
 *5594|
 [fc]
-丞実は、舌なめずりしそうな顔で妖艶に微笑み、[r]
-興奮に顔を上気させながら俺を見下ろしてくる。[pcms]
+Tsugumi licked her lips with a lecherous smile, looking down at me[r]
+with her face flushed with excitement.[pcms]
 
 
 *5595|
 [fc]
-俺はもう、下半身が言うことを聞かないところまで、[r]
-欲望が切羽詰まっていた。[pcms]
+I was at the point where my lower half wouldn't listen to me anymore,[r]
+my desires at a breaking point.[pcms]
 
 
 *5596|
 [fc]
-このままお預けなんて、死ぬより辛いことに感じてしまう。[pcms]
+Being left hanging like this felt more torturous than death itself.[pcms]
 
 
 *5597|
 [fc]
-[ns]克己[nse]
-「で、でも……」[pcms]
+[ns]Kazumi[nse]
+"But, still..."[pcms]
 
 
 *5598|
 ;旧ナンバー[vo_t s="tugumi0412"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0100"]
-[ns]丞実[nse]
-「それじゃあ、また今度にしようかなぁ……」[pcms]
+[ns]Tsugumi[nse]
+"Then maybe we should do this another time..."[pcms]
 
 
 *5599|
 [fc]
-こんな生殺しみたいなのは、もう嫌だ……。[r]
-ぷ、プライドなんか……この際捨ててしまってもいい！[pcms]
+I can't stand this kind of torture anymore... My pride... I might as[r]
+well throw it away at this point![pcms]
 
 
 *5600|
 [fc]
-[ns]克己[nse]
-「させてください！　少しでいいから入れさせてくださいっ！」[pcms]
+[ns]Kazumi[nse]
+"Please let me! Just a little bit, let me put it in!"[pcms]
 
 
 *5601|
 ;旧ナンバー[vo_t s="tugumi0413"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0101"]
-[ns]丞実[nse]
-「ふふふっ……」[pcms]
+[ns]Tsugumi[nse]
+"Fufufu..."[pcms]
 
 
 *5602|
 [fc]
-丞実は、ものすごく興奮した面もちで、[r]
-チンコをあそこに擦りつけている。[pcms]
+Tsugumi rubbed my cock against her pussy with an incredibly excited[r]
+look on her face.[pcms]
 
 
 *5603|
 [fc]
-心なしか、その動きがせわしなくなってきたように感じた。[pcms]
+I felt like her movements were becoming more frantic.[pcms]
 
 
 *5604|
 ;旧ナンバー[vo_t s="tugumi0414"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0102"]
-[ns]丞実[nse]
-「どうしようかなぁ……」[pcms]
+[ns]Tsugumi[nse]
+"What should I do..."[pcms]
 
 
 *5605|
 [fc]
-[ns]克己[nse]
-「お願いします！　セックスさせてください！[r]
-　童貞を捨てたいんですっ！」[pcms]
+[ns]Kazumi[nse]
+"Please! Let's have sex! I want to lose my virginity!"[pcms]
 
 
 *5606|
 ;旧ナンバー[vo_t s="tugumi0415"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0103"]
-[ns]丞実[nse]
-「やっぱり、あたしは、兄ちゃん大好き……、[r]
-　セックスまで相性いいなんて……やっぱり兄妹だよねぇ……」[pcms]
+[ns]Tsugumi[nse]
+"After all, I really love Onii-chan... To think we're even compatible[r]
+in sex... We really are siblings..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to3 "旧tugumiZ0008"]
 
 
 *5607|
 [fc]
-丞実は、満足そうに笑うと、[r]
-割れ目にチンコをあてがってきた。[pcms]
+Tsugumi smiled contentedly and positioned my cock at her slit.[pcms]
 
 
 *5608|
 [fc]
-い、いよいよ……いよいよ童貞を捨てるときが来たんだ。[pcms]
+Finally... the time has come for me to lose my virginity.[pcms]
 
 
 *5609|
 [fc]
-妹だとか何とか、静ちゃんが待ってるとか、[r]
-すべてがどうでも良くなってしまう。[pcms]
+Whether she's my sister or whatever, whether Shizuka-chan is waiting,[r]
+none of it matters anymore.[pcms]
 
 
 *5610|
 [fc]
-そんな自分が少し信じられなくもあり、[r]
-男なんてみんなそんなものという気持ちも強かった。[pcms]
+I can hardly believe I'm feeling this way, but I also feel like this[r]
+is just how men are.[pcms]
 
 
 *5611|
 ;旧ナンバー[vo_t s="tugumi0416"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0104"]
-[ns]丞実[nse]
-「あたしのおまんこね……最高だって、みんな言ってたよ」[pcms]
+[ns]Tsugumi[nse]
+"My pussy... everyone says it's the best."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to3 "旧tugumiZ0008"]
 
 
 *5612|
 [fc]
-[ns]克己[nse]
-「ううう……」[pcms]
+[ns]Kazumi[nse]
+"Uuuu..."[pcms]
 
 
 *5613|
 [fc]
-丞実のいやらしい微笑みに、[r]
-思わず引き吊った笑みを返してしまう。[pcms]
+I couldn't help but return Tsugumi's lewd smile with a strained one of[r]
+my own.[pcms]
 
 
 *5614|
 [fc]
-最高のおまんこ……初めてなのに、最高の……。[pcms]
+The best pussy... even though it's my first time, it's the best...[pcms]
 
 
 *5615|
 ;旧ナンバー[vo_t s="tugumi0417"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0105"]
-[ns]丞実[nse]
-「だから、いっつも、何発も何発も、[r]
-　あたしの穴で楽しんでたの」[pcms]
+[ns]Tsugumi[nse]
+"That's why, I always let them enjoy themselves over and over again[r]
+with my hole."[pcms]
 
 
 *5616|
 [fc]
-[ns]克己[nse]
-「も、もう焦らさないで……」[pcms]
+[ns]Kazumi[nse]
+"Please, don't tease me anymore..."[pcms]
 
 
 *5617|
 ;旧ナンバー[vo_t s="tugumi0418"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0106"]
-[ns]丞実[nse]
-「あぁ、いいよ、兄ちゃん……」[pcms]
+[ns]Tsugumi[nse]
+"Ahh, okay, Onii-chan..."[pcms]
 
 
 *5618|
 [fc]
-丞実は、もうイキそうな顔で恍惚としている。[r]
-男にお願いされるのが、よほど好きなんだろう。[pcms]
+Tsugumi looked ecstatic, as if she was about to climax. She must[r]
+really love being begged by men.[pcms]
 
 
 *5619|
 ;旧ナンバー[vo_t s="tugumi0419"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0107"]
-[ns]丞実[nse]
-「じゃあ……いくよ？」[pcms]
+[ns]Tsugumi[nse]
+"So... shall we go?"[pcms]
 [bgv_t to2 "旧tugumiZ0007"]
 
 
 *5620|
 [fc]
-丞実はそう言うと、俺にまたがっていた腰を、[r]
-一気に下ろしてくる。[pcms]
+With that said, Tsugumi, straddling me, suddenly dropped her hips[r]
+down.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -2162,8 +2124,8 @@
 
 *5621|
 [fc]
-[ns]克己[nse]
-「ぐうおおおぉぉぉおおぉぉっ！」[pcms]
+[ns]Kazumi[nse]
+"Guuoooohhhhh!"[pcms]
 
 ;;//se_sex02.ogg(LOOP)
 [se_HLoop buf2 storage="se_sex02"]
@@ -2171,99 +2133,95 @@
 
 *5622|
 [fc]
-初めての感触、初めての体験だった。[pcms]
+It was a sensation and experience I had never felt before.[pcms]
 
 
 *5623|
 [fc]
-ぐにゅっとしたゼリーみたいな秘肉が、[r]
-ぎっちりと身の詰まった食べ物みたいに締め付けてくる。[pcms]
+The jelly-like soft flesh of her genitals tightly gripped me like a[r]
+densely packed food.[pcms]
 
 
 *5624|
 [fc]
-そして、狭い入り口を抜けた先にあるザラザラ感。[r]
-その適度な刺激がチンコにまとわりついて、[r]
-今にも喰いちぎられてしまいそうだ。[pcms]
+And beyond the narrow entrance was a rough texture. The moderate[r]
+stimulation clung to my cock as if it was about to be bitten off.[pcms]
 
 
 *5625|
 [fc]
-[ns]克己[nse]
-「イクっ！　でるっ、ううっ、ううぅぅうぅっ！」[pcms]
+[ns]Kazumi[nse]
+"I'm cumming! It's coming out, ugh, uuuuuh!"[pcms]
 
 
 *5626|
 [fc]
-散々焦らされた俺は、その一こすり目だけで絶頂し、[r]
-精液を吹き上げようとしていた。[pcms]
+After being teased so much, I reached climax at the very first stroke[r]
+and was about to shoot out my semen.[pcms]
 
 
 *5627|
 ;旧ナンバー[vo_t s="tugumi0420"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0108"]
-[ns]丞実[nse]
-「勝手にイクなっ！」[pcms]
+[ns]Tsugumi[nse]
+"Don't cum on your own!"[pcms]
 
 
 *5628|
 [fc]
-[ns]克己[nse]
-「ぐううっ！　くううっっ！」[pcms]
+[ns]Kazumi[nse]
+"Guuuuh! Kuuuuh!"[pcms]
 
 
 *5629|
 [fc]
-丞実は怒ったような声を上げると、[r]
-俺のチンコを驚異的な力で締め付け、[r]
-射精を阻止しにかかる。[pcms]
+Tsugumi raised her voice angrily and squeezed my cock with incredible[r]
+strength, trying to stop the ejaculation.[pcms]
 
 
 *5630|
 [fc]
-その強烈な締め付けは輸性管をも締め上げているのか、[r]
-俺は射精することができずに空撃ちのように、[r]
-むなしくチンコをひくつかせていた。[pcms]
+The intense squeezing seemed to constrict even the vas deferens, and I[r]
+was left twitching my cock in vain, unable to ejaculate.[pcms]
 
 
 *5631|
 ;旧ナンバー[vo_t s="tugumi0421"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0109"]
-[ns]丞実[nse]
-「そうだよ……勝手にイッちゃだめ……、[r]
-　その代わりにいいことさせてあげるから……」[pcms]
+[ns]Tsugumi[nse]
+"That's right... you can't cum on your own... but in return, I'll let[r]
+you do something nice..."[pcms]
 
 
 *5632|
 [fc]
-[ns]克己[nse]
-「い、いいこと……？」[pcms]
+[ns]Kazumi[nse]
+"Something nice...?"[pcms]
 
 
 *5633|
 [fc]
-俺はもう、射精したくてたまらない状態だった。[r]
-いいことが何なのかわからないが、疼きが痛みに変わりそうだ。[pcms]
+I was desperate to ejaculate. I didn't know what the nice thing was,[r]
+but the throbbing was turning into pain.[pcms]
 
 
 *5634|
 ;旧ナンバー[vo_t s="tugumi0422"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0110"]
-[ns]丞実[nse]
-「あたしね……エッチは何回もしたよ。[r]
-　生でしたことも、何回もある……だけどね……」[pcms]
+[ns]Tsugumi[nse]
+"You know... I've had sex many times. I've done it raw many times[r]
+too... but you see..."[pcms]
 
 
 *5635|
 [fc]
-[ns]克己[nse]
-「な、生でって……初めてのときは、[r]
-　尻にかけられたとか何とか……」[pcms]
+[ns]Kazumi[nse]
+"Raw, as in... the first time, it was on my butt or something..."[pcms]
 
 
 *5636|
 [fc]
-たしか、さっきそんなことを言っていたような気がする。[pcms]
+I seem to remember her saying something like that earlier.[pcms]
 
 ;;//■イベントCG　tug_H003
 [evcg storage="tug_H003c"][trans_c cross time=500]
@@ -2272,80 +2230,79 @@
 *5637|
 ;旧ナンバー[vo_t s="tugumi0423"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0111"]
-[ns]丞実[nse]
-「そう、初めてのときは、お尻。[r]
-　その後は、おまんこの入り口とか、オッパイとか。[r]
-　あとは、お腹や、口の中……でも、“ココ”はまだなんだ」[pcms]
+[ns]Tsugumi[nse]
+"Yes, the first time was on my butt. After that, it was on the[r]
+entrance of my pussy or on my breasts. And then on my stomach or in my[r]
+mouth... but 'here' is still untouched."[pcms]
 
 
 *5638|
 [fc]
-ということは……。[pcms]
+Which means...[pcms]
 
 
 *5639|
 [fc]
-[ns]克己[nse]
-「も、もしかして……中出しされたことは……無い？」[pcms]
+[ns]Kazumi[nse]
+"Could it be... you've never been creampied before?"[pcms]
 
 
 *5640|
 ;旧ナンバー[vo_t s="tugumi0424"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0112"]
-[ns]丞実[nse]
-「そうだよぉ……中はまだないの……。[r]
-　膣も子宮も清らかなままで汚れてない」[pcms]
+[ns]Tsugumi[nse]
+"That's right... I've never had it inside... My vagina and womb are[r]
+still pure and untainted."[pcms]
 
 
 *5641|
 ;旧ナンバー[vo_t s="tugumi0425"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0113"]
-[ns]丞実[nse]
-「それをね……」[pcms]
+[ns]Tsugumi[nse]
+"And that..."[pcms]
 
 
 *5642|
 [fc]
-[ns]克己[nse]
-「うぐっ……」[pcms]
+[ns]Kazumi[nse]
+"Uguh..."[pcms]
 
 
 *5643|
 [fc]
-熱い目で見つめられると、思わず逃げたくなってしまう。[r]
-でも、この先にはとてつもない快感が待っているはずだ……。[pcms]
+When she looked at me with those heated eyes, I almost wanted to run[r]
+away. But I knew there must be an incredible pleasure waiting ahead...[pcms]
 
 
 *5644|
 ;旧ナンバー[vo_t s="tugumi0426"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0114"]
-[ns]丞実[nse]
-「それを、兄ちゃんにあげる……、[r]
-　あたしを助けに来てくれたご褒美に、[r]
-　中出しバージンを兄ちゃんにあげる」[pcms]
+[ns]Tsugumi[nse]
+"I'll give that to Onii-chan... as a reward for coming to save me,[r]
+I'll give you my creampie virginity."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5645|
 [fc]
-散々やりまくっていたと思っていたのに、[r]
-中出しは未経験だったなんて……。[pcms]
+Even though I thought she had been doing it a lot, she was still[r]
+inexperienced with creampies...[pcms]
 
 
 *5646|
 [fc]
-嬉しさと一緒に、興奮が襲いかかってくる。[pcms]
+Joy and excitement surged through me simultaneously.[pcms]
 
 
 *5647|
 [fc]
-まだ誰の精子も泳いでいない丞実の子宮を、[r]
-俺の童貞射精でたぷたぷに満たす。[pcms]
+To fill Tsugumi's womb, which has never been swum in by any sperm,[r]
+with my virgin ejaculation...[pcms]
 
 
 *5648|
 [fc]
-考えただけで、ゾクゾクとしてしまう体験だった。[pcms]
+Just thinking about it was a thrilling experience.[pcms]
 
 ;;//se_sex03.ogg(LOOP)
 [se_HLoop buf2 storage="se_sex03"]
@@ -2357,45 +2314,45 @@
 *5649|
 ;旧ナンバー[vo_t s="tugumi0427"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0115"]
-[ns]丞実[nse]
-「だから、思いっきり濃いのをいっぱい出さなきゃ駄目だよ？」[pcms]
+[ns]Tsugumi[nse]
+"So, you have to let out a lot of thick cum, okay?"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5650|
 [fc]
-[ns]克己[nse]
-「んぐうおおおっ！」[pcms]
+[ns]Kazumi[nse]
+"Nguuooooh!"[pcms]
 
 
 *5651|
 [fc]
-丞実は、俺のチンコを締め付けたまま、[r]
-腰を前後に動かし始めた。[pcms]
+Tsugumi, while clamping down on my cock, began to move her hips back[r]
+and forth.[pcms]
 
 
 *5652|
 [fc]
-騎上位の姿勢で腰だけを、クイクイっと前後に動かされると、[r]
-密着感と摩擦のバランスがたまらなくいい。[pcms]
+In the cowgirl position, just moving her hips back and forth made the[r]
+balance of friction and closeness unbearable.[pcms]
 
 
 *5653|
 [fc]
-[ns]克己[nse]
-「す、すげぇぇっ！　こ、これがセックスぅ！」[pcms]
+[ns]Kazumi[nse]
+"A-amazing! This, this is sex!"[pcms]
 
 
 *5654|
 [fc]
-俺はすさまじい快感に耐えながら、[r]
-なんとか漏らさないよう、必死に歯を食いしばっていた。[pcms]
+I clenched my teeth desperately, trying not to let out a sound as I[r]
+endured the tremendous pleasure.[pcms]
 
 
 *5655|
 [fc]
-でも、あまりの快感に思わず顔が緩みそうになるのを、[r]
-慌てて堪えていく。[pcms]
+But the pleasure was so intense that I almost let my face relax,[r]
+hastily trying to hold back.[pcms]
 
 ;;//■イベントCG　tug_H003
 [evcg storage="tug_H003c"][trans_c cross time=500]
@@ -2404,89 +2361,88 @@
 *5656|
 ;旧ナンバー[vo_t s="tugumi0428"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0116"]
-[ns]丞実[nse]
-「ふふふっ……」[pcms]
+[ns]Tsugumi[nse]
+"Fufufu..."[pcms]
 [bgv_t to1 "旧tugumiZ0006"]
 
 
 *5657|
 [fc]
-丞実が、俺の顔を見てサディスティックな微笑みを浮かべる。[pcms]
+Tsugumi looked at my face and let out a sadistic smile.[pcms]
 
 
 *5658|
 [fc]
-年齢よりも、幾分すごみを感じさせる笑みだ。[pcms]
+It was a smile that seemed more intimidating than her age would[r]
+suggest.[pcms]
 
 
 *5659|
 ;旧ナンバー[vo_t s="tugumi0429"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0117"]
-[ns]丞実[nse]
-「男の、その表情大好き……あぁぁ……」[pcms]
+[ns]Tsugumi[nse]
+"I love that expression on a man... Ahhh..."[pcms]
 
 
 *5660|
 [fc]
-丞実は、いっそう興奮したのか、[r]
-腰の動きをズンズンと早く前後させ始めた。[pcms]
+Perhaps even more excited, Tsugumi began to move her hips back and[r]
+forth even faster.[pcms]
 
 
 *5661|
 [fc]
-[ns]克己[nse]
-「ば、馬鹿、出ちまうっ、くうううっ！」[pcms]
+[ns]Kazumi[nse]
+"You idiot, I'm gonna cum, kuuuh!"[pcms]
 
 
 *5662|
 ;旧ナンバー[vo_t s="tugumi0430"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0118"]
-[ns]丞実[nse]
-「兄ちゃんの堅い！　堅くてすごくいいよっ！」[pcms]
+[ns]Tsugumi[nse]
+"Onii-chan's so hard! It feels really good!"[pcms]
 
 
 *5663|
 [fc]
-丞実は、俺の話なんて全く届かないくらいハイになって、[r]
-夢中で腰を振り続けていた。[pcms]
+Tsugumi was so high that she didn't hear a word I said and kept[r]
+frantically moving her hips.[pcms]
 
 
 *5664|
 ;旧ナンバー[vo_t s="tugumi0431"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0119"]
-[ns]丞実[nse]
-「ああぁっ、生のオチンポ、生だよ、生なの！[r]
-　すごくいいっ！　んぅうううぅぅ……！」[pcms]
+[ns]Tsugumi[nse]
+"Aaahh, a raw cock, it's raw, it's raw! It feels so good! Nuuuuu..."[pcms]
 
 
 *5665|
 [fc]
-[ns]克己[nse]
-「お、俺も、おかしくなりそうで、くううっ！」[pcms]
+[ns]Kazumi[nse]
+"I-I'm going to lose my mind too, kuuuh!"[pcms]
 
 
 *5666|
 ;旧ナンバー[vo_t s="tugumi0432"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0120"]
-[ns]丞実[nse]
-「堅いのいいよっ！　大きいのより堅いの大好きぃっ！[r]
-　あたし堅い方がいいのぉっ！」[pcms]
+[ns]Tsugumi[nse]
+"I love it hard! I prefer it hard over big! I like it better hard!"[pcms]
 [bgv_t to2 "旧tugumiZ0007"]
 
 
 *5667|
 [fc]
-丞実は、軽く絶頂しているみたいだった。[pcms]
+Tsugumi seemed to be lightly climaxing.[pcms]
 
 
 *5668|
 [fc]
-淫靡な笑みを浮かべて、カクカクと身体を震わせている。[pcms]
+She trembled with a lewd smile on her face.[pcms]
 
 
 *5669|
 [fc]
-俺も、俺も早くイキたい！[pcms]
+I want to cum soon too![pcms]
 
 ;;//■イベントCG　tug_H003
 [evcg storage="tug_H003d"][trans_c cross time=500]
@@ -2495,263 +2451,260 @@
 *5670|
 ;旧ナンバー[vo_t s="tugumi0433"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0121"]
-[ns]丞実[nse]
-「このセックスいいよぉ……兄ちゃんすごくいい……、[r]
-　兄ちゃんとの初セックス最高だよぉ……」[pcms]
+[ns]Tsugumi[nse]
+"This sex is so good... Onii-chan is amazing... Our first sex is the[r]
+best..."[pcms]
 
 
 *5671|
 [fc]
-[ns]克己[nse]
-「お、俺も、俺も最高だぞ……っ！」[pcms]
+[ns]Kazumi[nse]
+"I-I'm feeling amazing too...!"[pcms]
 
 
 *5672|
 ;旧ナンバー[vo_t s="tugumi0434"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0122"]
-[ns]丞実[nse]
-「み、みんなも、すごく良いセックスのときがあったんだよ？[r]
-　でも、兄ちゃんのがすごすぎるぅ！」[pcms]
+[ns]Tsugumi[nse]
+"Everyone else had great sex too, you know? But Onii-chan's is just[r]
+too amazing!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5673|
 [fc]
-丞実は、よだれを垂らしながら、[r]
-ものすごいとろけた表情で喘ぎ声を上げていた。[pcms]
+Tsugumi was panting with an incredibly melted expression, drooling.[pcms]
 
 
 *5674|
 [fc]
-[ns]克己[nse]
-「ま、負けないぞっ！　俺もっ！」[pcms]
+[ns]Kazumi[nse]
+"I won't lose! Me too!"[pcms]
 
 
 *5675|
 [fc]
-早く射精したい。[r]
-でも、丞実をもっと満足させてやりたい。[pcms]
+I want to ejaculate soon. But I also want to satisfy Tsugumi even[r]
+more.[pcms]
 
 
 *5676|
 [fc]
-二つの思いが交錯して、俺は頭を痺れさせていく。[pcms]
+The two desires crossed in my mind, numbing my head.[pcms]
 
 
 *5677|
 ;旧ナンバー[vo_t s="tugumi0435"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0123"]
-[ns]丞実[nse]
-「い、石見君としたときは、最初のシャワー室で、[r]
-　立ちバック３連発したときがすごかったの！」[pcms]
+[ns]Tsugumi[nse]
+"When I did it with Ishimi-kun, the first time in the shower room,[r]
+doing it standing from behind three times in a row was amazing!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5678|
 [fc]
-[ns]克己[nse]
-「さ、３発もしたのか！　初めてなのにっ！」[pcms]
+[ns]Kazumi[nse]
+"You did it three times?! Even though it was your first time!"[pcms]
 
 
 *5679|
 [fc]
-盛んな年頃とはいえ、やりすぎだろそんなの！[pcms]
+That's too much even for someone at the peak of their youth![pcms]
 
 
 *5680|
 [fc]
-いくら、丞実が痛くなかったからって、[r]
-３発はやりすぎだ！[pcms]
+No matter how painless it was for Tsugumi, three times is overdoing[r]
+it![pcms]
 
 
 *5681|
 ;旧ナンバー[vo_t s="tugumi0436"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0124"]
-[ns]丞実[nse]
-「あぁ……きょ、去年のお盆に、家でしたのもすごかった……、[r]
-　コンドーム３箱用意したのに、全部なくなっちゃって……」[pcms]
+[ns]Tsugumi[nse]
+"Ahh... last year during Obon, when we did it at home, that was[r]
+amazing too... We prepared three boxes of condoms, but they all ran[r]
+out..."[pcms]
 
 
 *5682|
 [fc]
-[ns]克己[nse]
-「お盆って、ウチのことか！？」[pcms]
+[ns]Kazumi[nse]
+"Obon? You mean at our house?!"[pcms]
 
 
 *5683|
 ;旧ナンバー[vo_t s="tugumi0437"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0125"]
-[ns]丞実[nse]
-「お、お父さんとお母さんがお墓参りでいなかったから、[r]
-　石見君を家に呼んで、３日間ずっと、[r]
-　裸と水着でセックスしまくって過ごしたの……」[pcms]
+[ns]Tsugumi[nse]
+"Since dad and mom were out visiting graves, I invited Ishimi-kun over[r]
+and we spent three days just having sex non-stop, naked and in[r]
+swimsuits..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5684|
 [fc]
-知らない間に、そんなケシカランことしてたのかよ！[pcms]
+They were doing such outrageous things without me knowing![pcms]
 
 
 *5685|
 [fc]
-しかも、今年じゃなくて去年だぞ！[pcms]
+And it wasn't this year, but last year![pcms]
 
 
 *5686|
 ;旧ナンバー[vo_t s="tugumi0438"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0126"]
-[ns]丞実[nse]
-「お父さんとお母さんが、新幹線に乗って帰ってきてる、[r]
-　最後の時間のセックスが最高で、何回も潮吹いてイッちゃった」[pcms]
+[ns]Tsugumi[nse]
+"The last time we had sex when mom and dad were coming back on the[r]
+bullet train was the best; I squirted and came so many times."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5687|
 [fc]
-そんなギリギリまでセックス三昧の３日間なんて、[r]
-俺も体験してみてーよ！[pcms]
+I want to experience such an indulgent three days of sex right up to[r]
+the last minute too![pcms]
 
 
 *5688|
 [fc]
-それを、丞実の歳でやってるなんて反則過ぎるっ！[pcms]
+That's totally unfair for someone Tsugumi's age![pcms]
 
 
 *5689|
 ;旧ナンバー[vo_t s="tugumi0439"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0127"]
-[ns]丞実[nse]
-「あ、あと、やっぱり最後のさよならセックス。[r]
-　あんなに情けなく頼んできて、今の兄ちゃんと、[r]
-　同じ顔してるの見るのが最高だった」[pcms]
+[ns]Tsugumi[nse]
+"Ah, and of course, the last goodbye sex. Begging so pathetically,[r]
+seeing you with the same face as now was the best."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5690|
 [fc]
-[ns]克己[nse]
-「俺は、そんなに情けない顔してるのかよっ！」[pcms]
+[ns]Kazumi[nse]
+"Do I really make such a pathetic face?!"[pcms]
 
 
 *5691|
 ;旧ナンバー[vo_t s="tugumi0440"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0128"]
-[ns]丞実[nse]
-「あふっ……最高だから、兄ちゃん……」[pcms]
+[ns]Tsugumi[nse]
+"Ah... it's the best, big brother..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5692|
 [fc]
-そんなことで最高と言われても、正直嬉しくない。[pcms]
+Even if she says it's the best, I honestly can't be happy about it.[pcms]
 
 
 *5693|
 [fc]
-でも、それが丞実の感じるポイントなんだと、[r]
-痛いほどに理解した。[pcms]
+But I painfully understand that's what turns Tsugumi on.[pcms]
 
 
 *5694|
 ;旧ナンバー[vo_t s="tugumi0441"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0129"]
-[ns]丞実[nse]
-「三上先輩とは、シャワー室で駅弁されたのが最高だった……」[pcms]
+[ns]Tsugumi[nse]
+"The best was when Mikami-senpai did me in the shower room in a[r]
+standing position..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5695|
 [fc]
-[ns]克己[nse]
-「くそっ、くそくそくそっ！」[pcms]
+[ns]Kazumi[nse]
+"Damn it, damn damn damn!"[pcms]
 
 
 *5696|
 [fc]
-胸の奥が焼け焦げるように痛み、苦しくなる。[pcms]
+The pain sears through my chest, becoming unbearable.[pcms]
 
 
 *5697|
 [fc]
-妹を寝取られるのが、こんなに辛いことだったなんて。[pcms]
+Having my sister taken by another man is so much more painful than I[r]
+thought.[pcms]
 
 
 *5698|
 ;旧ナンバー[vo_t s="tugumi0442"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0130"]
-[ns]丞実[nse]
-「三上先輩に駅弁されてるの……石見君が覗いてたの……、[r]
-　あの粘っこい視線を感じながら激しくされて、[r]
-　イキながら漏らしちゃった……」[pcms]
+[ns]Tsugumi[nse]
+"While Mikami-senpai was doing me in a standing position... Ishimi-kun[r]
+was peeping... Feeling his sticky gaze while being done so intensely,[r]
+I came and leaked..."[pcms]
 
 
 *5699|
 [fc]
-イキながら漏らすって、シッコのことなのか？[r]
-どんだけエロいんだよこの娘は！[pcms]
+Leaking while coming... is she talking about pee? How erotic can this[r]
+girl be?![pcms]
 
 
 *5700|
 ;旧ナンバー[vo_t s="tugumi0443"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0131"]
-[ns]丞実[nse]
-「み、三上先輩、中だしさせろなんて言ってこなかったら、[r]
-　まだ付き合ってたのに……」[pcms]
+[ns]Tsugumi[nse]
+"If Mikami-senpai hadn't asked to cum inside, we'd still be dating..."[pcms]
 
 
 *5701|
 [fc]
-[ns]克己[nse]
-「な、中だし……」[pcms]
+[ns]Kazumi[nse]
+"Inside..."[pcms]
 
 
 *5702|
 ;旧ナンバー[vo_t s="tugumi0444"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0132"]
-[ns]丞実[nse]
-「あ、赤ちゃんが欲しいわけじゃなくて……、[r]
-　気持ちよくなりたいだけなのに、[r]
-　んんっ……空気読めない人だったからね」[pcms]
+[ns]Tsugumi[nse]
+"Ah, it's not like I wanted a baby or anything... I just wanted to[r]
+feel good, but he was so clueless... mmm..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5703|
 [fc]
-[ns]克己[nse]
-「愛のないのは……駄目だろ……ううっ……！[r]
-　お、俺はそんなの……認めないぞぉおっっ！！」[pcms]
+[ns]Kazumi[nse]
+"Loveless sex is... wrong... ugh...! I... I won't accept that!!"[pcms]
 
 
 *5704|
 [fc]
-俺は、もうそろそろ、妹の過激な性体験と、[r]
-初めてのセックスで意識がもうろうとし始めていた。[pcms]
+I'm starting to lose consciousness from my sister's extreme sexual[r]
+experiences and my first time having sex.[pcms]
 
 
 *5705|
 [fc]
-興奮で、頭に血が上りすぎているに違いない……。[pcms]
+The excitement must be making my head rush too much...[pcms]
 
 
 *5706|
 ;旧ナンバー[vo_t s="tugumi0445"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0133"]
-[ns]丞実[nse]
-「く、黒田君と牛木君は、卒業式の日、石見君とした後に、[r]
-　やり足りなくて３Ｐしたときの方が良かった……」[pcms]
+[ns]Tsugumi[nse]
+"Kuroda-kun and Ushiki-kun, on the day of graduation, after doing it[r]
+with Ishimi-kun, weren't satisfied and had a better time during the[r]
+threesome..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5707|
 [fc]
-そうやって、俺のことを興奮させながら、[r]
-自分も高まっているに違いない。[pcms]
+She must be getting excited while exciting me as well.[pcms]
 
 
 *5708|
 [fc]
-セックスに貪欲な妹が、こんなに大変なものだったなんて。[pcms]
+Having such a sex-crazed sister is more trouble than I thought.[pcms]
 
 ;;//■イベントCG　tug_H003
 [evcg storage="tug_H003c"][trans_c cross time=500]
@@ -2760,107 +2713,108 @@
 *5709|
 ;旧ナンバー[vo_t s="tugumi0446"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0134"]
-[ns]丞実[nse]
-「二人とも、男のくせに、アヘ顔になって射精してるの……、[r]
-　兄ちゃんは、どんな顔で射精するのかな……」[pcms]
+[ns]Tsugumi[nse]
+"Both of them, despite being men, made ahegao faces while[r]
+ejaculating... I wonder what kind of face big brother makes when he[r]
+cums..."[pcms]
 
 
 *5710|
 [fc]
-[ns]克己[nse]
-「すぐ、すぐ見せてやるっ！」[pcms]
+[ns]Kazumi[nse]
+"I'll show you right now!"[pcms]
 
 
 *5711|
 ;旧ナンバー[vo_t s="tugumi0447"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0135"]
-[ns]丞実[nse]
-「どんな情けない顔をして射精するのか……あぁ……、[r]
-　楽しみなの……」[pcms]
+[ns]Tsugumi[nse]
+"What kind of pathetic face you make when you ejaculate... Ahh... I'm[r]
+looking forward to it..."[pcms]
 
 
 *5712|
 [fc]
-[ns]克己[nse]
-「ううううっ、楽しみにしとけっ！」[pcms]
+[ns]Kazumi[nse]
+"Ughhh, just you wait!"[pcms]
 
 
 *5713|
 ;旧ナンバー[vo_t s="tugumi0448"]
 [マイク 位置８ ch=t][vo_t s="R_tug_BIN0136"]
-[ns]丞実[nse]
-「は、初めてのセックスで、妹の身体の中に、[r]
-　どんな顔して射精するの……？」[pcms]
+[ns]Tsugumi[nse]
+"For your first time having sex, what kind of face will you make as[r]
+you cum inside your sister's body...?"[pcms]
 
 
 *5714|
 [fc]
-どんな顔って言われても、俺にはこの顔しかねえ！[r]
-たっぷりと楽しませてやるよ！[pcms]
+What kind of face, she asks, but this is the only face I've got! I'll[r]
+make sure to give her a good show![pcms]
 
 
 *5715|
 ;旧ナンバー[vo_t s="tugumi0449"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0137"]
-[ns]丞実[nse]
-「オチンポが堅くて、内側がはがれちゃいそう……、[r]
-　こんなに勃起させて、恥ずかしくないの？」[pcms]
+[ns]Tsugumi[nse]
+"Your dick is so hard, it feels like my insides are going to tear...[r]
+Aren't you embarrassed being this erect?"[pcms]
 
 
 *5716|
 [fc]
-[ns]克己[nse]
-「気持ちいいんだから、仕方ないだろっ！」[pcms]
+[ns]Kazumi[nse]
+"It feels good, so it can't be helped!"[pcms]
 
 
 *5717|
 ;旧ナンバー[vo_t s="tugumi0450"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0138"]
-[ns]丞実[nse]
-「妹だよ、あたし妹なのに、[r]
-　兄ちゃんの性欲の吐け口にされてるよ……」[pcms]
+[ns]Tsugumi[nse]
+"I'm your sister, yet I'm being used as an outlet for your sexual[r]
+desires..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5718|
 [fc]
-くそぉぉっ！　もう、興奮で前が見えなくなりそうだ！[pcms]
+Damn it! I'm so excited I can barely see in front of me![pcms]
 
 
 *5719|
 [fc]
-身体のどこまでがチンコなのか、良くわからなくなってきた！[pcms]
+I can hardly tell where my dick ends anymore![pcms]
 
 
 *5720|
 [fc]
-[ns]克己[nse]
-「も、もう駄目だぁぁぁっ！」[pcms]
+[ns]Kazumi[nse]
+"I can't take it anymore!!"[pcms]
 
 
 *5721|
 ;旧ナンバー[vo_t s="tugumi0451"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0139"]
-[ns]丞実[nse]
-「ほら！　射精させて下さいって言ってっ！」[pcms]
+[ns]Tsugumi[nse]
+"Come on! Beg to ejaculate!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5722|
 [fc]
-丞実が、更にグイグイと俺のチンコを締め上げてくる。[pcms]
+Tsugumi tightens her grip on my dick even more.[pcms]
 
 
 *5723|
 [fc]
-興奮と同時に、膣圧をコントロールする[r]
-テクニックを覚えているんだ。[pcms]
+She's learned to control her vaginal pressure along with her[r]
+excitement.[pcms]
 
 
 *5724|
 [fc]
-[ns]克己[nse]
-「くあああぁああぁぁぁっ！　もうっ、くううぅうぅっ！」[pcms]
+[ns]Kazumi[nse]
+"Ahhhhhh! I can't hold it any longer!"[pcms]
 
 ;;//■イベントCG　tug_H003
 [evcg storage="tug_H003d"][trans_c cross time=500]
@@ -2869,35 +2823,34 @@
 *5725|
 ;旧ナンバー[vo_t s="tugumi0452"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0140"]
-[ns]丞実[nse]
-「妹の中に薄汚い精液、ぶちまけさせて下さいって言って！」[pcms]
+[ns]Tsugumi[nse]
+"Beg to splatter your filthy semen inside your sister!"[pcms]
 
 
 *5726|
 [fc]
-[ns]克己[nse]
-「丞実の中に、俺の小汚い精液ぶちまけさせてくれぇぇぇっ！」[pcms]
+[ns]Kazumi[nse]
+"Let me splatter my dirty semen inside you, Tsugumi!!"[pcms]
 
 
 *5727|
 ;旧ナンバー[vo_t s="tugumi0453"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0141"]
-[ns]丞実[nse]
-「ふあぁぁぁぁぁああぁっ！[r]
-　んっ……んぅううううぅっ！　んぁああぁあぁっ！！」[pcms]
+[ns]Tsugumi[nse]
+"Ahhhhhh! Mmm... mmmmm! Ahhhhh!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5728|
 [fc]
-丞実は、俺の射精をせき止めていた締め付けを弛めると、[r]
-一番深くまで腰を落としてくる。[pcms]
+As Tsugumi loosens the grip that was holding back my ejaculation, she[r]
+drops her hips down to the deepest point.[pcms]
 
 
 *5729|
 [fc]
-その圧迫と摩擦と、溜まりに溜まった興奮が、[r]
-堰を切ったように膣奥に飛び出していった。[pcms]
+The pressure and friction, along with the excitement that had built[r]
+up, burst forth into the depths of her vagina.[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -2911,48 +2864,47 @@
 *5730|
 ;旧ナンバー[vo_t s="tugumi0454"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0142"]
-[ns]丞実[nse]
-「イクぅぅぅうぅぅうぅぅぅぅっ！[r]
-　んぁあああぁあっ！　んぉぉおぉおっ！！」[pcms]
+[ns]Tsugumi[nse]
+"I'm cummingggggg! Ahhhhhhh! Ohhhhh!!"[pcms]
 [bgv_t to3 "旧tugumiZ0008"]
 
 
 *5731|
 [fc]
-すさまじい膣圧の中、俺は生まれてから最高の射精を、[r]
-妹の中に解き放っていた。[pcms]
+In the midst of the tremendous vaginal pressure, I was releasing the[r]
+greatest ejaculation of my life into my sister.[pcms]
 
 
 *5732|
 [fc]
-丞実も、俺の勢い良く飛び出る射精を子宮に受けて、[r]
-身体をガクガクと震わせ、絶頂している。[pcms]
+Tsugumi, too, was receiving my vigorously spurting ejaculation in her[r]
+womb, shaking her body violently and climaxing.[pcms]
 
 
 *5733|
 [fc]
-[ns]克己[nse]
-「ぐっ、うっ、ううううっ！」[pcms]
+[ns]Kazumi[nse]
+"Guh, uh, uuuuh!"[pcms]
 
 
 *5734|
 ;旧ナンバー[vo_t s="tugumi0455"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0143"]
-[ns]丞実[nse]
-「中出し、中に出されてるぅうぅぅぅっ！」[pcms]
+[ns]Tsugumi[nse]
+"Creampie, you're cumming inside meeeee!"[pcms]
 [bgv_t to1 "旧tugumiZ0006"]
 
 
 *5735|
 [fc]
-ビクンビクンと、腹が笑ったようにうごめいて、[r]
-その度に精液が丞実に吸収されていく。[pcms]
+My stomach twitched as if laughing, and with each movement, my semen[r]
+was being absorbed by Tsugumi.[pcms]
 
 
 *5736|
 [fc]
-丞実はアヘ顔になって俺の射精を味わい、[r]
-長い長い絶頂の余韻を味わっていた。[pcms]
+Tsugumi was savoring my ejaculation with an ahegao face, enjoying the[r]
+long afterglow of her climax.[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -2964,49 +2916,48 @@
 *5737|
 ;旧ナンバー[vo_t s="tugumi0456"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0144"]
-[ns]丞実[nse]
-「ふあぁぁぁぁっ……たぷたぷ……」[pcms]
+[ns]Tsugumi[nse]
+"Fuaaaaah... tap tap..."[pcms]
 [bgv_t to1 "旧tugumiZ0006"]
 
 
 *5738|
 [fc]
-[ns]克己[nse]
-「はぁっ……あぁっ……セックスすげぇ……」[pcms]
+[ns]Kazumi[nse]
+"Hah... Ahh... Sex is amazing..."[pcms]
 
 
 *5739|
 [fc]
-俺は、初めての体験にすこぶる満足していた。[pcms]
+I was extremely satisfied with this first-time experience.[pcms]
 
 
 *5740|
 [fc]
-フェラもすごかったけど、[r]
-妹との中出しセックスは特別すぎる。[pcms]
+The blowjob was amazing, but creampie sex with my sister is something[r]
+special.[pcms]
 
 
 *5741|
 ;旧ナンバー[vo_t s="tugumi0457"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0145"]
-[ns]丞実[nse]
-「これが……本当のセックスだったんだね……、[r]
-　気持ちよかった……」[pcms]
+[ns]Tsugumi[nse]
+"This was... real sex... It felt so good..."[pcms]
 
 
 *5742|
 [fc]
-[ns]克己[nse]
-「俺も、すごい良かった。[r]
-　初めてのセックスで、最高のセックスをしたのかも知れない」[pcms]
+[ns]Kazumi[nse]
+"It was amazing for me too. For my first time having sex, it might[r]
+have been the best ever."[pcms]
 
 
 *5743|
 ;旧ナンバー[vo_t s="tugumi0458"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0146"]
-[ns]丞実[nse]
-「もっと、もっとしようよ、兄ちゃん！[r]
-　もっと生でやって、あたしの子宮にビュービュー射精してっ！」[pcms]
+[ns]Tsugumi[nse]
+"Let's do it more, Onii-chan! Let's do it raw more and ejaculate into[r]
+my womb!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to1 "旧tugumiZ0006"]
 
 ;;//se_sex03.ogg(LOOP)
@@ -3015,8 +2966,8 @@
 
 *5744|
 [fc]
-丞実が、乱暴に腰を動かし始める。[r]
-俺は、まだまだ何ラウンドでも出来そうな気がしていた。[pcms]
+Tsugumi starts moving her hips roughly. I felt like I could go for[r]
+many more rounds.[pcms]
 
 ;;FHD ここで停止か？
 [bgvstop t]
@@ -3024,8 +2975,8 @@
 *5745|
 ;旧ナンバー[vo_ s="sizuka0322"]
 [マイク 位置９ ch=s][vo_s s="R_siz_BIN0156"]
-[ns]静[nse]
-「……ゃっ……ぁぁっ……」[pcms]
+[ns]Shizuka[nse]
+"...Yah... Ahhh..."[pcms]
 
 [se buf1 storage="seD010" loop]
 ;;//♪SEシャワー
@@ -3033,34 +2984,34 @@
 
 *5746|
 [fc]
-遠く、どこかから聞いたことのある悲鳴が聞こえてきた。[pcms]
+A familiar scream could be heard from somewhere far away.[pcms]
 
 
 *5747|
 [fc]
-これは……静ちゃんか……？[pcms]
+Is this... Shizuka-chan...?[pcms]
 
 
 *5748|
 [fc]
-俺は、どっかに行かなきゃいけないはずだったんだけど……、[r]
-なんかどうでも良くなってきた。[pcms]
+I was supposed to go somewhere, but... it's starting to not matter[r]
+anymore.[pcms]
 
 
 *5749|
 [fc]
-視界がぼやけていく。[pcms]
+My vision is blurring.[pcms]
 
 
 *5750|
 [fc]
-チンコにぬるぬると滑る感触しかわからない。[pcms]
+The only sensation I can feel is the slippery movement on my cock.[pcms]
 
 
 *5751|
 [fc]
-俺は、もう起きているのか眠っているのか、[r]
-わからないまま、シャワーの音だけを聞いていた。[pcms]
+I couldn't tell if I was awake or asleep anymore, just listening to[r]
+the sound of the shower.[pcms]
 
 
 *kaisou_end

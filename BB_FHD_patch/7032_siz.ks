@@ -24,23 +24,22 @@
 *8844|
 ;旧ナンバー[vo_s s="sizuka0410"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0183"]
-[ns]静[nse]
-「おチンポぉ、オマンコにいれていいですよねぇ？[r]
-　わたしのオマンコ、すごくきもちいいからぁぁぁ」[pcms]
+[ns]Shizuka[nse]
+"You can put your dick in my pussy, right? My pussy feels so good[r]
+ahhh!"[pcms]
 
 
 *8845|
 [fc]
-静ちゃんは慌ただしくシャツをまくり上げると、[r]
-その形のいいオッパイを俺に晒してくる。[pcms]
+Shizuka hurriedly rolled up her shirt, exposing her beautiful breasts[r]
+to me.[pcms]
 
 ;;//[ChrSetEx layer=5 chbase="tug2_kan"][ChrSetParts layer=5 chface="F2_tug20"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-120"][trans_c cross time=150]
 *8846|
 ;旧ナンバー[vo_t s="tugumi0625"]
 [マイク 位置５ ch=t][vo_t s="R_tug_BIN0240"]
-[ns]丞実[nse]
-「ええええ？　しずかがさきなのぉぉぉ？[r]
-　兄ちゃんのチンポ、あたしもほしいよぉぉ」[pcms]
+[ns]Tsugumi[nse]
+"Eeeeh? Shizuka goes first? I want big brother's dick toooo!"[pcms]
 
 ;;//[ChrSetEx layer=5 chbase="siz2_kan"][ChrSetParts layer=5 chface="F2_siz20"][ChrSetXY layer=5 x="&sf.std_s_x調整*0" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 
@@ -48,34 +47,33 @@
 *8847|
 ;旧ナンバー[vo_s s="sizuka0411"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0184"]
-[ns]静[nse]
-「きんしんそーかんとか、はんざいですしぃ。[r]
-　そのてん、わたしはかつみさんのぉ、こいびとだからぁぁ」[pcms]
+[ns]Shizuka[nse]
+"Incest and such is a crime. In that regard, I am Kazumi-san's[r]
+girlfriend ahhh."[pcms]
 
 ;;//[ChrSetEx layer=5 chbase="tug2_kan"][ChrSetParts layer=5 chface="F2_tug20"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-120"][trans_c cross time=150]
 *8848|
 ;旧ナンバー[vo_t s="tugumi0626"]
 [マイク 位置５ ch=t][vo_t s="R_tug_BIN0241"]
-[ns]丞実[nse]
-「なにそれぇぇぇ？　いつからそーなったのよぉ。[r]
-　だいたいぃ、きんしんそーかんいいじゃん。[r]
-　はいとく、てきでぇ、すごくきもちいいしぃぃぃ！！」[pcms]
+[ns]Tsugumi[nse]
+"What's that supposed to mean? Since when did you become that?[r]
+Besides, incest is fine. It's a special exception, and it feels so[r]
+good!!!"[pcms]
 
 ;;//[ChrSetEx layer=5 chbase="hon2_kan_a"][ChrSetParts layer=5 chface="F2_hon20"][ChrSetXY layer=5 x="&sf.std_h_x調整*0" y="&sf.std_h_y調整*-90"][trans_c cross time=150]
 *8849|
 ;旧ナンバー[vo_h s="honma0165"]
 [マイク 位置６ ch=h][vo_h s="R_hon_BIN0070"]
-[ns]本間[nse]
-「うふふふふ、ろんてん、ずれてるけどぉ、[r]
-　まあいいじゃない、しずか、おさきにぃ」[pcms]
+[ns]Honma[nse]
+"Ufufufu, you're off-topic, but well, it's fine. Go ahead, Shizuka."[pcms]
 
 ;;//[chara_int][trans_c cross time=150]
 
 
 *8850|
 [fc]
-こんなことになっても年の功とでも言うんだろうか、[r]
-先生の言葉に逆らうヤツは誰もいなかった。[pcms]
+Nobody opposed the teacher's words, even in such a situation. Perhaps[r]
+it was due to her seniority.[pcms]
 
 ;;//■イベントCG　siz_H005
 [evcg storage="siz_H005b"][trans_c cross time=500]
@@ -83,8 +81,8 @@
 
 *8851|
 [fc]
-お墨付きがついた静ちゃんは嬉々として[r]
-スパッツに指をかけると、そのまま股間の部分を引き裂いた。[pcms]
+With the approval given, Shizuka gleefully hooked her fingers into her[r]
+spats and tore open the crotch area.[pcms]
 
 ;;//[ChrSetEx layer=5 chbase="siz2_kan"][ChrSetParts layer=5 chface="F2_siz21"][ChrSetXY layer=5 x="&sf.std_s_x調整*0" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 
@@ -92,20 +90,21 @@
 *8852|
 ;旧ナンバー[vo_s s="sizuka0412"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0185"]
-[ns]静[nse]
-「あはぁ……わたしのオマンコ、もうベっタベタぁぁぁ。[r]
-　これならずるぅぅぅってはいるぅぅ。いれちゃうぅぅぅ！」[pcms]
+[ns]Shizuka[nse]
+"Ahha... my pussy is already so sticky. It'll slip right in. I'm[r]
+putting it in!"[pcms]
 
 
 *8853|
 [fc]
-[ns]克己[nse]
-「しず……静ちゃん……ッッ！？」[pcms]
+[ns]Kazumi[nse]
+"Shizu... Shizuka-chan...!?"[pcms]
 
 
 *8854|
 [fc]
-そのままガニマタで俺に跨がると、一気に腰を叩きつけてきた。[pcms]
+Then she straddled me with her legs wide open and slammed her hips[r]
+down in one go.[pcms]
 
 ;;//se_sex03.ogg(LOOP)
 [se_HLoop buf2 storage="se_sex03"]
@@ -117,79 +116,76 @@
 *8855|
 ;旧ナンバー[vo_s s="sizuka0413"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0186"]
-[ns]静[nse]
-「んひいぃいぃいぃいぃぃぃぃぃ！！！[r]
-　キタぁぁっ！　おチンポぉっ、オマンコにぃぃ、キタぁぁ！！」[pcms]
+[ns]Shizuka[nse]
+"Nnhiiiiiiii!!! It's in! The dick's in my pussy!!"[pcms]
 [bgv_s to2 "旧sizukaZ0002"]
 
 
 *8856|
 [fc]
-前戯とかそんなもの無視して、アレは穴に飲み込まれていた。[r]
-そしてその瞬間からすごい締め付けが襲ってくる。[pcms]
+Ignoring foreplay and such, it was swallowed up by the hole. And from[r]
+that moment, an intense tightness assaulted me.[pcms]
 
 
 *8857|
 [fc]
-[ns]克己[nse]
-「おぐっ、ぐおおおお……！！」[pcms]
+[ns]Kazumi[nse]
+"Oguh, guoooo...!!"[pcms]
 
 
 *8858|
 ;旧ナンバー[vo_s s="sizuka0414"]
 [マイク 位置２ ch=s][vo_s s="R_siz_BIN0187"]
-[ns]静[nse]
-「いいですか？　わたしのオマンコっ、オマンコあなぁっ！[r]
-　きもちぃ、いいですかぁ！！」[pcms]
+[ns]Shizuka[nse]
+"Is it good? My pussy, my pussy hole! Does it feel good?!"[pcms]
 [bgv_s to1 "旧sizukaZ0001"]
 
 
 *8859|
 [fc]
-穴の奥、突き当たりの場所までアレを飲み込みながら[r]
-静ちゃんは舌を突き出して絶叫していた。[pcms]
+While swallowing it all the way to the back, Shizuka was screaming[r]
+with her tongue out.[pcms]
 
 
 *8860|
 [fc]
-[ns]克己[nse]
-「すっげ、しめつけ……すっげぇぇぇぇ！！」[pcms]
+[ns]Kazumi[nse]
+"Damn, this tightness... it's so intense!!"[pcms]
 
 
 *8861|
 [fc]
-俺は感想にならない絶叫を返していた。[r]
-それぐらい静ちゃんの中は気持ち良くて、[r]
-腰どころか身体がバラバラになりそうだった。[pcms]
+I could only return with incoherent screams. Shizuka's insides felt so[r]
+good that my whole body felt like it was falling apart, not just my[r]
+hips.[pcms]
 
 
 *8862|
 ;旧ナンバー[vo_s s="sizuka0415"]
 [マイク 位置２ ch=s][vo_s s="R_siz_BIN0188"]
-[ns]静[nse]
-「そうですか……。[r]
-　だったら、もっともっときもちよくなってぇ！」[pcms]
+[ns]Shizuka[nse]
+"Is that so... Then let's make it feel even better!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *8863|
 [fc]
-静ちゃんは処女なのかとかそんなの気にならなかったし、[r]
-そんなことを確かめる術もなかった。[pcms]
+I didn't care if Shizuka was a virgin or not, nor did I have any way[r]
+to check.[pcms]
 
 
 *8864|
 [fc]
-俺と静ちゃんの結合部からはいやらしい汁で一杯になり、[r]
-あとからあとから溢れ出してくるからだ。[pcms]
+The area where me and Shizuka were joined was filled with lewd fluids,[r]
+overflowing one after another.[pcms]
 
 
 *8865|
 ;旧ナンバー[vo_s s="sizuka0416"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0189"]
-[ns]静[nse]
-「はひっ、はひいぃぃ！　うごっ、うごきますよ……！[r]
-　かつみさんチンポっ、オマンコでしごいてあげますッ！！」[pcms]
+[ns]Shizuka[nse]
+"Hahii, hahiii! I'll move, I'll move...! I'll stroke Kazumi-san's dick[r]
+with my pussy!!"[pcms]
 [bgv_s to3 "旧sizukaZ0003"]
 
 [se_HLoop buf2 storage="se_sex03"]
@@ -197,23 +193,22 @@
 
 *8866|
 [fc]
-そんな俺の感慨とか一切無視して、いきなりトップギアに入った[r]
-静ちゃんが激しく身体をくゆらせ始めた。[pcms]
+Ignoring my sentiments completely, Shizuka suddenly shifted into top[r]
+gear and began to violently shake her body.[pcms]
 
 
 *8867|
 ;旧ナンバー[vo_s s="sizuka0417"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0190"]
-[ns]静[nse]
-「ひああああっ！！　かつみさんのっ、おチンポっっ！！[r]
-　おくっ、オマンコのおくっ、ごんごんってしてますぅぅ！！[r]
-　いひっ、きもちいいっ！　きもちよすぎいぃぃぃぃ！！」[pcms]
+[ns]Shizuka[nse]
+"Hiaaaa!! Kazumi-san's dick!! It's pounding the back of my pussy!![r]
+Ihii, it feels good! It feels too good!!"[pcms]
 
 
 *8868|
 [fc]
-ばさばさと揺れる黒髪から珠のような汗が飛び散り、[r]
-雨の中でエッチしてるみたいな気持ちになってくる。[pcms]
+Sweat like beads scattered from her wildly shaking black hair, making[r]
+me feel as if we were having sex in the rain.[pcms]
 
 ;;//■イベントCG　siz_H005
 [evcg storage="siz_H005d"][trans_c cross time=500]
@@ -222,147 +217,144 @@
 *8869|
 ;旧ナンバー[vo_s s="sizuka0418"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0191"]
-[ns]静[nse]
-「いいいいいっっ！！　かつみさんっ、すきっ！　すきすきぃ！[r]
-　おチンポだいすきぃぃぃぃ！[r]
-　おっ、おおおおっ！　このチンポっ、わたしのものぉぉぉ！！」[pcms]
+[ns]Shizuka[nse]
+"Iiiiiit!! Kazumi-san, I love you! I love you so much! I love your[r]
+dick so much! Ohhh, ohhhhh! This dick is mine!!"[pcms]
 [bgv_s to1 "旧sizukaZ0001"]
 
 
 *8870|
 [fc]
-好きなのはチンポで、俺じゃないのか……。[pcms]
+She loves the dick, not me...[pcms]
 
 
 *8871|
 [fc]
-なんてことを考える余裕なんて一切なかった。[r]
-気持ちいいのは間違いないけど、これは対等のエッチじゃない。[pcms]
+I had no room to think about such things. It felt good without a[r]
+doubt, but this wasn't equal sex.[pcms]
 
 
 *8872|
 [fc]
-どっちかというとレイプされてるとでも言うか……。[pcms]
+It was more like being raped...[pcms]
 
 
 *8873|
 ;旧ナンバー[vo_s s="sizuka0419"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0192"]
-[ns]静[nse]
-「なんですか？　きもちいいのにっ、そのふまんげなかおっ！[r]
-;FHD　わたしのオマンコじゃ、まんぞくできないっていうですか！？」[pcms]
-　わたしのオマンコじゃ、まんぞくできないっていうんですか！？」[pcms]
+[ns]Shizuka[nse]
+"What is it? You look unsatisfied even though it feels good! ;FHD Is[r]
+my pussy not satisfying you!?"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *8874|
 [fc]
-[ns]克己[nse]
-「そっ、そういうわけじゃ……ぐおおおおおおッ！！」[pcms]
+[ns]Kazumi[nse]
+"That's not what I mean... guoooooo!!"[pcms]
 
 
 *8875|
 [fc]
-一瞬なにが起きたのか分からなかった。[r]
-だけどすぐに静ちゃんの指が、太股に食い込んでるのが分かった。[pcms]
+I didn't understand what happened for a moment. But soon I realized[r]
+Shizuka's fingers were digging into my thigh.[pcms]
 
 
 *8876|
 ;旧ナンバー[vo_s s="sizuka0420"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0193"]
-[ns]静[nse]
-;FHD「わたしのオマンコっ、どこがわるいんですかぁ！？[r]
-;FHD　かつみさんのためにぃ、あへっ、がんばってるのにぃぃ！！」[pcms]
-「わたしのオマンコっ、どこがわるいですかぁ！？[r]
-　かつみさんのためにぃ、あへっ、がんばってるのにぃぃ！！」[pcms]
+[ns]Shizuka[nse]
+;FHD"What's wrong with my pussy!? ;FHD I'm trying so hard for you,[r]
+Kazumi-san!!"[pcms]
+"What's wrong with my pussy!? I'm trying so hard for you, Kazumi-[r]
+san!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *8877|
 [fc]
-肌に食い込んだ爪の下に赤いものが染み出てくる。[r]
-先生の首にアザを作ったあの力で、指をねじ込んできてるんだ。[pcms]
+Red marks began to seep out from under the nails digging into my skin.[r]
+She was twisting her fingers with the same force that had left bruises[r]
+on the teacher's neck.[pcms]
 
 
 *8878|
 [fc]
-[ns]克己[nse]
-「ちがッ、ちがうッ、気持ちいいよっ、ホントに……！！」[pcms]
+[ns]Kazumi[nse]
+"It's different, it feels good, really...!!"[pcms]
 
 
 *8879|
 ;旧ナンバー[vo_s s="sizuka0421"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0194"]
-[ns]静[nse]
-「そうですか、ならいいんですぅ！　あはっ、あはははは！！」[pcms]
+[ns]Shizuka[nse]
+"Is that so? Then that's fine! Ahah, ahahaha!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *8880|
 [fc]
-ようやく指の力を緩めると、再び身体を揺すり始めた。[r]
-痛みはあっという間に快感に置き換えられて、[r]
-俺の頭を靄の中に溶かし込んでいく。[pcms]
+Finally easing the pressure of her fingers, she began to shake her[r]
+body again. The pain was quickly replaced by pleasure, melting my mind[r]
+into a haze.[pcms]
 
 
 *8881|
 ;旧ナンバー[vo_s s="sizuka0422"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0195"]
-[ns]静[nse]
-「あひぃぃ……きもちいいよぉ、ごりごりって、オマンコ、[r]
-　ごりごりってされて、おおおおおっ！！　これっ、いいいい！」[pcms]
+[ns]Shizuka[nse]
+"Ahiiee... it feels good, grinding my pussy, grinding it like this,[r]
+ooooooh!! This is great!"[pcms]
 [bgv_s to3 "旧sizukaZ0003"]
 
 
 *8882|
 [fc]
-ピストンに捻りを加えて快感を貪る静ちゃん。[r]
-そこに以前の姿はなく、ただ肉欲に耽るケモノがいるだけだった。[pcms]
+Shizuka greedily sought pleasure by adding twists to her piston[r]
+movements. The person before me was gone, replaced only by a beast[r]
+indulging in carnal desires.[pcms]
 
 
 *8883|
 ;旧ナンバー[vo_s s="sizuka0423"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0196"]
-[ns]静[nse]
-「くひっ、ひぐううっ！　あーーーっ、んあああああ！！[r]
-　こんなに、きもちいいなんて、セックス、さいこうですぅぅ！[r]
-　これもっ、かつみさんがぁ、あいてだから……かもぉ！！」[pcms]
+[ns]Shizuka[nse]
+"Kuh, higuuuu! Ah---, naaaaaa!! Sex feels so amazing, it's the best![r]
+This must be because you're my partner, Kazumi-san... maybe!!"[pcms]
 [bgv_s to1 "旧sizukaZ0001"]
 
 
 *8884|
 [fc]
-どこまで本気か分からないけど、それはそれで嬉しい。[r]
-もちろんこんな状況じゃなければ、だけど……。[pcms]
+I'm not sure how serious she is, but that makes me happy. Of course, I[r]
+wouldn't think so if it weren't for this situation...[pcms]
 
 
 *8885|
 ;旧ナンバー[vo_s s="sizuka0424"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0197"]
-[ns]静[nse]
-「あぐっ、んおおお！　も、もお、でますかッ？[r]
-　わた……しぃっ、もう……ダメかも……あ、ああぁ！！」[pcms]
+[ns]Shizuka[nse]
+"Aguuu, noooo! Are you going to cum? I... might be at my limit... ahh,[r]
+ahhh!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *8886|
 [fc]
-自分本位の動きで快感に貪ったせいか、[r]
-静ちゃんは限界が訪れそうになっているらしいけど[r]
-かくいう俺もそろそろ限界だ。[pcms]
+Perhaps due to her selfish movements in pursuit of pleasure, Shizuka[r]
+seems to be reaching her limit, but I'm about to reach mine as well.[pcms]
 
 
 *8887|
 [fc]
-[ns]克己[nse]
-「お、俺も……ッ、もう、ダメそうだから……、[r]
-　抜いて、くれ……！！」[pcms]
+[ns]Kazumi[nse]
+"I... I'm also... about to lose it... pull out, please...!!"[pcms]
 
 
 *8888|
 [fc]
-ここまでやっといて避妊なんてバカバカしい。[r]
-そうは思うけど理性らしきものがそう叫ばせた。[pcms]
+It's ridiculous to think about contraception after all this. But[r]
+something resembling reason made me shout that out.[pcms]
 
 ;;//■イベントCG　siz_H005
 [evcg storage="siz_H005e"][trans_c cross time=500]
@@ -371,106 +363,105 @@
 *8889|
 ;旧ナンバー[vo_s s="sizuka0425"]
 [マイク 位置２ ch=s][vo_s s="R_siz_BIN0198"]
-[ns]静[nse]
-「ダメですよぉぉ、オマンコで、しゃせいしてくださいっ！！」[pcms]
+[ns]Shizuka[nse]
+"No way, please ejaculate inside my pussy!!"[pcms]
 
 
 *8890|
 [fc]
-[ns]克己[nse]
-「そんなこと、したら……！！」[pcms]
+[ns]Kazumi[nse]
+"If I do that...!!"[pcms]
 
 
 *8891|
 ;旧ナンバー[vo_s s="sizuka0426"]
 [マイク 位置２ ch=s][vo_s s="R_siz_BIN0199"]
-[ns]静[nse]
-「いいから……！！　わたしっ、にんしんしたいんですッ！[r]
-　かつみさんのせーえきでっ、あかちゃんっ、はらむの！！」[pcms]
+[ns]Shizuka[nse]
+"Just do it...!! I want to get pregnant! I want to conceive a baby[r]
+with Kazumi-san's semen!!"[pcms]
 
 
 *8892|
 [fc]
-あまりに衝撃的発言に身を捩ろうとするが、[r]
-こんな格好のせいでマトモに身動きできなかった。[pcms]
+Her shockingly candid statement made me try to twist away, but I[r]
+couldn't move properly because of the position I was in.[pcms]
 
 
 *8893|
 ;旧ナンバー[vo_s s="sizuka0427"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0200"]
-[ns]静[nse]
-「はひいぃぃいぃ！　にんしんっ、にんしんっっ！！[r]
-　かつみさんのせーえきでぇっ、にんしんしちゃううぅぅ！！」[pcms]
+[ns]Shizuka[nse]
+"Hahiiiiii! Pregnant, pregnant!! I'm going to get pregnant with[r]
+Kazumi-san's semen!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *8894|
 [fc]
-妊娠という言葉がより興奮を掻き立てるのか、[r]
-静ちゃんはさらに激しく身体を揺すってくる。[pcms]
+The word 'pregnant' seemed to excite her even more, and Shizuka began[r]
+to shake her body even more violently.[pcms]
 
 
 *8895|
 [fc]
-ばちんばちんと肉がぶつかり合い、飛び散った体液が二人の間に[r]
-いやらしくもキラキラ輝く糸をいくつも織り上げた。[pcms]
+Their flesh slapped together, and the scattered bodily fluids spun[r]
+numerous lewd and sparkling threads between them.[pcms]
 
 
 *8896|
 ;旧ナンバー[vo_s s="sizuka0428"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0201"]
-[ns]静[nse]
-「あーーーーー……っっ！！　いくいくいくぅっ！！[r]
-　せーえきぃっ！　だしてっ、オマンコのおくっ、だしてぇ！！」[pcms]
+[ns]Shizuka[nse]
+"Ah-----...!! I'm cumming, cumming, cumming!! Semen! Release it, deep[r]
+inside my pussy, let it out!!"[pcms]
 [bgv_s to3 "旧sizukaZ0003"]
 
 
 *8897|
 [fc]
-ゴンゴンと亀頭の先端が殴打され、ガマンなんて不可能だった。[r]
-無意識のうちに不自由な体勢ながらも腰を突き上げ、[r]
-さらなる快感を求めるようになっていた。[pcms]
+The tip of my glans was being pounded, and holding back was[r]
+impossible. Unconsciously, even in this awkward position, I thrust my[r]
+hips up, seeking even more pleasure.[pcms]
 
 
 *8898|
 ;旧ナンバー[vo_s s="sizuka0429"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0202"]
-[ns]静[nse]
-「ひいぃいぃっっ！　かつみっ……さぁん！[r]
-　オマンコっ、こわれるっ、あへっ、こわれるぅうぅぅぅ！！」[pcms]
+[ns]Shizuka[nse]
+"Hiiiiiiii! Kazumi...san! My pussy's breaking, aheh, it's breaking!!"[pcms]
 [bgv_s to2 "旧sizukaZ0002"]
 
 
 *8899|
 [fc]
-[ns]克己[nse]
-「しず……か、ちゃん……ッ！　も、もお……ッッ！」[pcms]
+[ns]Kazumi[nse]
+"Shizu...ka-chan...! I'm... I'm...!!"[pcms]
 
 
 *8900|
 ;旧ナンバー[vo_s s="sizuka0430"]
 [マイク 位置２ ch=s][vo_s s="R_siz_BIN0203"]
-[ns]静[nse]
-「だしてだしてだしてだしてだしてぇえぇえぇえぇぇぇ！！[r]
-　オマンコいっぱいにっ、だしてぇぇえぇぇっっ！！！」[pcms]
+[ns]Shizuka[nse]
+"Release it, release it, release it, release it, release it eeeeeee!![r]
+Fill up my pussy completely, let it out eeeeee!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to2 "旧sizukaZ0002"]
 
 
 *8901|
 [fc]
-幾重もの柔襞が亀頭の裏側にまで巻きつき、[r]
-もう動かすだけで俺はイってしまいそうだった。[pcms]
+The numerous soft folds wrapped around the underside of my glans, and[r]
+just moving was enough to make me feel like I was going to cum.[pcms]
 
 
 *8902|
 [fc]
-……そして、それは唐突にやってきた。[pcms]
+...And then, it came abruptly.[pcms]
 
 
 *8903|
 [fc]
-[ns]克己[nse]
-「………………ッ！！」[pcms]
+[ns]Kazumi[nse]
+"...!!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -483,28 +474,28 @@
 
 *8904|
 [fc]
-静ちゃんが腰を捻った瞬間、俺は何度目かの絶頂に達していた。[pcms]
+The moment Shizuka twisted her hips, I reached my climax for who knows[r]
+how many times.[pcms]
 
 
 *8905|
 ;旧ナンバー[vo_s s="sizuka0431"]
 [マイク 位置２ ch=s][vo_s s="R_siz_BIN0204"]
-[ns]静[nse]
-「んおぉぉおぉおぉぉぉぉぉっっっ！？[r]
-　キタあっ、キタあぁぁあぁぁぁっ！！！」[pcms]
+[ns]Shizuka[nse]
+"Noooooo!? It's coming, it's coming aaaaaa!!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to2 "旧sizukaZ0002"]
 
 
 *8906|
 [fc]
-[ns]克己[nse]
-「ぐっ、ぐうううう………………」[pcms]
+[ns]Kazumi[nse]
+"Guh, guuuuu..."[pcms]
 
 
 *8907|
 [fc]
-なにもかも吸い上げられるような感覚に襲われながら[r]
-俺はタマ袋の中身をブチ撒ける……！[pcms]
+While feeling as if everything was being sucked out of me, I spilled[r]
+the contents of my balls...![pcms]
 
 ;;//■イベントCG　siz_H005
 [evcg storage="siz_H005g"][trans_c cross time=1000]
@@ -513,10 +504,9 @@
 *8908|
 ;旧ナンバー[vo_s s="sizuka0432"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0205"]
-[ns]静[nse]
-「はひっ、はおぉおぉ……イクっ、かつみ、さんにぃっ、[r]
-　たねづけされてぇっ、イクっ、イ゛グうぅぅぅぅぅぅぅぅっ！！[r]
-　んおぉぉおぉぉぉぉぉぉ………………っっっ！！」[pcms]
+[ns]Shizuka[nse]
+"Hah, hoooo... Cumming, Kazumi-san's seed is filling me up, cumming,[r]
+cumming uuuuuuuuuu!! Noooooo...!!!"[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -527,68 +517,66 @@
 
 *8909|
 [fc]
-マンコの中で弾ける白濁を飲み干しながら[r]
-静ちゃんはビクビクと断末魔の絶叫を上げていた。[pcms]
+As she gulped down the bursting white turbidity inside her pussy,[r]
+Shizuka convulsed and screamed as if in her death throes.[pcms]
 
 
 *8910|
 ;旧ナンバー[vo_s s="sizuka0433"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0206"]
-[ns]静[nse]
-「くううう……、こんなにぃ、だされたらぁ、[r]
-　らんしぃ、レイプされちゃうううう…………」[pcms]
+[ns]Shizuka[nse]
+"Kuuuuu... if you release so much inside me, I'll get pregnant, raped[r]
+uuuu..."[pcms]
 [bgv_s to3 "旧sizukaZ0003"]
 
 
 *8911|
 [fc]
-レイプされてるのはこっちじゃないか……？[r]
-なんて疑問が茫洋とした脳裏を過ぎったけど、[r]
-この心地よさは正直最高だった。[pcms]
+Aren't I the one being raped here...? Such a question fleetingly[r]
+crossed my dazed mind, but honestly, this feeling was the best.[pcms]
 
 
 *8912|
 [fc]
-[ns]克己[nse]
-「静……ちゃん、俺…………」[pcms]
+[ns]Kazumi[nse]
+"Shizu...ka-chan, I..."[pcms]
 
 [bgvstop s]
 
 *8913|
 ;旧ナンバー[vo_s s="sizuka0434"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0207"]
-[ns]静[nse]
-「は……へ？　あ……もっと、だしてくれるんですかあ？[r]
-　あははは、なんにん、こどもがほしいの？[r]
-　ねえ、かつみさんっ……？」[pcms]
+[ns]Shizuka[nse]
+"Ha... eh? Ah... are you going to release more? Ahahaha, how many[r]
+children do you want? Hey, Kazumi-san...?"[pcms]
 
 
 *8914|
 [fc]
-早くもうねりを始める膣内でアレが固くなり始める。[r]
-こんなに何度も出してるのに、頭だけじゃなくて[r]
-コッチの方もおかしくなってきたのか……。[pcms]
+Inside her tightening vagina, that thing began to harden again.[r]
+Despite having released so many times already, not just my head but[r]
+also this part of me seemed to be going crazy...[pcms]
 
 
 *8915|
 ;旧ナンバー[vo_h s="honma0166"]
 [マイク 位置６ ch=h][vo_h s="R_hon_BIN0071"]
-[ns]本間[nse]
-「はいはい、つぎはわたしのばん。[r]
-　しずかは、そこでオナニーでもしてなさい！」[pcms]
+[ns]Honma[nse]
+"Alright alright, it's my turn next. Shizuka, you just masturbate over[r]
+there!"[pcms]
 
 
 *8916|
 [fc]
-いつの間にか背後に忍び寄っていた先生が[r]
-静ちゃんを無理矢理引き剥がしにかかる。[pcms]
+Before I knew it, the teacher had crept up behind us and began[r]
+forcibly pulling Shizuka away.[pcms]
 
 
 *8917|
 ;旧ナンバー[vo_s s="sizuka0435"]
 [マイク 位置１ ch=s][vo_s s="R_siz_BIN0208"]
-[ns]静[nse]
-「イヤああああ！　もっともっともっともっとチンポぉぉ！！」[pcms]
+[ns]Shizuka[nse]
+"No wayyyyy! More more more more cock!!"[pcms]
 
 ;;//#_ブラックアウト
 ;;//[black_toplayer][trans_c cross time=500][hide_chara_int]

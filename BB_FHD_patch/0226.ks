@@ -6,7 +6,7 @@
 ;;//・視点：主人公一人称
 ;;//・時間帯：2010年8月19日　昼
 ;;//☆概要：強行突破に失敗して民家で休憩する克己。
-;;//・テキスト容量：3~5k前後（短くてもOK）[pcms]
+3~5k characters (shorter is okay)[pcms]
 
 ;;//BGMフェードアウト
 [fadeoutbgm time=1000]
@@ -20,9 +20,8 @@
 
 *2057|
 [fc]
-[ns]克己[nse]
-「イヤァァァアァァ！！！！！[r]
-　たっ、たすけ……助けてぇぇっ！！」[pcms]
+[ns]Kazumi[nse]
+"Noooooo!! He-help... Help meeee!!"[pcms]
 
 ;;//BG：〆民家（一般家庭のもの。ありもので）
 ;;//★民家・朝昼
@@ -31,14 +30,14 @@
 
 *2058|
 [fc]
-沢山の感染者に追われ、恐怖の涙で歪む視界の中、[r]
-飛び込んだ先は、民家の窓ガラス。[pcms]
+Chased by a horde of infected, my vision blurred by tears of terror, I[r]
+dove through the window of a civilian home.[pcms]
 
 
 *2059|
 [fc]
-薄っぺらい透明な破片が無数に飛び散る中、[r]
-夏の太陽に焼かれたフローリングの上に転がり落ちた。[pcms]
+Thin shards of glass scattered everywhere as I tumbled onto the sun-[r]
+baked flooring.[pcms]
 
 ;;//bgm01-09
 [bgm storage="bgm01-09"]
@@ -46,95 +45,89 @@
 
 *2060|
 [fc]
-[ns]克己[nse]
-「いっ……イテェェ！！[r]
-　失敗した……御照覧あれとか言った後、[r]
-　鉄砲隊にやられて全滅してんだよな……」[pcms]
+[ns]Kazumi[nse]
+"Ow... It hurts!! I messed up... After saying 'watch this', I got[r]
+wiped out by a firing squad... just like that."[pcms]
 
 
 *2061|
 [fc]
-あんな事言うモンじゃねえや……。[r]
-おかげでこのザマだ。[pcms]
+I shouldn't have said that... Look at the mess I'm in now.[pcms]
 
 
 *2062|
 [fc]
-ほんの数分前には、かっこいい事言ってたクセに、[r]
-ほとほと自分が嫌になる。[pcms]
+Just a few minutes ago, I was saying cool things, but now I'm[r]
+thoroughly disgusted with myself.[pcms]
 
 
 *2063|
 [fc]
-強行突破は失敗。[pcms]
+The forced breakthrough was a failure.[pcms]
 
 
 *2064|
 [fc]
-そんで、ウジャウジャいる感染者に追いかけ回されて、[r]
-結果、涙目だ。[pcms]
+And now, chased around by swarms of infected, I end up in tears.[pcms]
 
 
 *2065|
 [fc]
-飛び込んだ民家には、感染者も家主もいなかったってのが、[r]
-不幸中の幸いだ。[pcms]
+The house I jumped into was thankfully empty, no infected or homeowner[r]
+in sight.[pcms]
 
 
 *2066|
 [fc]
-あれだけ大騒ぎしてんのに、[r]
-誰も来ないって事はそういうことだろ。[pcms]
+With all the commotion, the fact that no one's come means just that.[pcms]
 
 
 *2067|
 [fc]
-[ns]克己[nse]
-「いい年ブッこいて泣いてるの観られたりしたくねーしな。[r]
-　それに……誰もいねーなら気兼ねもいらないし……」[pcms]
+[ns]Kazumi[nse]
+"I don't want to be seen crying at my age. Besides... if no one's[r]
+here, I don't have to worry about anything..."[pcms]
 
 
 *2068|
 [fc]
-窓の外に目を向けると、相変わらず感染者がうろついている。[r]
-だけど、ここに入ってきそうな感じは全くない。[pcms]
+Looking out the window, the infected are still wandering around as[r]
+usual. But there's no sign they'll come in here.[pcms]
 
 
 *2069|
 [fc]
-[ns]克己[nse]
-「ふぅ……」[pcms]
+[ns]Kazumi[nse]
+"Phew..."[pcms]
 
 
 *2070|
 [fc]
-それなりに安全な場所にたどり着いたおかげで、[r]
-緊張感が緩みだした。[pcms]
+Having reached a relatively safe place, the tension begins to ease.[pcms]
 
 
 *2071|
 [fc]
-感染者に囲まれている事も、[r]
-ここがアカの他人の家だって事も忘れてしまいそうな位に。[pcms]
+I might even forget that I'm surrounded by infected or that this is[r]
+someone else's house.[pcms]
 
 
 *2072|
 [fc]
-[ns]克己[nse]
-「しっかし、クソあちーな……。[r]
-　エアコン……エアコンっと」[pcms]
+[ns]Kazumi[nse]
+"But man, it's so damn hot... Air conditioning... air conditioning..."[pcms]
 
 
 *2073|
 [fc]
-テーブルの上に置いてあったリモコンを操作すると、[r]
-低く呻る音の直後、部屋の中に冷たい空気が流れ出す。[pcms]
+When I operate the remote control placed on the table, a low groan[r]
+follows and then cold air starts flowing into the room.[pcms]
 
 
 *2074|
 [fc]
-[ns]克己[nse]
-「あ゛～……たまんねえ……最高……」[pcms]
+[ns]Kazumi[nse]
+"Ah~... that's the stuff... perfect..."[pcms]
 
 [se buf1 storage="seG014"]
 ;;//♪SE感染者のうなり声
@@ -142,33 +135,32 @@
 
 *2075|
 [fc]
-とたん、家の外から一斉にうなり声が鳴り響く。[pcms]
+Suddenly, a chorus of groans echoes from outside the house.[pcms]
 
 
 *2076|
 [fc]
-[ns]克己[nse]
-「ぎゃ」[pcms]
+[ns]Kazumi[nse]
+"Eek!"[pcms]
 
 
 *2077|
 [fc]
-一部の感染者は室外機の音に驚き、[r]
-興奮したように叫んだり、勢いよく体を捻ったりしていたけど、[r]
-俺に気が付いた様子は無かった。[pcms]
+Some of the infected were startled by the noise of the outdoor unit,[r]
+shouting excitedly or twisting their bodies vigorously, but none[r]
+seemed to notice me.[pcms]
 
 
 *2078|
 [fc]
-[ns]克己[nse]
-「脅かしやがって、クソッ！　……しかしあいつら、[r]
-　このクソあちー中、元気なモンだぜ」[pcms]
+[ns]Kazumi[nse]
+"Don't scare me like that, damn it! ...But those guys, in this[r]
+scorching heat, they're so lively."[pcms]
 
 
 *2079|
 [fc]
-俺なんか、炎天下の中逃げ回ったせいで、[r]
-ヘトヘトだってのに。[pcms]
+I'm completely worn out from running around under the blazing sun.[pcms]
 
 ;;//seフェード停止###[stop_se buf1]
 [stopse_fadeout buf1 time=1000]
@@ -176,141 +168,136 @@
 
 *2080|
 [fc]
-……こう言うときは、水だ水。[r]
-どうせだから少し休憩もさせて貰うか。[pcms]
+...In times like these, water is what you need. Might as well take a[r]
+little break while I'm at it.[pcms]
 
 
 *2081|
 [fc]
-[ns]克己[nse]
-「よし、今は緊急事態だ。[r]
-　飲食物を供出して頂くとしよう」[pcms]
+[ns]Kazumi[nse]
+"Alright, it's an emergency situation. Time to commandeer some food[r]
+and drink."[pcms]
 
 
 *2082|
 [fc]
-食器棚におかれた綺麗なコップを取り出し、[r]
-銀色の蛇口を捻ると、当然の様に水が流れ出す。[pcms]
+I take out a clean glass from the cupboard and turn the silver faucet;[r]
+naturally, water flows out.[pcms]
 
 
 *2083|
 [fc]
-[ns]克己[nse]
-「ぷはぁっ！　うめぇぇ！！[r]
-　こんな時でも美味しい水を頂く事が出来るのは、[r]
-　水道局の努力のたまものだねぇ……さて、次メインっと」[pcms]
+[ns]Kazumi[nse]
+"Puhah! Delicious!! To be able to enjoy such tasty water even at a[r]
+time like this is thanks to the efforts of the waterworks bureau...[r]
+Now, onto the main event."[pcms]
 
 
 *2084|
 [fc]
-当然の様に流れ出した水道水をそのままに、[r]
-俺は当然のように冷蔵庫の扉を開く。[pcms]
+Leaving the tap water running as if it were only natural, I naturally[r]
+open the refrigerator door.[pcms]
 
 
 *2085|
 [fc]
-[ns]克己[nse]
-「お、結構豪華じゃん？」[pcms]
+[ns]Kazumi[nse]
+"Oh, this looks pretty fancy?"[pcms]
 
 
 *2086|
 [fc]
-一人暮らしの俺んちの何倍も大きい冷蔵庫の中には、[r]
-食べ物の他、ペットボトルのお茶やジュースの缶、[r]
-そして銀色のビールの缶が綺麗に並べられていた。[pcms]
+The fridge, several times larger than my single-person household's,[r]
+was neatly stocked with food, bottles of tea, cans of juice, and[r]
+silver cans of beer.[pcms]
 
 
 *2087|
 [fc]
-[ns]克己[nse]
-「うーん、どうすっかな……って、[r]
-　クソ暑い夏と言えば、うーん……。[r]
-　……やっぱ、ビールだろビール！！」[pcms]
+[ns]Kazumi[nse]
+"Hmm, what to choose... Well, when you think of a hot summer, yeah...[r]
+...it's gotta be beer!!"[pcms]
 
 
 *2088|
 [fc]
-湿気もなく、冷たい空気が充満しだした部屋で飲むものと言えば、[r]
-ビール以外あり得ない！[pcms]
+In a room now filled with cool air and devoid of humidity, there's[r]
+nothing else to drink but beer![pcms]
 
 
 *2089|
 [fc]
-[ns]克己[nse]
-「そうだよ、俺は戦いに向かうんだ。[r]
-　言うなれば戦国武将！　古来、戦国の武将達も、[r]
-　出陣に際して御神酒を奉じたと言うじゃないか」[pcms]
+[ns]Kazumi[nse]
+"That's right, I'm heading into battle. You could say I'm like a[r]
+warlord! In ancient times, warlords would partake in sacred sake[r]
+before marching off to battle."[pcms]
 
 
 *2090|
 [fc]
-景気づけと、精神的な回復効果。[r]
-そのどちらもいっぺんにまかなうことが出来る、[r]
-魔法の飲み物、それがビール！[pcms]
+A morale booster and a mental tonic all in one  that magical drink is[r]
+beer![pcms]
 
 
 *2091|
 [fc]
-そうと決まればと、[r]
-冷蔵庫の中から五百ミリリットルのビール缶を取り出し、[r]
-リビングのソファーに尻を下ろした。[pcms]
+Having decided that, I take out a 500ml can of beer from the fridge[r]
+and sit down on the living room sofa.[pcms]
 
 
 *2092|
 [fc]
-[ns]克己[nse]
-「ん？」[pcms]
+[ns]Kazumi[nse]
+"Hm?"[pcms]
 
 
 *2093|
 [fc]
-目線が変わると、リビングの棚の中にも、[r]
-様々な物が置かれている事に気が付いた。[pcms]
+When my line of sight changes, I notice various items placed on the[r]
+living room shelf.[pcms]
 
 
 *2094|
 [fc]
-懐中電灯に、救急箱。[pcms]
+A flashlight and a first-aid kit.[pcms]
 
 
 *2095|
 [fc]
-非常事態に備えてあったんだろう。[r]
-随分しっかりしたご家庭の様だ。[pcms]
+They must have been prepared for emergencies. It seems like a very[r]
+well-organized household.[pcms]
 
 
 *2096|
 [fc]
-備えあれば憂いなしって言うけど、[r]
-イザって時に使うためのモノだよな。[pcms]
+They say if you're prepared, you have no worries, but these things are[r]
+meant to be used when the time comes.[pcms]
 
 
 *2097|
 [fc]
-その“イザ”ってのは、まさに今！[r]
-後で俺がしっかり使ってやろう。[pcms]
+And that "time" is exactly now! I'll make sure to use them later.[pcms]
 
 
 *2098|
 [fc]
-[ns]克己[nse]
-「さて……そろそろ頂きますか！」[pcms]
+[ns]Kazumi[nse]
+"Well then... shall I partake now!"[pcms]
 
 
 *2099|
 [fc]
-銀色の缶を左手で握り、[r]
-プルタブのリングに右手の人差し指を引っかけ、[r]
-勢いよく引き上げる。[pcms]
+I grip the silver can in my left hand, hook my right index finger into[r]
+the pull-tab ring, and yank it up with force.[pcms]
 
 ;;//SE:プシュッ　あるかな
 
 
 *2100|
 [fc]
-[ns]克己[nse]
-「いいね！　いいね！　夏っつったら、この音だろ！？[r]
-　コレ飲んだら行くから、待ってろよ丞実ッ！！」[pcms]
+[ns]Kazumi[nse]
+"That's the stuff! That's the sound of summer, right!? I'll head out[r]
+after I drink this, so wait for me, Tsugumi!!"[pcms]
 
 ;;//BGMフェードアウト
 [fadeoutbgm time=1000]

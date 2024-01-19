@@ -18,7 +18,7 @@
 ;;//--------------------------
 
 ;;//ブロック01040　『あおまちの袋小路』
-;;//　PLACE：校舎外～正門～中庭
+;;//　PLACE：校舎外正門中庭
 ;;//　TIME：昼
 ;;//　CAST：克己、丞実、テニス部＆ラクロス部感染者
 ;;//----------------------------------------------------------
@@ -33,34 +33,33 @@
 
 *4354|
 [fc]
-[ns]克己[nse]
-「……チックショウ。思ったよりいやがるな……」[pcms]
+[ns]Kazumi[nse]
+"...Damn it. She's resisting more than I thought..."[pcms]
 
 
 *4355|
 [fc]
-こっちの方が裏門よりはマシだと思ってたけど[r]
-それは誤算だったみたいだ。[pcms]
+I thought this way would be better than the back gate, but that seems[r]
+to have been a miscalculation.[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_c"][ChrSetParts layer=5 chface="F1_tug07"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *4356|
 ;旧ナンバー[vo_t s="tugumi0242"]
 [vo_t s="R_tug0227"]
-[ns]丞実[nse]
-「ね、ねえ、兄ちゃん……あの人たち……」[pcms]
+[ns]Tsugumi[nse]
+"Hey, big brother... those people..."[pcms]
 
 
 *4357|
 [fc]
-取り乱すようなことはないものの、その声音は震えている。[r]
-そりゃそうだ。俺だって叫びたいぐらいなんだから。[pcms]
+Her voice is trembling, though she's not panicking. Of course, it is.[r]
+I feel like screaming myself.[pcms]
 
 
 *4358|
 [fc]
-[ns]克己[nse]
-「な、なんてことはねえって。[r]
-　ほら、数えるぐらいしかいないだろ？」[pcms]
+[ns]Kazumi[nse]
+"It's, it's nothing. Look, there's only a handful of them, right?"[pcms]
 
 ;;//★学園外観・朝昼
 [bg storage="BG14a"][trans_c cross time=500]
@@ -88,39 +87,38 @@
 
 *4359|
 [fc]
-ざっと数えて１０人ぐらいってとこか……。[r]
-黒山の人だかりって感じだった裏門に比べれば、[r]
-なんとかなりそうな気がする。[pcms]
+Quickly counting, there are about ten people... Compared to the crowd[r]
+at the back gate, it feels like we might manage somehow.[pcms]
 
 
 *4360|
 [fc]
-それにしたってマトモに突っ込むのは無理だ。[pcms]
+But even so, charging in head-on is impossible.[pcms]
 
 
 *4361|
 [fc]
-特にあの校門に座り込んでるヤツら……お、おい？[r]
-なにやってんだ、アイツら……。[pcms]
+Especially those guys sitting at the school gate... hey, what? What[r]
+are they doing...?[pcms]
 
 ;;//[ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug12"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *4362|
 ;旧ナンバー[vo_t s="tugumi0243"]
 [vo_t s="R_tug0228"]
-[ns]丞実[nse]
-「……っ！！　な、なにあれ……なにやってんの、よ……」[pcms]
+[ns]Tsugumi[nse]
+"...!! Wh-what is that... what are they doing...?"[pcms]
 
 
 *4363|
 [fc]
-しまった……！　さっと目を塞いでおけば良かった。[r]
-そうすれば、あんな光景を見せずにすんだのに……。[pcms]
+Damn it...! I should have covered her eyes quickly. Then she wouldn't[r]
+have had to see such a scene...[pcms]
 
 
 *4364|
 [fc]
-[ns]克己[nse]
-「……………………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 ;;//★グラウンド・朝昼
 [bg storage="BG20a"][trans_c cross time=500]
@@ -134,191 +132,191 @@
 *4365|
 ;旧ナンバー[vo_t s="tugumi0244"]
 [vo_t s="R_tug0229"]
-[ns]丞実[nse]
-「兄ちゃん……兄ちゃんってば！　あれ、なにやってんの！？[r]
-　まさか、違うよね？　違うって言ってよ！！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother... Big brother! What are they doing!? It can't be, right?[r]
+Tell me it's not true!!"[pcms]
 
 
 *4366|
 [fc]
-[ns]克己[nse]
-「お、落ち着けって！　それに大声出すとバレちまうだろ……！」[pcms]
+[ns]Kazumi[nse]
+"Calm down! And keep your voice down or they'll notice us...!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *4367|
 [fc]
-飛び出す絶叫を慌てて防ぐと、素早く辺りを見渡す。[r]
-結構な声を上げたと思ったけど、幸いにも気づかれてないらしい。[pcms]
+I hastily prevent a scream from escaping and quickly survey the[r]
+surroundings. I thought she raised her voice quite a bit, but[r]
+fortunately, it seems we haven't been noticed.[pcms]
 
 
 *4368|
 [fc]
-そいつらは発情した動物みたいに絡み合ってるか、[r]
-倒れた人間に…………覆い被さってたりしてる。[pcms]
+They are entangled like animals in heat or... lying on top of fallen[r]
+people.[pcms]
 
 
 *4369|
 [fc]
-あれって、やっぱりそうなんだよな……？[r]
-あんなに血が流れてるんだし、人間を喰って…………。[pcms]
+That's what it is, right...? With all that blood flowing, they must be[r]
+eating humans...[pcms]
 
 
 *4370|
 [fc]
-くそッ！　絶対に喰われてたまるか！[r]
-そうなったとしても、丞実だけはどんなことをしても……！！[pcms]
+Damn it! I won't let myself be eaten! Even if it comes to that, I'll[r]
+do whatever it takes to save Tsugumi...!![pcms]
 
 
 *4371|
 [fc]
-[ns]克己[nse]
-「……俺がなんとかするから、ちったあ落ち着けって」[pcms]
+[ns]Kazumi[nse]
+"...I'll figure something out, so just calm down a bit."[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar1_a"][ChrSetParts layer=5 chface="F2_tug12"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4372|
 ;旧ナンバー[vo_t s="tugumi0245"]
 [vo_t s="R_tug0230"]
-[ns]丞実[nse]
-「だ、だけど……っ！　あんなにたくさんいたら……」[pcms]
+[ns]Tsugumi[nse]
+"But... if there are so many of them..."[pcms]
 
 
 *4373|
 [fc]
-丞実が上擦った声で反駁してくる。[pcms]
+Tsugumi retorts with a strained voice.[pcms]
 
 
 *4374|
 [fc]
-もちろん俺だって簡単にはいかないと思ってる。[r]
-だからといって裏口を突破するのは……まず無理だ。[r]
-だとすると、そこらの塀を乗り越えるか……？[pcms]
+Of course, I know it won't be easy. But trying to break through the[r]
+back gate is practically impossible. So, should we climb over the[r]
+fence somewhere...?[pcms]
 
 
 *4375|
 [fc]
-それもいい手だ。乗り越えてる間に襲われたり、[r]
-乗り越えた先に連中がたむろってなければ、だけど。[pcms]
+That's also a good idea. As long as we don't get attacked while[r]
+climbing over, or if they aren't gathered on the other side.[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar1_a"][ChrSetParts layer=5 chface="F2_tug13"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4376|
 ;旧ナンバー[vo_t s="tugumi0246"]
 [vo_t s="R_tug0231"]
-[ns]丞実[nse]
-「どうするのっ！？　ねえ、兄ちゃんってば！！」[pcms]
+[ns]Tsugumi[nse]
+"What are we going to do!? Hey, big brother!!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar1_a"][ChrSetParts layer=5 chface="F2_tug12"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 
 
 *4377|
 [fc]
-またも声もボリュームが上がってく丞実。[r]
-このまま思案していても不安がらせるだけだ。[pcms]
+Again, Tsugumi's voice rises in volume. Just thinking here will only[r]
+make her more anxious.[pcms]
 
 
 *4378|
 [fc]
-ここはなにか方策、それも真実味のあるヤツを[r]
-披露してやらないといけない。[pcms]
+We need to come up with some plan, something plausible, and present it[r]
+to her.[pcms]
 
 
 *4379|
 [fc]
-俺たちの武器は、汗ばんだ手が掴んでるバット一本。[r]
-頼りになるかならないかと言えば、あるだけマシ程度のシロモノ。[pcms]
+Our only weapon is a bat that sweaty hands are clutching. As for[r]
+whether it's reliable or not, it's better than nothing.[pcms]
 
 
 *4380|
 [fc]
-映画みたいに拳銃とか猟銃の類があるんなら[r]
-ここから狙撃するとか……待て待て！　ないものねだりが過ぎる。[pcms]
+If we had guns like in the movies, we could snipe from here... Wait,[r]
+wait! That's wishing for too much.[pcms]
 
 
 *4381|
 [fc]
-手元にあるものだけで、なにかいい作戦を考えるんだ！！[pcms]
+We have to think of a good strategy with what we have at hand!![pcms]
 
 
 *4382|
 [fc]
-[ns]克己[nse]
-「……俺が囮になる」[pcms]
+[ns]Kazumi[nse]
+"...I'll be the decoy."[pcms]
 
 
 *4383|
 [fc]
-俺の言葉に、丞実は一瞬ポカンとしてしまう。[r]
-だけどすぐに手を振り回して大声を上げた。[pcms]
+At my words, Tsugumi is momentarily stunned. But then she starts[r]
+waving her hands and shouting loudly.[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar1_a"][ChrSetParts layer=5 chface="F2_tug13"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4384|
 ;旧ナンバー[vo_t s="tugumi0247"]
 [vo_t s="R_tug0232"]
-[ns]丞実[nse]
-「なっ、なに言ってんのよ！！」[pcms]
+[ns]Tsugumi[nse]
+"What are you saying!!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar1_a"][ChrSetParts layer=5 chface="F2_tug12"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 
 
 *4385|
 [fc]
-[ns]克己[nse]
-「だから静かにしろって！　それしか手がないんだよ！！」[pcms]
+[ns]Kazumi[nse]
+"I told you to keep it down! It's the only way!!"[pcms]
 
 
 *4386|
 [fc]
-どう考えてもそれが最善の策だった。[r]
-俺が囮になってる逃げ回ってる間に、丞実が逃げる。[pcms]
+It's the best plan I can think of. While I act as a decoy and run[r]
+around, Tsugumi can escape.[pcms]
 
 
 *4387|
 [fc]
-ヘタにヤツらとガチでバトルなんかするよりは、[r]
-よっぼど成功する公算が高い。なにせ逃げ回るだけなんだからな。[pcms]
+It's much more likely to succeed than trying to fight them head-on.[r]
+After all, all I have to do is run away.[pcms]
 
 
 *4388|
 [fc]
-[ns]克己[nse]
-「情けない話だけど、今朝だって逃げ回ってきたんだ。[r]
-　こうして生きてるんだから、今回だって成功するって」[pcms]
+[ns]Kazumi[nse]
+"It's embarrassing to say, but I've been running away since this[r]
+morning. I'm still alive because of that, so I'll succeed this time[r]
+too."[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug10"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4389|
 ;旧ナンバー[vo_t s="tugumi0248"]
 [vo_t s="R_tug0233"]
-[ns]丞実[nse]
-「だけど……」[pcms]
+[ns]Tsugumi[nse]
+"But..."[pcms]
 
 
 *4390|
 [fc]
-丞実はまだ不満げに唸っていたけど、[r]
-それぐらいしか手がないのが分かったらしく、[r]
-やがて決心したように頷いて見せる。[pcms]
+Tsugumi still seems dissatisfied but seems to understand that there's[r]
+no other option and eventually nods in determination.[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug06"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4391|
 ;旧ナンバー[vo_t s="tugumi0249"]
 [vo_t s="R_tug0234"]
-[ns]丞実[nse]
-「……分かった。だけど、だけどっ、絶対無理しちゃダメよ！？[r]
-　あたしが応援連れてくるから、それまで逃げ回っててよね！[r]
-　兄ちゃんってば、鈍いから……ホントに鈍いから……」[pcms]
+[ns]Tsugumi[nse]
+"...Okay. But you absolutely must not overdo it! I'll bring back help,[r]
+so just keep running until then! You're so slow... really slow..."[pcms]
 
 
 *4392|
 [fc]
-胸に飛び込んでくる丞実。勝ち気な瞳に浮かんだ涙に[r]
-俺はガラにもなくグッときてしまった。[pcms]
+Tsugumi jumps into my arms. The tears in her determined eyes almost[r]
+get to me.[pcms]
 
 
 *4393|
 [fc]
-[ns]克己[nse]
-「……ったくよ。ガキか、おまえは……まったく……」[pcms]
+[ns]Kazumi[nse]
+"...Seriously. Are you a kid or what... really..."[pcms]
 
 ;;//※過去にこんな間柄じゃなければ削除してくださいまし
 
@@ -327,83 +325,82 @@
 
 *4394|
 [fc]
-妹の癖毛を優しく撫でてやる。それこそ何度も何度も。[r]
-そう言えば、昔はよく……こんなことしてやったな。[pcms]
+I gently stroke my sister's curly hair, over and over again. Come to[r]
+think of it, I used to do this quite often in the past.[pcms]
 
 
 *4395|
 [fc]
-……おっと、いつまでもこんなことしてたら[r]
-決心も薄れちまうしな……。[pcms]
+...Oops, if I keep doing this, even my resolve will fade...[pcms]
 
 
 *4396|
 [fc]
-[ns]克己[nse]
-「へっ、おまえこそ下手打って捕まったりすんなよ？[r]
-　さあて……それじゃあ、一丁おっぱじめるか！！」[pcms]
+[ns]Kazumi[nse]
+"Heh, make sure you don't mess up and get caught, okay? Now then...[r]
+let's get this started!!"[pcms]
 
 
 *4397|
 [fc]
-胸にしがみつく丞実を引き剥がすと、[r]
-バットのグリップを握り締める。[pcms]
+As I peel Tsugumi, who is clinging to my chest, off of me, I grip the[r]
+bat tightly.[pcms]
 
 
 *4398|
 [fc]
-[ns]克己[nse]
-「いいか？　俺が校門のヤツらの気を引く。[r]
-　適当なところで外に逃げるんだぞ？」[pcms]
+[ns]Kazumi[nse]
+"Got it? I'll draw the attention of the guys at the school gate. You[r]
+make a break for it outside when you see the chance, okay?"[pcms]
 
 
 *4399|
 ;旧ナンバー[vo_t s="tugumi0250"]
 [vo_t s="R_tug0235"]
-[ns]丞実[nse]
-「う、うん……！　ありがとう、兄ちゃん……」[pcms]
+[ns]Tsugumi[nse]
+"Y-Yes...! Thank you, big brother..."[pcms]
 
 
 *4400|
 [fc]
-[ns]克己[nse]
-「おいおい、なんでお礼なんか言ってんだ。[r]
-　おまえは応援を連れてくるっていう、重大な任務があるだろ。[r]
-　それが俺を助けることになるんだから、おあいこってヤツだ」[pcms]
+[ns]Kazumi[nse]
+"Hey hey, why are you thanking me? You have an important mission to[r]
+bring back reinforcements. That's how you'll be helping me, so it's a[r]
+fair exchange."[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug10"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4401|
 ;旧ナンバー[vo_t s="tugumi0251"]
 [vo_t s="R_tug0236"]
-[ns]丞実[nse]
-「……そうだね。だけど……なんだかお礼、言いたくなって……。[r]
-　なんだろ、どうしてそんな気分になったのかな」[pcms]
+[ns]Tsugumi[nse]
+"...That's true. But... I just felt like saying thanks... I wonder why[r]
+I felt that way."[pcms]
 
 
 *4402|
 [fc]
-[ns]克己[nse]
-「わかんねーよ。それよりさっさと始めるぞ。[r]
-　これ以上増えられたら、ちっと面倒だ」[pcms]
+[ns]Kazumi[nse]
+"I don't know. But we need to start now. It'll be troublesome if more[r]
+of them show up."[pcms]
 
 
 *4403|
 [fc]
-１０人ぐらいなら引き連れて逃げ回ることも出来る。[r]
-でも１５人……２０人になったら、それも厳しい。[pcms]
+About ten people I could probably manage to lead around while[r]
+escaping. But fifteen... twenty, that would be tough.[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug01"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4404|
 ;旧ナンバー[vo_t s="tugumi0252"]
 [vo_t s="R_tug0237"]
-[ns]丞実[nse]
-「分かった。それじゃ、あたしはここに隠れてるから……」[pcms]
+[ns]Tsugumi[nse]
+"Understood. Then I'll hide here..."[pcms]
 
 
 *4405|
 [fc]
-[ns]克己[nse]
-「おう！　上手いことやってくれよ！！」[pcms]
+[ns]Kazumi[nse]
+"Yeah! Do a good job!!"[pcms]
 
 ;;//※ここらで丞実の立ちを消す
 [chara_int][trans_c cross time=150]
@@ -411,28 +408,27 @@
 
 *4406|
 [fc]
-向けられる不安げな視線を振り払うと、物陰が飛び出す。[r]
-そして……喉が張り裂けるんじゃないかと思うほどの[r]
-大声を張り上げた。[pcms]
+I shake off the anxious gaze directed at me and burst out from behind[r]
+cover. And then... I let out a shout so loud I thought my throat would[r]
+tear.[pcms]
 
 
 *4407|
 [fc]
-[ns]克己[nse]
-「おおぉぉぉぉぉいッッ！！　そこのヘンタイどもッ！！[r]
-　美味そうなヤツがここにいるぜェェェェェェッ！！」[pcms]
+[ns]Kazumi[nse]
+"Heyyyyyy!! You perverts over there!! There's a tasty one right[r]
+hereeeee!!"[pcms]
 
 
 *4408|
 [fc]
-……なに言ってんだ、俺は？[r]
-なんて思いながら、中庭に向かって走り始める。[pcms]
+...What am I saying? While thinking that, I start running towards the[r]
+courtyard.[pcms]
 
 
 *4409|
 [fc]
-背後で丞実がなにか叫んでいたけど、[r]
-もう振り返ることもなく……。[pcms]
+Tsugumi was shouting something behind me, but without looking back...[pcms]
 
 ;;//★学園外観・朝昼
 [bg storage="BG14a"][trans_c cross time=500]
@@ -442,272 +438,268 @@
 
 *4410|
 [fc]
-[ns]感染者男[nse]
-「お……おおおおお～～～！！　にくぅ、にくぅうぅぅぅぅ！！」[pcms]
+[ns]Infected Man[nse]
+"O...ohhhhh!! Fleshhh, fleshhhhh!!"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan_a3"][ChrSetXY layer=3 x="&sf.std_kanA_x調整*50" y=0][trans_c cross time=150]
 ;;//MOB左＠感染者　03　制服２　　
 *4411|
 ;旧ナンバー[vo_m s="kansenA0009"]
 [vo_mob s="R_kanA0007"]
-[ns]感染者女Ａ[nse]
-「おとこぉぉぉぉ、あたらしいぃぃぃ、おとこぉぉぉぉぉぉ～～」[pcms]
+[ns]Infected Woman A[nse]
+"A mannnn, a newww mannnnn!!"[pcms]
 
 
 *4412|
 [fc]
-口々に物騒なことを叫びながら、[r]
-校門にたむろっていたヤツらが一斉に動き始める。[pcms]
+Shouting dangerous things, the group that was loitering at the school[r]
+gate starts moving all at once.[pcms]
 
 
 *4413|
 [fc]
-さて……ここからが正念場だ。当然だけど後ろには下がれない。[pcms]
+Now... this is the real test. Of course, there's no turning back now.[pcms]
 
 
 *4414|
 [fc]
-このまま正門を前を横切って、校舎裏手あたりまで引っ張る。[r]
-そうすれば丞実のヤツは外に逃げられるはずだ。[pcms]
+I'll just have to cross in front of the main gate and lead them around[r]
+to the back of the school building. That way, Tsugumi should be able[r]
+to escape outside.[pcms]
 
 
 *4415|
 [fc]
-[ns]克己[nse]
-「バッカ野郎！　おめーらになんか捕まるかよ！！[r]
-　そーらそらそら、鬼さんッ、こッちらッと！！」[pcms]
+[ns]Kazumi[nse]
+"Idiots! Like I'd let you catch me!! Come on come on come on, hey Mr.[r]
+Demon, over here!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *4416|
 [fc]
-もう一度バットを握り直し、思い切って校門あたりまで駆け寄る。[pcms]
+I grip the bat once more and dash towards the school gate area with[r]
+all my might.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_c5"][ChrSetXY layer=5 x="&sf.std_kanC_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　15　制服５　　
 *4417|
 ;旧ナンバー[vo_m s="kansenB0007"]
 [vo_mob s="R_kanB0007"]
-[ns]感染者女Ｂ[nse]
-「まってぇぇ、いいことぉ、してあげるからぁぁぁぁぁ！！」[pcms]
+[ns]Infected Woman B[nse]
+"Waitttt, I'll do something nice for youuuuu!!"[pcms]
 
 
 *4418|
 [fc]
-けッ！　肉囓られるのは全然イイコトじゃねえよ！！[pcms]
+Heh! Getting gnawed on is not my idea of something nice at all!![pcms]
 
 
 *4419|
 [fc]
-[ns]克己[nse]
-「そんなに欲しけりゃ、俺を捕まえてみろッてんだ！！[r]
-　おらおら、着いてこいよォ！！」[pcms]
+[ns]Kazumi[nse]
+"If you want me that badly, try catching me!! Come on, follow me!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_a2"][ChrSetXY layer=5 x="&sf.std_kanA_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　02　金髪女　　
 *4420|
 ;旧ナンバー[vo_m s="kansenC0003"]
 [vo_mob s="R_kanC0003"]
-[ns]感染者女Ｃ[nse]
-「クソぉおぉぉ！　にげ、にげんじゃねえぇえぇよぉおぉぉ」[pcms]
+[ns]Infected Woman C[nse]
+"Damn itttt! Don't run awayyyyyy!"[pcms]
 
 
 *4421|
 [fc]
-足を引きずりながらノタノタと近づいてくる。[r]
-思ったよりも動きが鈍い……っていうか、これ、楽勝じゃね？[pcms]
+She approaches dragging her feet sluggishly. They're moving slower[r]
+than I thought... actually, isn't this going to be easy?[pcms]
 
 
 *4422|
 [fc]
-そういや、ゾンビ映画でも歩いて逃げられるみたいなことを[r]
-言ってるキャラがいたよな。なんだっけか、あの映画……？[pcms]
+I remember there was a character in a zombie movie who said you could[r]
+just walk away from them. What was that movie called again...?[pcms]
 
 
 *4423|
 ;旧ナンバー[vo_m s="kansenC0004"]
 [vo_mob s="R_kanC0004"]
-[ns]感染者女Ｃ[nse]
-「まてぇえぇぇ、くわせろぉおぉおぉぉ」[pcms]
+[ns]Infected Woman C[nse]
+"Waitttttt, let me eatttttt"[pcms]
 
 
 *4424|
 [fc]
-[ns]克己[nse]
-「誰が喰わせてやるかよ、バーーーーーーカ！！」[pcms]
+[ns]Kazumi[nse]
+"Like I'd let you eat me, you idiot!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *4425|
 [fc]
-余裕が出てきた俺は、ちょっと足を緩めて校門を確認する。[pcms]
+Feeling more at ease, I slow down a bit to check the school gate.[pcms]
 
 
 *4426|
 [fc]
-まだ数人が残っているものの、立ち止まったまま[r]
-こっちを見つめるばかりで、その脇をすり抜けていく[r]
-丞実には気づく様子がなかった。[pcms]
+There are still a few people left, but they just stand there staring[r]
+in my direction, not noticing Tsugumi as she slips by them.[pcms]
 
 
 *4427|
 [fc]
-[ns]克己[nse]
-「……よし。ここまでは上手くいったな」[pcms]
+[ns]Kazumi[nse]
+"...Good. So far so good."[pcms]
 
 
 *4428|
 [fc]
-逃げることで精一杯なのか、丞実は振り返りもせずに[r]
-炎を吹き上げる車の向こうに消えていく。[pcms]
+Maybe she's too focused on escaping, but Tsugumi doesn't look back and[r]
+disappears beyond the car spewing flames.[pcms]
 
 
 *4429|
 [fc]
-それを見送ると、俺は数メートルにまで迫ってきていた[r]
-『頭のおかしいヤツら』を睨み付ける。[pcms]
+After watching her go, I glare at the "crazy ones" who have come[r]
+within a few meters of me.[pcms]
 
 
 *4430|
 [fc]
-[ns]克己[nse]
-「……あとはコイツらに捕まらないように、[r]
-　鬼ごっこを続ければいいってわけか」[pcms]
+[ns]Kazumi[nse]
+"...Now all I have to do is keep playing tag without getting caught."[pcms]
 
 
 *4431|
 [fc]
-ガキのころの鬼ごっこに比べれば随分と楽だ。[r]
-大きく違うのは、もし捕まったら[r]
-なにをされるか分からないってことぐらいで。[pcms]
+This is much easier than the tag games we played as kids. The only big[r]
+difference is not knowing what will happen if they catch me.[pcms]
 
 
 *4432|
 [fc]
-[ns]克己[nse]
-「さあさあ！　のんびりとついてきてくれよな！！」[pcms]
+[ns]Kazumi[nse]
+"Come on! Take your time following me!!"[pcms]
 
 
 *4433|
 [fc]
-伸びてきた手を躱すと、一旦進行方向にある塀までダッシュする。[r]
-当然そいつらが追いつけるはずもなく、難なく目的地に到達した。[pcms]
+I dodge an outstretched hand and dash towards a wall in my path.[r]
+Naturally, they couldn't catch up with me, and I easily reached my[r]
+destination.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_a3"][ChrSetXY layer=5 x="&sf.std_kanA_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　03　制服２　　
 *4434|
 ;旧ナンバー[vo_m s="kansenA0010"]
 [vo_mob s="R_kanA0008"]
-[ns]感染者女Ａ[nse]
-「まってよぉ～～、キモチ、いいことぉ、しましょおよおぉぉ」[pcms]
+[ns]Infected Woman A[nse]
+"Wait for me~~, let's do something that feels good~~"[pcms]
 
 
 *4435|
 [fc]
-そいつらは夢遊病者みたいにフラフラ歩きながら、[r]
-両手を突き出している。[pcms]
+They walk unsteadily like sleepwalkers, arms outstretched.[pcms]
 
 
 *4436|
 [fc]
-[ns]克己[nse]
-「……女の子ばっかりだな」[pcms]
+[ns]Kazumi[nse]
+"...It's all girls."[pcms]
 
 
 *4437|
 [fc]
-どうも男連中は別のところに行ってしまったらしく、[r]
-俺を追いかけているのは女の子が圧倒的に多い。[pcms]
+It seems the men have gone somewhere else, and the ones chasing me are[r]
+overwhelmingly female.[pcms]
 
 
 *4438|
 [fc]
-普段なら『モテてモテて困るぜー！』なんて冗談も言えるけど[r]
-この状況では正直嬉しくない。[pcms]
+Normally, I'd joke about "being too popular for my own good!" but[r]
+honestly, I'm not happy about it in this situation.[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan_c6"][ChrSetXY layer=3 x="&sf.std_kanC_x調整*50" y=0][trans_c cross time=150]
 ;;//MOB左＠感染者　16　キツネ風　
 *4439|
 ;旧ナンバー[vo_m s="kansenB0008"]
 [vo_mob s="R_kanB0008"]
-[ns]感染者女Ｂ[nse]
-「ねえええ～、オマンコ、かわいてしかたないのぉぉぉ、[r]
-　おちんちん、おちんちんでぬるぬるにしてぇぇぇ！」[pcms]
+[ns]Infected Woman B[nse]
+"Heyyyy~ my pussy is so dry, I can't stand it~ Make it slippery with[r]
+your cock, with your cock!"[pcms]
 
 
 *4440|
 [fc]
-[ns]克己[nse]
-「女の子がそーいう下品な物言いはよくないぜ……っと！！」[pcms]
+[ns]Kazumi[nse]
+"Girls shouldn't talk so vulgarly... whoa!!"[pcms]
 
 
 *4441|
 [fc]
-迫ってきた女の子たちの間を華麗にすり抜けると、[r]
-流し目なんてくれてやる。うおお、俺、ちょっとカッコよくね！？[pcms]
+I slip through the girls coming at me with a sidelong glance. Whoa, am[r]
+I looking a bit cool here!?[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan_a2"][ChrSetXY layer=4 x="&sf.std_kanA_x調整*650" y=0][trans_c cross time=150]
 ;;//MOB右＠感染者　02　金髪女　　
 *4442|
 ;旧ナンバー[vo_m s="kansenC0005"]
 [vo_mob s="R_kanC0005"]
-[ns]感染者女Ｃ[nse]
-「うううおおぉぉぉお！　クソぉ、にくぅぅぅ、にくよこせぇ！[r]
-　おなかぁぁぁ、すいたあぁぁぁぁぁ！！」[pcms]
+[ns]Infected Woman C[nse]
+"Uuuuooooh! Damn it, give me meat, give me meat! I'm so hungryyyyy!!"[pcms]
 
 
 *4443|
 [fc]
-ちょっと小太りの女の子が悔しげに地団駄を踏んでる。[r]
-この際だから、ダイエットも兼ねて節食しといてくれ。[pcms]
+A slightly chubby girl is stamping her feet in frustration. Now's a[r]
+good time to diet and cut back on food.[pcms]
 
 
 *4444|
 [fc]
-[ns]克己[nse]
-「……追いつかれないのは分かってても、[r]
-　このまま走り続けるのもちっと疲れるな……」[pcms]
+[ns]Kazumi[nse]
+"...Even though I know they can't catch me, it's still tiring to keep[r]
+running like this..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *4445|
 [fc]
-丞実が応援を連れてくるのを待つとしても、[r]
-鬼ごっこよりは『かくれんぼ』の方がよさそうだ。[pcms]
+Even if I wait for Tsugumi to bring help, "hide and seek" seems better[r]
+than tag.[pcms]
 
 
 *4446|
 [fc]
-いや、待てよ？　こんなにノロい連中なんだから[r]
-俺も校外に逃げた方がいいんじゃねーか？[pcms]
+No, wait? Since they're so slow, maybe I should escape outside the[r]
+school?[pcms]
 
 
 *4447|
 [fc]
-……おっと、それはダメだ。丞実が戻ってきた時に[r]
-俺がいないと混乱するだろうしな。[pcms]
+...Oops, that's no good. Tsugumi would be confused if she came back[r]
+and I wasn't here.[pcms]
 
 
 *4448|
 [fc]
-ってことは、校内で適当な隠れ場所を探すしかない。[r]
-ノロいけど力だけはバカみたいにありやがるから、[r]
-それなりに堅固な場所だ。[pcms]
+That means I have to find a suitable hiding place inside the school.[r]
+They're slow but have stupid strength, so it needs to be a solid spot.[pcms]
 
 
 *4449|
 [fc]
-[ns]克己[nse]
-「とりあえず校舎の方に戻ってみるか……」[pcms]
+[ns]Kazumi[nse]
+"For now, I guess I'll head back towards the school building..."[pcms]
 
 
 *4450|
 [fc]
-ぶんとバットを一振りすると、中庭に向かって走り出す。[r]
-ここを左に曲がれば昇降口まで一直線だ。[pcms]
+I swing the bat with a whoosh and start running towards the courtyard.[r]
+If I turn left here, it's a straight shot to the entrance.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x="&sf.std_kan1_x調整*340" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　17　金髪筋肉　
@@ -715,25 +707,25 @@
 
 *4450a|
 [fc]
-[ns]感染者男[nse]
-「にげっ、にげにげっ、にげっるなあぁぁぁぁぁぁ！！！」[pcms]
+[ns]Infected Man[nse]
+"Don't run, don't run awayyyyyy!!!"[pcms]
 
 
 *4451|
 [fc]
-そんな俺の目の前に、ひとりの男子が立ち塞がる。[pcms]
+A single boy stands in my way.[pcms]
 
 
 *4452|
 [fc]
-[ns]克己[nse]
-「わりぃな、そこどいてもらうぜッ！！」[pcms]
+[ns]Kazumi[nse]
+"Sorry, but I need you to move!!"[pcms]
 
 
 *4453|
 [fc]
-つっても、さすがに頭を狙うのは気が引ける。[r]
-多少マシそうな肩口にバットをフルスイングだ！！[pcms]
+But even so, I hesitate to aim for the head. Instead, I go for a full[r]
+swing at what looks like a less critical spot on his shoulder![pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -750,118 +742,117 @@
 
 *4454|
 [fc]
-[ns]感染者男[nse]
-「ひげえぇぇぇぇぇぇえええっっ！！」[pcms]
+[ns]Infected Man[nse]
+"Higeeeeeekkkk!!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *4455|
 [fc]
-ガゴン、と鈍い音と悲鳴が同時に上がる。[pcms]
+A dull thud and a scream sound simultaneously.[pcms]
 
 
 *4456|
 [fc]
-[ns]克己[nse]
-「……うっわ、結構……エグな、これ……」[pcms]
+[ns]Kazumi[nse]
+"...Ugh, that was pretty... brutal..."[pcms]
 
 
 *4457|
 [fc]
-うずくまってしまうそいつを見下ろしながら、[r]
-俺は手のひらに残る感触に身震いしてしまう。[pcms]
+I look down at the guy who's now crouching while shivering from the[r]
+sensation left in my palm.[pcms]
 
 
 *4458|
 [fc]
-幸いにもバットでブン殴られたことがないので[r]
-痛みのほどは分からないけど、[r]
-もしかすると肩が外れたか、骨が折れたかもしれない。[pcms]
+Luckily, I've never been hit with a bat, so I can't imagine the pain,[r]
+but his shoulder might be dislocated or even broken.[pcms]
 
 
 *4459|
 [fc]
-[ns]克己[nse]
-「うげ……！　なんだよ、効いてねえのか！？」[pcms]
+[ns]Kazumi[nse]
+"Ugh...! What the hell, it didn't work!?"[pcms]
 
 
 *4460|
 [fc]
-驚いたことに、そいつは早くも立ち上がろうとしていた。[r]
-しかも片手をブランと下げたままでだ。[pcms]
+To my surprise, he's already trying to get up, with one arm just[r]
+hanging there.[pcms]
 
 
 *4461|
 [fc]
-[ns]克己[nse]
-「潰すなら足からか……」[pcms]
+[ns]Kazumi[nse]
+"If I'm going to take him down, it has to be from the legs..."[pcms]
 
 
 *4462|
 [fc]
-どうも上半身は頭以外効き目が無さそうだ。[r]
-でも頭を狙うのはやっぱり厳しいものがある。[pcms]
+It seems like aiming for anything other than the head on the upper[r]
+body doesn't do much. But aiming for the head is still too harsh for[r]
+me.[pcms]
 
 
 *4463|
 [fc]
-だとすると……移動手段を殺すしかない。[pcms]
+That means... I have to take out his means of movement.[pcms]
 
 
 *4464|
 [fc]
-[ns]克己[nse]
-「……そこでじっとしててくれよな……！！」[pcms]
+[ns]Kazumi[nse]
+"...Just stay there for me...!!"[pcms]
 
 
 *4465|
 [fc]
-内角低めを打つ感覚でもう一度バットをスイングすると、[r]
-ゴキリと不快な音と共に、ヒザを支点にして折れ曲がった。[pcms]
+I swing the bat again as if hitting a low inside pitch, and with an[r]
+unpleasant crack, his knee bends at an unnatural angle.[pcms]
 
 
 *4466|
 [fc]
-[ns]感染者男[nse]
-「おぎゃーーーーっ！　おがあああああぢゃああああん！！」[pcms]
+[ns]Infected Man[nse]
+"Ogyaaa---! My legggggggg!!"[pcms]
 
 
 *4467|
 [fc]
-そのままもんどり打って倒れ込む男子に詫びながら[r]
-全力で昇降口に向かって走り始める。[pcms]
+I apologize to the boy as he writhes and falls, then start running[r]
+full speed towards the entrance.[pcms]
 
 
 *4468|
 [fc]
-出来れば、これ以上[ruby text="バット"][ch text="コイツ"]は使いたくない。[r]
-人を殴るもんじゃないってのが俺の結論だ。[pcms]
+I really don't want to use this anymore. My conclusion is that bats[r]
+aren't meant for hitting people.[pcms]
 
 
 *4469|
 [fc]
-[ns]克己[nse]
-「よッとぉ！　へへっ、ノロいっての！！」[pcms]
+[ns]Kazumi[nse]
+"Yo! Haha, you're too slow!!"[pcms]
 
 
 *4470|
 [fc]
-障害物があれば華麗にジャンプにスウェー！[pcms]
+If there's an obstacle, I jump over it with grace![pcms]
 
 
 *4471|
 [fc]
-アクションゲームのキャラクターばりな動きに[r]
-酔っちまうぐらいだぜ！！[pcms]
+I'm getting dizzy from all these moves like a character in an action[r]
+game!![pcms]
 
 
 *4472|
 ;旧ナンバー[vo_m s="kansenD0001"]
 [vo_mob s="R_kanD0001"]
-[ns]感染者女Ｄ[nse]
-「ちんぽぉおぉぉおぉぉぉ！！　にげないでぇえぇぇぇ！[r]
-　おまんこぉ、ないてるからぁぁぁぁぁ！！」[pcms]
+[ns]Infected Woman D[nse]
+"Cockkkkkk!! Don't run awayyyyy! My pussy is crying for youuuuuu!!"[pcms]
 
 ;バイノーラル版で収録
 ;前作ではこのキャラ全部録り漏らしてるのでナンバーも新規に振った
@@ -869,14 +860,14 @@
 
 *4473|
 [fc]
-[ns]克己[nse]
-「俺の名前は『チンポ』じゃねえっての！！」[pcms]
+[ns]Kazumi[nse]
+"My name isn't 'Dick,' dammit!!"[pcms]
 
 
 *4474|
 [fc]
-追いすがってくる声に返事する余裕すらありながら、[r]
-目の前の花壇を飛び越える。ふふん、俺もなかなか…………！？[pcms]
+Even as I respond to the voices chasing after me, I leap over the[r]
+flower bed in front of me. Haha, I'm not too shabby...!?[pcms]
 
 ;;//がつん、とかＳＥ、画面揺れでも
 [se buf1 storage="seB007"]
@@ -886,13 +877,13 @@
 
 *4475|
 [fc]
-一瞬なにが起きたのか分からなかった。[pcms]
+I didn't understand what happened for a moment.[pcms]
 
 
 *4476|
 [fc]
-爪先になにか当たったような気がした瞬間、[r]
-視界がゆっくりとひっくり返っていく……。[pcms]
+The moment I felt something hit my toes, my field of vision slowly[r]
+flipped upside down...[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -912,31 +903,31 @@
 
 *4477|
 [fc]
-視界が真っ赤になったのと、白い星が瞬いたのはほぼ同時。[r]
-その少し後に、激しい痛みが顔面に広がっていった。[pcms]
+My vision turned red and white stars twinkled almost simultaneously.[r]
+Shortly after, an intense pain spread across my face.[pcms]
 
 
 *4478|
 [fc]
-[ns]克己[nse]
-「～～～……………………ッッ！！！？」[pcms]
+[ns]Kazumi[nse]
+"~~~~...!!!?"[pcms]
 
 
 *4479|
 [fc]
-なっ、なんだなんだァ！？　なんで、俺、目の前が……！？[pcms]
+What the hell is going on!? Why can't I see in front of me...!?[pcms]
 
 
 *4480|
 [fc]
-痛みと困惑で頭がグチャグチャになっていた。[r]
-それでもなんとか顔を上げられたのは、[r]
-背後に迫るモノの気配を感じたからか……。[pcms]
+My head was a mess from the pain and confusion. Still, I managed to[r]
+lift my face, perhaps because I sensed something approaching from[r]
+behind...[pcms]
 
 
 *4481|
 [fc]
-だけど……それは、この快進撃の終わりを示していた。[pcms]
+But... that signaled the end of my successful escape.[pcms]
 
 ;mm 暗転してるから立いらなくね？
 ;[ChrSetEx layer=5 chbase="mob_kan_b3"][ChrSetXY layer=5 x="&sf.std_kanB_x調整*350" y=0][trans_c cross time=150]
@@ -944,21 +935,20 @@
 *4482|
 ;旧ナンバー[vo_m s="kansenA0011"]
 [vo_mob s="R_kanA0009"]
-[ns]感染者女Ａ[nse]
-「あはっ、あははははっ！　おちんぽっ、つかまえたぁぁぁ！！」[pcms]
+[ns]Infected Woman A[nse]
+"Ahaha, ahahahaha! Gotcha, Dick!!"[pcms]
 
 
 *4483|
 [fc]
-[ns]克己[nse]
-「ちっ、近寄るんじゃねえよ！！　あっ、バット…………」[pcms]
+[ns]Kazumi[nse]
+"Tch, don't come any closer!! Ah, my bat..."[pcms]
 
 
 *4484|
 [fc]
-手からバットは失われていた。[r]
-もはや身を守るものは、この身ひとつしかないが、[r]
-痛みのせいでマトモに動かせそうになかった。[pcms]
+The bat had slipped from my hands. Now all I had to protect myself was[r]
+my own body, which I could hardly move because of the pain.[pcms]
 
 ;;//★空・朝昼A
 [bg storage="BG31a"][trans_c cross time=500]
@@ -967,57 +957,58 @@
 *4485|
 ;旧ナンバー[vo_m s="tennis_A0001"]
 [マイク 位置６][vo_mob s="R_tennisA0001"]
-[ns]テニス部女子Ａ[nse]
-「このおとこぉ、ドーテーのニオイがするぅぅ。[r]
-　はつものはぁ、みんなでわけあわなくちゃねええ」[pcms]
+[ns]Tennis Club Girl A[nse]
+"This guy smells like a virgin. We all have to share the first-timer,[r]
+don't we?"[pcms]
 
 
 *4486|
 ;旧ナンバー[vo_m s="lacrosse_A0001"]
 [マイク 位置２][vo_mob s="R_lacrosseA0001"]
-[ns]ラクロス部女子Ａ[nse]
-「いいこと、いうじゃないのぉ。みんなで、おちんぽ、[r]
-　べろべろしてぇぇぇ、はつしぼり、セーシ、ごくごくしよぉぉ」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"You say the nicest things. Let's all lick his dick and gulp down his[r]
+first-time cum."[pcms]
 
 
 *4487|
 ;旧ナンバー[vo_m s="tennis_B0001"]
 [マイク 位置１４][vo_mob s="R_tennisB0001"]
-[ns]テニス部女子Ｂ[nse]
-「まってよぉ。うちの、ブチョー、まだショジョなのー。[r]
-　ハツモノちんぽ、ゆずってくれないぃぃ？」[pcms]
+[ns]Tennis Club Girl B[nse]
+"Wait a sec. Our club president is still a virgin. Can't you let her[r]
+have the first-timer's dick?"[pcms]
 
 
 *4488|
 [fc]
-どこからともなく女子……ユニフォームから見てテニス部、[r]
-そして……静ちゃんと同じラクロス部の連中が群がってくる。[pcms]
+Girls from nowhere... wearing uniforms from the tennis club and...[r]
+girls from the same lacrosse club as Shizuka-chan were swarming[r]
+around.[pcms]
 
 
 *4489|
 [fc]
-もうとても逃げ出せる状態じゃなかったけど、[r]
-俺はあらん限りの力を振り絞って身体を動かそうとした。[pcms]
+I was in no state to run away anymore, but I mustered all the strength[r]
+I could to try and move my body.[pcms]
 
 
 *4490|
 ;旧ナンバー[vo_m s="lacrosse_B0001"]
 [マイク 位置１３][vo_mob s="R_lacrosseB0001"]
-[ns]ラクロス部女子Ｂ[nse]
-「あはははっ、にげられないよぉぉぉ。[r]
-　おちんちんはぁ、もう、わたしたちのぉ、モノぉぉぉ！！」[pcms]
+[ns]Lacrosse Club Girl B[nse]
+"Ahahaha, you can't run away. Your dick is ours now!!"[pcms]
 
 
 *4491|
 [fc]
-[ns]克己[nse]
-「うわッ！　や、やめてッ、やめてくれええぇええぇぇぇッッ！」[pcms]
+[ns]Kazumi[nse]
+"Uwah! Stop, please stop!!"[pcms]
 
 
 *4492|
 [fc]
-喉から迸る絶叫は、伸びてくる無数の手を止めることなく、[r]
-凄まじい馬鹿力で俺の自由を奪った。そして…………。[pcms]
+The scream that burst from my throat did nothing to stop the countless[r]
+hands reaching out to me, robbing me of my freedom with incredible[r]
+brute force. And then...[pcms]
 
 ;;//克己、レイプされるの段
 ;;//一旦暗転とか
@@ -1044,343 +1035,332 @@
 *4493|
 ;旧ナンバー[vo_m s="tennis_A0002"]
 [マイク 位置６][vo_mob s="R_tennisA0002"]
-[ns]テニス部女子Ａ[nse]
-「あはっ、あはははは。すっごいマヌケなカッコーー！[r]
-　それにっ、ちんぽっ、びんびんにしてるううぅぅ」[pcms]
+[ns]Tennis Club Girl A[nse]
+"Ahaha, ahahahaha. You look so stupid! And look, your dick is rock[r]
+hard."[pcms]
 
 
 *4494|
 [fc]
-俺は服を全部剥ぎ取られて、大股開きにされていた。[r]
-とても丞実には見せられない情けない格好で、だ……。[pcms]
+I was stripped of all my clothes and spread-eagled. It was a pitiful[r]
+sight that I couldn't bear to show Tsugumi...[pcms]
 
 
 *4495|
 ;旧ナンバー[vo_m s="lacrosse_A0002"]
 [マイク 位置２][vo_mob s="R_lacrosseA0002"]
-[ns]ラクロス部女子Ａ[nse]
-「でもぉぉ、ホーケーだからぁ、ちゃんとムかなくちゃねぇぇ。[r]
-　きっとぉ、すっごくくっさいニオイするよぉぉぉ」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"But since we're all virgins, we have to make sure it's clean. It's[r]
+probably going to smell really bad."[pcms]
 
 
 *4496|
 ;旧ナンバー[vo_m s="lacrosse_B0002"]
 [マイク 位置１３][vo_mob s="R_lacrosseB0002"]
-[ns]ラクロス部女子Ｂ[nse]
-「いいよぉ、クサクサチンポ、けっこうスキだしぃぃぃ。[r]
-　チンカスのニオイとかぁ、スッゲーいいよねぇぇ」[pcms]
+[ns]Lacrosse Club Girl B[nse]
+"That's fine by me, I actually like smelly dicks. The smell of smegma[r]
+is amazing."[pcms]
 
 
 *4497|
 ;旧ナンバー[vo_m s="tennis_B0002"]
 [マイク 位置１４][vo_mob s="R_tennisB0002"]
-[ns]テニス部女子Ｂ[nse]
-「まってってばぁぁ、ハツモノはぁぁ、ウチのブチョーにぃ、[r]
-　チョーダイっていったでしょぉ？[r]
-　ショジョにホーケードーテーチンポとか、ウケるしいぃぃぃ」[pcms]
+[ns]Tennis Club Girl B[nse]
+"Wait a minute, didn't I tell you that our club president gets the[r]
+first-timer? It's hilarious to think of a virgin getting a dirty[r]
+dick."[pcms]
 
 
 *4498|
 ;旧ナンバー[vo_m s="tennis_Buchou0001"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0001"]
-[ns]テニス部部長[nse]
-「あんた、みたいなぁ、ヤリマンといっしょにぃ、しないでぇ。[r]
-　わたしはぁ、キヨいコーサイ、したかっただけなのよぉぉ」[pcms]
+[ns]Tennis Club Captain[nse]
+"Don't lump me in with sluts like you. All I wanted was a clean first[r]
+time."[pcms]
 
 
 *4499|
 [fc]
-舌なめずりしている連中の中から現れたのは、[r]
-バイザーをつけたポニーテールの女の子だった。[r]
-どうやらこの子が『テニス部のブチョー』らしい……。[pcms]
+The girl who appeared among the licking crowd was wearing a visor and[r]
+had a ponytail. It seems she's the "Tennis Club President"...[pcms]
 
 
 *4500|
 [fc]
-[ns]克己[nse]
-「お、おい……あんた部長なんだろ……？[r]
-　こいつらを止めるとかしてくれよ……」[pcms]
+[ns]Kazumi[nse]
+"Hey... you're the club president, right...? Can't you stop them...?"[pcms]
 
 
 *4501|
 ;旧ナンバー[vo_m s="tennis_Buchou0002"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0002"]
-[ns]テニス部部長[nse]
-「はふううう、わたしのマンコ、もううずいてしかたないのぉ。[r]
-　チンチンいれないと、もう、もう、おかしくなるのぉぉ」[pcms]
+[ns]Tennis Club Captain[nse]
+"Hufff, my pussy is throbbing so much. If you don't put your dick in,[r]
+I'm going to go crazy."[pcms]
 
 
 *4502|
 [fc]
-アンダースコートをヒザに引っかけたまま、[r]
-『部長』はパンツ越しにアソコを弄っていた。[pcms]
+With her underskirt hooked on her knee, the "President" was fiddling[r]
+with her pussy over her panties.[pcms]
 
 
 *4503|
 ;旧ナンバー[vo_m s="tennis_Buchou0003"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0003"]
-[ns]テニス部部長[nse]
-「ほらぁぁ、みてよぉ、もうこんなに、どろどろだからぁぁ、[r]
-　はじめてでもぉぉ、チンチン、はいるとおもうぅぅ。あへぇっ」[pcms]
+[ns]Tennis Club Captain[nse]
+"Look, it's already so wet, I think your dick can go in even if it's[r]
+your first time. Aheh."[pcms]
 
 
 *4504|
 [fc]
-彼女が言うように、ソコはしとどと濡れていた。[r]
-濡れているというか、もう大洪水っていう有様で、[r]
-溢れ出した愛液が滴り落ちるぐらいだった。[pcms]
+Just as she said, that place was drenched. It was more like a flood[r]
+than just wet, with love juices dripping down.[pcms]
 
 
 *4505|
 ;旧ナンバー[vo_m s="lacrosse_C0001"]
 [マイク 位置１２][vo_mob s="R_lacrosseC0001"]
-[ns]ラクロス部女子Ｃ[nse]
-「だったらぁ、ウチにもショジョいるからぁぁ、[r]
-　まとめてやっつけちゃおうよぉぉ、じつは、わたしもそーだしぃ」[pcms]
+[ns]Lacrosse Club Girl C[nse]
+"Then let's take care of it together since we also have virgins here.[r]
+Actually, I'm one too."[pcms]
 
 
 *4506|
 ;旧ナンバー[vo_m s="lacrosse_A0003"]
 [マイク 位置２][vo_mob s="R_lacrosseA0003"]
-[ns]ラクロス部女子Ａ[nse]
-「なによぉ、あんたもそうだったのぉぉ？[r]
-　あたしもぉ、そーなのぉぉ」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"What? You were a virgin too? So am I."[pcms]
 
 
 *4507|
 ;旧ナンバー[vo_m s="lacrosse_B0003"]
 [マイク 位置１３][vo_mob s="R_lacrosseB0003"]
-[ns]ラクロス部女子Ｂ[nse]
-「わたしもわたしもぉ、ショジョだったんだー。[r]
-　みんなぁ、ヤったとかウソばっかりいって、ヒドいなぁぁ」[pcms]
+[ns]Lacrosse Club Girl B[nse]
+"Me too, me too, I was still a virgin. Everyone's been lying about[r]
+having done it, that's so mean."[pcms]
 
 
 *4508|
 ;旧ナンバー[vo_m s="tennis_B0003"]
 [マイク 位置１４][vo_mob s="R_tennisB0003"]
-[ns]テニス部女子Ｂ[nse]
-「なにそれぇ、バッカみたいぃぃ。[r]
-　テニス部なんかぁぁ、このカタブツブチョーいがい、[r]
-　みぃぃんな、チンポずみなのにぃ」[pcms]
+[ns]Tennis Club Girl B[nse]
+"What? That's so stupid. Except for our uptight club president,[r]
+everyone in the tennis club is already dick-crazy."[pcms]
 
 
 *4509|
 [fc]
-[ns]克己[nse]
-「……………………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *4510|
 [fc]
-頭がおかしくなりそうな『告白タイム』だった。[r]
-誰が処女とかどうでもいいから……助けてくれ……。[pcms]
+It was a crazy "confession time" that almost made my head explode. Who[r]
+cares who's a virgin... just save me...[pcms]
 
 
 *4511|
 ;旧ナンバー[vo_m s="tennis_Buchou0004"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0004"]
-[ns]テニス部部長[nse]
-「わたしぃ、もうチンチンほしいよぉぉ……。[r]
-　もうっ、もういれて……いれていい……？」[pcms]
+[ns]Tennis Club Captain[nse]
+"I want a dick so bad... Please, put it in now... can you?"[pcms]
 
 
 *4512|
 ;旧ナンバー[vo_m s="tennis_B0004"]
 [マイク 位置１４][vo_mob s="R_tennisB0004"]
-[ns]テニス部女子Ｂ[nse]
-「ダメぇぇぇ。まずはぁ、みんなでチンポのあじみぃ。[r]
-　ちゃんとカワ、ムいてからペロペロしなくちゃぁぁぁ」[pcms]
+[ns]Tennis Club Girl B[nse]
+"No way! First we all have to taste the dick. We need to clean it[r]
+properly before licking it."[pcms]
 
 
 *4513|
 [fc]
-頭がおかしくなってもある程度の序列、[r]
-この場合は経験者と非経験者の序列があるらしい。[pcms]
+Even with heads going crazy, there seems to be a certain hierarchy, in[r]
+this case between those with experience and the virgins.[pcms]
 
 
 *4514|
 [fc]
-部長は渋々といった表情ながらも、初めて見る男性器に[r]
-目を輝かせ……べろりと舌を突き出していた。[pcms]
+The club president, while looking reluctant, was also shining her eyes[r]
+at the sight of a male genitalia for the first time... and stuck out[r]
+her tongue with a lick.[pcms]
 
 ;;//m:元のイベント開始位置
 
 
 *4515|
 [fc]
-状況とかそんなのを一切合切無視して[r]
-何故かビンビンに勃起していた俺のアレを[r]
-テニス部の部長が握り締める。[pcms]
+Ignoring the situation entirely, my dick was somehow rock hard, and[r]
+the tennis club president grabbed it tightly.[pcms]
 
 
 *4516|
 [fc]
-[ns]克己[nse]
-「う……ッ、おおおおッ！！」[pcms]
+[ns]Kazumi[nse]
+"Uh... Ahhhhh!!"[pcms]
 
 
 *4517|
 [fc]
-ただ握っただけなのに、背筋にゾクゾクしたものが駆け抜け、[r]
-俺は思わず大声を上げてしまった。[pcms]
+Just from being grasped, a shiver ran down my spine, and I couldn't[r]
+help but let out a loud voice.[pcms]
 
 
 *4518|
 ;旧ナンバー[vo_m s="tennis_Buchou0005"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0005"]
-[ns]テニス部部長[nse]
-「あっつうぅぅいぃ。これが、チンチンのあつさ、なんだぁ。[r]
-　これを、なめればいいのねぇぇ」[pcms]
+[ns]Tennis Club Captain[nse]
+"It's so hoooot. This is the warmth of a cock, huh. I should lick it,[r]
+right?"[pcms]
 
 
 *4519|
 ;旧ナンバー[vo_m s="tennis_B0005"]
 [マイク 位置１４][vo_mob s="R_tennisB0005"]
-[ns]テニス部女子Ｂ[nse]
-「フライングはダメだっていってるでしょおお。[r]
-　みんなでぇ、あじみ、するんだからぁぁ」[pcms]
+[ns]Tennis Club Girl B[nse]
+"No flying starts allowed! We're all going to taste it together."[pcms]
 
 
 *4520|
 [fc]
-彼女は後ろからポニーテールを乱暴に引っ張りながら、[r]
-その隙間にさっき処女だと告白した女の子を押し込んでいく。[pcms]
+She roughly pulled the ponytail from behind and pushed the girl who[r]
+had just confessed to being a virgin into the gap.[pcms]
 
 
 *4521|
 ;旧ナンバー[vo_m s="lacrosse_A0004"]
 [マイク 位置２][vo_mob s="R_lacrosseA0004"]
-[ns]ラクロス部女子Ａ[nse]
-「わあああ、ほんとにぃ、クっサあぁぁぁぁぃ！！[r]
-　こんなクサいの、なめるとかぁ、ゴーモンじゃない～？」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Waaaah, it really smells so baaad!! Isn't licking something this[r]
+stinky like torture?"[pcms]
 
 
 *4522|
 ;旧ナンバー[vo_m s="lacrosse_B0004"]
 [マイク 位置１３][vo_mob s="R_lacrosseB0004"]
-[ns]ラクロス部女子Ｂ[nse]
-「このおじさん、ドーテーなんでしょおお？[r]
-　しずかがぁ、そんなこといってたしぃぃぃ」[pcms]
+[ns]Lacrosse Club Girl B[nse]
+"This old man is a pervert, isn't he? Shizuka was saying something[r]
+like that."[pcms]
 
 
 *4523|
 ;旧ナンバー[vo_m s="lacrosse_C0002"]
 [マイク 位置１２][vo_mob s="R_lacrosseC0002"]
-[ns]ラクロス部女子Ｃ[nse]
-「これってぇ、ドーテーのニオイぃ？　クサいのもドーテー？[r]
-　それともぉぉ、ホーケーだからクサいのぉぉぉ？」[pcms]
+[ns]Lacrosse Club Girl C[nse]
+"Is this the smell of a pervert? Is it stinky because he's a pervert?[r]
+Or is it because he's a virgin that it smells?"[pcms]
 
 
 *4524|
 ;旧ナンバー[vo_m s="tennis_B0006"]
 [マイク 位置１４][vo_mob s="R_tennisB0006"]
-[ns]テニス部女子Ｂ[nse]
-「ドーテーでぇ、ホーケーだから、クサいんじゃない～？[r]
-　いいじゃん、あんたたちだってぇ、クサレマンコなんだしぃぃ」[pcms]
+[ns]Tennis Club Girl B[nse]
+"Maybe it smells because he's a dirty virgin pervert? It's fine, you[r]
+girls have stinky pussies too."[pcms]
 
 
 *4525|
 [fc]
-自然と指導役になったテニス部の女の子の暴言も[r]
-アレを前にした部長たちの耳には届いていないらしい。[pcms]
+It seems that the abusive words of the girl from the tennis club, who[r]
+naturally took on the role of instructor, did not reach the ears of[r]
+the club presidents who were in front of it.[pcms]
 
 
 *4526|
 ;旧ナンバー[vo_m s="tennis_Buchou0006"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0006"]
-[ns]テニス部部長[nse]
-「ねえぇぇ、もう、なめていいでしょおぉぉ……？[r]
-　クサいチンチン、おくちでたしかめたいわぁぁ」[pcms]
+[ns]Tennis Club Captain[nse]
+"Heyyy, can I lick it already...? I want to confirm with my mouth how[r]
+stinky this cock is."[pcms]
 
 
 *4527|
 ;旧ナンバー[vo_m s="tennis_B0007"]
 [マイク 位置１４][vo_mob s="R_tennisB0007"]
-[ns]テニス部女子Ｂ[nse]
-「クサいのがいいとかぁ、ブチョー、カタブツどころかぁ、[r]
-　ただのクサレヘンタイですねぇぇ。[r]
-　でもぉ、なめるまえにぃ、ちゃんとムいてあげなくちゃあ」[pcms]
+[ns]Tennis Club Girl B[nse]
+"You like the stinkiness? You're not just uptight, you're a filthy[r]
+pervert. But before licking, we have to peel it back properly."[pcms]
 
 
 *4528|
 ;旧ナンバー[vo_m s="lacrosse_A0005"]
 [マイク 位置２][vo_mob s="R_lacrosseA0005"]
-[ns]ラクロス部女子Ａ[nse]
-「ムくってぇ、このカワをムけばいいのぉ？[r]
-　あははっ、それはあたしがやってみるうぅぅぅぅ」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Peel it back? You mean peel back this skin? Ahaha, I'll try doing[r]
+that!"[pcms]
 
 
 *4529|
 [fc]
-[ns]克己[nse]
-「なッ、やめ…………んッ、がああああッッ！！？」[pcms]
+[ns]Kazumi[nse]
+"No, stop... Ahhhhh!!?"[pcms]
 
 
 *4530|
 [fc]
-止めようとする間もなく、その子は乱暴にアレを掴むと[r]
-そのまま下の方にズリ下げていた。その結果……。[pcms]
+Without a chance to stop her, she roughly grabbed it and pulled it[r]
+down. As a result...[pcms]
 
 
 *4531|
 ;旧ナンバー[vo_m s="lacrosse_C0003"]
 [マイク 位置１２][vo_mob s="R_lacrosseC0003"]
-[ns]ラクロス部女子Ｃ[nse]
-「あははははっっ！　すっげーニオイぃぃぃぃ！[r]
-;FHD　それになんかぁ、ゴミみたいなついてるしぃぃぃ。[r]
-　それになんかぁ、ゴミみたいのついてるしぃぃぃ。[r]
-　これってチン毛じゃないのぉぉお？」[pcms]
+[ns]Lacrosse Club Girl C[nse]
+"Ahahahaha! It smells so baaad! And there's something like trash stuck[r]
+to it. Is this pubic hair?"[pcms]
 
 
 *4532|
 [fc]
-無理矢理引き剥がされた包皮の下から[r]
-真っ赤に腫れ上がった亀頭が突き出していた。[pcms]
+The swollen red glans popped out from under the forcibly peeled back[r]
+foreskin.[pcms]
 
 
 *4533|
 [fc]
-それはまるで一斉に向けられる好奇の視線に[r]
-照れてるみたいだった……。[pcms]
+It seemed almost shy under the barrage of curious stares directed at[r]
+it...[pcms]
 
 
 *4534|
 ;旧ナンバー[vo_m s="lacrosse_B0005"]
 [マイク 位置１３][vo_mob s="R_lacrosseB0005"]
-[ns]ラクロス部女子Ｂ[nse]
-「このアカみたいなのがぁ、チンカスってヤツじゃないぃ？[r]
-　このおっさん、ちゃんとあらってねーってことでしょー。[r]
-　ほんっと、きたねーおっさん。きゃはははははっ！！」[pcms]
+[ns]Lacrosse Club Girl B[nse]
+"Isn't this red stuff smegma? This old man didn't wash properly,[r]
+that's what it means. Really, what a dirty old man. Kyahahahaha!!"[pcms]
 
 
 *4535|
 ;旧ナンバー[vo_m s="tennis_Buchou0007"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0007"]
-[ns]テニス部部長[nse]
-「だけどぉぉ……なんだかゾクゾクしてくるぅぅ。[r]
-　はやくっ、はやくなめてみたぁぁぁいっっ」[pcms]
+[ns]Tennis Club Captain[nse]
+"But still... it's making me shiver with excitement. I want to lick it[r]
+quickly, so quickly!"[pcms]
 
 
 *4536|
 [fc]
-はっはっと犬みたいに舌を突き出しながら、[r]
-指導役の女の子に懇願の目を向けている。[pcms]
+She stuck out her tongue panting like a dog, looking pleadingly at the[r]
+girl acting as instructor.[pcms]
 
 
 *4537|
 ;旧ナンバー[vo_m s="tennis_B0008"]
 [マイク 位置１４][vo_mob s="R_tennisB0008"]
-[ns]テニス部女子Ｂ[nse]
-「そんなにしたければぁ、フェラしていいよぉ。[r]
-　ちゃあんと、そのクっサいチンカスもあじわいながらねえ～」[pcms]
+[ns]Tennis Club Girl B[nse]
+"If you want it that badly, go ahead and give a blowjob. Make sure to[r]
+savor that stinky smegma while you're at it."[pcms]
 
 
 *4538|
 ;旧ナンバー[vo_m s="tennis_Buchou0008"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0008"]
-[ns]テニス部部長[nse]
-「フェラっ、フェラするぅぅっ！　チンチンっ、フェラするぅ！[r]
-　……はぶっっ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Blowjob, I'll do a blowjob! I'll suck on that cock! ...Habuuu!!"[pcms]
 
 ;;//■イベントCG　mob_H009
 [evcg storage="mob_H009b"][trans_c cross time=500]
@@ -1388,112 +1368,108 @@
 
 *4539|
 [fc]
-飢えた動物みたいに部長はためらいなくアレを咥えると、[r]
-そのまま一気に喉まで押し込んでいた。[pcms]
+Like a starving animal, the club president didn't hesitate to take it[r]
+in her mouth and pushed it down her throat in one go.[pcms]
 
 
 *4540|
 [fc]
-[ns]克己[nse]
-「…………ッッ！！　…………ッッ！！」[pcms]
+[ns]Kazumi[nse]
+"...!! ...!!"[pcms]
 
 
 *4541|
 [fc]
-それは俺にとっても初めてのフェラだった。[r]
-だけど声一つ出せずに、ただ身体を仰け反らせてしまう。[pcms]
+It was my first blowjob ever. But without being able to utter a single[r]
+voice, I just arched my body back.[pcms]
 
 
 *4542|
 ;旧ナンバー[vo_m s="tennis_Buchou0009"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0009"]
-[ns]テニス部部長[nse]
-「はぶっ、んぶっっ！　んぢゅっっ！　んぶぶぶっっ！！[r]
-　んおっ、んんんっっ、ぶぶっ、んぶうううっっ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Habu, nubuuu! Njyuuu! Nubububu!! Noooh, nnnn, bubu, nubuuuu!!"[pcms]
 
 
 *4543|
 [fc]
-鼻水を垂れ流しながら、彼女は激しく頭を上下させていく。[pcms]
+With her nose running, she violently bobbed her head up and down.[pcms]
 
 
 *4544|
 [fc]
-[ns]克己[nse]
-「ぐぅッ、ぐうううううう……ッッ！！」[pcms]
+[ns]Kazumi[nse]
+"Guuuh, guuuuuu...!!"[pcms]
 
 
 *4545|
 [fc]
-それが『ディープスロート』とかいうモノなんだと[r]
-頭のどこかで認識しつつも、ただ快感に震えるばかりだった。[pcms]
+I recognized somewhere in my head that this was what they call "deep[r]
+throat," but all I could do was tremble with pleasure.[pcms]
 
 
 *4546|
 ;旧ナンバー[vo_m s="tennis_Buchou0010"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0010"]
-[ns]テニス部部長[nse]
-「ほおっ、おおお…………んぶっ、んぶううぅうぅぅっっ！！[r]
-　んふっ、んふぅっ、ぢゅぶ……っ、ぢゅるるるるるるるっっ！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Hoooh, ooooh...nubu, nubuuuuuu!! Nfuuu, nfuuu, jyubu...[r]
+jyurururururu!!"[pcms]
 
 
 *4547|
 [fc]
-鼻で息をしながら、一心不乱にアレを貪る部長。[r]
-そんな姿にラクロス部員たちが色めき立っていく。[pcms]
+While breathing through her nose, the club president devoured it[r]
+single-mindedly as the lacrosse club members got excited.[pcms]
 
 
 *4548|
 ;旧ナンバー[vo_m s="lacrosse_C0004"]
 [マイク 位置１２][vo_mob s="R_lacrosseC0004"]
-[ns]ラクロス部女子Ｃ[nse]
-「わたしもぉっ、チンポなめてみたいってばぁぁぁ！！[r]
-　ちょっとぉ、そろそろかわんなさいよぉぉ！[r]
-　テニスぶのくせにぃぃ、なまいきだろぉぉ！！」[pcms]
+[ns]Lacrosse Club Girl C[nse]
+"I wanna taste that dick toooo! Hey, switch with me already! You're so[r]
+cheeky for a tennis club member!!"[pcms]
 
 
 *4549|
 [fc]
-乱暴に髪を引っ張って引き剥がそうとするも、[r]
-部長はスッポンみたいに吸い付いて離れない。[pcms]
+Despite trying to pull her away by yanking her hair roughly, the club[r]
+president clung on like a leech and wouldn't let go.[pcms]
 
 
 *4550|
 ;旧ナンバー[vo_m s="tennis_B0009"]
 [マイク 位置１４][vo_mob s="R_tennisB0009"]
-[ns]テニス部女子Ｂ[nse]
-「だったらぁ、キンタマでもなめてればぁぁ？[r]
-　こーいうのってぇ、はやいもんがちだしぃぃぃ」[pcms]
+[ns]Tennis Club Girl B[nse]
+"If that's the case, why don't you lick his balls? It's first come[r]
+first serve after all."[pcms]
 
 
 *4551|
 [fc]
-一斉に不満の声が上がるも、アレはひとつしかない。[r]
-渋々といった様子で彼女たちは根元に群がり始める。[pcms]
+A chorus of complaints arose but there was only one dick. Reluctantly,[r]
+they started crowding around its base.[pcms]
 
 
 *4552|
 ;旧ナンバー[vo_m s="lacrosse_A0006"]
 [マイク 位置２][vo_mob s="R_lacrosseA0006"]
-[ns]ラクロス部女子Ａ[nse]
-「あはっ！　なにこれぇ、なんかビクビクしてるぅぅ。[r]
-　ほらほらぁ、みてみなよぉぉ。あははははっ」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Ahah! What's this? It's twitching. Look look everyone. Ahahahaha!"[pcms]
 
 
 *4553|
 ;旧ナンバー[vo_m s="lacrosse_B0006"]
 [マイク 位置１３][vo_mob s="R_lacrosseB0006"]
-[ns]ラクロス部女子Ｂ[nse]
-「へえええ～、こっちにも毛がはえてるんだぁぁ。[r]
-　なんかきもちわるうううい」[pcms]
+[ns]Lacrosse Club Girl B[nse]
+"Heeeh~, there's hair growing over here too. It feels so weird."[pcms]
 
 
 *4554|
 ;旧ナンバー[vo_m s="lacrosse_C0005"]
 [マイク 位置１２][vo_mob s="R_lacrosseC0005"]
-[ns]ラクロス部女子Ｃ[nse]
-「でもぉぉ、なんかこりこりしててぇぇ、[r]
-　かじったらおいしそうじゃないぃ？　きゃははっっ」[pcms]
+[ns]Lacrosse Club Girl C[nse]
+"But you know, it's kind of crunchy, and it seems like it would taste[r]
+good if I bit into it, right? Kyahaha!"[pcms]
 
 ;;//■イベントCG　mob_H009
 [evcg storage="mob_H009d"][trans_c cross time=500]
@@ -1502,44 +1478,43 @@
 *4555|
 ;旧ナンバー[vo_m s="lacrosse_B0007"]
 [マイク 位置１３][vo_mob s="R_lacrosseB0007"]
-[ns]ラクロス部女子Ｂ[nse]
-「んおっ、じゅるる……っ、こっちもなんかクサいけどぉ、[r]
-　なんかクセになる味ってかんじぃぃ……じゅるるるる」[pcms]
+[ns]Lacrosse Club Girl B[nse]
+"Ngh, slurp... This side smells kinda funky too, but it's like an[r]
+addictive taste... slurrrrp."[pcms]
 
 
 *4556|
 ;旧ナンバー[vo_m s="lacrosse_A0007"]
 [マイク 位置２][vo_mob s="R_lacrosseA0007"]
-[ns]ラクロス部女子Ａ[nse]
-「なになめてんのよぉ、そこ、あたしのばしょでしょおおお！？[r]
-　んーーっ、じゅるるるるっ！　じゅぷっ、じゅぶっっ！」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"What are you licking there, that's my spot! Nn-- slurrrrp! Suck,[r]
+slurp!"[pcms]
 
 
 *4557|
 ;旧ナンバー[vo_m s="lacrosse_C0006"]
 [マイク 位置１２][vo_mob s="R_lacrosseC0006"]
-[ns]ラクロス部女子Ｃ[nse]
-「こっちなんかぁぁ、なんかケツのアナにちかくてぇぇ、[r]
-　ものすごくキッタネーかんじぃぃぃ！　じゅぷっ、じゅぷっ、[r]
-　でもぉ、ケツアナがピクピクしててぇ、おもしろぉい」[pcms]
+[ns]Lacrosse Club Girl C[nse]
+"This side is like, really close to the ass, and it feels so dirty![r]
+Suck, suck, but the butt is twitching and it's so funny."[pcms]
 
 
 *4558|
 [fc]
-好き放題に蹂躙されて、俺はもう気が狂いそうだった。[r]
-それもこれが初めての行為だなんて……悪夢だ。[pcms]
+Being ravaged to my heart's content, I felt like I was going insane.[r]
+And to think this was my first time... it was a nightmare.[pcms]
 
 
 *4559|
 [fc]
-[ns]克己[nse]
-「んぐッ、ん……ッ、んうううう……ッッ！」[pcms]
+[ns]Kazumi[nse]
+"Nguh, nn... Nuuuu...!"[pcms]
 
 
 *4560|
 [fc]
-それなのに身体の方は舌が這い回る度に震え、[r]
-バカみたいな喘ぎ声が零れてしまう。[pcms]
+Yet every time a tongue crawled over me, my body trembled and I[r]
+couldn't help but let out stupid moans.[pcms]
 
 ;;//■イベントCG　mob_H009
 [evcg storage="mob_H009c"][trans_c cross time=500]
@@ -1548,57 +1523,55 @@
 *4561|
 ;旧ナンバー[vo_m s="tennis_B0010"]
 [マイク 位置１４][vo_mob s="R_tennisB0010"]
-[ns]テニス部女子Ｂ[nse]
-「なにコイツぅぅ、レイプされてんのにかんじてやんのぉぉ。[r]
-　ウチのブチョーもヘンタイだけどぉ、コイツもそーとーじゃん」[pcms]
+[ns]Tennis Club Girl B[nse]
+"What's with this guy, getting turned on while being raped. Our club[r]
+president is a pervert too, but this guy is just the same."[pcms]
 
 
 *4562|
 [fc]
-[ns]克己[nse]
-「…………ッ！！」[pcms]
+[ns]Kazumi[nse]
+"...!!"[pcms]
 
 
 *4563|
 [fc]
-誰が感じてるってんだよ……！[r]
-身体が動けばこんなヤツら……すぐにでも…………。[pcms]
+Who says I'm getting turned on...! If my body could move, I'd take[r]
+these guys down... immediately...[pcms]
 
 
 *4564|
 ;旧ナンバー[vo_m s="tennis_Buchou0011"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0011"]
-[ns]テニス部部長[nse]
-「んほぉっ！　んぶっ、んぢゅぅぅぅぅぅっっ！！[r]
-　んぶっ、ぶぢゅっ、んほっ、んぶううううっっ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Nhooh! Nbuu, ndjuuuuu!! Nbuu, budjuu, nhooh, nbuuuuu!!"[pcms]
 
 
 *4565|
 [fc]
-[ns]克己[nse]
-「ぐうぅぅ………………」[pcms]
+[ns]Kazumi[nse]
+"Guuuu..."[pcms]
 
 
 *4566|
 [fc]
-芽生えかけた反抗心も激しい攻めに潰えてしまう。[r]
-初めてのせいかまるで手加減がなく……死ぬほど気持ちいい。[r]
-そこらのオナホなんか目じゃないぐらいだ。[pcms]
+Any budding resistance was crushed by the fierce onslaught. Maybe[r]
+because it was my first time, there was no holding back... and it felt[r]
+insanely good. Way better than any onahole out there.[pcms]
 
 
 *4567|
 ;旧ナンバー[vo_m s="lacrosse_A0008"]
 [マイク 位置２][vo_mob s="R_lacrosseA0008"]
-[ns]ラクロス部女子Ａ[nse]
-「こりこり……おいしいぃぃ……っ、ぢゅぷっ、ぢゅぷっ、[r]
-　んおおおっ、はおお……、じゅるるるる……っ！！」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Crunchy... tasty... suck, suck, nghhh, haah... slurrrrp!!"[pcms]
 
 
 *4568|
 [fc]
-それどころかタマの方に群がった女の子たちも[r]
-バカにしたようなことを口にしながらも[r]
-盛んに舌を這わせてくる。[pcms]
+And as if that wasn't enough, the girls crowding around my balls were[r]
+saying demeaning things while eagerly running their tongues all over[r]
+them.[pcms]
 
 ;;//■イベントCG　mob_H009
 [evcg storage="mob_H009d"][trans_c cross time=500]
@@ -1607,180 +1580,177 @@
 *4569|
 ;旧ナンバー[vo_m s="lacrosse_C0007"]
 [マイク 位置１２][vo_mob s="R_lacrosseC0007"]
-[ns]ラクロス部女子Ｃ[nse]
-「んっ、んんんっ！　あぶっ、ケツアナも……んじゅっ！[r]
-　んぼっ、じゅるるるる……っ！」[pcms]
+[ns]Girls' Lacrosse Club Member C[nse]
+"Nn, nnnn! Abuuu, even the butt... njyu! Nboh, slurrrrp!"[pcms]
 
 
 *4570|
 [fc]
-尻の穴まで……舌が潜り込んでくる……！[r]
-くっ、こんなこと……されたこともしたこともない。[pcms]
+Even up to my asshole... their tongues were diving in...! Damn it,[r]
+I've never done or had anything like this done to me before.[pcms]
 
 
 *4571|
 ;旧ナンバー[vo_m s="tennis_B0011"]
 [マイク 位置１４][vo_mob s="R_tennisB0011"]
-[ns]テニス部女子Ｂ[nse]
-「あはははは！　ケツなめとかやるじゃん～。[r]
-　あ……コイツ、そろそろシャセーすんじゃないかなぁぁ？」[pcms]
+[ns]Tennis Club Girl B[nse]
+"Ahahahaha! You're doing ass licking now? Ah... I think this guy is[r]
+about to cum soon?"[pcms]
 
 
 *4572|
 [fc]
-顔をじろじろと無遠慮に覗き込むと、イヤらしい笑みを浮かべる。[pcms]
+She peered at my face without any reservation and smirked lewdly.[pcms]
 
 
 *4573|
 [fc]
-[ns]克己[nse]
-「くッ、うううう…………」[pcms]
+[ns]Kazumi[nse]
+"Kuh, uuuuu..."[pcms]
 
 
 *4574|
 [fc]
-でも俺には反駁する余裕はもう残っていなかった。[r]
-悔しいけどその子の言うとおり、もう限界が近かった。[pcms]
+But I no longer had the luxury to argue back. As much as it pained me[r]
+to admit it, she was right; I was nearing my limit.[pcms]
 
 
 *4575|
 ;旧ナンバー[vo_m s="tennis_B0012"]
 [マイク 位置１４][vo_mob s="R_tennisB0012"]
-[ns]テニス部女子Ｂ[nse]
-「なにガマンしてんのよぉおぉ？　さっさとぉ、[r]
-　セーシぶちまければいいじゃん～～」[pcms]
+[ns]Tennis Club Girl B[nse]
+"Why are you holding back? Just hurry up and cum already~~"[pcms]
 
 
 *4576|
 [fc]
-あの特徴的な赤い瞳をらんらんと輝かせながら[r]
-血がこびりついた歯をむき出して笑っている。[pcms]
+Her distinctive red eyes sparkled as she laughed with blood-stained[r]
+teeth bared.[pcms]
 
 
 *4577|
 [fc]
-ついさっきまでは動きがノロい雑魚だと思っていた。[r]
-だけど……いまは身震いするほどの恐怖を感じてしまう。[pcms]
+Until just a moment ago, I thought they were just slow-moving small[r]
+fry. But now... I felt a shiver of real fear.[pcms]
 
 
 *4578|
 [fc]
-……甘くみていた自分が悪いのはわかってる。[r]
-でもこんな目に遭うなんて……チクショウ……。[pcms]
+...I know it's my fault for underestimating them. But to suffer like[r]
+this... damn it...[pcms]
 
 
 *4579|
 ;旧ナンバー[vo_m s="tennis_Buchou0012"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0012"]
-[ns]テニス部部長[nse]
-「んぼっ！！　んぶっ、ぢゅぶっ、ぢゅるるるる……っ！[r]
-　ぷはっ、はひぃぃ……チンチン、おいしいぃぃ。[r]
-　チンカスぅ、もっとたべたいのに、なくなっちゃったぁぁ」[pcms]
+[ns]Tennis Club Captain[nse]
+"Nboh!! Nbuu, djubu, slurrrrp! Phah, hahii... Dick tastes so good. I[r]
+want more smegma, but there's none left."[pcms]
 
 
 *4580|
 [fc]
-涎まみれの唇をイヤらしく舐めとりながら、[r]
-部長は生暖かい吐息を吹きかけてくる。[r]
-それだけで恐怖は圧倒的な快感に取って代わられた。[pcms]
+While lasciviously licking her drool-covered lips, the captain[r]
+breathed a warm breath on me. That alone was enough to replace the[r]
+fear with overwhelming pleasure.[pcms]
 
 
 *4581|
 ;旧ナンバー[vo_m s="lacrosse_B0008"]
 [マイク 位置１３][vo_mob s="R_lacrosseB0008"]
-[ns]ラクロス部女子Ｂ[nse]
-「あはぁぁっ、キンタマぁ、ビクってしたぁぁぁ！[r]
-　もうセーシぃ、セーシでるのぉぉぉ？」[pcms]
+[ns]Lacrosse Club Girl B[nse]
+"Ahah! The balls twitched! Are you gonna cum soon?"[pcms]
 
 
 *4582|
 ;旧ナンバー[vo_m s="lacrosse_C0008"]
 [マイク 位置１２][vo_mob s="R_lacrosseC0008"]
-[ns]ラクロス部女子Ｃ[nse]
-「そーかもぉぉ、さっきからケツアナをきゅーってしめてぇ、[r]
-　すっごくガマンしてるんだもぉぉん。[r]
-　ガマンするだけムダだっていうのにぃぃ、あははははっ！」[pcms]
+[ns]Lacrosse Club Girl C[nse]
+"Maybe sooo, you've been clenching your butt so tight since a while[r]
+ago, trying so hard to hold it in. It's useless to resist though,[r]
+ahahaha!"[pcms]
 
 
 *4583|
 [fc]
-そう嘲りながら、シワのひとつひとつをなぞるみたいに[r]
-舌先をそこに這わせてくる。[pcms]
+While mocking me, they ran their tongues over every wrinkle as if[r]
+tracing each one.[pcms]
 
 
 *4584|
 [fc]
-[ns]克己[nse]
-「うッ、ぐうッ！　そ、そこは……ぐううううッッ！」[pcms]
+[ns]Kazumi[nse]
+"Ugh, guh! Th-that place... guuuuuuh!"[pcms]
 
 
 *4585|
 [fc]
-いまにも溢れ出しそうなものを、なんとか押し止める。[r]
-それは半ば意地だったけど……それももう……限界に近い。[pcms]
+I was desperately trying to hold back what felt like it was about to[r]
+overflow. It was partly out of stubbornness... but even that was[r]
+reaching its limit.[pcms]
 
 
 *4586|
 ;旧ナンバー[vo_m s="lacrosse_B0009"]
 [マイク 位置１３][vo_mob s="R_lacrosseB0009"]
-[ns]ラクロス部女子Ｂ[nse]
-「キンタマがキュンキュンしっぱなしなのにぃぃっ、[r]
-　はぶっ、じゅるるる……っ！　はひっ、まだでないのぉ？[r]
-　ほらっ！　ほらほらほらぁぁぁぁ！！」[pcms]
+[ns]Lacrosse Club Girl B[nse]
+"Your balls have been twitching non-stop, huh? Slurrrrp! Hah! Aren't[r]
+you gonna cum yet? Come on! Come on come on come onnnn!!"[pcms]
 
 
 *4587|
 [fc]
-焦れてきた女の子のひとりが乱暴にタマを弄り始める。[r]
-その痛いぐらいの刺激に、今にも意識が吹っ飛びそうだった。[pcms]
+One of the impatient girls started playing roughly with my balls. The[r]
+painful stimulus made me feel like I was about to lose consciousness[r]
+any second.[pcms]
 
 
 *4588|
 ;旧ナンバー[vo_m s="tennis_Buchou0013"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0013"]
-[ns]テニス部部長[nse]
-「おぶぅっ！　んっ、んぶうううっ！！　はっ、はぶっ！！[r]
-　んんんん～～！！　んぢゅるるるるる……っっ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Obuuu! Nn, nbuuuu!! Hah, habuu!! Nnnnn~~!! Ndjururururu...!!"[pcms]
 
 
 *4589|
 [fc]
-さらに運の悪いことに、ただ深いだけのディープスロートに[r]
-熱い舌の刺激まで加わり始める。ついでに言えば、[r]
-破裂寸前の亀頭にブチ当たる喉奥のぬめりもだ……。[pcms]
+To make matters worse, in addition to the deep throat that was just[r]
+deep before, now there was the stimulation of a hot tongue starting to[r]
+join in. Not to mention the sliminess of the throat hitting the[r]
+bursting point of the glans...[pcms]
 
 
 *4590|
 ;旧ナンバー[vo_m s="tennis_B0013"]
 [マイク 位置１４][vo_mob s="R_tennisB0013"]
-[ns]テニス部女子Ｂ[nse]
-「なんかガマンしてるけどぉ、もうダメでしょおお？[r]
-　ほらぁ、いいかげんだしちゃえよぉぉぉ！！[r]
-　あんたもぉ、もっときあいいれて、しゃぶれってぇぇ！」[pcms]
+[ns]Tennis Club Girl B[nse]
+"You seem to be holding back but you're already done for, right? Come[r]
+on, just let it out already!! You too, put more spirit into sucking!"[pcms]
 
 
 *4591|
 [fc]
-サディスティックな笑みを浮かべながら[r]
-本来立ち位置が上のはずの『部長』の髪を掴むと、[r]
-そのまま勢いよく引っ張った。[pcms]
+With a sadistic smile on her face, she grabbed the hair of the "club[r]
+president," who should have been in a superior position, and yanked it[r]
+forcefully.[pcms]
 
 
 *4592|
 [fc]
-[ns]克己[nse]
-「ッッッッ！！！？」[pcms]
+[ns]Kazumi[nse]
+"!!!!"[pcms]
 
 
 *4593|
 [fc]
-仰け反った部長の唇から……ちゅるんとアレが抜けていた。[pcms]
+From the lips of the club president, who was leaning back... that[r]
+thing slipped out with a slurp.[pcms]
 
 
 *4594|
 [fc]
-限界まで張り詰めていた亀頭の上を滑る柔らかい感触、[r]
-その刺激に俺は頭が真っ白になって…………。[pcms]
+The sensation of something soft sliding over the tip of my dick, which[r]
+was stretched to its limit, made my head go completely white...[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -1794,53 +1764,51 @@
 *4595|
 ;旧ナンバー[vo_m s="tennis_Buchou0014"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0014"]
-[ns]テニス部部長[nse]
-「ほへえぇぇぇぇええぇぇっっっ！！[r]
-　おぶっ、おぶううぅうううっっっ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Hohheeeeeee!! Obu, obuuuuuu!!"[pcms]
 
 
 *4596|
 [fc]
-名残惜しげに突き出されてた部長の舌に[r]
-俺は大量の精液をブチ撒けていた。[pcms]
+I was splattering a massive amount of semen onto the tongue of the[r]
+club president, who was sticking it out regretfully.[pcms]
 
 
 *4597|
 ;旧ナンバー[vo_m s="lacrosse_A0009"]
 [マイク 位置２][vo_mob s="R_lacrosseA0009"]
-[ns]ラクロス部女子Ａ[nse]
-「ふああああんっ！　あっついのがぁぁぁ、ふってくるぅぅ！[r]
-　あひいぃぃ…………」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Fuaaaaan! Hot stuff is falling, ahhhh! Ahiyiiii..."[pcms]
 
 
 *4598|
 [fc]
-腰が蕩けるぐらい吹き出した精液は舌だけでは収まらず、[r]
-顔を寄せ合っていた女の子たちにも飛び散っていた。[pcms]
+The semen that gushed out as if my hips had melted didn't just stay on[r]
+her tongue; it also splattered onto the faces of the girls who were[r]
+huddled close together.[pcms]
 
 
 *4599|
 ;旧ナンバー[vo_m s="lacrosse_C0009"]
 [マイク 位置１２][vo_mob s="R_lacrosseC0009"]
-[ns]ラクロス部女子Ｃ[nse]
-「すっごいニオイぃぃ……なまぐさくてぇぇ、[r]
-　なんかドーテーってかんじのニオイぃぃ……ふへえ……」[pcms]
+[ns]Girls' Lacrosse Club Member C[nse]
+"Such a strong smell... it's fishy and kind of dirty... fuhhee..."[pcms]
 
 
 *4600|
 ;旧ナンバー[vo_m s="lacrosse_B0010"]
 [マイク 位置１３][vo_mob s="R_lacrosseB0010"]
-[ns]ラクロス部女子Ｂ[nse]
-「それにぃぃ、あつくてベタベタしてるしぃぃぃ、[r]
-　どんなあじ、するのかなああ…………じゅるるっ」[pcms]
+[ns]Lacrosse Club Girl B[nse]
+"And it's hot and sticky too... I wonder what it tastes like...[r]
+slurrrp"[pcms]
 
 
 *4601|
 ;旧ナンバー[vo_m s="lacrosse_A0010"]
 [マイク 位置２][vo_mob s="R_lacrosseA0010"]
-[ns]ラクロス部女子Ａ[nse]
-「あたしのセーシぃぃぃ、かってになめないでよぉぉぉ、[r]
-　んっ、じゅるっ。ふへええ……すごくこいぃぃぃ」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Don't just lick up my cum without permission, ahhh, slurp. Fuhheee...[r]
+it's so thick..."[pcms]
 
 ;;//■イベントCG　mob_H009
 [evcg storage="mob_H009f"][trans_c cross time=500]
@@ -1848,114 +1816,112 @@
 
 *4602|
 [fc]
-顔にこびり付いた精液を互いに舐め合いながら[r]
-うっとりと頬を染める女の子たち。[pcms]
+The girls blushed with ecstasy as they licked the cum sticking to each[r]
+other's faces.[pcms]
 
 
 *4603|
 [fc]
-その一方で口いっぱいに精液を流し込まれた部長は[r]
-白目を剥いたまま身体を震わせてる。それどころか……。[pcms]
+Meanwhile, the club president, who had been filled to the brim with[r]
+semen, was shaking with her eyes rolled back. And that wasn't all...[pcms]
 
 
 *4604|
 ;旧ナンバー[vo_m s="tennis_Buchou0015"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0015"]
-[ns]テニス部部長[nse]
-「おへっ、ほおおお……、ぐちゅっ、ぶほ……っ、[r]
-　えへぇぇぇ……ぐぢゅ、ぐぢゅぐぢゅ……っ」[pcms]
+[ns]Tennis Club Captain[nse]
+"Ohe, hooo... guchu, buho... ehheee... guju, gujuguju..."[pcms]
 
 
 *4605|
 [fc]
-粘ついた水音を立てながら、精液でうがいをしていた。[r]
-とても処女の女の子がする行動じゃないって……。[pcms]
+She was gargling with semen, making sticky wet sounds. It was not[r]
+something a virgin girl would do...[pcms]
 
 
 *4606|
 [fc]
-なんてことをボンヤリ考えていると、[r]
-唇の端から精液と涎が混じってものを滴らせて[r]
-部長が薄笑みを浮かべているのに気がついた。[pcms]
+As I absentmindedly thought about this, I noticed the club president[r]
+smiling faintly with semen and drool dripping from the corner of her[r]
+lips.[pcms]
 
 
 *4607|
 ;旧ナンバー[vo_m s="tennis_Buchou0016"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0016"]
-[ns]テニス部部長[nse]
-「すごく、いやらしいぃあじだったわぁぁ……。[r]
-　からだじゅうにぃぃ、しみこむみたいでぇ、[r]
-　あひぃぃ……っ、マンコがあつくなってぇぇ……」[pcms]
+[ns]Tennis Club Captain[nse]
+"It tasted so lewd... It feels like it's seeping into my whole body,[r]
+ahiyii... my pussy is getting hot..."[pcms]
 
 
 *4608|
 [fc]
-そんなことを囁く彼女のアソコは[r]
-大洪水なんてレベルじゃすまない感じだった。[pcms]
+The area around her was more than just a flood; it was beyond any[r]
+normal level.[pcms]
 
 
 *4609|
 ;旧ナンバー[vo_m s="tennis_Buchou0017"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0017"]
-[ns]テニス部部長[nse]
-「ねええ、チンチン、ほしいのぉぉ！[r]
-　あつくなったマンコにぃ、チンチンつっこんでぇぇ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Heyyy, I want your dick! Stick your dick into my hot pussy!!"[pcms]
 
 
 *4610|
 [fc]
-すでに役目を放棄したパンツに指を突っ込みながら[r]
-薄ら笑いを浮かべる部長。[r]
-しかし別のところから妨害が入ってしまう。[pcms]
+While pushing her fingers into her already abandoned panties, the club[r]
+president smiled faintly. However, interference came from somewhere[r]
+else.[pcms]
 
 
 *4611|
 ;旧ナンバー[vo_m s="lacrosse_A0011"]
 [マイク 位置２][vo_mob s="R_lacrosseA0011"]
-[ns]ラクロス部女子Ａ[nse]
-「なにいってんのよぉぉ、セーシがぶのみしたんだからぁぁ、[r]
-　オマンコはぁ、あたしたちがさきにぃ、きまってるでしょおお」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"What are you saying? You've already gulped down the cum, so it's[r]
+decided that our pussies go first!"[pcms]
 
 
 *4612|
 ;旧ナンバー[vo_m s="lacrosse_B0011"]
 [マイク 位置１３][vo_mob s="R_lacrosseB0011"]
-[ns]ラクロス部女子Ｂ[nse]
-「そうよぉ、テニス部はそこでぇ、オナニーでもしてろって！」[pcms]
+[ns]Lacrosse Club Girl B[nse]
+"That's right! The tennis club can just masturbate over there!"[pcms]
 
 
 *4613|
 ;旧ナンバー[vo_m s="tennis_Buchou0018"]
 [マイク 位置８][vo_mob s="R_tennisBUCHO0018"]
-[ns]テニス部部長[nse]
-「やだああ、わたしがマンコするのぉぉぉ！！[r]
-　だれにも、ゆずらないんだからあ！　やぁぁだあぁぁぁ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"No way, I'm going to be the one to use my pussy! I won't give it up[r]
+to anyone! Nooooo!!"[pcms]
 
 
 *4614|
 ;旧ナンバー[vo_m s="tennis_B0014"]
 [マイク 位置１４][vo_mob s="R_tennisB0014"]
-[ns]テニス部女子Ｂ[nse]
-「いいじゃん、さきにぃ、ヤラせればぁぁ。[r]
-　ほらぁ、さっさとヤっちゃえーー！　あはははははっ！！」[pcms]
+[ns]Tennis Club Girl B[nse]
+"Come on, let's just let her have a turn first. Hurry up and do it--![r]
+Ahahahaha!!"[pcms]
 
 
 *4615|
 [fc]
-またも部長の髪を引っ掴むと、他の部員たちに押さえ込まれた[r]
-俺の身体を顎でしゃくる。ヤレと言わんばかりの仕草だ……。[pcms]
+Once again grabbing the club president's hair, she gestured with her[r]
+chin towards my body, which was being held down by other members. It[r]
+was as if she was saying to go ahead and do it...[pcms]
 
 
 *4616|
 ;旧ナンバー[vo_m s="lacrosse_C0010"]
 [マイク 位置１２][vo_mob s="R_lacrosseC0010"]
-[ns]ラクロス部女子Ｃ[nse]
-「くふふっ、それならわたしはぁ、なめてもらおうかなぁぁぁ」[pcms]
+[ns]Girls' Lacrosse Club Member C[nse]
+"Kufufu, then maybe I'll have you lick me..."[pcms]
 
 
 *4617|
 [fc]
-言うが早いか、俺の顔に跨がってくる。[pcms]
+No sooner had she said that than she straddled my face.[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -1975,228 +1941,222 @@
 
 *4618|
 [fc]
-[ns]克己[nse]
-「うッ！　うぶ……ッッ！？」[pcms]
+[ns]Kazumi[nse]
+"Ugh! Ub...!!?"[pcms]
 
 
 *4619|
 [fc]
-溢れる愛液でベタベタになっていたスパッツは[r]
-まるで濡れた和紙みたいに顔面を覆い隠す。[pcms]
+The spats soaked with love juices covered my face like wet Japanese[r]
+paper.[pcms]
 
 
 *4620|
 [fc]
-[ns]克己[nse]
-「んぐーーーーーーッ！！　んんんんんんーーーッッ！！」[pcms]
+[ns]Kazumi[nse]
+"Ngu------!! Nnnnnnnn---!!"[pcms]
 
 
 *4621|
 [fc]
-息が……ッ、息ができねえええッッ！？[r]
-ぐっ、こんな、こんなとこで……死にたくねぇ……！！[pcms]
+I can't breathe... I can't breathe!! Guh, I don't want to die in a[r]
+place like this...!![pcms]
 
 
 *4622|
 ;旧ナンバー[vo_m s="lacrosse_C0011"]
 [マイク 位置１][vo_mob s="R_lacrosseC0011"]
-[ns]ラクロス部女子Ｃ[nse]
-「あへぇっっ！！　くひっ、そこぉぉ、イイっっ！！[r]
-　おおっ、くひいいぃぃぃっ！！」[pcms]
+[ns]Girls' Lacrosse Club Member C[nse]
+"Aheee!! Kuh, right thereee, good!! Oohh, kuhiiii!!"[pcms]
 
 
 *4623|
 [fc]
-無我夢中で暴れ回るうちに、いい場所を刺激したのか[r]
-押し付けられていた腰が浮いた。[pcms]
+In my frantic struggle, I must have hit a good spot because the hips[r]
+that were pressing down on me lifted up.[pcms]
 
 
 *4624|
 [fc]
-[ns]克己[nse]
-「はーーっ、はーーーっ！　くそ……死ぬかと…………んぶ！？」[pcms]
+[ns]Kazumi[nse]
+"Ha--! Ha---! Damn... thought I was gonna die... nmbu!?"[pcms]
 
 
 *4625|
 [fc]
-なんとか息継ぎ出来たかと思ったのも束の間、[r]
-またも濡れそぼったスパッツが押し付けられる。[pcms]
+Just when I thought I could catch my breath, those wet spats were[r]
+pressed against me again.[pcms]
 
 
 *4626|
 ;旧ナンバー[vo_m s="lacrosse_C0012"]
 [マイク 位置１][vo_mob s="R_lacrosseC0012"]
-[ns]ラクロス部女子Ｃ[nse]
-「もっともっとぉぉっ！[r]
-　そこっ、クリトリスぅぅ、いじってぇ！　んひぃぃ！！」[pcms]
+[ns]Lacrosse Club Girl C[nse]
+"More and more! Rub that clit! Nhiyii!!"[pcms]
 
 
 *4627|
 [fc]
-[ns]克己[nse]
-「ぐ……ッ、んぐ…………ッ！！」[pcms]
+[ns]Kazumi[nse]
+"Guh... Nguh...!!"[pcms]
 
 
 *4628|
 [fc]
-くそ……、こんなこと、したくねえけど……、[r]
-このままだと……マジで……死ぬ…………。[pcms]
+Damn... I don't want to do this... but if I don't... I'll really...[r]
+die...[pcms]
 
 
 *4629|
 [fc]
-スパッツの上からでもわかるほど膨らんだソコ、[r]
-クリトリスに舌を押し付けると、そのまま擦り立てた。[pcms]
+Even through the spats, I could tell how swollen that spot was; when I[r]
+pressed my tongue against her clit and rubbed it vigorously.[pcms]
 
 
 *4630|
 ;旧ナンバー[vo_m s="lacrosse_C0013"]
 [マイク 位置１][vo_mob s="R_lacrosseC0013"]
-[ns]ラクロス部女子Ｃ[nse]
-「ふひぃぃっ！！　そうっ、そうなのぉぉ！！[r]
-　おなにーでもぉ、クリいじるのっ、いちばんキモチいいのぉ！」[pcms]
+[ns]Lacrosse Club Girl C[nse]
+"Fuhiiii!! Yes, that's it!! Masturbating and rubbing the clit feels[r]
+the best!"[pcms]
 
 
 *4631|
 [fc]
-流れ込んでくる酸味のある液体を啜りながら[r]
-みっともなく突き出たソレを弄り倒す。[r]
-そうしてる間は腰が浮き、息が出来るから仕方ない。[pcms]
+While slurping up the acidic liquid flowing in, I shamelessly played[r]
+with that protruding part. As long as I did that, my hips were raised[r]
+and I could breathe.[pcms]
 
 
 *4632|
 ;旧ナンバー[vo_m s="lacrosse_C0014"]
 [マイク 位置１][vo_mob s="R_lacrosseC0014"]
-[ns]ラクロス部女子Ｃ[nse]
-「かんでぇっ、クリっ、かんでよぉぉ！！[r]
-　なめてるだけじゃあっ、ぜんぜんたんないぃぃ！！」[pcms]
+[ns]Lacrosse Club Girl C[nse]
+"Bite it, bite the clit! Just licking it isn't enough at all!!"[pcms]
 
 
 *4633|
 [fc]
-腰が落ちかけて、慌てて突起に歯を立てる。[r]
-チクショウ、なんだか情けないぜ…………。[pcms]
+As her hips began to fall, I hurriedly bit down on the protrusion.[r]
+Damn, this is so pathetic...[pcms]
 
 
 *4634|
 ;旧ナンバー[vo_m s="lacrosse_C0015"]
 [マイク 位置１][vo_mob s="R_lacrosseC0015"]
-[ns]ラクロス部女子Ｃ[nse]
-「くううううっ！！　イイっっ！！　キモチいぃいぃぃっっ！！[r]
-　おなにーぐらいっ、キモチいいっ！　ほへえぇぇぇ！！」[pcms]
+[ns]Lacrosse Club Girl C[nse]
+"Kuuuuu!! Yes!! It feels so good!! Masturbating feels this good![r]
+Hoheee!!"[pcms]
 
 
 *4635|
 ;旧ナンバー[vo_m s="lacrosse_A0012"]
 [マイク 位置８][vo_mob s="R_lacrosseA0012"]
-[ns]ラクロス部女子Ａ[nse]
-「あたしもっ、あたしもやるう！！[r]
-　オマンコきもちよくなりたいぃぃぃ！！」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Me too, I want to do it too!! I want my pussy to feel good!!"[pcms]
 
 
 *4636|
 [fc]
-その子は自分でスパッツを引き裂きながら、[r]
-半勃ち状態のアレにまたがってくる。[pcms]
+As she tore her spats herself, she straddled my half-erect dick.[pcms]
 
 
 *4637|
 ;旧ナンバー[vo_m s="lacrosse_A0013"]
 [マイク 位置８][vo_mob s="R_lacrosseA0013"]
-[ns]ラクロス部女子Ａ[nse]
-「なにこれぇぇ、ふにゃふにゃじゃないぃぃ！！[r]
-　こんなんじゃぁ、キモチよくなんないよぉぉ！！」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"What's this? It's not soft at all!! It won't feel good like this!!"[pcms]
 
 
 *4638|
 [fc]
-なんてことを叫びながら、アソコを擦りつけてくる。[r]
-たったそれだけで、ついさっき腰が抜けるほど射精した[r]
-アレが元気を取り戻し始める。[pcms]
+She screamed that as she rubbed her crotch against me. Just that alone[r]
+was enough to start reviving my dick, which had just gone limp from[r]
+ejaculating so much.[pcms]
 
 
 *4639|
 ;旧ナンバー[vo_m s="lacrosse_A0014"]
 [マイク 位置８][vo_mob s="R_lacrosseA0014"]
-[ns]ラクロス部女子Ａ[nse]
-「あはぁぁ、なんかかたくなってきたあぁぁ。[r]
-　あたしのオマンコぉ、すりすりしてキモチいいんだぁぁ」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Ahhaa, it's getting harder. Rubbing my pussy against it feels so[r]
+good."[pcms]
 
 
 *4640|
 [fc]
-声しか聞こえないけど、きっと満足げな顔をしてるに違いない。[r]
-その証拠に擦りつけ……スマタが熱を帯びていく。[pcms]
+I can only hear her voice, but she must be looking satisfied. As[r]
+proof, the rubbing... the sumata is getting hotter.[pcms]
 
 
 *4641|
 ;旧ナンバー[vo_m s="lacrosse_C0016"]
 [マイク 位置１][vo_mob s="R_lacrosseC0016"]
-[ns]ラクロス部女子Ｃ[nse]
-「こっちもぉ！　ちゃんとクリなめなめしてぇっ！[r]
-　ちゃんとしないとぉ、ちっそくぅ、させるからぁぁぁ！[r]
-　……んひっ！！　そうっ、それがイイのぉぉ！！」[pcms]
+[ns]Lacrosse Club Girl C[nse]
+"This side too! Lick the clit properly! If you don't do it right, I'll[r]
+make you suffocate! ...Nhih! Yes, that's it!!"[pcms]
 
 
 *4642|
 [fc]
-口に流れ込んでくる愛液がどんどん増えてくる。[r]
-このままだと、陸の上でおぼれ死にしかねない……。[pcms]
+The love juices flowing into my mouth are increasing. If this[r]
+continues, I might drown on dry land...[pcms]
 
 
 *4643|
 ;旧ナンバー[vo_m s="lacrosse_A0015"]
 [マイク 位置８][vo_mob s="R_lacrosseA0015"]
-[ns]ラクロス部女子Ａ[nse]
-「んふうううっ、かたぁぁぃ、おじさんのドーテーチンポ、[r]
-　すっごくぅ、かたくなってきたよぉお！」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Nfuuu, it's hard, your dirty old dick is getting really hard!"[pcms]
 
 
 *4644|
 [fc]
-俺の意志とは無関係に固く張り詰めたアレに[r]
-ドロドロのアソコを擦りつけて歓喜の声を上げる。[pcms]
+Regardless of my will, she rubs her dripping wet pussy against my taut[r]
+dick and cries out in joy.[pcms]
 
 
 *4645|
 ;旧ナンバー[vo_m s="lacrosse_A0016"]
 [マイク 位置８][vo_mob s="R_lacrosseA0016"]
-[ns]ラクロス部女子Ａ[nse]
-「ねえぇぇ、おじさんって、ホントにドーテーなのぉ？[r]
-　あたしのショジョマンコがぁ、はじめてになるんだよねぇぇ？」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Hey, are you really a dirty old man? My virgin pussy is going to be[r]
+your first, right?"[pcms]
 
 
 *4646|
 [fc]
-え……？　待て、童貞は童貞だし、処女が初めてってのも[r]
-超ラッキーっていうか、嬉しいけど……こういうのは……！！[pcms]
+Wait... yes, I'm a virgin, and it's super lucky and I'm happy that[r]
+it's her first time too... but this is...!![pcms]
 
 
 *4647|
 ;旧ナンバー[vo_m s="lacrosse_A0017"]
 [マイク 位置８][vo_mob s="R_lacrosseA0017"]
-[ns]ラクロス部女子Ａ[nse]
-「いれちゃうよぉぉ？　いいよねぇ、ショジョマンコだしぃぃ、[r]
-　ドーテーチンポとぉぉ、あいしょう、バッチリぃぃぃ！！」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"I'm going to put it in, okay? It's fine because it's a virgin pussy,[r]
+and your virgin dick is a perfect match!!"[pcms]
 
 
 *4648|
 [fc]
-擦るだけの動きが止まり、先走りとさっきの射精で[r]
-ベタベタになっていた亀頭に柔らかいものが当てられる。[pcms]
+The mere rubbing stops, and something soft is pressed against the[r]
+glans of my dick, which is sticky with pre-cum and the ejaculation[r]
+from earlier.[pcms]
 
 
 *4649|
 ;旧ナンバー[vo_m s="tennis_Buchou0019"]
 [マイク 位置６][vo_mob s="R_tennisBUCHO0019"]
-[ns]テニス部部長[nse]
-「ずるぅいぃぃ！　ドーテーほしいぃぃぃ！！[r]
-　わたしもショジョなのにいぃぃぃぃ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"That's not fair! I want a virgin too!! Even though I'm a virgin as[r]
+well!!"[pcms]
 
 
 *4650|
 [fc]
-部長らしき女の子が騒ぐ中、俺のアレは一気に飲み込まれ……。[pcms]
+In the midst of the commotion caused by the girl who seems to be the[r]
+captain, my dick is swallowed up in one gulp...[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -2210,28 +2170,27 @@
 *4651|
 ;旧ナンバー[vo_m s="lacrosse_A0018"]
 [マイク 位置８][vo_mob s="R_lacrosseA0018"]
-[ns]ラクロス部女子Ａ[nse]
-「んぎいぃいぃいぃいぃぃっっっ！！」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Ngyiiiiiiiiii!!"[pcms]
 
 
 *4652|
 [fc]
-なにか狭い襞をくぐり抜けたかと思うと、[r]
-幾重にも絡みついてくる襞の感触が待っていた。[pcms]
+Just as I thought I had passed through some narrow folds, I was[r]
+greeted by the sensation of numerous folds entwining around me.[pcms]
 
 
 *4653|
 ;旧ナンバー[vo_m s="lacrosse_A0019"]
 [マイク 位置８][vo_mob s="R_lacrosseA0019"]
-[ns]ラクロス部女子Ａ[nse]
-「おっっっ！！　ほへえぇぇえぇえぇぇぇえぇえぇぇっ！！！[r]
-　ショジョマクぅぅぅ！！　やぶれたぁぁぁぁっっっ！！」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Ohhh!! Hoheeeeeeeeeee!! My virgin pussy is tearing!!"[pcms]
 
 
 *4654|
 [fc]
-その絶叫に、俺は童貞を喪失したことを察した。[r]
-本当は嬉しいはずなのに、なんだよ、この敗北感……。[pcms]
+With that scream, I realized that I had lost my virginity. I should be[r]
+happy, but what's with this feeling of defeat...[pcms]
 
 ;;//■イベントCG　mob_H010
 [evcg storage="mob_H010c"][trans_c cross time=500]
@@ -2240,49 +2199,49 @@
 *4655|
 ;旧ナンバー[vo_m s="lacrosse_A0020"]
 [マイク 位置８][vo_mob s="R_lacrosseA0020"]
-[ns]ラクロス部女子Ａ[nse]
-「いたいのにぃぃっ、すっごくキモチいひぃいぃいぃぃ！！[r]
-　おおっっ、チンポっ、ごりごりってぇ、おくまでくるぅぅ！！」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"It hurts but it feels so good!! Ohhh, your dick is reaching deep[r]
+inside me!!"[pcms]
 
 
 *4656|
 [fc]
-アレを根元まで飲み込んだまま、ぐにぐにと腰をくねらせ[r]
-感極まった声を上げ続けている。[pcms]
+She continues to cry out in ecstasy while gyrating her hips around my[r]
+dick that she has swallowed to the root.[pcms]
 
 
 *4657|
 ;旧ナンバー[vo_m s="lacrosse_C0017"]
 [マイク 位置１][vo_mob s="R_lacrosseC0017"]
-[ns]ラクロス部女子Ｃ[nse]
-「こっちもぉ！　クリかんでっ、クリなめてぇぇ！！」[pcms]
+[ns]Girls' Lacrosse Club Member C[nse]
+"This side too! Bite the clit, lick the clit!!"[pcms]
 
 
 *4658|
 [fc]
-童貞喪失の感慨に耽る権利も俺には許されず、[r]
-押し付けられる腰に抗いながら、突起に刺激を返すしかなかった。[pcms]
+I had no right to indulge in the sentimentality of losing my[r]
+virginity; all I could do was respond to the stimulation of the[r]
+protrusion as hips were pressed against me.[pcms]
 
 
 *4659|
 ;旧ナンバー[vo_m s="lacrosse_A0021"]
 [マイク 位置８][vo_mob s="R_lacrosseA0021"]
-[ns]ラクロス部女子Ａ[nse]
-「あひっ！　あひいぃぃぃんっ！！　これっ、イイよぉぉっ！[r]
-　ほへぇぇぇ、セックスぅぅ、セックスさいこぉぉぉ！！[r]
-　マンコっ、あつくてぇ、おひっ！　あひぃぃぃぃぃ！！！」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Ahi! Ahiiiiin! This is good! Hoheeee, sex is the best! My pussy is[r]
+hot, oh! Ahiiiiii!!"[pcms]
 
 
 *4660|
 [fc]
-初めての快感に酔いしれているのか、[r]
-俺の上で貪るように激しく腰をくねらせる。[pcms]
+She might be intoxicated with the pleasure of her first time as she[r]
+writhes wildly on top of me.[pcms]
 
 
 *4661|
 [fc]
-その乱暴で一方的な抽送に、早くも射精が近づいてくる。[r]
-あれだけ出したにも関わらず……だ。[pcms]
+The rough and one-sided thrusting was bringing me close to ejaculation[r]
+again. Despite having just cum so much...[pcms]
 
 ;;//■イベントCG　mob_H010
 [evcg storage="mob_H010c"][trans_c cross time=500]
@@ -2291,22 +2250,21 @@
 *4662|
 ;旧ナンバー[vo_m s="lacrosse_A0022"]
 [マイク 位置８][vo_mob s="R_lacrosseA0022"]
-[ns]ラクロス部女子Ａ[nse]
-「あはぁぁっ、なんかっ、チンポがびくびくってしてきたぁ、[r]
-　シャセーするぅ？　シャセーするんだぁ！[r]
-　だったらさっさとしろよっ、ほらっ！」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Ahhaa, something's happening, your dick is twitching. Are you going[r]
+to cum? You're going to cum! Then hurry up and do it, come on!"[pcms]
 
 
 *4663|
 [fc]
-ぐりぐりと行き止まりに押し付けられ、[r]
-今度は我慢なんかできる余裕もなかった。[pcms]
+Pressed firmly against a dead end, I no longer had any room to hold[r]
+back.[pcms]
 
 
 *4664|
 [fc]
-[ns]克己[nse]
-「………………ッッッ！！！」[pcms]
+[ns]Kazumi[nse]
+"...!!!!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -2320,21 +2278,22 @@
 *4665|
 ;旧ナンバー[vo_m s="lacrosse_A0023"]
 [マイク 位置８][vo_mob s="R_lacrosseA0023"]
-[ns]ラクロス部女子Ａ[nse]
-「ギダああぁぁぁぁぁぁっ！　セーシっっ、びゅくびゅくぅぅ！[r]
-　はへっ、これいいっ、もっともっとキモチよくなるうぅぅ！」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Gidaaaaaah! You're cumming, spurting! Haheh, this is good, it feels[r]
+even better now!"[pcms]
 
 
 *4666|
 [fc]
-[ns]克己[nse]
-「んぐ……ッ！？　んぐううううぅぅッッ！！」[pcms]
+[ns]Kazumi[nse]
+"Ngu...!? Nguuuuuuuuh!!"[pcms]
 
 
 *4667|
 [fc]
-腰を止めるくれるどころか、ますます激しさが増し始めた。[r]
-射精しながらの抽送に、俺は頭上の死神への奉仕すら忘れてしまう。[pcms]
+Far from stopping her hips, she began moving even more fiercely. In[r]
+the midst of ejaculating during thrusting, I even forgot about serving[r]
+the grim reaper above me.[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -2346,9 +2305,9 @@
 *4668|
 ;旧ナンバー[vo_m s="lacrosse_A0024"]
 [マイク 位置８][vo_mob s="R_lacrosseA0024"]
-[ns]ラクロス部女子Ａ[nse]
-「ほひっ、ほひぃぃ！！　ぐちゅぐちゅ、すごぉぉぉぃ！！[r]
-　おじさんなのにぃっ、すごいセーシがしきゅーにくるぅぅ！」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Hohi, hohiii! The squelching sounds amazing! Even though you're an[r]
+old man, your cum reaches deep inside me!"[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -2362,24 +2321,22 @@
 
 *4669|
 [fc]
-ぶぢゅぶじゅと結合部からイヤらしい水音が響く。[r]
-それは俺が出したばかりの精液と、[r]
-その子の愛液が混じり合う音に違いなかった。[pcms]
+Squishy sounds echoed from where we were joined. It was undoubtedly[r]
+the sound of my freshly ejaculated semen mixing with her love juices.[pcms]
 
 
 *4670|
 ;旧ナンバー[vo_m s="lacrosse_A0025"]
 [マイク 位置８][vo_mob s="R_lacrosseA0025"]
-[ns]ラクロス部女子Ａ[nse]
-「あ……あいぃぃぃっ！！　も、もおっ、クルぅぅぅぅ！！[r]
-　セーシかきまぜながらぁぁっ、クルっっ！！[r]
-　ショジョだったのにぃぃ、クルぅうぅぅぅぅぅぅぅっっっ！！」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Ah... Ahiii!! I'm... I'm coming!! Stirring the cum inside me... I'm[r]
+coming!! Even though I was a virgin... I'm comingggggg!!"[pcms]
 
 
 *4671|
 [fc]
-じゅぶん、と激しい水音が響いたかと思うと、[r]
-激しい締め付けと共に、やっと腰の動きが止まっていた。[pcms]
+With a loud squelching sound and intense tightening around me, her[r]
+hips finally stopped moving.[pcms]
 
 ;;//■イベントCG　mob_H010
 [evcg storage="mob_H010g"][trans_c cross time=500]
@@ -2388,17 +2345,16 @@
 *4672|
 ;旧ナンバー[vo_m s="lacrosse_A0026"]
 [マイク 位置８][vo_mob s="R_lacrosseA0026"]
-[ns]ラクロス部女子Ａ[nse]
-「あひ……ぃぃぃ……、あたしぃぃぃ……、[r]
-　ショジョマンコでぇぇ……イっちゃったぁぁぁ…………」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Ahi... iii... I... with my virgin pussy... came..."[pcms]
 
 
 *4673|
 ;旧ナンバー[vo_m s="lacrosse_B0012"]
 [マイク 位置１３][vo_mob s="R_lacrosseB0012"]
-[ns]ラクロス部女子Ｂ[nse]
-「あはははっ、そんなによかったんだぁぁ、[r]
-　ショジョソーシツでイクとかって、サイコーじゃん！！」[pcms]
+[ns]Lacrosse Club Girl B[nse]
+"Ahahaha, it felt that good, huh? Coming from virgin sex, that's just[r]
+psycho!!"[pcms]
 
 ;;//■イベントCG　mob_H010
 [evcg storage="mob_H010h"][trans_c cross time=500]
@@ -2407,8 +2363,8 @@
 *4674|
 ;旧ナンバー[vo_m s="lacrosse_A0027"]
 [マイク 位置８][vo_mob s="R_lacrosseA0027"]
-[ns]ラクロス部女子Ａ[nse]
-「すごいよかったぁぁ……でもぉ、まだたりないかもぉぉ」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"It felt so good... But maybe it's still not enough."[pcms]
 
 ;;//■イベントCG　mob_H010
 [evcg storage="mob_H010i"][trans_c cross time=500]
@@ -2416,95 +2372,91 @@
 
 *4675|
 [fc]
-やんややんやと騒ぎ立てる声が木霊のように響く中、[r]
-不満げな声が頭上から降ってくる。[pcms]
+Amidst the clamor echoing like a wood spirit, a dissatisfied voice[r]
+rained down from above.[pcms]
 
 
 *4676|
 ;旧ナンバー[vo_m s="lacrosse_C0018"]
 [マイク 位置１][vo_mob s="R_lacrosseC0018"]
-[ns]ラクロス部女子Ｃ[nse]
-「待ってよぉぉ、こっちはイってないのにぃぃぃ……。[r]
-　つぎはぁ、わたしがマンコしてもらうんだからぁぁ！」[pcms]
+[ns]Lacrosse Club Girl C[nse]
+"Wait a minute, I haven't cum yet... Next, it's my turn to get[r]
+fucked!"[pcms]
 
 
 *4677|
 [fc]
-しかしその宣言が終わる前に、鈍い音と同時に[r]
-カエルが潰されたみたいな悲鳴が響き渡った。[pcms]
+However, before her declaration was finished, a dull thud was heard[r]
+along with a scream like a frog being crushed.[pcms]
 
 
 *4678|
 ;旧ナンバー[vo_m s="tennis_Buchou0020"]
 [マイク 位置６][vo_mob s="R_tennisBUCHO0020"]
-[ns]テニス部部長[nse]
-「つぎはぁぁ！　わたしなんだからぁぁ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Next is me! It's my turn!!"[pcms]
 
 
 *4679|
 [fc]
-[ns]克己[nse]
-「お、おいおい……マジかよ……」[pcms]
+[ns]Kazumi[nse]
+"Hey, hey... you serious...?"[pcms]
 
 
 *4680|
 [fc]
-スパッツのスキマから辛うじて見えたのは、[r]
-あのバットを手にしたテニス部の部長の姿だった。[pcms]
+What I could barely see through the gap in the spats was the figure of[r]
+the tennis club captain with that bat in hand.[pcms]
 
 
 *4681|
 [fc]
-しかも……バットには赤い染みがこびり付いていた。[r]
-それがなにを示すのか、考えたくはなかった。[pcms]
+Moreover... there were red stains clinging to the bat. I didn't want[r]
+to think about what that implied.[pcms]
 
 
 *4682|
 ;旧ナンバー[vo_m s="tennis_Buchou0021"]
 [マイク 位置６][vo_mob s="R_tennisBUCHO0021"]
-[ns]テニス部部長[nse]
-「わたしだってショジョだったのにぃぃ！！[r]
-　ドーテーほしかったのにぃぃ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"I was a virgin too!! I wanted to be deflowered!!"[pcms]
 
 
 *4683|
 [fc]
-その剣幕にさすがの女の子たちもたじろいだらしく、[r]
-ぐったりした股間を明け渡していた。[pcms]
+Even the girls seemed taken aback by her ferocity, yielding their limp[r]
+crotches.[pcms]
 
 
 *4684|
 ;旧ナンバー[vo_m s="tennis_Buchou0022"]
 [マイク 位置６][vo_mob s="R_tennisBUCHO0022"]
-[ns]テニス部部長[nse]
-「ほらぁ！　さっさとかたくしなさいよぉぉ！！[r]
-　グズグズしてると、コレぇ、かみきんだからぁぁ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Come on! Hurry up and get hard!! If you dawdle, I'll bite it off!!"[pcms]
 
 
 *4685|
 [fc]
-そ、そうは言われても、自分の意志でどうにか[r]
-できるもんじゃ……。そ、そうだなんとかエロいことを……。[pcms]
+But, even if you say that, it's not something I can control with my[r]
+will... Yeah, I need to think of something erotic...[pcms]
 
 
 *4686|
 ;旧ナンバー[vo_m s="tennis_Buchou0023"]
 [マイク 位置６][vo_mob s="R_tennisBUCHO0023"]
-[ns]テニス部部長[nse]
-「あはっ、ちょっとふくらんできたぁ……！[r]
-　みてよぉ、わたしのマンコはぁ、じゅんびできるんだからぁ！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Ahah, it's starting to swell up...! Look, my pussy is ready!"[pcms]
 
 
 *4687|
 [fc]
-紐みたいな下着を自分でずらすと、[r]
-そこは白っぽいぬめりが溢れ出していた。[pcms]
+She shifted her string-like underwear herself, and from there, a[r]
+whitish slime was overflowing.[pcms]
 
 
 *4688|
 [fc]
-そう言えば女の子の本気汁は[r]
-白っぽいみたいなことを聞いたことがある。[pcms]
+I remember hearing that a girl's serious juices are whitish.[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -2512,27 +2464,27 @@
 
 *4689|
 [fc]
-それを思い出すと、この異常な状態にも関わらず……[r]
-いや、その異常さのせいで激しい興奮を覚えてしまう。[pcms]
+Remembering that, despite this abnormal situation... no, because of[r]
+its abnormality, I felt an intense excitement.[pcms]
 
 
 *4690|
 ;旧ナンバー[vo_m s="tennis_Buchou0024"]
 [マイク 位置６][vo_mob s="R_tennisBUCHO0024"]
-[ns]テニス部部長[nse]
-「おっきくなったあぁ！　もういれるっ！　いれるからぁぁ！」[pcms]
+[ns]Tennis Club Captain[nse]
+"It's gotten big! I'm going to insert it now! I'm putting it in!!"[pcms]
 
 
 *4691|
 [fc]
-ケダモノみたいに突き出した舌から涎を滴らせながら、[r]
-がくがく震える足を跨いでくる。[pcms]
+With saliva dripping from her beast-like protruding tongue, she[r]
+straddled me with trembling legs.[pcms]
 
 
 *4692|
 [fc]
-[ns]克己[nse]
-「も、もう少し休ませ…………ぐあッ！？」[pcms]
+[ns]Kazumi[nse]
+"Let me rest a bit more... guah!?"[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -2550,41 +2502,41 @@
 *4693|
 ;旧ナンバー[vo_m s="tennis_Buchou0025"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0025"]
-[ns]テニス部部長[nse]
-「もうガマンなんてぇ、できないってばぁぁ！！[r]
-　チンチンっ！！　ほしいほしいほしいほしいほしいぃぃ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"I can't wait anymore!! Dick!! I want it, want it, want it!!"[pcms]
 
 
 *4694|
 [fc]
-半狂乱で蕩けきったアソコを押し付けると、[r]
-俺の懇願なんて無視してぐぐっと押し込んでくる……！！[pcms]
+In a half-crazed frenzy, she pressed her melted pussy against me,[r]
+ignoring my pleas and pushing in forcefully...!![pcms]
 
 
 *4695|
 [fc]
-[ns]克己[nse]
-「うわ……ッ！　おおおお…………ッ！！」[pcms]
+[ns]Kazumi[nse]
+"Uwa...! Ooooooh...!!"[pcms]
 
 
 *4696|
 [fc]
-予想外の狭さと締め付けに思わず声で出てしまう。[r]
-さっきの子より体格はいいのに、この狭さは一体……。[pcms]
+The unexpected tightness and grip made me let out a voice[r]
+involuntarily. She had a better build than the last girl, but this[r]
+tightness was something else...[pcms]
 
 
 *4697|
 ;旧ナンバー[vo_m s="tennis_Buchou0026"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0026"]
-[ns]テニス部部長[nse]
-「ふひぃぃぃ……っ、マンコぉぉ、こじあけられてるぅぅ！！[r]
-　おひっ、ショジョっ、ショジョうばわれちゃうううっっ」[pcms]
+[ns]Tennis Club Captain[nse]
+"Fuhiiii... my pussy is being pried open!! Ohh, my virginity, my[r]
+virginity is being taken away!!"[pcms]
 
 
 *4698|
 [fc]
-ただでさえ狭い膣内の移動は、すぐに障害物に防がれてしまう。[r]
-それが『処女膜』だと分かった瞬間、腰が一気に叩きつけられた。[pcms]
+The already tight vagina was quickly obstructed by an obstacle. The[r]
+moment I realized it was the "hymen," my hips were slammed down hard.[pcms]
 
 ;;//se_sex03.ogg(LOOP)
 [se_HLoop buf2 storage="se_sex03"]
@@ -2596,29 +2548,30 @@
 *4699|
 ;旧ナンバー[vo_m s="tennis_Buchou0027"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0027"]
-[ns]テニス部部長[nse]
-「ひぎいぃいぃぃぃっっ！！　いだっっ、いだあああいぃぃっ！[r]
-　さけるぅぅっ、マンコっ、さけちゃうううっっ、イイいぃぃ！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Higyiii!! It hurts, it hurts, ahhhh! It's tearing, my pussy is[r]
+tearing apart, it feels good!!"[pcms]
 
 
 *4700|
 [fc]
-さっきと同じように、痛みすら快感になっているらしく、[r]
-部長は『痛い』と『イイ』を繰り返して喘ぎ狂い始める。[pcms]
+Just like before, even the pain seemed to become pleasure for her, as[r]
+the captain began to gasp and moan repeatedly between "it hurts" and[r]
+"it feels good."[pcms]
 
 
 *4701|
 ;旧ナンバー[vo_m s="tennis_B0015"]
 [マイク 位置１４][vo_mob s="R_tennisB0015"]
-[ns]テニス部女子Ｂ[nse]
-「すっごぉぉい、さすがウチのブチョー！[r]
-　レイプしてんだか、されてんだか！　あははははっ！！」[pcms]
+[ns]Tennis Club Girl B[nse]
+"That's so amazing, as expected of our captain! Whether she's raping[r]
+or being raped! Ahahahaha!!"[pcms]
 
 
 *4702|
 [fc]
-部員たちのバカにしたような笑い声が響き渡る中で、[r]
-部長はゆっくりと抽送を始めていた。[pcms]
+In the midst of the mocking laughter of the club members, the captain[r]
+began to slowly thrust.[pcms]
 
 ;;//■イベントCG　mob_H010
 [evcg storage="mob_H010n"][trans_c cross time=500]
@@ -2627,22 +2580,21 @@
 *4703|
 ;旧ナンバー[vo_m s="tennis_Buchou0028"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0028"]
-[ns]テニス部部長[nse]
-「おひっ、いたいぃぃ、でもキモチいいぃぃぃっっ！[r]
-　わたしぃっ、ショジョなのにぃっ、いたくてっ、きもちいひぃ！[r]
-　おっ、おおおおおっ！　おくっ、えぐれてるぅぅぅ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Ohh, it hurts, but it feels so good! Even though I'm a virgin, it[r]
+hurts and feels good! Ohh, ohhhhh! It's gouging inside!!"[pcms]
 
 
 *4704|
 [fc]
-狭い膣内を上下する度に、まだ固さの残る襞が絡みつく。[r]
-そんな刺激があっという間に限界を突破させた。[pcms]
+With each movement inside the tight vagina, the still firm folds clung[r]
+around. Such stimulation quickly pushed me past my limit.[pcms]
 
 
 *4705|
 [fc]
-[ns]克己[nse]
-「うッ、ぐ……ッ！！　で、出る…………ッ！！」[pcms]
+[ns]Kazumi[nse]
+"Uh, guh...!! It's coming out...!!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -2656,29 +2608,28 @@
 *4706|
 ;旧ナンバー[vo_m s="tennis_Buchou0029"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0029"]
-[ns]テニス部部長[nse]
-「んおぉぉぉぉぉぉおおおぉっ！！[r]
-　なにこれっ、あついのっ、おおお……ながれこんでくるぅぅ！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Nooooo!! What is this? It's hot, ohhh... it's flowing inside me!!"[pcms]
 
 
 *4707|
 [fc]
-予告無しの射精に目を白黒させながらも[r]
-部長は陶然とした顔で舌を突き出し悶え、身体を震わせる。[pcms]
+Taken by surprise by the ejaculation without warning, the captain[r]
+moaned with a blissful face and shook her body.[pcms]
 
 
 *4708|
 ;旧ナンバー[vo_m s="tennis_Buchou0030"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0030"]
-[ns]テニス部部長[nse]
-「んっ、くひぃぃ……。これがぁ、しゃせーなのねぇぇ。[r]
-　でもぉ、いきなりだすなんてぇ、しつけができてないわねぇ」[pcms]
+[ns]Tennis Club Captain[nse]
+"Nngh, kuhii... So this is happiness. But you shouldn't cum all of a[r]
+sudden like that; you're not well-trained."[pcms]
 
 
 *4709|
 [fc]
-膣奥で精液を飲み干しながら、クスリと笑う。[r]
-それは恐ろしく邪悪な笑みだった。[pcms]
+While gulping down the semen deep in her vagina, she chuckled. It was[r]
+a terrifyingly wicked smile.[pcms]
 
 ;;//■イベントCG　mob_H010
 [evcg storage="mob_H010p"][trans_c cross time=500]
@@ -2687,27 +2638,27 @@
 *4710|
 ;旧ナンバー[vo_m s="tennis_Buchou0031"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0031"]
-[ns]テニス部部長[nse]
-「つぎぃ、かってにだしたらぁ、キンタマひきずりだしてぇぇ、[r]
-　テニスボールのかわりにぃぃ、してやるからぁぁぁ」[pcms]
+[ns]Tennis Club Captain[nse]
+"Next time you cum without permission, I'll pull out your balls and[r]
+use them instead of tennis balls!!"[pcms]
 
 
 *4711|
 [fc]
-これが冗談じゃないのは、顔を見れば一目瞭然だ。[r]
-コイツらなら……本気でやるに違いない。[pcms]
+That this wasn't a joke was clear from one look at her face. These[r]
+girls... they would seriously do it.[pcms]
 
 
 *4712|
 [fc]
-[ns]克己[nse]
-「……………………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *4713|
 [fc]
-なにも言えずにただガクガクと頭を振ると[r]
-満足したように再び腰を動かし始める。[pcms]
+Unable to say anything, I just shook my head in a trembling motion,[r]
+and she began to move her hips again, seemingly satisfied.[pcms]
 
 ;;//■イベントCG　mob_H010
 [evcg storage="mob_H010q"][trans_c cross time=500]
@@ -2716,21 +2667,20 @@
 *4714|
 ;旧ナンバー[vo_m s="tennis_Buchou0032"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0032"]
-[ns]テニス部部長[nse]
-「なによぉぉ、またヘニャチンになってるぅぅ、[r]
-　さっさとかたくしないとぉ、チンチンひっこぬくからぁぁ！」[pcms]
+[ns]Tennis Club Captain[nse]
+"What's this? It's getting all soft again. Hurry up and get hard, or[r]
+I'll rip your dick off!"[pcms]
 
 
 *4715|
 [fc]
-うう、どいつもこいつも無茶ばっかり言いやがって……。[pcms]
+Ugh, all of them always say such unreasonable things...[pcms]
 
 
 *4716|
 [fc]
-そう心の中でぼやいたが、幸いにも俺のアレは[r]
-すぐさま元気を取り戻し始めてくれた。[r]
-ありがとう、我が息子よ……。[pcms]
+As I grumbled in my mind, fortunately, my 'little soldier' began to[r]
+regain its vigor. Thank you, my son...[pcms]
 
 ;;//■イベントCG　mob_H010
 [evcg storage="mob_H010r"][trans_c cross time=500]
@@ -2739,18 +2689,16 @@
 *4717|
 ;旧ナンバー[vo_m s="tennis_Buchou0033"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0033"]
-[ns]テニス部部長[nse]
-「んふううっ！　いいわよぉ、またかたくっ、んくっ！[r]
-　なってきたぁぁぁん！！　このチンチンっ、わたしむきだしぃ、[r]
-　ちょっとちいさいのがっ、ちょうどいいのぉぉ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Nfuuh! That's good, it's getting hard again, ngh! It's getting so[r]
+big!! This cock, it's perfect for me even though it's a bit small!!"[pcms]
 
 
 *4718|
 ;旧ナンバー[vo_m s="tennis_Buchou0034"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0034"]
-[ns]テニス部部長[nse]
-「ほおぉぉぉんっ！　きもちっ、いひぃぃぃぃ！！[r]
-　こしっ、はげしくなっちゃうううん！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Hoooon! It feels so good! My hips are moving more violently!!"[pcms]
 
 ;;//se_sex03.ogg(LOOP)
 [se_HLoop buf2 storage="se_sex03"]
@@ -2758,26 +2706,27 @@
 
 *4719|
 [fc]
-身体の方も馴染んできたのか、動きも派手になっていく。[pcms]
+Perhaps my body had gotten used to it, as the movements became more[r]
+flamboyant.[pcms]
 
 
 *4720|
 [fc]
-それもさすがテニス部というところか、[r]
-足腰のバネを使った激しいピストンだった。[pcms]
+True to being from the tennis club, it was an intense piston movement[r]
+using the springiness of her legs.[pcms]
 
 
 *4721|
 [fc]
-[ns]克己[nse]
-「うううッ、うぐ……ッ、す……すげぇ…………」[pcms]
+[ns]Kazumi[nse]
+"Uuuugh, ugh...! This is... amazing..."[pcms]
 
 
 *4722|
 [fc]
-多少柔らかくなったと言っても、相変わらずの狭さに加えて[r]
-この激しい動きは……かなりチンポにくる。[r]
-あの脅しがなかったら、さっさと出してしまっていただろう。[pcms]
+Even though it had softened a bit, the tightness combined with these[r]
+intense movements... it was quite a lot for my cock to handle. If it[r]
+weren't for that threat, I would have probably come already.[pcms]
 
 ;;//■イベントCG　mob_H010
 [evcg storage="mob_H010s"][trans_c cross time=500]
@@ -2786,69 +2735,66 @@
 *4723|
 ;旧ナンバー[vo_m s="tennis_Buchou0035"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0035"]
-[ns]テニス部部長[nse]
-「おじさんのぉぉ、チンチンっ、すきぃぃぃっ！！[r]
-　ずっとセックスしたいぃぃ、しぬまでセックスぅぅぅ！！[r]
-　ほおおおっ！　ここっ、おくがいいっ、いひいぃぃぃぃ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"I love your cock! I want to have sex forever, until I die! Hooo! The[r]
+deep part feels so good!!"[pcms]
 
 
 *4724|
 [fc]
-こんなみっともない格好で押さえつけられてるせいで[r]
-ピクリとも動くことができない。[r]
-もっとも、俺が動くことを望んでいないのは明白だった。[pcms]
+Because of this embarrassing position I was held down in, I couldn't[r]
+move even a twitch. It was clear that she didn't want me to move[r]
+anyway.[pcms]
 
 
 *4725|
 [fc]
-ただ俺のアレ……チンポとタマがあればいいだけで、[r]
-その付属物に過ぎないんだろう……。[pcms]
+All they needed from me was my cock and balls; I was just an accessory[r]
+to them...[pcms]
 
 
 *4726|
 [fc]
-そんなことを考えると萎えてきそうなもんだが、[r]
-彼女が与えてくる刺激はそれを許さなかった。[pcms]
+Thinking about this could have made me lose my erection, but the[r]
+stimulation she was giving me didn't allow for that.[pcms]
 
 
 *4727|
 ;旧ナンバー[vo_m s="tennis_Buchou0036"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0036"]
-[ns]テニス部部長[nse]
-;FHD	「あひっ、あおおおっ！！　どんどんっ、おっきなるぅぅぅ！[r]
-「あひっ、あおおおっ！！　どんどんっ、おっきくなるぅぅぅ！[r]
-　こんなにぃっ、かたくするなんて……んおっ！！[r]
-　このっ、ヘンタイマゾブタぁぁ！！　あはっ、あははは！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Ahii, ahhhh!! It's getting bigger and bigger! To think you'd get this[r]
+hard... ngh! You hentai masochist pig!! Ahah, ahahaha!!"[pcms]
 
 
 *4728|
 [fc]
-ガンガン腰を叩きつけては、狂ったように笑い転げてる。[pcms]
+She slammed her hips down hard and laughed like a madwoman.[pcms]
 
 
 *4729|
 [fc]
-[ns]克己[nse]
-「…………狂って、やがる……」[pcms]
+[ns]Kazumi[nse]
+"...She's gone crazy..."[pcms]
 
 
 *4730|
 [fc]
-もともとマトモじゃないのは分かっているけど、[r]
-コイツ……コイツらは完全に気が狂ってる……。[pcms]
+I knew she wasn't normal to begin with, but she... they've completely[r]
+lost their minds...[pcms]
 
 
 *4731|
 [fc]
-だけどそれは俺も同じだ。頭ではそう考えてるくせに、[r]
-身体の方は……快感に負けて反応してやがる。[r]
-何度目か分からないぐらい射精して……また出そうとしてる。[pcms]
+But I'm the same. Even though I think this in my head, my body...[r]
+succumbs to the pleasure and reacts. I've ejaculated so many times[r]
+I've lost count... and it looks like I'm about to again.[pcms]
 
 
 *4732|
 [fc]
-[ns]克己[nse]
-「俺も、コイツらと同じ……かよ……」[pcms]
+[ns]Kazumi[nse]
+"I'm just like them..."[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -2868,20 +2814,20 @@
 
 *4733|
 [fc]
-ぐるぐると目が回り始める。景色が歪み、光点が瞬く。[r]
-それよりも視界が……赤くなっていくように感じる。[pcms]
+My vision started to spin. The scenery warped and points of light[r]
+twinkled. More than that, my vision seemed to be turning red.[pcms]
 
 
 *4734|
 [fc]
-思考から明瞭さが失われていき、なにもかもぼやけていく。[r]
-理性とか自制とかそういう人間性の根幹なものが[r]
-どんどん薄れて……動物的思考が広がっていく。[pcms]
+Clarity was fading from my thoughts, everything was becoming blurred.[r]
+The core of my humanity, like reason and self-control, was fading[r]
+away... and animalistic thoughts were spreading.[pcms]
 
 
 *4735|
 [fc]
-そう、まるで夢でも見てるみたいな……自由な感じだった。[pcms]
+Yes, it felt like I was dreaming... such a free feeling.[pcms]
 
 ;;//■イベントCG　mob_H010
 [evcg storage="mob_H010t"][trans_c cross time=500]
@@ -2890,41 +2836,38 @@
 *4736|
 ;旧ナンバー[vo_m s="tennis_Buchou0037"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0037"]
-[ns]テニス部部長[nse]
-「んひいぃぃ～～！！　はひっ、いっ、いいっ、[r]
-　わたしぃ、もう、もおぉぉ、イク、イクからぁぁぁっっ、[r]
-　マゾブタセーシぃぃ、ドピュドピュってぇぇ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Nyiiii~!! Ahii, yes, yes! I'm going to cum, I'm cumming!! Masochist[r]
+piggy, shoot your load!!"[pcms]
 
 
 *4737|
 ;旧ナンバー[vo_m s="tennis_Buchou0038"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0038"]
-[ns]テニス部部長[nse]
-「わたしのぉぉ、しきゅうぅぅぅ！　ひおっ！　あかちゃんっ、[r]
-　あかちゃんつくるところにぃぃ、たたきこむのよぉぉおぉ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"My womb!! Hit it where babies are made!!"[pcms]
 
 
 *4738|
 [fc]
-ストロークがさらに細かく、どんどん加速していく。[r]
-それに合わせるように再生産された精液が[r]
-タマから送り出され、竿の根元に充填されていく。[pcms]
+The strokes became finer and accelerated even more. In sync with that,[r]
+the replenished semen was sent from the balls and filled up at the[r]
+base of the shaft.[pcms]
 
 
 *4739|
 ;旧ナンバー[vo_m s="tennis_Buchou0039"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0039"]
-[ns]テニス部部長[nse]
-「イクっっ、いぎゅうぅぅぅぅぅぅぅぅぅっ！！[r]
-　ほおおおおっ！　あひっ、イグっ、すっごいぃぃ、イグぅっ！[r]
-　チンチンほおばりながらっ、マンコぉぉ、イグっっ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"I'm cummingggg!! Hooooo! Ahii, I'm cumming, it feels amazing! Cumming[r]
+while gobbling up your cock with my pussy!!"[pcms]
 
 
 *4740|
 [fc]
-怪しいクスリをやってもここまではならないだろ、[r]
-と思うぐらい卑猥な叫びを上げながら[r]
-ラストスバートとばかりに腰を捻り、腰を上下させる。[pcms]
+No drug could make someone as lewd as she was screaming now; she[r]
+twisted her hips as if it were the last spurt and moved them up and[r]
+down.[pcms]
 
 ;;//■イベントCG　mob_H010
 [evcg storage="mob_H010u"][trans_c cross time=500]
@@ -2933,40 +2876,35 @@
 *4741|
 ;旧ナンバー[vo_m s="tennis_Buchou0040"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0040"]
-[ns]テニス部部長[nse]
-「キタぁっ！　いりぐちぃ、おりてくるっっ！！[r]
-　セーシでじゅせーするためにっ、ごくごくするためにっっ、[r]
-　んおおぉぉぉおっ！　おりてきたぁぁあぁぁっ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"It's coming! The entrance is descending!! To be fertilized by your[r]
+semen, to gulp it downnnn! It's coming downnnn!!"[pcms]
 
 
 *4742|
 ;旧ナンバー[vo_m s="tennis_Buchou0041"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0041"]
-[ns]テニス部部長[nse]
-「いぎゅっ！　いぎゅいぎゅいぎゅぅうぅぅぅっっ！！[r]
-　いぎゅぅううぅぅっっ！！　んひいいぃぃぃぃぃいぃぃっ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Igyuuu! Igyu igyu igyuuuuu!! Nyiiiiiiii!!"[pcms]
 
 
 *4743|
 [fc]
-いろんなものが混ざり合った飛沫を立てて[r]
-肉と肉が叩き合わされた瞬間、[r]
-敏感になっていた亀頭に貪欲な唇が吸い付いた。[pcms]
+As various fluids splashed together and flesh slapped against flesh at[r]
+that moment, greedy lips latched onto the sensitive glans.[pcms]
 
 
 *4744|
 ;旧ナンバー[vo_m s="tennis_Buchou0042"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0042"]
-[ns]テニス部部長[nse]
-「んへえぇぇえぇぇぇぇっっ！！[r]
-　マンコぉぉっ、いぎゅうぅぅぅうぅぅっっ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Nheeeeeee!! My pussy, igyuuuuuuu!!"[pcms]
 
 
 *4745|
 [fc]
-反動をつけて抜き出されたアレは、[r]
-生暖かい空気の中で二三度震えたかと思うと、[r]
-そのまま噴水みたいに精液を拭きだしていた。[pcms]
+The thing that was pulled out with a recoil trembled in the warm air a[r]
+few times before spurting out semen like a fountain.[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -2979,15 +2917,14 @@
 
 *4746|
 [fc]
-[ns]克己[nse]
-「おッ！　ほおぉぉぉぉぉッッ！！」[pcms]
+[ns]Kazumi[nse]
+"Oh! Hoooooo!!"[pcms]
 
 
 *4747|
 [fc]
-喉からマヌケな叫びが上がった。[r]
-それが自分の喉から飛び出したものだとは[r]
-とても信じられなかった。[pcms]
+A stupid cry came from my throat. It was hard to believe that it had[r]
+come from me.[pcms]
 
 ;;//■イベントCG　mob_H010
 [evcg storage="mob_H010w"][trans_c cross time=1000]
@@ -2996,43 +2933,41 @@
 *4748|
 ;旧ナンバー[vo_m s="tennis_Buchou0043"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0043"]
-[ns]テニス部部長[nse]
-「ひあああああっ！！　キタぁぁぁぁああぁぁ！！[r]
-　セーシっ、セーシぶっかけキタぁああぁぁ！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Hiaaaaah!! It's hereee! The semen splash is hereee!!"[pcms]
 
 
 *4749|
 ;旧ナンバー[vo_m s="tennis_Buchou0044"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0044"]
-[ns]テニス部部長[nse]
-「おっ、おっ、おおおおっ！！　またイグっ！！[r]
-　セーシぶっかけられてぇっ、またイグうぅぅぅぅ！！！」[pcms]
+[ns]Tennis Club Captain[nse]
+"Ohh, ohh, ohhhh!! Cumming again!! Getting splashed with semen and[r]
+cumming againnnn!!"[pcms]
 
 
 *4750|
 [fc]
-身体中に降り注ぐ新鮮な精液を浴びながら、[r]
-部長はビクビクと全身を打ち震えさせる。[pcms]
+Bathed in fresh semen raining down on her body, the captain convulsed[r]
+and shook all over.[pcms]
 
 
 *4751|
 ;旧ナンバー[vo_m s="tennis_Buchou0045"]
 [マイク 位置２][vo_mob s="R_tennisBUCHO0045"]
-[ns]テニス部部長[nse]
-「これぇぇ、これがほしかったのぉぉぉ……！[r]
-　すごぉぉぉい、セーシぃぃぃ、セーシシャワー、いひいぃぃぃ」[pcms]
+[ns]Tennis Club Captain[nse]
+"This is what I wanted...! Amazing semen shower, feels so goooood!"[pcms]
 
 
 *4752|
 [fc]
-頭のネジの大半が吹き飛んだ俺には[r]
-コイツがなにを言ってるのか……よく分からなかった。[pcms]
+With most of the screws in my head blown away, I couldn't quite[r]
+understand what she was saying...[pcms]
 
 
 *4753|
 [fc]
-ただ精液をブチ撒けるのが心地良くて、[r]
-無理な姿勢で腰を突き上げ続けていた……。[pcms]
+Just spraying semen felt so good, I kept thrusting my hips up in an[r]
+awkward position...[pcms]
 
 ;;//BGMフェードアウト
 [fadeoutbgm time=1000]
@@ -3042,57 +2977,56 @@
 
 *4754|
 [fc]
-……あれから、どのぐらい経ったんだ。[r]
-ほんの数秒かもしれないし、数時間、数日かもしれない。[pcms]
+...How much time has passed since then? It might have been just a few[r]
+seconds, or it could have been hours, even days.[pcms]
 
 
 *4755|
 [fc]
-ただ収縮を繰り返す肺から熱い吐息が溢れ、[r]
-辺りに立ちこめた粘りつく空気を吸い込んでいる。[pcms]
+Hot breath spilled from my repeatedly contracting lungs, inhaling the[r]
+sticky air that hung around me.[pcms]
 
 
 *4756|
 [fc]
-目を閉じてるのか開けてるのに真っ暗なのか、[r]
-それさえも分からなかった。[pcms]
+I couldn't tell if my eyes were closed or if it was just pitch black,[r]
+even that was beyond my comprehension.[pcms]
 
 
 *4757|
 [fc]
-ただ俺の周囲に血の臭いが混じった無数の体臭が[r]
-渦巻いているのを感じるだけだ。[pcms]
+All I could sense was the multitude of body odors mixed with the smell[r]
+of blood swirling around me.[pcms]
 
 
 *4758|
 ;旧ナンバー[vo_m s="tennis_B0016"]
 [マイク 位置１４][vo_mob s="R_tennisB0016"]
-[ns]テニス部女子Ｂ[nse]
-「……なんべんだしたか、わかんないけどぉ、[r]
-　こんなノーコーセーシまだだせるとかぁぁ、[r]
-　チョーしんじらんねーってヤツぅぅぅ」[pcms]
+[ns]Tennis Club Girl B[nse]
+"...I don't know how many times we've done it, but to think you can[r]
+still cum like this, it's unbelievably amazing..."[pcms]
 
 
 *4759|
 ;旧ナンバー[vo_m s="lacrosse_A0028"]
 [マイク 位置８][vo_mob s="R_lacrosseA0028"]
-[ns]ラクロス部女子Ａ[nse]
-「そろそろアタシらもさぁ、セックスしていいぃ？[r]
-　このままだとぉ、マンコがカラカラになっちゃうぅぅ」[pcms]
+[ns]Lacrosse Club Girl A[nse]
+"Isn't it about time for us to have sex too? If we keep going like[r]
+this, my pussy's gonna dry up..."[pcms]
 
 
 *4760|
 ;旧ナンバー[vo_m s="tennis_B0017"]
 [マイク 位置１４][vo_mob s="R_tennisB0017"]
-[ns]テニス部女子Ｂ[nse]
-「おっさんのチューコチンポだけどねぇぇ、[r]
-　まだしぼれそうだしぃぃ、セーシのませてもらおっかぁぁ」[pcms]
+[ns]Tennis Club Girl B[nse]
+"It's an old man's cock, but it seems like it can still be squeezed[r]
+out, so let's get it drenched in semen..."[pcms]
 
 
 *4761|
 [fc]
-ピクリともしない身体に、ぬるりとしたものが滑る。[r]
-それがなんなのか知ることなく、俺の意識はブラックアウトした。[pcms]
+My body, which didn't twitch at all, was caressed by something slimy.[r]
+Without knowing what it was, my consciousness blacked out.[pcms]
 
 
 *kaisou_end

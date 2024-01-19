@@ -1,5 +1,5 @@
-;[ns]テスト[nse]
-;「エラー回避のダミーテキストです」[pcms]
+[ns]Test[nse]
+"This is a dummy text for error avoidance."[pcms]
 
 
 *0100H_TOP
@@ -78,8 +78,8 @@
 
 *1|
 [fc]
-雄叫びと、自動小銃の射撃音。[r]
-蝉の大合唱と、悲鳴と、車のクラクション。[pcms]
+A roar and the sound of automatic gunfire. The chorus of cicadas,[r]
+screams, and car horns.[pcms]
 
 	;;//seフェード停止###[stop_se buf4]
 	[stopse_fadeout buf4 20 time=1000]
@@ -87,10 +87,10 @@
 
 *2|
 [fc]
-――日常と、非日常。[pcms]
+--The everyday and the extraordinary.[pcms]
 
 [se buf3 storage="seC046"]
-;;//♪SEライフル発砲音（遠くから・単発）[pcms]
+;;//♪SE Rifle firing sound (from a distance, single shot)[pcms]
 
 ;;//seフェード停止###[stop_se buf2]
 [stopse_fadeout buf2 time=1000]
@@ -98,8 +98,8 @@
 
 *3|
 [fc]
-相反する音が入り乱れ、[r]
-湿度の高い空気層に吸い込まれ消えていく。[pcms]
+Contrasting sounds intertwine, absorbed by the humid air and fading[r]
+away.[pcms]
 
 [se buf2 storage="seB055" loop]
 ;;//♪SE船が炎上する音
@@ -107,43 +107,41 @@
 
 *4|
 [fc]
-星空と、黒煙。[r]
-人工の光と火災の光。[pcms]
+The starry sky and black smoke. Artificial light and the glow of[r]
+fires.[pcms]
 
 
 *5|
 [fc]
-それら極彩色の光は、[r]
-空を覆い隠すコンクリートの壁に反射し、[r]
-世界を混沌の色に塗り替えていく。[pcms]
+These vivid lights reflect off the concrete walls that cover the sky,[r]
+painting the world in colors of chaos.[pcms]
 
 
 *6|
 [fc]
-目に見えない狂気が湿度の高い空気層に溶け込んで、[r]
-音も立てずに人々に絡み付き――[pcms]
+Invisible madness dissolves into the humid air, silently entwining[r]
+around people--[pcms]
 
 
 *7|
 [fc]
-――仮初めの楽園へと誘う。[pcms]
+--luring them to a temporary paradise.[pcms]
 
 
 *8|
 [fc]
-楽園へと旅だったモノ達は獣へと姿を変え、[r]
-未だ人であろうとする者達をも、[r]
-楽園へと引き込もうとし始める。[pcms]
+Those who journeyed to paradise transform into beasts, beginning to[r]
+draw in even those who still wish to remain human--[pcms]
 
 
 *9|
 [fc]
-――仮初めの楽園の素晴らしさを伝えようとして。[pcms]
+--trying to convey the splendor of this temporary paradise.[pcms]
 
 
 *10|
 [fc]
-その楽園が、未来永劫に続くと信じて――[pcms]
+Believing that this paradise will last forever--[pcms]
 
 ;;//seフェード停止###[stopse_all]
 [stopse_fadeout buf1 time=1000]
@@ -156,18 +154,16 @@
 
 *11|
 [fc]
-[ns]父親[nse]
-「やっ……やめろ……[ruby text="さ　き"][ch text="沙樹"]ッ！[r]
-　やめろおぉぉおぉおぉおぉっ！！！！！！」[pcms]
+[ns]Father[nse]
+"Stop...stop it, Saki! Stop it ahhhhhhhhhh!!!!!!"[pcms]
 
 
 *12|
 ;旧ナンバー[vo_m s="saki0001"]
 [マイク 位置２][vo_mob s="R_saki0001"]
-[ns]沙樹[nse]
-「なんで、やめるの？　きもちいいのにぃ……。[r]
-　パパだって、ごぶさたなんでしょお？[r]
-　あっはははははっ！！！」[pcms]
+[ns]Saki[nse]
+"Why stop? It feels good... You've been missing this too, right Papa?[r]
+Ahahahahaha!!!"[pcms]
 
 ;;//BGMフェードアウト
 [fadeoutbgm time=1000]
@@ -198,59 +194,56 @@
 
 *13|
 [fc]
-赤黒い光が明滅する中、[r]
-楽園に堕ちたモノと、それに抵抗する者の声が絡み合い、[r]
-その声を掻き消して、数発の銃弾が宙を駆け抜ける。[pcms]
+In the flickering red and black light, the voices of those fallen to[r]
+paradise and those resisting intertwine, drowned out by several[r]
+gunshots piercing through the air.[pcms]
 
 
 *14|
 [fc]
-この国では聞き慣れないその音には耳を貸さず、[r]
-組み合う男女は、暗闇の中で息を荒くしていた。[pcms]
+In this country unaccustomed to such sounds, the entwined man and[r]
+woman breathe heavily in the darkness.[pcms]
 
 
 *15|
 ;旧ナンバー[vo_m s="saki0002"]
 [マイク 位置２][vo_mob s="R_saki0002"]
-[ns]沙樹[nse]
-「ねえねえ、わたしの、おしり……どう？[r]
-　ママのにくらべて、どう？[r]
-　すべすべ？　ねえ、あはははっ！　どぉお？」[pcms]
+[ns]Saki[nse]
+"Hey hey, how's my butt? How does it compare to Mama's? Is it smooth?[r]
+Hey, ahahaha! How is it?"[pcms]
 
 
 *16|
 [fc]
-[ns]父親[nse]
-「くっ、うっ……うううっ！　やめろと言っているだろう！」[pcms]
+[ns]Father[nse]
+"Guh, ugh...uuuuh! I'm telling you to stop!"[pcms]
 
 
 *17|
 [fc]
-『パパ』と呼ぶ相手に馬乗りになり、[r]
-小柄な少女は、暗闇の中でもはっきり見える白い尻を振る。[pcms]
+Straddling the man she calls "Papa," the petite girl swings her[r]
+clearly visible white butt in the darkness.[pcms]
 
 
 *18|
 ;旧ナンバー[vo_m s="saki0003"]
 [マイク 位置２][vo_mob s="R_saki0003"]
-[ns]沙樹[nse]
-「ええぇ～？　わたしは、パパにかんしゃしたいんだよ？[r]
-　きもちよくしてあげたいんだぁ……だって、これ……、[r]
-　おれいなんだよ……ふふっ……あはぁ……」[pcms]
+[ns]Saki[nse]
+"Eeeh~? I want to show my gratitude to Papa. I want to make you feel[r]
+good... because this... is a thank you... hehe... ahaa..."[pcms]
 
 
 *19|
 [fc]
-愛し合う男女がそうするように、[r]
-少女もまた、男の上で腰を踊らせると、[r]
-仄かに揺らめく光に照らされて、汗が煌めいた。[pcms]
+Like a loving couple, the girl too dances her hips atop the man,[r]
+glistening with sweat in the faintly flickering light.[pcms]
 
 
 *20|
 ;旧ナンバー[vo_m s="saki0004"]
 [マイク 位置２][vo_mob s="R_saki0004"]
-[ns]沙樹[nse]
-「ふっ……んんんっ……んんっ……あはぁ……」[pcms]
+[ns]Saki[nse]
+"Huh...nnnnn...nnn...ahaa..."[pcms]
 [bgv_mob s="R_saki0004" charastop]
 ;;//s:ループボイスタイプA
 
@@ -259,127 +252,123 @@
 
 *21|
 [fc]
-息も荒く、儀式のように踊る少女の白い肌は朱に染まり、[r]
-浮かび上がる汗の珠は、[r]
-きめ細かな肌の上を優しく滑り落ちていく。[pcms]
+Her breath ragged, the girl dances like in a ritual; her white skin[r]
+stained crimson, beads of sweat gently slide down her finely textured[r]
+skin.[pcms]
 
 
 *22|
 ;旧ナンバー[vo_m s="saki0005"]
 [マイク 位置２][vo_mob s="R_saki0005"]
-[ns]沙樹[nse]
-「あはぁ……ね、わ、わたしの、アソコ……に、[r]
-　パパのあったかいのがあたるよ……。[r]
-　フニフニしてて、やわらかくて、あったかいの……」[pcms]
+[ns]Saki[nse]
+"Ahaa... hey, my pussy... feels your warmness... It's squishy, soft,[r]
+and warm..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_mob s="R_saki0004" charastop]
 
 
 *23|
 [fc]
-[ns]父親[nse]
-「うっ……くぅうぅっ……ダメだ、ダメだ……」[pcms]
+[ns]Father[nse]
+"Ugh...kuuuuh...No, no..."[pcms]
 
 ;;//s:ループボイス　タイプA
 
 
 *24|
 [fc]
-辿々しく動く少女と、[r]
-逃れようと身もだえる男の下半身が擦れ合い、[r]
-湿った音を響かせる。まるで――[pcms]
+The faltering movements of the girl and the writhing lower half of the[r]
+man rub against each other, making wet sounds. Just like--[pcms]
 
 
 *25|
 [fc]
-大量の空気を含んだ水飴が混ぜ合わさる様に。[pcms]
+As if a large amount of air-filled molasses were being mixed together.[pcms]
 
 
 *26|
 [fc]
-黒煙の煙。舞い散る火の粉。[pcms]
+The smoke from black smoke. The fluttering sparks of fire.[pcms]
 
 
 *27|
 [fc]
-それら非現実的な演出の下、[r]
-二人の男女の動きには、変化が現れだしていた。[pcms]
+Under these surreal effects, a change begins to appear in the[r]
+movements of the man and woman.[pcms]
 
 
 *28|
 ;旧ナンバー[vo_m s="saki0006"]
 [マイク 位置２][vo_mob s="R_saki0006"]
-[ns]沙樹[nse]
-「ああ～……！　パパのが～……あつくなってきたぁ。[r]
-　きもちいいの？　だったら、うれしいなぁ……」[pcms]
+[ns]Saki[nse]
+"Ahh~...! Papa's getting hotter. Does it feel good? If so, I'm[r]
+happy..."[pcms]
 
 
 *29|
 ;旧ナンバー[vo_m s="saki0007"]
 [マイク 位置２][vo_mob s="R_saki0007"]
-[ns]沙樹[nse]
-「パパに、たすけてもらったんだもん……。[r]
-　いーっぱい、きもちよくなって……？[r]
-　パパ、だ～いすき！」[pcms]
+[ns]Saki[nse]
+"Papa helped me out... So I'm going to feel really good...? I love you[r]
+so much, Papa!"[pcms]
 
 
 *30|
 ;旧ナンバー[vo_m s="saki0008"]
 [マイク 位置２][vo_mob s="R_saki0008"]
-[ns]沙樹[nse]
-「はぁっ……あははっ……あぁ……あはぁ……」[pcms]
+[ns]Saki[nse]
+"Haa...ahahaha...ahh...ahaa..."[pcms]
 [bgv_mob s="R_saki0008" charastop]
 ;;//s:ループボイスB
 
 
 *31|
 [fc]
-[ns]父親[nse]
-「沙樹……俺は、こんな事……ううぅうっ」[pcms]
+[ns]Father[nse]
+"Saki...I shouldn't be doing this...uuuuh"[pcms]
 
 
 *32|
 [fc]
-まるで岩のように硬直した男の体の上を、[r]
-熱を帯び、柔らかさを増した少女の体が滑る。[pcms]
+Atop the man's body, rigid as a rock, slides the girl's body, now[r]
+heated and softened.[pcms]
 
 
 *33|
 [fc]
-二人の息づかいが同調し出した頃、[r]
-少女の丸い尻の肉を割り、[r]
-今にも弾けそうなほど怒張した肉の棒が、顔を出す。[pcms]
+As their breathing starts to synchronize, a round butt cleaves apart[r]
+revealing an engorged meat stick about to burst.[pcms]
 
 
 *34|
 ;旧ナンバー[vo_m s="saki0009"]
 [マイク 位置２][vo_mob s="R_saki0009"]
-[ns]沙樹[nse]
-「うふふ……わたしのアソコを、[r]
-　パパのがおしつぶしてる……やわらかくて、かたいのが……。[r]
-　あっつくなったアソコを、グリグリしてるよ……」[pcms]
+[ns]Saki[nse]
+"Ufufu... My pussy is being crushed by Papa's... soft yet hard... It's[r]
+grinding against my hot pussy..."[pcms]
 
 
 *35|
 ;旧ナンバー[vo_m s="saki0010"]
 [マイク 位置２][vo_mob s="R_saki0010"]
-[ns]沙樹[nse]
-「んうぅぅ……エッチなおと……わたしのアソコから、[r]
-　いーっぱい、おつゆがでちゃってる。パパのでふさいで……？[r]
-　ね？　おもらししてるみたいではずかしいからぁ……」[pcms]
+[ns]Saki[nse]
+"Nuuu... Naughty sounds... My pussy is leaking lots of juice. Can you[r]
+block it with yours? Please? It's embarrassing like I'm wetting[r]
+myself..."[pcms]
 
 
 *36|
 [fc]
-少女の言葉通り、肉棒が顔を覗かせる割れ目からは、[r]
-失禁と見まがうほどの液体が溢れ出し、汗に交わり出す。[pcms]
+Just as the girl says, from the slit where the meat stick peeks out[r]
+flows liquid in such quantity it could be mistaken for incontinence,[r]
+mingling with sweat.[pcms]
 
 
 *37|
 ;旧ナンバー[vo_m s="saki0011"]
 [マイク 位置３][vo_mob s="R_saki0011"]
-[ns]沙樹[nse]
-「ほらぁ～、どんどん、おっきくなってるよぉ……。[r]
-　それに、アソコに、け、がこすれてきもちいいよ……」[pcms]
+[ns]Saki[nse]
+"Look~ it's getting bigger and bigger. And it feels so good rubbing[r]
+against there..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_mob s="saki0008" charastop]
 
 ;;//s:ループボイスB
@@ -387,225 +376,211 @@
 
 *38|
 [fc]
-[ns]父親[nse]
-「うううっ……」[pcms]
+[ns]Father[nse]
+"Uuuuh..."[pcms]
 
 
 *39|
 [fc]
-父親の呻きが夜空に響くのと共に、[r]
-少女の腰は、高々と掲げ上げられた。[pcms]
+As the father's groans echo through the night sky, the girl's hips are[r]
+raised high.[pcms]
 
 
 *40|
 [fc]
-風にすら揺れるほどの、柔らかい太もも。[r]
-それに同期して揺れる柔らかい尻。[pcms]
+Soft thighs that could even sway in the wind, and a soft butt that[r]
+shakes in sync with them.[pcms]
 
 
 *41|
 [fc]
-漆黒の闇の中、[r]
-薄桃色に染まった肌がぼうっと浮かび上がる。[pcms]
+In the pitch-black darkness, her skin, dyed a light peach color,[r]
+faintly emerges.[pcms]
 
 
 *42|
 [fc]
-銃声。蝉の鳴き声。[r]
-遠くから響いていたサイレンと、泣き叫ぶ悲鳴。[r]
-それらがピタリと止まる。[pcms]
+The sound of a gunshot, the cries of cicadas, the distant sirens, and[r]
+the screams of terror all come to an abrupt halt.[pcms]
 
 
 *43|
 [fc]
-まるで、時すらも止まった様な一瞬の静寂の中、[r]
-暗闇の中組み合う男女の影もまた同様に動きを止めた。[pcms]
+In a moment of silence as if time itself had stopped, the shadows of[r]
+the man and woman entwined in the darkness also freeze.[pcms]
 
 
 *44|
 [fc]
-[ns]父親[nse]
-「…………」[pcms]
+[ns]Father[nse]
+"..."[pcms]
 
 
 *45|
 ;旧ナンバー[vo_m s="saki0012"]
 [マイク 位置３][vo_mob s="R_saki0012"]
-[ns]沙樹[nse]
-「……ねえ、そろそろ、わたしのなかに、いれてみない？[r]
-　ふふっ……わ、わたしの、いちばんだいじなものを、[r]
-　パパにあげるね……ふふっ」[pcms]
+[ns]Saki[nse]
+"...Hey, isn't it about time you put it inside me? Hehe... I'm going[r]
+to give you my most precious thing, Papa...hehe"[pcms]
 
 
 *46|
 [fc]
-止まった時は、少女の言葉を合図に再び動き出す。[pcms]
+The halted moment resumes with the girl's words as a signal.[pcms]
 
 
 *47|
 [fc]
-それは少女が乗る男の体をも、[r]
-蹴り飛ばすように突き動かした。[pcms]
+It kicks the man beneath her into motion as if to kick him away.[pcms]
 
 
 *48|
 [fc]
-[ns]父親[nse]
-「や、やめろ……それだけは……沙樹！[r]
-　それだけはダメだッ！！」[pcms]
+[ns]Father[nse]
+"No, stop...anything but that...Saki! That's the one thing you mustn't[r]
+do!!"[pcms]
 
 
 *49|
 ;旧ナンバー[vo_m s="saki0013"]
 [マイク 位置３][vo_mob s="R_saki0013"]
-[ns]沙樹[nse]
-「ううん、ダメっていわれても、ダメだよ……。[r]
-　わたし……がまんできないんだもん……。[r]
-　パパだって、おなじだよね？　ねぇ～……？」[pcms]
+[ns]Saki[nse]
+"Mmm, even if you say no, it's no good... I can't hold back anymore...[r]
+You feel the same, don't you, Papa? Right~...?"[pcms]
 
 
 *50|
 [fc]
-[ns]父親[nse]
-「そんな事は無い！　だからやめろおぉっ！[r]
-　親子で……こんな事はダメだッ！！」[pcms]
+[ns]Father[nse]
+"That's not true! So stop it! We're family...this is wrong!!"[pcms]
 
 
 *51|
 ;旧ナンバー[vo_m s="saki0014"]
 [マイク 位置３][vo_mob s="R_saki0014"]
-[ns]沙樹[nse]
-「おやこだから、ダメなの？　わたしは、パパのこと、[r]
-　こ～んなにすきなのに？　パパだってそうでしょ？[r]
-　お、おちんちん……こんなにしてるのに～……？」[pcms]
+[ns]Saki[nse]
+"Is it wrong because we're family? But I love you so much, Papa. Don't[r]
+you feel the same? Your cock...it's gotten this hard..."[pcms]
 
 
 *52|
 [fc]
-[ns]父親[nse]
-「ダメだっ！　こんな事、獣じゃないんだから！[r]
-　目を覚ませ！　沙樹ッ！　沙樹いぃぃっ！！」[pcms]
+[ns]Father[nse]
+"It's wrong! We're not beasts! Wake up! Saki! Saki!!"[pcms]
 
 
 *53|
 [fc]
-少女の声は楽しそうに。[r]
-パパと呼ばれる男の声は、懇願へと変わっていく。[pcms]
+The girl's voice is filled with mirth. The voice of the man called[r]
+Papa turns into a plea.[pcms]
 
 
 *54|
 ;旧ナンバー[vo_m s="saki0015"]
 [マイク 位置３][vo_mob s="R_saki0015"]
-[ns]沙樹[nse]
-「あっはははは！！　けものぉ？[r]
-　なにいってるの、パパぁ……わたしたちは、にんげんだよぉ？[r]
-　あいしあうにんげんは～……せっくす、するんだよね！？」[pcms]
+[ns]Saki[nse]
+"Ahahaha!! Beasts? What are you talking about, Papa...we're humans,[r]
+right? Humans who love each other...have sex, right!?"[pcms]
 
 
 *55|
 [fc]
-[ns]父親[nse]
-「沙樹……」[pcms]
+[ns]Father[nse]
+"Saki..."[pcms]
 
 
 *56|
 ;旧ナンバー[vo_m s="saki0016"]
 [マイク 位置３][vo_mob s="R_saki0016"]
-[ns]沙樹[nse]
-「……わたしね、パパが、だーいすきなんだよ？[r]
-　だからぁ……わたしのはじめては、[r]
-　パパにあげようって、きめてたの」[pcms]
+[ns]Saki[nse]
+"...You know, I really love you, Papa? That's why... I decided to give[r]
+my first time to you."[pcms]
 
 
 *57|
 [fc]
-少女はうっとりとした表情を浮かべ、[r]
-尻の肉の中で跳ねる父親のペニスを見つめ、[r]
-舌なめずりをする。[pcms]
+The girl gazes dreamily at her father's penis bouncing between her[r]
+butt cheeks and licks her lips.[pcms]
 
 
 *58|
 ;旧ナンバー[vo_m s="saki0017"]
 [マイク 位置３][vo_mob s="R_saki0017"]
-[ns]沙樹[nse]
-「あのね……パパ、わたし、ずーっとパパがすきだったんだぁ。[r]
-　パパが、すきなんだよぉ……ふふっ……ま、ママなんかより、[r]
-　ずっと、ずーっとすき……」[pcms]
+[ns]Saki[nse]
+"You know...Papa, I've always loved you. I love you so[r]
+much...hehe...way more than Mama, much, much more..."[pcms]
 
 
 *59|
 [fc]
-[ns]父親[nse]
-「沙樹！」[pcms]
+[ns]Father[nse]
+"Saki!"[pcms]
 
 
 *60|
 ;旧ナンバー[vo_m s="saki0018"]
 [マイク 位置３][vo_mob s="R_saki0018"]
-[ns]沙樹[nse]
-「だからぁ……ずーっと、パパとこうしたかったんだよ！？[r]
-　この、でっかいおちんちんを、わたしのオマンコのなかに、[r]
-　ずぶぅううって、いれたかったんだぁ～……！」[pcms]
+[ns]Saki[nse]
+"That's why...I've always wanted to do this with you!? To have your[r]
+big cock thrust inside my pussy...!"[pcms]
 
 
 *61|
 [fc]
-[ns]父親[nse]
-「沙樹……」[pcms]
+[ns]Father[nse]
+"Saki..."[pcms]
 
 
 *62|
 ;旧ナンバー[vo_m s="saki0019"]
 [マイク 位置３][vo_mob s="R_saki0019"]
-[ns]沙樹[nse]
-「カッチカチの、おちんちん……さきっぽも、ヌルヌル……。[r]
-　わたしと、きゅーってしてたから、こんなになったの？[r]
-　ねえ、むすめのわたしのからだで、ボッキしちゃったの！？」[pcms]
+[ns]Saki[nse]
+"Your cock is so hard and stiff...and the tip is all slippery. Did it[r]
+get like this because it was squeezed tight with me? Hey, did you get[r]
+a boner from your daughter's body!?"[pcms]
 
 
 *63|
 ;旧ナンバー[vo_m s="saki0020"]
 [マイク 位置３][vo_mob s="R_saki0020"]
-[ns]沙樹[nse]
-「あはぁ……あぁ……はぁっ……はぁっ……」[pcms]
+[ns]Saki[nse]
+"Ahaa...ahh...haa...haa..."[pcms]
 [bgv_mob s="R_saki0020" charastop]
 ;;//s:ループC
 
 
 *64|
 [fc]
-[ns]父親[nse]
-「くうぅっ！　ううぅぅっ……」[pcms]
+[ns]Father[nse]
+"Kuuuh! Uuuuh..."[pcms]
 
 
 *65|
 [fc]
-甘く切ない喘ぎ声に、狂気が混ざり出す。[r]
-もしくは、元々あった狂気が鎌首を持ち上げたのか。[pcms]
+Into her sweet and sorrowful moans, madness begins to mix. Or perhaps[r]
+the madness that was always there has begun to rear its head.[pcms]
 
 
 *66|
 [fc]
-少女の声は体の動きに合わせ、[r]
-震えも、力強さも増していく。[pcms]
+The girl's voice grows stronger and more tremulous with each movement[r]
+of her body.[pcms]
 
 
 *67|
 ;旧ナンバー[vo_m s="saki0021"]
 [マイク 位置３][vo_mob s="R_saki0021"]
-[ns]沙樹[nse]
-「わたししってるよ！　パパのおちんちんからでるせいえきで、[r]
-　わたしができたんだよね？　あっは……！[r]
-　わたしのもとを、わたしにもちょうだい？」[pcms]
+[ns]Saki[nse]
+"I know! I was made from the semen that came out of Papa's cock,[r]
+right? Ahaha...! Give me some of that essence too?"[pcms]
 
 
 *68|
 ;旧ナンバー[vo_m s="saki0022"]
 [マイク 位置３][vo_mob s="R_saki0022"]
-[ns]沙樹[nse]
-「かぞくなんだもん、きっと、ピッタリだよね！[r]
-　じゃあ、いくよぉ……？[r]
-　パパのおちんちん、いっただきまあぁあっす！　あははっ！」[pcms]
+[ns]Saki[nse]
+"We're family after all, so it must be a perfect fit! So here I go...?[r]
+I'm taking Papa's cock now! Ahaha!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_mob s="saki0020" charastop]
 
 ;;//s:ループC
@@ -613,52 +588,51 @@
 
 *69|
 [fc]
-少女は白い尻を高く掲げ、パパと呼ばれる男性の、[r]
-小刻みに跳ねるペニスの上に押し当てた。[pcms]
+The girl raises her white butt high and presses it against the[r]
+twitching penis of the man called Papa.[pcms]
 
 
 *70|
 [fc]
-ペニスの先端に吸い付く少女の大陰唇は、[r]
-涎を垂らし、窄めた口の様。[pcms]
+The girl's large labia cling to the tip of the penis like a drooling[r]
+mouth.[pcms]
 
 
 *71|
 [fc]
-それが今にも弾けそうになったペニスの先を、[r]
-執拗に舐め付ける。[pcms]
+And they persistently lap at the tip of the penis that seems ready to[r]
+burst at any moment.[pcms]
 
 
 *72|
 [fc]
-[ns]父親[nse]
-「……ぅうぅうっ……止めてくれぇぇ……」[pcms]
+[ns]Father[nse]
+"...Uuuuh...please stop..."[pcms]
 
 
 *73|
 [fc]
-少女の口から溢れた涎が肉の棒に塗されて、[r]
-何本もの糸を引いて、垂れ落ちた。[pcms]
+The saliva overflowing from the girl's mouth coats the shaft and drips[r]
+down in multiple strands.[pcms]
 
 
 *74|
 ;旧ナンバー[vo_m s="saki0023"]
 [マイク 位置３][vo_mob s="R_saki0023"]
-[ns]沙樹[nse]
-「っふううぅ～……ふうッ……はぁぁッ……。[r]
-　そろそろ……わたしのなかに、いれるね……。[r]
-　わたしの、はじめてを、パパにあげる！」[pcms]
+[ns]Saki[nse]
+"Fuuu~...fuuu...haaa... It's about time... I put it inside me... I'm[r]
+giving my first time to you, Papa!"[pcms]
 
 
 *75|
 [fc]
-獣の様に荒々しく吐き出していた息を止め、[r]
-少女は覚悟を決めたように頬笑む。[pcms]
+Halting her breaths that were as ragged as a beast's, the girl smiles[r]
+as if she has made up her mind.[pcms]
 
 
 *76|
 [fc]
-全てと決別するように――[pcms]
+As if to sever ties with everything--[pcms]
 
 ;;//■イベントCG
 [evcg storage="mob_H001b"][trans_c cross time=500]
@@ -667,45 +641,41 @@
 *77|
 ;旧ナンバー[vo_m s="saki0024"]
 [マイク 位置２][vo_mob s="R_saki0024"]
-[ns]沙樹[nse]
-「んんっ！　は……ハァあぁぁああぁッ！！[r]
-　いっ……いたい、いたいよ、パパぁぁ……。[r]
-　わたしのアソコ、さけ……ちゃうううっ！！」[pcms]
+[ns]Saki[nse]
+"Nnnn! Ha...Haaaahhhhh!! It hurts, it hurts, Papa... My pussy is going[r]
+to tear apart!!"[pcms]
 
 
 *78|
 ;旧ナンバー[vo_m s="saki0025"]
 [マイク 位置２][vo_mob s="R_saki0025"]
-[ns]沙樹[nse]
-「ぎっ……んぅうぅうぅうっ！！　いっ、いたい！[r]
-　いたいぃいぃぃいっ！！[r]
-　んぁあぁあああぁあああああああああっぁ！！」[pcms]
+[ns]Saki[nse]
+"Gihh...nuuuuuu!! It hurts! It hurts!! Naaaahhhhhhhhhhh!!"[pcms]
 
 
 *79|
 [fc]
-闇を引き裂き、少女の悲鳴が響き渡る。[pcms]
+The girl's scream tears through the darkness, echoing far and wide.[pcms]
 
 
 *80|
 [fc]
-しかしそれは、甘く切ない吐息を含んでいた。[pcms]
+However, it contained sweet, agonizing sighs.[pcms]
 
 
 *81|
 ;旧ナンバー[vo_m s="saki0026"]
 [マイク 位置２][vo_mob s="R_saki0026"]
-[ns]沙樹[nse]
-「ぱ、パパのが、わたしのおなかにはいってるぅ！[r]
-　んんんぅううぅ！　いぎぃぃいぃっ！！[r]
-　パパぁ……わたしの、きもちいい！？」[pcms]
+[ns]Saki[nse]
+"Pa, Papa's inside my belly! Nnnngh! Igiieeee! Papa... does it feel[r]
+good for you?"[pcms]
 
 
 *82|
 ;旧ナンバー[vo_m s="saki0027"]
 [マイク 位置２][vo_mob s="R_saki0027"]
-[ns]沙樹[nse]
-「はぁあぁっ！！　はっ！　はぁぁ……んぐうぅっ……！！」[pcms]
+[ns]Saki[nse]
+"Haaaah!! Ha! Haaa...nguuuh...!!"[pcms]
 [bgv_mob s="R_saki0027" charastop]
 
 ;;//s:ループE
@@ -713,29 +683,25 @@
 
 *83|
 [fc]
-[ns]父親[nse]
-「うわぁあああああぁぁぁ！！！　沙樹……！[r]
-　うぅぉおおおぉおぉっ！！」[pcms]
+[ns]Father[nse]
+"Uwaaaaaaaah!! Saki...! Uoooohhhhh!!"[pcms]
 
 
 *84|
 [fc]
-組み合っていた男女は、ついに一つとなり、[r]
-『人』である事をやめた。[pcms]
+The man and woman entwined finally become one, ceasing to be "human".[pcms]
 
 
 *85|
 [fc]
-少女の後を追うように、男もまた堕ちて、[r]
-獣の様な雄叫びを上げる。[pcms]
+Following the girl, the man also falls, letting out a bestial roar.[pcms]
 
 
 *86|
 [fc]
-[ns]父親[nse]
-「ダメだぁっ！！　沙樹やめろっ！[r]
-　こんな事、間違ってる……やめろぉおっ！！[r]
-　クソッ！　なんでこんな……こんな事にっ！！」[pcms]
+[ns]Father[nse]
+"No, stop it, Saki! This is wrong...stop it! Damn it! Why is this[r]
+happening...why?!"[pcms]
 
 ;;//se_sex03.ogg(LOOP)
 [se_HLoop buf2 storage="se_sex03"]
@@ -744,19 +710,18 @@
 *87|
 ;旧ナンバー[vo_m s="saki0028"]
 [マイク 位置２][vo_mob s="R_saki0028"]
-[ns]沙樹[nse]
-「はぁっ……はぁっ……なぁに……？　なにがまちがっているの？[r]
-　こんなにきもちいいのに！　んぐううっ……！！[r]
-　アソコがあつくて、いたいけど……こんなにきもちいいんだぁ」[pcms]
+[ns]Saki[nse]
+"Hah...hah...what...? What's wrong? It feels so good! Nguuuh...!! My[r]
+pussy is hot and it hurts... but it feels so good."[pcms]
 
 
 *88|
 ;旧ナンバー[vo_m s="saki0029"]
 [マイク 位置２][vo_mob s="R_saki0029"]
-[ns]沙樹[nse]
-「それの、なにがまちがってるの？　なにが、だめなの……？[r]
-　ねえ、わたしは……パパがすきで、だいすきで、それで……、[r]
-　お、オマンコがこんなになってるんだよ！？　あはぁあぁ！」[pcms]
+[ns]Saki[nse]
+"What's wrong with that? What's so bad about it...? Hey, I love you,[r]
+Papa, I really love you, and because of that... my pussy is like this![r]
+Ahahaaa!"[pcms]
 [bgv_mob s="R_saki0027" charastop]
 
 ;;//s:ループE
@@ -764,26 +729,25 @@
 
 *89|
 [fc]
-狂気混じりの笑い声と裏腹に、[r]
-少女の頬には一筋の涙が伝い堕ちた。[pcms]
+Contrary to her laughter tinged with madness, a single tear trickles[r]
+down the girl's cheek.[pcms]
 
 
 *90|
 [fc]
-その涙は、喜悦からか、痛みからか。[r]
-それとも――[pcms]
+Whether that tear is from joy or pain. Or perhaps--[pcms]
 
 
 *91|
 [fc]
-――今や正気を失い獣と化した彼女の心は、[r]
-誰にももう、分からない。[pcms]
+--no one can understand the heart of the girl who has now lost her[r]
+sanity and turned into a beast.[pcms]
 
 
 *92|
 [fc]
-ただ一つ確かなのは、[r]
-少女は身も心も、快楽の虜だと言うことだけだ。[pcms]
+The only certainty is that the girl is a prisoner of pleasure, both[r]
+body and soul.[pcms]
 
 ;;//■イベントCG
 [evcg storage="mob_H001c"][trans_c cross time=500]
@@ -792,10 +756,9 @@
 *93|
 ;旧ナンバー[vo_m s="saki0030"]
 [マイク 位置２][vo_mob s="R_saki0030"]
-[ns]沙樹[nse]
-「くぅぅあぁぁ……！　ぱっ、パパのオチンチン、す、すごいぃ！[r]
-　オマンコのなか、いっぱいぃいっ！[r]
-　パパの、おおきくて、かたくて……あつくてきもちいいよおっ」[pcms]
+[ns]Saki[nse]
+"Kuuuaaah...! Pa, Papa's dick, it's amazing! My pussy is so full![r]
+Papa's big, hard... and it feels so good."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_mob s="saki0027" charastop]
 
 ;;//s:ループE
@@ -803,27 +766,26 @@
 
 *94|
 [fc]
-[ns]父親[nse]
-「あっ……あがぁぁっ！！」[pcms]
+[ns]Father[nse]
+"Ah...aghaaaah!!"[pcms]
 
 
 *95|
 [fc]
-その時、炎の熱量に巻き上げられた空気が宙めざし、[r]
-轟々と音を立てて舞い上がる。[pcms]
+At that moment, the air heated by the flames whirls upwards, roaring[r]
+as it ascends.[pcms]
 
 
 *96|
 [fc]
-少女の腰も、勢いづいて高く上がり、[r]
-父親の肉棒が顔を覗かせた。[pcms]
+The girl's hips rise high, and the father's penis peeks out.[pcms]
 
 
 *97|
 ;旧ナンバー[vo_m s="saki0031"]
 [マイク 位置２][vo_mob s="R_saki0031"]
-[ns]沙樹[nse]
-「んんぅうぅうぅ……ふううぅっ……ふうぅっ！　ううぅうっ！」[pcms]
+[ns]Saki[nse]
+"Nnnuuuuu...fuuuuu...fuuu! Uuuuuuh!"[pcms]
 [bgv_mob s="R_saki0031" charastop]
 
 ;;//s:ループF
@@ -831,126 +793,124 @@
 
 *98|
 [fc]
-破瓜の血が混じり薄桃色の泡の混じる体液が、[r]
-二人の結合部に絡み付き、音もなく地面に流れていく。[pcms]
+The fluid mixed with the foam of light pink from the defloration blood[r]
+wraps around the joined parts of the two and silently flows to the[r]
+ground.[pcms]
 
 
 *99|
 ;旧ナンバー[vo_m s="saki0032"]
 [マイク 位置２][vo_mob s="R_saki0032"]
-[ns]沙樹[nse]
-「ねぇ、パパぁ？　わたし、みてたんだよ、[r]
-　パパと、ママがえっちしてるところぉ……。[r]
-　こうして、キスされるの……すきなんだよね？　んむっ……」[pcms]
+[ns]Saki[nse]
+"Hey, Papa? I was watching you know, when you and Mama were having[r]
+sex... You like being kissed like this, right? Nmm..."[pcms]
 
 
 *100|
 [fc]
-少女は尻を高く上げ、柔らかく白い頬を、[r]
-地面に寝そべる父親の顔にすり寄て、涎塗れの舌を突き出し迫る。[pcms]
+The girl raises her butt high and rubs her soft, white cheeks against[r]
+her father's face lying on the ground, pressing her drool-covered[r]
+tongue forward.[pcms]
 
 
 *101|
 [fc]
-[ns]父親[nse]
-「んっ……ううぐぅうっ！！　やっ……やめ……ぶあぁっ！」[pcms]
+[ns]Father[nse]
+"Nn...uughuuu!! Stop...buahh!"[pcms]
 
 
 *102|
 ;旧ナンバー[vo_m s="saki0033"]
 [マイク 位置３][vo_mob s="R_saki0033"]
-[ns]沙樹[nse]
-「えぇ～……？　すきでしょ！？　すきなんでしょ！？[r]
-　ほらぁ……んぶぅうっ……んっ……ちゅっ……ちゅううっ！[r]
-　ぷぁ……ふふっ……やだぁ……こ、こしがうごいちゃう……」[pcms]
+[ns]Saki[nse]
+"Eeh~...? You like it, don't you!? You do like it![r]
+Look...nbufuuu...nnn...chu...chuuu! Pua...fufu...no way...my hips are[r]
+moving on their own..."[pcms]
 
 
 *103|
 [fc]
-[ns]父親[nse]
-「んぅううっ！　ぶううっ！　んぶぁぁっ！」[pcms]
+[ns]Father[nse]
+"Nuuuuh! Buuuuh! Nbuahhh!"[pcms]
 
 
 *104|
 ;旧ナンバー[vo_m s="saki0034"]
 [マイク 位置３][vo_mob s="R_saki0034"]
-[ns]沙樹[nse]
-「ちゅうっ……んんんっ……んんっ……」[pcms]
+[ns]Saki[nse]
+"Chuuu...nnnnn...nnnn..."[pcms]
 [bgv_mob s="R_saki0034" charastop]
 ;;//s:ループG
 
 
 *105|
 [fc]
-少女は口に舌を、父親は膣にペニスを。[r]
-お互いがお互いの体内に突起をねじ込ませ、[r]
-体液を掻き回す。[pcms]
+The girl with her tongue in the mouth, the father with his penis in[r]
+the vagina. Each thrusts their protrusions into each other's bodies,[r]
+stirring up bodily fluids.[pcms]
 
 
 *106|
 [fc]
-熱気を帯びた夏の空気が、[r]
-二人の体温を含んで、更に加速していく。[pcms]
+The hot summer air, now laden with their body heat, accelerates even[r]
+further.[pcms]
 
 
 *107|
 ;旧ナンバー[vo_m s="saki0035"]
 [マイク 位置３][vo_mob s="R_saki0035"]
-[ns]沙樹[nse]
-「ぷぁ……んんぅ……んぶぅ……ねえ、ママみたいにできてる？[r]
-　きもちいいんだよねぇ？　おちんちん、[r]
-　すっごいおおきくなってるもんね！」[pcms]
+[ns]Saki[nse]
+"Pua...nnnuh...nbufuu...hey, am I doing it like Mama? It feels good,[r]
+right? Your dick is getting really big!"[pcms]
 
 
 *108|
 ;旧ナンバー[vo_m s="saki0036"]
 [マイク 位置３][vo_mob s="R_saki0036"]
-[ns]沙樹[nse]
-「ふぅぅうっ……オマンコいたいの、なくなったよ……。[r]
-　だから、もっとつよくしても、だいじょうぶ！[r]
-　ほらっ！　ほらぁぁっ！！」[pcms]
+[ns]Saki[nse]
+"Fuuuuuh...the pain in my pussy is gone now. So you can do it harder,[r]
+I'm okay! Look! Look!!"[pcms]
 
 
 *109|
 [fc]
-[ns]父親[nse]
-「くっ……は、あぁ……あ……ぎぃっ……」[pcms]
+[ns]Father[nse]
+"Kuh...ha, ahh...ah...giiee..."[pcms]
 
 
 *110|
 ;旧ナンバー[vo_m s="saki0037"]
 [マイク 位置３][vo_mob s="R_saki0037"]
-[ns]沙樹[nse]
-「なぁによぉ……ママにしてたみたいに、もっと、[r]
-　こしをうごかしてよ！　らんぼうに、してみてよぉっ！[r]
-　わたしも、にたようにさけんであげる……ないてあげるから！」[pcms]
+[ns]Saki[nse]
+"What's wrong...? Move your hips more like you did with Mama. Be[r]
+rougher with me! I'll scream just like her...I'll even cry for you!"[pcms]
 
 
 *111|
 [fc]
-[ns]父親[nse]
-「あ、あがぁぁっ……んぶうっ！」[pcms]
+[ns]Father[nse]
+"Ah, aghaaaah...nbufuh!"[pcms]
 
 
 *112|
 [fc]
-怒りすら混ざりだした声を上げながら再び唇を重ね、[r]
-父親の体の上で腰をくねらせた。[pcms]
+With a voice now mixed with anger, they kiss again as she writhes her[r]
+hips on top of her father's body.[pcms]
 
 
 *113|
 [fc]
-白い尻と、柔らかな太ももの肉の中を、[r]
-父親のペニスが、まるで蛇が巣穴に出入りするように蠢いている。[pcms]
+The white butt and the soft flesh of her thighs move around the[r]
+father's penis as if a snake slithers in and out of its burrow.[pcms]
 
 
 *114|
 ;旧ナンバー[vo_m s="saki0038"]
 [マイク 位置３][vo_mob s="R_saki0038"]
-[ns]沙樹[nse]
-「あ……あ、あぁ……あぁ……やだ……おなかのなか、[r]
-　パパのでいっぱいに……あはっ！　だしちゃうの？[r]
-　いいよ……いっぱい、おなかのなかでせいえきだして！」[pcms]
+[ns]Saki[nse]
+"Ah...ah, ahh...ahh...no way...my belly is full of Papa's...ahah! Are[r]
+you going to release it? It's okay...let out lots of semen inside my[r]
+belly!"[pcms]
 
 ;;//■イベントCG
 [evcg storage="mob_H001d"][trans_c cross time=500]
@@ -959,10 +919,9 @@
 *115|
 ;旧ナンバー[vo_m s="saki0039"]
 [マイク 位置３][vo_mob s="R_saki0039"]
-[ns]沙樹[nse]
-「あははっ……ねえ、ママにしたみたいに……、[r]
-　わたしにも、いっぱい……なかだししてっ！　ほら！[r]
-　だして……オマンコのなかに、びゅーって！！　あははっ！」[pcms]
+[ns]Saki[nse]
+"Ahahaha...hey, just like you did with Mama... give me lots[r]
+too...inside me! Look! Release it...inside my pussy, byu-!"[pcms]
 [bgv_mob s="R_saki0031" charastop]
 
 ;;//s:ループF
@@ -970,63 +929,61 @@
 
 *116|
 [fc]
-[ns]父親[nse]
-「ぐっ……くううぅぅぅっ……沙樹ぃいぃっ！！」[pcms]
+[ns]Father[nse]
+"Guh...kuuuuuhhhhh...Sakiiii!!"[pcms]
 
 
 *117|
 ;旧ナンバー[vo_m s="saki0039a"]
 [マイク 位置３][vo_mob s="R_saki0040"]
-[ns]沙樹[nse]
-「びくびくしてるぅ……いきそうになってるぅ……、[r]
-　んふぁっ……わたしもぉ……だめになりそぉ……」[pcms]
+[ns]Saki[nse]
+"It's twitching...you're about to come, aren't you... nfuahh...me[r]
+tooo...I'm going to lose it..."[pcms]
 
 ;;//m:サキだったからボイスNoを別にして、収録時に間に割り込みしておく。No要確認
 
 
 *118|
 [fc]
-娘に乗られ、娘の膣にペニスを収め、[r]
-無邪気に嗤う娘になじられて、[r]
-父親は、顔中を涙塗れにして懇願した。[pcms]
+Ridden by his daughter, his penis enclosed in her vagina, being mocked[r]
+innocently by his laughing daughter, the father pleads with his face[r]
+covered in tears.[pcms]
 
 
 *119|
 [fc]
-娘はそんな相手を見下ろし嗤い続けている。[pcms]
+The daughter looks down and continues to sneer at him.[pcms]
 
 
 *120|
 [fc]
-――泣き、喘ぐ相手を、ただの男として見つめながら。[r]
-ただ快楽を与えてくれる道具として。[r]
-記憶の片隅に残る、愛する相手を思い浮かべながら――[pcms]
+While gazing at him as just a man, as a tool that provides pleasure,[r]
+she recalls the beloved figure that lingers in the corner of her[r]
+memory.[pcms]
 
 
 *121|
 ;旧ナンバー[vo_m s="saki0040"]
 [マイク 位置２][vo_mob s="R_saki0041"]
-[ns]沙樹[nse]
-「あは……あ……あははははっ！！　やぁ……オマンコ、[r]
-　きゅうううっってしてきたぁ……アソコもジンジンしちゃう！[r]
-　やだぁっ！　イッちゃいそう！　パパもイッてぇっ！！」[pcms]
+[ns]Saki[nse]
+"Ahaha...ah...ahahahaha!! No...my pussy, it's clenching...my crotch is[r]
+tingling! No way! I'm going to come! Papa, come too!!"[pcms]
 
 
 *122|
 ;旧ナンバー[vo_m s="saki0041"]
 [マイク 位置２][vo_mob s="R_saki0042"]
-[ns]沙樹[nse]
-「んぅううぅ～……ふううっ……ふうっ……は……あ、ああ……。[r]
-　イク……あ……あぁあぁぁぁ――――――ッ！！！」[pcms]
+[ns]Saki[nse]
+"Nuuuu~...huff...huff...ha...ah, ahh... I'm[r]
+coming...ah...ahhhhh------!!"[pcms]
 
 ;mm 前のエンジンのスクリプトだと↑の台詞でＢＧＶ停止したあと再開命令入ってないんだよなーどうしよ
 
 
 *123|
 [fc]
-[ns]父親[nse]
-「はっ……離れろっ！　離れろ！　沙樹！　離れろッ！[r]
-　うわぁあああああああああぁあっ！！」[pcms]
+[ns]Father[nse]
+"Ha...get off! Get off! Saki! Get off!! Uwaaaaaaaahhh!!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -1039,30 +996,29 @@
 
 *124|
 [fc]
-二人の体は電気ショックを受けたかのように大きく跳ね上げ、[r]
-父も娘もお互いの最深部を感じ合う様に、[r]
-強く、強く腰を打ち付け合っていた。[pcms]
+Their bodies jerked as if shocked by electricity, and both father and[r]
+daughter felt each other's deepest parts as they thrust their hips[r]
+strongly against one another.[pcms]
 
 
 *125|
 ;旧ナンバー[vo_m s="saki0042"]
 [マイク 位置２][vo_mob s="R_saki0043"]
-[ns]沙樹[nse]
-「ああぁあっ！　おっ……おぁぁああぁ゛ぁ゛ぁ゛ぁ゛ァ！！！[r]
-　お゛ぉおおおっ……んぉおおおおああぁぁっ！！」[pcms]
+[ns]Saki[nse]
+"Aaaaah! Oh...ohhhhhhhhhh!! Ooooooh...noooooo!!"[pcms]
 
 
 *126|
 [fc]
-[ns]父親[nse]
-「ぐっ……うぅああぁあぁ……」[pcms]
+[ns]Father[nse]
+"Guh...uuaaaaah..."[pcms]
 
 
 *127|
 ;旧ナンバー[vo_m s="saki0043"]
 [マイク 位置２][vo_mob s="R_saki0044"]
-[ns]沙樹[nse]
-「お……あぁ……ああぁ……ああ……あ～……」[pcms]
+[ns]Saki[nse]
+"Oh...ahh...ahhh...ahh...ah~..."[pcms]
 ;[bgv_mob s="saki0043" charastop]
 ;mm FHD ここから元々の抜けボイス分ナンバーずれてるからそれも適用
 [bgv_mob s="R_saki0044" charastop]
@@ -1071,28 +1027,27 @@
 
 *128|
 [fc]
-二人は体を密着させたままで、[r]
-それでもまだ、腰を小刻みに動かしていた。[pcms]
+They remained close to each other's bodies, yet still moved their hips[r]
+in small motions.[pcms]
 
 
 *129|
 [fc]
-娘は、快楽に溺れて。[pcms]
+The daughter, drowning in pleasure.[pcms]
 
 
 *130|
 [fc]
-父親は、禁忌を破ってしまった罪悪感と、[r]
-滲み出した快楽に溺れだして。[pcms]
+The father, drowning in the guilt of breaking a taboo and the pleasure[r]
+that seeped out.[pcms]
 
 
 *131|
 ;旧ナンバー[vo_m s="saki0044"]
 [マイク 位置２][vo_mob s="R_saki0045"]
-[ns]沙樹[nse]
-「あ゛あぁ～……あ……あああ、あはぁぁ……。[r]
-　パパの、おちんちん、すっごい……あはぁ……。[r]
-　まだ、せいえき、とまらないんだねぇ……あはははぁ……」[pcms]
+[ns]Saki[nse]
+"Aaaah~...ah...ahhh, ahaha... Papa's dick is amazing...ahaha... It's[r]
+still not stopping, the semen...ahahaha..."[pcms]
 [bgv_mob s="R_saki0044" charastop]
 
 ;;//s:ループH
@@ -1100,58 +1055,56 @@
 
 *132|
 [fc]
-二人の震えは、やっと収まりだした。[pcms]
+Their trembling finally began to subside.[pcms]
 
 
 *133|
 [fc]
-だが、結合部からはぶちゅりと音がして、[r]
-止めどなく粘度の高い白濁液が溢れ出していく。[pcms]
+But from their joined parts, a squelching sound could be heard as a[r]
+thick, cloudy fluid continued to overflow without end.[pcms]
 
 
 *134|
 ;旧ナンバー[vo_m s="saki0045"]
 [マイク 位置２][vo_mob s="R_saki0046"]
-[ns]沙樹[nse]
-「は……あぁああぁあぁぁぁ……！！[r]
-　パパのおちんちんが、オマンコのなかではじけてぇっ！！[r]
-　あついよおっ！　あっついよおぉおっ！！！　ひぁあぁあっ！」[pcms]
+[ns]Saki[nse]
+"Ha...aaaaaaahhh...!! Papa's dick is bursting inside my pussy!! It's[r]
+hot! It's so hoooot!!! Hiyaaaah!"[pcms]
 
 ;mm 前のエンジンのスクリプトだと↑の台詞でＢＧＶ停止したあと再開命令入ってないんだよなーどうしよ
 
 *135|
 [fc]
-[ns]父親[nse]
-「は……あ……ああ……あああ……」[pcms]
+[ns]Father[nse]
+"Ha...ah...ahh...ahhhh..."[pcms]
 
 
 *136|
 ;旧ナンバー[vo_m s="saki0046"]
 [マイク 位置３][vo_mob s="R_saki0047"]
-[ns]沙樹[nse]
-「ふうっ……ふうぅぅ……お、おなか、のなか、が、[r]
-　パパがだしたので、いっぱいだぁ……あはは、たぷたぷ……。[r]
-　んっ……んんぅうぅぅっ！　あ……ああぁぁ……」[pcms]
+[ns]Saki[nse]
+"Huff...hufff...my, my stomach, inside, is full of what Papa[r]
+released...ahaha, it's sloshing around... Mmm...mmmuuuuh![r]
+Ah...ahhhh..."[pcms]
 
 
 *137|
 [fc]
-[ns]父親[nse]
-「おっ……お、おぐぅっ……ううっ……」[pcms]
+[ns]Father[nse]
+"Ohh...oguuuuh...uuuh..."[pcms]
 
 
 *138|
 [fc]
-こぼれ落ちる白濁を潤滑液にして、[r]
-娘は、父親のペニスを胎外へと産み捨てようと、[r]
-腰をゆっくりと引き上げる。[pcms]
+Using the spilled white fluid as lubricant, the daughter slowly lifts[r]
+her hips to discard her father's penis outside her womb.[pcms]
 
 
 *139|
 [fc]
-まだ硬く、強く窄まった娘の膣は、[r]
-産道を刺激して産まれゆくペニスを愛おしげに舐め、[r]
-吐き出された精液を最後の一滴まで絞りだそうと吸い付いている。[pcms]
+Still hard and tightly clenched, the daughter's vagina lovingly licks[r]
+the penis being born through the birth canal, sucking out every last[r]
+drop of ejaculated semen.[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -1163,84 +1116,81 @@
 *140|
 ;旧ナンバー[vo_m s="saki0047"]
 [マイク 位置３][vo_mob s="R_saki0048"]
-[ns]沙樹[nse]
-「あ……あはぁ……」[pcms]
+[ns]Saki[nse]
+"Ah...ahaha..."[pcms]
 
 
 *141|
 [fc]
-時間をかけて引き抜かれた父親のペニスが、[r]
-娘の胎内から完全に吐き出された。[pcms]
+The father's penis was slowly pulled out, completely expelled from the[r]
+daughter's womb.[pcms]
 
 
 *142|
 [fc]
-とたん、ぽっかりと開いた少女の膣孔からは、[r]
-夏の暑い中だと言うのに、湯気が立ち上がる程熱い愛液が、[r]
-ドロリと音を立てて溢れ出す。[pcms]
+Suddenly, from the gaping vaginal opening of the girl, hot love juices[r]
+steamed up as if it were a hot summer day, oozing out with a thick[r]
+sound.[pcms]
 
 
 *143|
 ;旧ナンバー[vo_m s="saki0048"]
 [マイク 位置３][vo_mob s="R_saki0049"]
-[ns]沙樹[nse]
-「はぁあぁ……は、はじめてを、パパにプレゼントできたぁ……。[r]
-　きもちよかったぁ……あたまが、ばくはつしそうなくらい、[r]
-　ドキドキしたよ……オマンコも、グッチュグチュになって……」[pcms]
+[ns]Saki[nse]
+"Haaaah... I was able to give my first time to Papa... It felt so[r]
+good... My head feels like it's going to explode with excitement, and[r]
+my pussy has become all gooey..."[pcms]
 
 
 *144|
 ;旧ナンバー[vo_m s="saki0049"]
 [マイク 位置３][vo_mob s="R_saki0050"]
-[ns]沙樹[nse]
-「わかる？　トロットロだったんだぁ……。[r]
-　クリトリスも、ちくびも、ぜんぶピンピン……。[r]
-　パパのからだにさわると、ビリビリして、イッちゃったぁ……」[pcms]
+[ns]Saki[nse]
+"Can you tell? It was all melty... My clit and nipples were all[r]
+stiff... When I touched Papa's body, it sent shivers through me, and I[r]
+came..."[pcms]
 
 
 *145|
 ;旧ナンバー[vo_m s="saki0050"]
 [マイク 位置３][vo_mob s="R_saki0051"]
-[ns]沙樹[nse]
-「あはぁ……ま、まだ、ふわふわするよ……。[r]
-　ドキドキして、あたまも、ふわふわぁ……。[r]
-　ママもきっと、こんなふうだったんだね、あははぁぁ……」[pcms]
+[ns]Saki[nse]
+"Ahaha... I still feel all floaty... My heart is racing and my head[r]
+feels light... Mama must have felt this way too, ahahaha..."[pcms]
 
 
 *146|
 [fc]
-[ns]父親[nse]
-「ああぁあぁ……やめろ、止めてくれ……お願いだ……。[r]
-　もう、こんなの……神様……あぁぁ……」[pcms]
+[ns]Father[nse]
+"Aaaaahh...stop it, please stop... I beg you... No more of this...[r]
+God...aaaah..."[pcms]
 
 
 *147|
 ;旧ナンバー[vo_m s="saki0051"]
 [マイク 位置３][vo_mob s="R_saki0052"]
-[ns]沙樹[nse]
-「あれぇ？　パパのオチンチン、また、おっきくなってきたよぉ？[r]
-　すっごい、カッチカチで、わたしのクリトリスに、あたってる。[r]
-　きもち、いいなぁ……また、オチンチンほしいなぁ……ふふっ」[pcms]
+[ns]Saki[nse]
+"Huh? Papa's dick is getting hard again? It's so stiff and it's[r]
+hitting my clit. It feels good... I want your dick again...hehe"[pcms]
 
 
 *148|
 [fc]
-[ns]父親[nse]
-「くっ、くああぁぁ……」[pcms]
+[ns]Father[nse]
+"Kuuh, kuaaaaah..."[pcms]
 
 
 *149|
 [fc]
-父親の本体と同様に、ぐったりとしたペニスの上には、[r]
-少女の体から溢れた体液が塗されて、[r]
-たっぷりとした『溜まり』を作りだしている。[pcms]
+Just like the father's body, the limp penis was smeared with the[r]
+girl's bodily fluids, creating a plentiful "pool."[pcms]
 
 
 *150|
 [fc]
-興奮して血が通い、ぷっくりと膨らんだ少女の大陰唇が、[r]
-その『溜まり』の上を滑ると、柔らかな溝に埋まった、[r]
-小さな突起に当たった。[pcms]
+The girl's swollen labia majora, engorged with blood and excitement,[r]
+slid over this "pool," and when it hit a small protrusion buried in[r]
+the soft groove...[pcms]
 
 ;;//se_sex02.ogg(LOOP)
 [se_HLoop buf2 storage="se_sex02"]
@@ -1248,26 +1198,24 @@
 
 *151|
 [fc]
-すると、それまで緩慢に動いてた少女の体は、[r]
-再び勢いよく動き出す。[pcms]
+Then, the girl's body that had been moving slowly suddenly started[r]
+moving vigorously again.[pcms]
 
 
 *152|
 ;旧ナンバー[vo_m s="saki0052"]
 [マイク 位置３][vo_mob s="R_saki0053"]
-[ns]沙樹[nse]
-「はぁぁっ……クリトリス、こすれるっ！[r]
-　やっ……あぁ……が、がまんできないぃいっ！！[r]
-　オマンコ……んぅううっ！　もう、ダメだよおっ！！」[pcms]
+[ns]Saki[nse]
+"Haaahh... My clit is rubbing! Noo...ahh... I can't hold back!! My[r]
+pussy...nuuuuh! I can't take it anymore!!"[pcms]
 
 
 *153|
 ;旧ナンバー[vo_m s="saki0053"]
 [マイク 位置３][vo_mob s="R_saki0054"]
-[ns]沙樹[nse]
-「もういっかい、えっちしよ！　きもち、いいこと、しよう？[r]
-　パパ……パパっ！　んあぁあぁあっ……！[r]
-　んっ……んっ……んぅううぅぅっ！！」[pcms]
+[ns]Saki[nse]
+"Let's have sex one more time! Let's do something that feels good?[r]
+Papa...Papa! Naaaaaahh...! Mmm...mmm...mmmuuuuh!!"[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -1275,14 +1223,14 @@
 
 *154|
 [fc]
-ぷちゅり――[pcms]
+Puchuri--[pcms]
 
 
 *155|
 ;旧ナンバー[vo_m s="saki0054"]
 [マイク 位置３][vo_mob s="R_saki0055"]
-[ns]沙樹[nse]
-「ふぁ……あ、あぁぁ……！　ふぁああぁあぁっ！！」[pcms]
+[ns]Saki[nse]
+"Faa...ah, ahhh...! Faaaaaahhh!!"[pcms]
 ;[bgv_mob s="saki0054" charastop]
 [bgv_mob s="R_saki0055" charastop]
 
@@ -1291,36 +1239,37 @@
 
 *156|
 [fc]
-小さく、水が跳ねる音がした。[r]
-ほとんど抵抗することもなくなった少女の膣が弾き出した音だ。[pcms]
+A small splash sound was heard. It was the sound of the girl's vagina[r]
+that had almost stopped resisting ejecting something.[pcms]
 
 
 *157|
 [fc]
-父親のペニスは、ずぶずぶと体の中に消えて、[r]
-膣内に溜まっていた精液も行き場を失い、弾き出されていく。[pcms]
+The father's penis disappeared into her body with ease, and the semen[r]
+that had accumulated inside was expelled without a place to go.[pcms]
 
 
 *158|
 [fc]
-[ns]父親[nse]
-「……あぁ……」[pcms]
+[ns]Father[nse]
+"...Ahh..."[pcms]
 
 
 *159|
 [fc]
-二人が体を重ねてから、暫くの時が過ぎた。[pcms]
+Some time had passed since the two bodies came together.[pcms]
 
 
 *160|
 [fc]
-少女の体もそうであったように、[r]
-父親の様子も同様に変わりだしていた。[pcms]
+Just like the girl's body, the father's demeanor had also begun to[r]
+change.[pcms]
 
 
 *161|
 [fc]
-――抵抗の声はなりを潜め、感嘆の吐息を吐き出していた。[pcms]
+--The voice of resistance had quieted, replaced by sighs of[r]
+admiration.[pcms]
 
 ;;//■イベントCG
 [evcg storage="mob_H001h"][trans_c cross time=500]
@@ -1329,10 +1278,10 @@
 *162|
 ;旧ナンバー[vo_m s="saki0055"]
 [マイク 位置３][vo_mob s="R_saki0056"]
-[ns]沙樹[nse]
-「ふふっ……パパも、だんだんノッてきたじゃない……。[r]
-　わたしの、おまんこと、キスがきもちいんでしょ……。[r]
-　もっと、してあげるね……まずは、キスから……ふふっ」[pcms]
+[ns]Saki[nse]
+"Hehe... Papa, you're getting into it too, aren't you...? My pussy and[r]
+your kisses feel good, right...? I'll do it more...starting with a[r]
+kiss...hehe."[pcms]
 ;[bgv_mob s="R_saki0055" charastop]
 
 ;;//s:ループI
@@ -1340,39 +1289,36 @@
 
 *163|
 [fc]
-[ns]父親[nse]
-「んんっ……んむうっ……はぁ……あぁ……」[pcms]
+[ns]Father[nse]
+"Mmm...mmmuuh...haa...ahh..."[pcms]
 
 
 *164|
 [fc]
-唇を重ね合う事すら、何の抵抗も無く、[r]
-熱に浮かされたように虚ろな目を、[r]
-宙に向けて漂わせるだけだった。[pcms]
+Even the act of kissing was done without any resistance, as he[r]
+aimlessly floated his vacant, feverish eyes towards the void.[pcms]
 
 
 *165|
 ;旧ナンバー[vo_m s="saki0056"]
 [マイク 位置３][vo_mob s="R_saki0057"]
-[ns]沙樹[nse]
-「はあああぁ……きもちいいぃ……。[r]
-　こんどは、もっと、めっちゃくちゃにしてね？[r]
-　もう……いたくない……きもちいいよ……パパ」[pcms]
+[ns]Saki[nse]
+"Haaaah...it feels so good... Next time, mess me up even more, okay?[r]
+It doesn't hurt anymore...it feels good...Papa."[pcms]
 
 
 *166|
 [fc]
-[ns]父親[nse]
-「ああぁ……はぁぁ……あぁ……はは……ははは……」[pcms]
+[ns]Father[nse]
+"Ahh...haaah...ahh...haha...hahaha..."[pcms]
 
 
 *167|
 ;旧ナンバー[vo_m s="saki0057"]
 [マイク 位置３][vo_mob s="R_saki0058"]
-[ns]沙樹[nse]
-「パパも、きもちいいよね……。[r]
-　じゃあ、もっとエッチしようよ……あははっ！[r]
-　おやこせっくす、たのしもうよ！　あっははははっ！！」[pcms]
+[ns]Saki[nse]
+"Papa, it feels good for you too, right...? Then, let's have more[r]
+sex...ahaha! Let's enjoy parent-child sex! Ahahahaha!!"[pcms]
 [bgv_mob s="R_saki0034" charastop]
 
 ;;//s:ループG
@@ -1380,76 +1326,73 @@
 
 *168|
 [fc]
-クチュクチュと音を立てながら、娘は腰を振る。[r]
-それに合わせる様に、父親も腰を振り応える。[pcms]
+With squelching sounds, the daughter rocked her hips. In response, the[r]
+father also began to thrust his hips.[pcms]
 
 
 *169|
 [fc]
-二人の動きが同期し出すと、淫靡な音も、腰の動きも、[r]
-何もかもが強くなっていった。[pcms]
+As their movements synchronized, the lewd sounds and the motion of[r]
+their hips intensified.[pcms]
 
 
 *170|
 [fc]
-[ns]父親[nse]
-「あぁぁ……あ……ああ……」[pcms]
+[ns]Father[nse]
+"Ahh...ah...ahh..."[pcms]
 
 
 *171|
 [fc]
-父親のペニスは、溜まりに溜まった精を吐き出し、[r]
-役割を終えた様に見えた。[pcms]
+The father's penis seemed to have fulfilled its role, ejaculating the[r]
+semen that had built up inside.[pcms]
 
 
 *172|
 [fc]
-だが、父親の原始的な欲求は、[r]
-娘との背徳的行為によって覚醒し始めていた。[pcms]
+However, the father's primal desires were beginning to awaken through[r]
+the taboo act with his daughter.[pcms]
 
 
 *173|
 ;旧ナンバー[vo_m s="saki0058"]
 [マイク 位置３][vo_mob s="R_saki0059"]
-[ns]沙樹[nse]
-「あは……また、かたくなってきたね、おちんちん……。[r]
-　もういっかい、おまんこ、に、い、いれて、ね？[r]
-　んっ……んぅううぅうっ……ふうぅうっ！！」[pcms]
+[ns]Saki[nse]
+"Aha...your cock is getting hard again... Let's put it in my pussy one[r]
+more time, okay? Mmm...mmmuuuuh...fuuuuh!!"[pcms]
 
 
 *174|
 [fc]
-[ns]父親[nse]
-「は……はは……あぁ、ああ……くううぅっ……。[r]
-　だ、ダメだと……あぁ……」[pcms]
+[ns]Father[nse]
+"Ha...haha...ahh, ahh...kuuuuh... It's no good...ahh..."[pcms]
 
 
 *175|
 [fc]
-それでもまだ、幽かに残る自我は、[r]
-『人』であろうとし続け、抵抗する。[pcms]
+Yet still, a faint remnant of his ego continued to resist, trying to[r]
+remain "human."[pcms]
 
 
 *176|
 [fc]
-――だが、覚醒を始めてしまった生殖器は、[r]
-人間本来の欲求に従い、動き出す。[pcms]
+--But the reproductive organ that had begun to awaken followed its[r]
+innate desires and started moving.[pcms]
 
 
 *177|
 ;旧ナンバー[vo_m s="saki0059"]
 [マイク 位置３][vo_mob s="R_saki0060"]
-[ns]沙樹[nse]
-「あ、ああ……あぁぁ……！　おっきくなってきたぁ！[r]
-　おちんちん、また、ぐい～って、おおきくなってきたよ！[r]
-　あははっ……あはははっ！！　んぅううぅっ！　はぁぁ！」[pcms]
+[ns]Saki[nse]
+"Ah, ahh...ahhh! It's getting bigger! Your cock is swelling up again![r]
+Ahaha...ahahaha!! Mmmuuuuh! Haaah!"[pcms]
 
 
 *178|
 ;旧ナンバー[vo_m s="saki0060"]
 [マイク 位置３][vo_mob s="R_saki0061"]
-[ns]沙樹[nse]
-「はぁ……あぁぁ……あああぁっ！！　んあぁあっ！」[pcms]
+[ns]Saki[nse]
+"Haa...ahh...ahhhh!! Naaah!"[pcms]
 ;[bgv_mob s="saki0060" charastop]
 [bgv_mob s="R_saki0061" charastop]
 
@@ -1459,21 +1402,21 @@
 *179|
 ;旧ナンバー[vo_m s="saki0061"]
 [マイク 位置３][vo_mob s="R_saki0062"]
-[ns]沙樹[nse]
-「ぱ、パパの、ずぶうって、はいってきたっぁあっ！！[r]
-　さ、さっきより、すごいっ！[r]
-　ぬるぬるの、せいえきも、きもちいいよおおっ！！」[pcms]
+[ns]Saki[nse]
+"Papa's dick is thrusting deep inside me!! It's more intense than[r]
+before! The slippery semen feels so good!!"[pcms]
 
 
 *180|
 [fc]
-[ns]父親[nse]
-「ふっ……くぅうああぁ……ああぁぁっ！！！」[pcms]
+[ns]Father[nse]
+"Fuh...kuuuuahhh...ahhhhh!!!"[pcms]
 
 
 *181|
 [fc]
-獣と化した父親の下半身が、再び娘の体を貫いた。[pcms]
+The father, transformed into a beast, penetrated his daughter's body[r]
+once again.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1493,31 +1436,30 @@
 *182|
 ;旧ナンバー[vo_m s="saki0062"]
 [マイク 位置３][vo_mob s="R_saki0063"]
-[ns]沙樹[nse]
-「は……あ、あぁ……あぁぁ……ちょっと、でちゃった？[r]
-　あぁあぁ……もっとぉ、いっぱいほしいよぉ……、[r]
-　だしてぇ……？　ね？　せいえき、いっぱいだしてえ……」[pcms]
+[ns]Saki[nse]
+"Ha...ah, ahh...ahhh...did a little come out? Ahhhh...I want more, I[r]
+want lots of it...give it to me...? Please? I want lots of your[r]
+semen..."[pcms]
 
 
 *183|
 [fc]
-少女が甘いため息をつくと、ぽってりした体液が一粒、[r]
-ペニスを銜え込む膣の隙間から溢れ出した。[pcms]
+As the girl let out a sweet sigh, a plump drop of bodily fluid[r]
+overflowed from the gap in her vagina that was engulfing the penis.[pcms]
 
 
 *184|
 ;旧ナンバー[vo_m s="saki0063"]
 [マイク 位置３][vo_mob s="R_saki0064"]
-[ns]沙樹[nse]
-「ね……キス……キス……してよぉ……！[r]
-　やすんじゃ……だめぇ……んぶうっうっ！！　んんっ！[r]
-　おねがぁい……ぺろぺろしてぇ……」[pcms]
+[ns]Saki[nse]
+"Hey...kiss me...kiss me! You can't stop now...mmmuuuh!! Mmm![r]
+Please...lick me..."[pcms]
 
 
 *185|
 [fc]
-[ns]父親[nse]
-「ふむぅっ、んんううっ、んぐううううっ！」[pcms]
+[ns]Father[nse]
+"Hmmuuh, mmmuuuh, mnguuuuuh!"[pcms]
 
 ;;//se_sex03.ogg(LOOP)
 [se_HLoop buf2 storage="se_sex03"]
@@ -1525,15 +1467,16 @@
 
 *186|
 [fc]
-何度目だろうか、娘は父親の体の上に覆い被さり、[r]
-唇をなめ回し、同時に、腰を上下させる。[pcms]
+How many times had it been? The daughter straddled her father's body[r]
+again, licking his lips while simultaneously moving her hips up and[r]
+down.[pcms]
 
 
 *187|
 [fc]
-すると、真夜中である事さえ忘れさせる様に、[r]
-まだ生えそろわない柔らかな陰毛や、[r]
-肌を伝い落ちる体液がキラキラと光り輝いていた。[pcms]
+And then, as if to make them forget it was the middle of the night,[r]
+her soft pubic hair that had yet to fully grow and the bodily fluids[r]
+trickling down her skin sparkled and shone.[pcms]
 
 ;[bgv_mob s="saki0054" charastop]
 [bgv_mob s="R_saki0055" charastop]
@@ -1543,106 +1486,98 @@
 
 *188|
 [fc]
-少女も父親も、よく知っていた筈だ。[r]
-『感染してしまった者との性交渉は死を意味する』[r]
-と言うことを。[pcms]
+Both the girl and her father should have known well. That "having[r]
+sexual intercourse with someone who is infected means death."[pcms]
 
 
 *189|
 [fc]
-始めは、父親の表情には、[r]
-恐怖と哀しみがありありと浮かんでいた。[pcms]
+At first, fear and sorrow were clearly visible on the father's face.[pcms]
 
 
 *190|
 [fc]
-それが今や薄れ、むしろ半笑いにすらなっている。[pcms]
+Now it had faded, and he even seemed to be half-smiling.[pcms]
 
 
 *191|
 [fc]
-快楽の罠は、人々の心をも蝕んでいく。[r]
-例外なく彼も、その罠から逃れる事は出来なかった。[pcms]
+The trap of pleasure corrodes people's hearts. He was no exception; he[r]
+could not escape from that trap.[pcms]
 
 
 *192|
 [fc]
-涎を垂らして喜ぶ娘の腰に手を当て、[r]
-自ら腰を、強く突き上げだした。[pcms]
+Drooling with joy, the daughter placed her hands on her hips and began[r]
+to thrust her hips forcefully.[pcms]
 
 
 *193|
 ;旧ナンバー[vo_m s="saki0064"]
 [マイク 位置３][vo_mob s="R_saki0065"]
-[ns]沙樹[nse]
-「あっ、あっ！　んぁあぁっ！　ひっ！？[r]
-　や、やぁぁぁっ！　おなかのなか、がすがすって……！[r]
-　やぶけるっ！　おなかやぶけるっ！！」[pcms]
+[ns]Saki[nse]
+"Ah, ah! Naaah! Hik!? Noo, nooo! It feels like my stomach is being[r]
+hollowed out! It's going to tear! My stomach is going to tear!!"[pcms]
 
 
 *194|
 [fc]
-[ns]父親[nse]
-「くぅうっ……あっ……ああぁっっ……！」[pcms]
+[ns]Father[nse]
+"Kuuuh...ahh...ahhhh!!"[pcms]
 
 
 *195|
 ;旧ナンバー[vo_m s="saki0065"]
 [マイク 位置３][vo_mob s="R_saki0066"]
-[ns]沙樹[nse]
-「わたしの、しょじょオマンコ、きもちいいの？[r]
-　パパのオチンチンは、すっごくきもちいいよ……。[r]
-　ねえ、おくのほうを……ぐりぐりしてぇ……んふぅっ……」[pcms]
+[ns]Saki[nse]
+"Does my virgin pussy feel good? Your dick feels so good to me... Hey,[r]
+grind against the back more...nffuuuh..."[pcms]
 
 
 *196|
 [fc]
-[ns]父親[nse]
-「あぁ……さ、沙織……。[r]
-　くぅうっ……いいぞ、あぁぁ……」[pcms]
+[ns]Father[nse]
+"Ahh...Saori... Kuuuh...that's good, ahhh..."[pcms]
 
 
 *197|
 [fc]
-父親の目は、そこには存在しない者を見つめ、[r]
-存在しない者に対して、性欲をぶつけだした。[pcms]
+The father's eyes gazed at someone who wasn't there, directing his[r]
+sexual desire towards this nonexistent person.[pcms]
 
 
 *198|
 ;旧ナンバー[vo_m s="saki0066"]
 [マイク 位置３][vo_mob s="R_saki0067"]
-[ns]沙樹[nse]
-「やっ！　やぁぁぁっ！！　パパぁっ！[r]
-　わたしは、ママじゃないよお……わたしを、[r]
-　ちゃんとあいしてぇ……ねぇ……キスしてあげるからぁ！」[pcms]
+[ns]Saki[nse]
+"Stop! Nooo! Papa! I'm not Mama...love me properly...please? I'll give[r]
+you a kiss!"[pcms]
 
 
 *199|
 [fc]
-[ns]父親[nse]
-「はっ……んむううっ……んっ……んうぅううっ！！」[pcms]
+[ns]Father[nse]
+"Hah...nmuuu...nn...nuuuuu!!"[pcms]
 
 
 *200|
 ;旧ナンバー[vo_m s="saki0067"]
 [マイク 位置３][vo_mob s="R_saki0068"]
-[ns]沙樹[nse]
-「んんっ……んっ……もっと、オマンコに、[r]
-　ちからをいれてあげるからぁ……んうううぅっ！！」[pcms]
+[ns]Saki[nse]
+"Nnn...nn...I'll put more strength into my pussy for you...nuuuuu!!"[pcms]
 
 
 *201|
 [fc]
-切なげな声と共に、少女の尻の肉がキュウッと締まった。[pcms]
+With a pained voice, the girl's butt muscles clenched tightly.[pcms]
 
 
 *202|
 ;旧ナンバー[vo_m s="saki0068"]
 [マイク 位置３][vo_mob s="R_saki0069"]
-[ns]沙樹[nse]
-「は……あ、あ！　あぁぁあぁ！！　いやぁあぁぁっ！！[r]
-　オマンコ、だめ……きゅうってしたら、わたし……あぁっ！[r]
-　でちゃうっ！　やだぁああぁっ！！」[pcms]
+[ns]Saki[nse]
+"Ha...ah, ah! Aaaaah!! Nooo!! My pussy, no...when it clenches,[r]
+I...ahh! It's coming out! I don't want it aaaaah!!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1656,82 +1591,79 @@
 
 *203|
 [fc]
-少女の悲鳴と共に、結合部から勢いよく液体がほとばしった。[pcms]
+Along with the girl's scream, liquid forcefully spurted out from where[r]
+they were joined.[pcms]
 
 
 *204|
 [fc]
-彼女の胎内に溜まった分泌液が、[r]
-まるで失禁してしまったように勢いよく噴き出されのだ。[pcms]
+The secretions that had accumulated inside her womb were ejected[r]
+forcefully, as if she had lost control of her bladder.[pcms]
 
 
 *205|
 ;旧ナンバー[vo_m s="saki0069"]
 [マイク 位置３][vo_mob s="R_saki0070"]
-[ns]沙樹[nse]
-「あぁあぁ……は、はぁぁ……あぁ……。[r]
-　イッた……？　わたし、イッちゃったみたい……。[r]
-　あ……あはぁぁ……あぁ、また、オマンコがきゅうって……」[pcms]
+[ns]Saki[nse]
+"Aaaaah...ha, haa...ahh... I came...? It seems like I came...[r]
+Ah...ahaha...ahh, my pussy is clenching again..."[pcms]
 
 
 *206|
 [fc]
-[ns]父親[nse]
-「ふっ……あ、ああぁっ！！！　沙織いいぃいッ！！」[pcms]
+[ns]Father[nse]
+"Fuh...ah, aaaaah!!! Saori, you're so good!!!"[pcms]
 
 
 *207|
 ;旧ナンバー[vo_m s="saki0070"]
 [マイク 位置３][vo_mob s="R_saki0071"]
-[ns]沙樹[nse]
-「ねぇ……ぱ、パパも、イッてっ！[r]
-　パパも、いっぱい、ぷしゅうってだしてぇっ！！[r]
-　ああぁぁッ！！　わたし、まだイキたぃいいぃっ！！」[pcms]
+[ns]Saki[nse]
+"Hey...Pa, Papa, come too! Papa, release a lot, spurt it out!![r]
+Aaaaah!! I still want to come!!!"[pcms]
 
 
 *208|
 [fc]
-[ns]父親[nse]
-「あぁあ……お、俺も、またイクぞ……。[r]
-　くうううっ！　うぉおおぉっ！！」[pcms]
+[ns]Father[nse]
+"Aaah...o, I'm going to come again... Kuuu! Uooooh!!"[pcms]
 
 
 *209|
 [fc]
-娘が吹きだした液体に塗れながら、[r]
-父親の腰の動きは単調だが、加速がついて行く。[pcms]
+While covered in the liquid sprayed by the daughter, the father's hip[r]
+movements were monotonous but gaining speed.[pcms]
 
 
 *210|
 [fc]
-もはや二人は、獣以外の何物でも無かった。[pcms]
+By now, the two of them were nothing less than beasts.[pcms]
 
 
 *211|
 [fc]
-声も、動きも、行為も。[r]
-何もかも、全てが『人』である事を止めてしまった。[pcms]
+Their voices, movements, and acts. Everything ceased to be "human."[pcms]
 
 
 *212|
 [fc]
-少女の若い性は、まだ硬い膣でペニスを強烈に絞り上げ、[r]
-父親の慣れた性は、少女の最深部を的確に突き上げた。[pcms]
+The young girl's sexuality, with her still tight vagina, intensely[r]
+squeezed the penis, while the father's experienced sexuality[r]
+accurately thrust into her deepest part.[pcms]
 
 
 *213|
 ;旧ナンバー[vo_m s="saki0071"]
 [マイク 位置３][vo_mob s="R_saki0072"]
-[ns]沙樹[nse]
-「んぁあぁああぁあっ！！！　あぁぁ゛ぁ゛ぁ゛ぁ゛ッ！！[r]
-　やだぁあっ！　んぉあああぁっ！！　だめっ！[r]
-　あたま、まっしろッ！　あたまバクハツしちゃうううっ！」[pcms]
+[ns]Saki[nse]
+"Naaaaaaaah!!! Aaaaaaah!!! Nooo! Noooaaah!! Stop! My head's going[r]
+white! My head's going to explode!!"[pcms]
 
 
 *214|
 [fc]
-[ns]父親[nse]
-「くっ……ううぅううあああぁぁああぁああぁ！！！！」[pcms]
+[ns]Father[nse]
+"Kuh...uuuuuaaaaaaaaahhhhhhhhh!!!!!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -1745,10 +1677,9 @@
 *215|
 ;旧ナンバー[vo_m s="saki0072"]
 [マイク 位置３][vo_mob s="R_saki0073"]
-[ns]沙樹[nse]
-「あ――――ッ！！　せいえきぃいっ！！[r]
-　あたるっ！　イクうぅうぅッ！　ひぃああぁあっ！！[r]
-　おおおぉぉっ……ぉおああぁ……あぁ……」[pcms]
+[ns]Saki[nse]
+"Ah----!! Semen!! It's hitting me! I'm coming! Hiiiaaaah!![r]
+Ooooh...oooh...ahh..."[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1763,8 +1694,9 @@
 
 *216|
 [fc]
-父親の脈動に合わせ、少女の体も激しく痙攣し、[r]
-断続して動く膣が、またしても大量の膣液を排出した。[pcms]
+With the father's pulsing, the girl's body convulsed violently, and[r]
+her intermittently moving vagina expelled a large amount of vaginal[r]
+fluid once again.[pcms]
 
 ;mm ここで止めるか
 [bgvstop]
@@ -1772,16 +1704,15 @@
 *217|
 ;旧ナンバー[vo_m s="saki0073"]
 [マイク 位置２][vo_mob s="R_saki0074"]
-[ns]沙樹[nse]
-「はぁっ……はぁっ……はあ……あぁ……。[r]
-　ぱ、ぱぱぁ……だいすき……。[r]
-　こ、これ、こ、これからも、いっしょ……いっぱい……」[pcms]
+[ns]Saki[nse]
+"Hah...hah...haa...ahh... Pa, Papa...I love you... Co, could we, could[r]
+we also be together a lot...from now on..."[pcms]
 
 
 *218|
 [fc]
-[ns]父親[nse]
-「はぁぁぁ……あぁ……沙織……これからも、ずっと……」[pcms]
+[ns]Father[nse]
+"Haaaah...ahh...Saori...from now on, forever..."[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1806,18 +1737,16 @@
 
 *219|
 [fc]
-父親の言葉が終わる前に、[r]
-二人の獣の周りを幾筋ものオレンジ色の線が包みだし、[r]
-少女の背中を貫いた。[pcms]
+Before the father could finish his words, several orange lines began[r]
+to envelop the two beasts and pierced through the girl's back.[pcms]
 
 
 *220|
 ;旧ナンバー[vo_m s="saki0074"]
 [マイク 位置２][vo_mob s="R_saki0075"]
-[ns]沙樹[nse]
-「あ゛……あ゛ぁ……あはぁ！　あつ、い……。[r]
-　あついぃぃ……あぁあぁ！！　いた゛いぃぃ……、[r]
-　きもち゛ぃいぃぃっ！！　パパぁあ……」[pcms]
+[ns]Saki[nse]
+"Aa...aaah...ahaha! Hot, it's hot... So hot...aaaaah!! It[r]
+hurts...feels good!! Papa..."[pcms]
 
 ;;//#_赤フラ
 [赤フラ]
@@ -1833,52 +1762,50 @@
 
 *221|
 [fc]
-一つ、また一つ。[pcms]
+One by one.[pcms]
 
 
 *222|
 [fc]
-オレンジ色の光が少女を貫いた。[pcms]
+Orange lights pierced through the girl.[pcms]
 
 
 *223|
 ;旧ナンバー[vo_m s="saki0075"]
 [マイク 位置２][vo_mob s="R_saki0076"]
-[ns]沙樹[nse]
-「あ……え……？」[pcms]
+[ns]Saki[nse]
+"Ah...eh...?"[pcms]
 
 
 *224|
 [fc]
-少女は、目を見開かせ、[r]
-背中を蹴られたかのように仰け反らせる。[pcms]
+The girl's eyes widened as she arched her back as if she had been[r]
+kicked.[pcms]
 
 
 *225|
 [fc]
-その瞳には無数のオレンジ色の光の弾が映し出され、[r]
-湿度の高い空気を引き裂き、少女に迫る。[pcms]
+In her eyes were reflected countless orange bullets tearing through[r]
+the humid air and approaching her.[pcms]
 
 
 *226|
 [fc]
-おそらく去年のこの時期、[r]
-父親と母親と観たであろう光景を思い出して、[r]
-少女は微笑んだ。[pcms]
+Perhaps recalling a scene she had seen last year with her father and[r]
+mother, the girl smiled.[pcms]
 
 
 *227|
 ;旧ナンバー[vo_m s="saki0076"]
 [マイク 位置２][vo_mob s="R_saki0077"]
-[ns]沙樹[nse]
-「あっ……あっははは！　あははっ！　あはははっ！！[r]
-　き、きれい……きれい！　はなび、だぁ……、[r]
-　あははははっ！　パパ、はなびだよ！　パパ……？」[pcms]
+[ns]Saki[nse]
+"Ah...ahaha! Ahaha! Ahahaha!! So beautiful...beautiful! Fireworks,[r]
+it's... Ahahaha! Papa, look at the fireworks! Papa...?"[pcms]
 
 
 *228|
 [fc]
-去年と変わらない、夏の夜。[pcms]
+Just like last year, a summer night.[pcms]
 
 [se buf1 storage="seC048"]
 ;;//♪SE銃声
@@ -1893,63 +1820,63 @@
 *229|
 ;旧ナンバー[vo_m s="saki0077"]
 [マイク 位置２][vo_mob s="R_saki0078"]
-[ns]沙樹[nse]
-「あ……あ……あ……あ」[pcms]
+[ns]Saki[nse]
+"Ah...ah...ah...ah"[pcms]
 
 
 *230|
 [fc]
-[ns]父親[nse]
-「……がッ……！？」[pcms]
+[ns]Father[nse]
+"...Gah...!?"[pcms]
 
 
 *231|
 [fc]
-蝉が鳴く、蒸し暑い夏の夜。[r]
-火薬が酸素と混ざり合い弾ける音と、硝煙の臭い。[pcms]
+The sound of cicadas on a hot and humid summer night. The sound of[r]
+gunpowder mixing with oxygen and popping, and the smell of smoke.[pcms]
 
 
 *232|
 [fc]
-鼻腔や口から、その目と同じく赤い筋を伝わせて、[r]
-少女は父親へと微笑みかける。[pcms]
+Through her nose and mouth, following the same red streaks as her[r]
+eyes, the girl smiled at her father.[pcms]
 
 
 *233|
 [fc]
-見下ろす父親の顔には、三つの孔が開き、[r]
-赤黒い液体を体外へと押し出し、顔中を染めていく。[pcms]
+Looking down at her father's face were three holes opened up, pushing[r]
+out a dark red liquid that stained his entire face.[pcms]
 
 
 *234|
 [fc]
-白い夏の制服は、オレンジ色の光によって焦げた孔が開き、[r]
-直後、父親の顔と同様に、赤く染まっていく。[pcms]
+The white summer uniform was burned with holes by the orange light and[r]
+then, just like her father's face, turned red.[pcms]
 
 
 *235|
 [fc]
-去年と変わらない、夏の夜。[pcms]
+Just like last year, a summer night.[pcms]
 
 
 *236|
 [fc]
-少女は獣に変わり、父親は獣の下で息絶えた。[pcms]
+The girl had turned into a beast, and beneath the beast, her father[r]
+had breathed his last.[pcms]
 
 
 *237|
 [fc]
-少女の体にも、無数の孔が開き、[r]
-白い夏の制服は、ついに真っ赤になっていた。[pcms]
+The girl's body was also riddled with countless holes, and her white[r]
+summer uniform was now completely red.[pcms]
 
 
 *238|
 ;旧ナンバー[vo_m s="saki0078"]
 [マイク 位置３][vo_mob s="R_saki0079"]
-[ns]沙樹[nse]
-「パパ？　ねえ、パパ？[r]
-　もういっかい、エッチしよお？[r]
-　そのあと、わたがしかって……ね？　パパ……」[pcms]
+[ns]Saki[nse]
+"Papa? Hey, Papa? Let's have sex again? After that, I'll scold[r]
+you...okay? Papa..."[pcms]
 
 ;;//BGMフェードアウト
 [fadeoutbgm time=1000]
@@ -1963,16 +1890,15 @@
 
 *239|
 [fc]
-仲の良い親子の会話とクロスフェードして、[r]
-雄叫びと、自動小銃の射撃音。[r]
-蝉の大合唱と、悲鳴と、車のクラクションに加え――[pcms]
+As the conversation of a close-knit family crossfades, the roar of a[r]
+male, and the sound of an automatic rifle firing. Along with the[r]
+chorus of cicadas, screams, and car horns--[pcms]
 
 
 *240|
 [fc]
-仲の良かった親子を弔う様に、[r]
-湿度の高い空気層に溶けた、[r]
-沢山のうめき声が聞こえだした。[pcms]
+As if mourning the once close-knit family, many groans began to be[r]
+heard, dissolving into the high humidity air.[pcms]
 
 
 *kaisou_end

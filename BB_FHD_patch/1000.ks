@@ -26,7 +26,7 @@
 
 ;	[link target=*syoumen]真正面の建物の方へ[endlink]
 ;	[link target=*glass]ガラス張りの建物の方へ[endlink]
-;	[s]
+;[pcms]
 
 
 *SEL08|真正面の建物の方へ／ガラス張りの建物の方へ
@@ -52,37 +52,36 @@
 
 *3136|
 [fc]
-そうだよ、段々思い出してきた。[r]
-丞実達は合宿で『泊まる場所がある』って、[r]
-言ってたじゃないか。[pcms]
+That's right, I'm starting to remember. Tsugumi and the others said[r]
+they had a place to stay for the training camp, didn't they?[pcms]
 
 
 *3137|
 [fc]
-ガラス張りの建物はきっとプールだろう。[r]
-その隣の小さい建物こそ、合宿所……だと思う。[pcms]
+The building with glass walls must surely be the pool. The small[r]
+building next to it, that must be the lodging for the camp... I think.[pcms]
 
 
 *3138|
 [fc]
-騒ぎがデカくなってきて、[r]
-荷物を取りに戻ったってのは十二分にあり得る話だ。[pcms]
+The commotion is getting louder, and it's entirely possible that they[r]
+went back to get their belongings.[pcms]
 
 
 *3139|
 [fc]
-何よりあっち側はまだ感染者が少なく見える。[pcms]
+Above all, it looks like there are fewer infected on that side.[pcms]
 
 
 *3140|
 [fc]
-[ns]克己[nse]
-「決めた！」[pcms]
+[ns]Kazumi[nse]
+"I've decided!"[pcms]
 
 
 *3141|
 [fc]
-真正面の建物の方だ！[pcms]
+The building right in front of us![pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -95,45 +94,45 @@
 
 *3142|
 [fc]
-[ns]克己[nse]
-「やったら綺麗な入り口……役所みてー……」[pcms]
+[ns]Kazumi[nse]
+"What a beautiful entrance... it looks like a government office..."[pcms]
 
 
 *3143|
 [fc]
-一面ガラス張りで両開きの扉の取っ手を引くと、[r]
-少しの抵抗のあと、何事も無かったかのように開き出す。[pcms]
+When I pull the handles of the double doors made entirely of glass,[r]
+they open as if nothing was wrong after a bit of resistance.[pcms]
 
 
 *3144|
 [fc]
-特に鍵が掛かったりしている訳じゃなさそうだ。[pcms]
+It doesn't seem like they're locked or anything.[pcms]
 
 
 *3145|
 [fc]
-とはいえ、何の心構えもなく突っ込んで、[r]
-中が感染者の群れだったりしたら嫌だ。[pcms]
+However, it would be bad if I rushed in without any preparation and[r]
+found myself in the midst of a horde of infected.[pcms]
 
 
 *3146|
 [fc]
-[ns]克己[nse]
-「はろー！　はろーぉー？」[pcms]
+[ns]Kazumi[nse]
+"Hello! Anybody there?"[pcms]
 
 
 *3147|
 [fc]
-中を覗きながら、誰とも無く声を掛ける。[r]
-だけど、誰かがいるような気配は無かった。[pcms]
+I call out to no one in particular as I peer inside. But there was no[r]
+sign of anyone being there.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_c3"][ChrSetXY layer=5 x="&sf.std_kanC_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　13　私服３　　
 *3148|
 ;旧ナンバー[vo_m s="pretty_voice0003"]
 [vo_mob s="R_cute0005"]
-[ns]可愛らしい声の女の子[nse]
-「どぉこぉ～？　どこなのぉ～？　お～と～こぉ～」[pcms]
+[ns]A girl with a cute voice[nse]
+"Where are you~? Where is it~? Hey~ boy~"[pcms]
 
 ;;//s:0220の同一台詞をコピペ
 
@@ -144,28 +143,27 @@
 *3149|
 ;旧ナンバー[vo_m s="genki0002"]
 [vo_mob s="R_genki0003"]
-[ns]元気そうな女の子[nse]
-「うずくよぉ……おまんこ、あっつくて、[r]
-　バカになるぅ……んぁあああァ……」[pcms]
+[ns]Energetic Girl[nse]
+"It's throbbing... my pussy is so hot, I'm going stupid... ahhhh!"[pcms]
 
 ;;//s:0220の同一台詞をコピペ
 
 
 *3150|
 [fc]
-[ns]克己[nse]
-「ぎゃ」[pcms]
+[ns]Kazumi[nse]
+"Gyah"[pcms]
 
 
 *3151|
 [fc]
-俺の声に反応しちまったのか。[r]
-このままここで粘ってても仕方ない。[pcms]
+Did my voice trigger a response? There's no point in sticking around[r]
+here.[pcms]
 
 
 *3152|
 [fc]
-鍵も開いている事だし、このまま中に入った方が良さそうだ。[pcms]
+The door is unlocked, so it seems better to go inside.[pcms]
 
 ;;//BGMフェードアウト
 [fadeoutbgm time=1000]
@@ -183,38 +181,38 @@
 
 *3153|
 [fc]
-[ns]克己[nse]
-「水の音……って事は、あっちか！？」[pcms]
+[ns]Kazumi[nse]
+"The sound of water... could it be over there!?"[pcms]
 
 
 *3154|
 [fc]
-幽かに、だけど確かに聞こえる、[r]
-沢山の人が水の中ではしゃいでいる様な音。[pcms]
+Faintly, but surely, I can hear sounds like many people frolicking in[r]
+water.[pcms]
 
 
 *3155|
 [fc]
-きっとあのガラス張りの建物はプールだ！[r]
-丞実は、あの建物の方にいるはずだ！！[pcms]
+That glass building must be the pool! Tsugumi must be in that[r]
+building!![pcms]
 
 
 *3156|
 [fc]
-迷うことはない。[r]
-だって、丞実は水泳部の合宿でここにいるんだから。[pcms]
+There's no hesitation. After all, Tsugumi is here for the swimming[r]
+club's training camp.[pcms]
 
 
 *3157|
 [fc]
-そうと決まれば、あとは簡単だ。[r]
-あの建物の中に入り、あとは静ちゃんを見つけ出すだけ。[pcms]
+Once that's settled, the rest is easy. Just enter that building and[r]
+find Shizuka-chan.[pcms]
 
 
 *3158|
 [fc]
-[ns]克己[nse]
-「いくぜぇっ！！」[pcms]
+[ns]Kazumi[nse]
+"Let's go!!"[pcms]
 
 [se buf1 storage="seA050"]
 ;;//♪SE走り去る足音
@@ -231,54 +229,53 @@
 
 *3159|
 [fc]
-無我夢中でガラスの建物にかけより、[r]
-警戒を緩める事なく扉の前に立ち、息を殺したまま、[r]
-扉に耳を押し当て、中の様子を探ることにした。[pcms]
+In a frenzy, I rush towards the glass building, stand in front of the[r]
+door without letting my guard down, hold my breath, press my ear[r]
+against the door, and try to discern what's happening inside.[pcms]
 
 
 *3160|
 ;旧ナンバー[vo_m s="girlA0015"]
 [vo_mob s="R_girlA0014"]
-[ns]女の子Ａ[nse]
-「あはは……きゃー！」[pcms]
+[ns]Girl A[nse]
+"Ahaha... kyaa!"[pcms]
 
 
 *3161|
 ;旧ナンバー[vo_m s="girlB0004"]
 [vo_mob s="R_girlB0006"]
-[ns]女の子Ｂ[nse]
-「やだぁ！　あははっ！」[pcms]
+[ns]Girl B[nse]
+"No way! Ahaha!"[pcms]
 
 
 *3162|
 [fc]
-[ns]克己[nse]
-「……え……？　なに、すっげー平和そうな声……。[r]
-　中は何ともないの？　マジで……？」[pcms]
+[ns]Kazumi[nse]
+"...eh...? What's with those incredibly peaceful voices... Is[r]
+everything really okay inside? Seriously...?"[pcms]
 
 
 *3163|
 [fc]
-中の様子はわからないけど、[r]
-女の子がはしゃぐ声が聞こえる。[pcms]
+I can't see inside, but I can hear the voices of girls having fun.[pcms]
 
 
 *3164|
 [fc]
-もしかしたら、外の状況に気が付いてないのか……？[r]
-だとしたら、教えてやらないと中の子が危ない。[pcms]
+Maybe they haven't noticed what's going on outside...? If that's the[r]
+case, I have to tell them or the kids inside could be in danger.[pcms]
 
 
 *3165|
 [fc]
-それにここはプールみたいだ。[r]
-さっきの声は、丞実かもしれない！[pcms]
+Plus, this place seems like a pool. That voice from earlier could be[r]
+Tsugumi![pcms]
 
 
 *3166|
 [fc]
-俺は、中の様子を伺おうと扉に近づき、[r]
-耳を押し当てようとした。[pcms]
+I approach the door to check inside and try to press my ear against[r]
+it.[pcms]
 
 [旧quake_bg xy m]
 ;;//s:ＳＥ　壁ドン
@@ -288,89 +285,85 @@
 
 *3167|
 [fc]
-[ns]克己[nse]
-「おひゃぁああぁあ！？」[pcms]
+[ns]Kazumi[nse]
+"Ohyaahhh?!"[pcms]
 
 
 *3168|
 [fc]
-やっ……やべぇ！[r]
-うっかり叫んじまった！！！[pcms]
+Damn... damn it! I accidentally shouted!!![pcms]
 
 
 *3169|
 [fc]
-油断した所に壁ドンとか！[r]
-心臓が飛び出して死ぬだろ！[pcms]
+A wall slam when I'm off guard! My heart could leap out and kill me![pcms]
 
 
 *3170|
 [fc]
-っつ～か……。[pcms]
+Or rather...[pcms]
 
 
 *3171|
 [fc]
-俺じゃなくても、きっと飛び上がって驚いてるとは思うけど、[r]
-今この状況では非常にマズい。[r]
-感染者が近寄ってきてしまうかも知れない。[pcms]
+Even if it wasn't me, I think anyone would jump and be startled, but[r]
+in this situation, it's extremely bad. Infected could come closer.[pcms]
 
 
 *3172|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *3173|
 [fc]
-あたりの様子を伺ったけど、幸いな事に、[r]
-さっきの声は聞かれて居なかったみたいで、[r]
-誰かが近寄ってくる様子は無かった。[pcms]
+I check around and fortunately, it seems like my earlier shout wasn't[r]
+heard, and there's no sign of anyone approaching.[pcms]
 
 
 *3174|
 [fc]
-[ns]克己[nse]
-「よかった……ヘンな声上げちゃってたし、[r]
-　見つかってたら、色々こまる……ん？[r]
-　あ、あれっ！？　丞実！？」[pcms]
+[ns]Kazumi[nse]
+"Thank goodness... It would've been trouble if I was found out after[r]
+making such a weird noise... Huh? Oh, what!? Tsugumi!?"[pcms]
 
 
 *3175|
 [fc]
-この建物の斜め向かい……あれは、本校舎か？[r]
-その二階の窓の所に、丞実の姿が見えた。[pcms]
+Diagonally across from this building... is that the main school[r]
+building? I can see Tsugumi's figure by the window on the second[r]
+floor.[pcms]
 
 
 *3176|
 [fc]
-丞実は、どうやら俺には気が付いていないみたいで、[r]
-恐る恐ると言った様子で校庭を見回していた。[pcms]
+It seems Tsugumi hasn't noticed me, she's cautiously looking around[r]
+the schoolyard.[pcms]
 
 
 *3177|
 [fc]
-[ns]克己[nse]
-「どうする……ここから叫ぶ訳にもいかないし……。[r]
-　あ……引っ込んだ」[pcms]
+[ns]Kazumi[nse]
+"What to do... I can't just shout from here... Ah... she went back[r]
+inside."[pcms]
 
 
 *3178|
 [fc]
-そうこうしているウチに、[r]
-丞実の姿は窓の奥に引っ込んでしまった。[pcms]
+While I was hesitating, Tsugumi's figure disappeared back beyond the[r]
+window.[pcms]
 
 
 *3179|
 [fc]
-あの真下までいって叫べば、気が付くか。[pcms]
+If I go right below that spot and shout, will she notice?[pcms]
 
 
 *3180|
 [fc]
-[ns]克己[nse]
-「よし、そうと決まれば早速……」[pcms]
+[ns]Kazumi[nse]
+"Alright, if that's settled, let's get moving..."[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -382,60 +375,56 @@
 
 *3181|
 [fc]
-[ns]克己[nse]
-「確かこの辺だよな……せーの……。[r]
-　おーい！　丞実ー！！！　勇者が到着したぞっ！！[r]
-　出てこい！　丞実イィィィ！！」[pcms]
+[ns]Kazumi[nse]
+"It should be around here... ready, set... Hey! Tsugumi-!!! The hero[r]
+has arrived!! Come out! Tsugumiiii!!"[pcms]
 
 
 *3182|
 [fc]
-…………。[r]
-……。[pcms]
+...[pcms]
 
 
 *3183|
 [fc]
-なんだアイツ、聞こえてないのか？[pcms]
+What's with her, can't she hear me?[pcms]
 
 
 *3184|
 [fc]
-あんまり叫ぶと、感染者どもが寄ってきちゃいそうだけど……。[r]
-四の五の言ってらんねえか。[pcms]
+If I shout too much, the infected might start coming... but I can't be[r]
+concerned about that now.[pcms]
 
 
 *3185|
 [fc]
-これ以上グダグダしていても仕方ないと、[r]
-息を大きく吸い込み、口に手を添え、[r]
-二階の丞実に向かってありったけの声で叫んだ。[pcms]
+Taking a deep breath and cupping my hands to my mouth, I shouted at[r]
+the top of my lungs towards Tsugumi on the second floor.[pcms]
 
 
 *3186|
 [fc]
-[ns]克己[nse]
-「おーい！！　つっぐっみ～！！！[r]
-　こっちだ、こっち！！　オオォォオイ！！」[pcms]
+[ns]Kazumi[nse]
+"Hey!! Tsugumiii!!! Over here, this way!! Ooooi!!"[pcms]
 
 
 *3187|
 [fc]
-その声は学園の壁にぶつかり、[r]
-幾重にもなった俺の声が、辺り中を駆け巡る。[pcms]
+My voice hit the walls of the academy, and my amplified voice echoed[r]
+all around.[pcms]
 
 
 *3188|
 [fc]
-[ns]克己[nse]
-「うわっ……しまった、気合い入れすぎた！[r]
-　感染者集まってきちまう……！」[pcms]
+[ns]Kazumi[nse]
+"Whoa... crap, I put too much spirit into it! The infected are going[r]
+to gather...!"[pcms]
 
 
 *3189|
 [fc]
-自分でも驚く程の声量を出してしまい、[r]
-慌てて壁の近くにしゃがみ込み、身を隠した。[pcms]
+In surprise at my own volume, I quickly crouched down near a wall to[r]
+hide.[pcms]
 
 [se buf1 storage="seB014"]
 ;;//♪SE人間が倒れる音
@@ -447,54 +436,50 @@
 
 *3190|
 [fc]
-すると、頭の上に何かが落ちて、[r]
-視界を遮った。[pcms]
+Then something fell on top of me, obstructing my view.[pcms]
 
 
 *3191|
 [fc]
-[ns]克己[nse]
-「うっ……うわああっ！！　ごっ、ごめんなさい！！[r]
-　離して！　俺はまだ死にたくないぃいいっ！！」[pcms]
+[ns]Kazumi[nse]
+"Ugh... uwaahhh!! Sorry, sorry!! Let go! I don't want to die yetttt!!"[pcms]
 
 
 *3192|
 [fc]
-感染者が飛びかかってきたんだ！[r]
-くそっ……あんな声で叫んだばっかりに……。[pcms]
+An infected has jumped on me! Damn it... all because I shouted with[r]
+such a loud voice...[pcms]
 
 
 *3193|
 [fc]
-[ns]克己[nse]
-「すまん、丞実……アニキはココで終わりかも知れ……」[pcms]
+[ns]Kazumi[nse]
+"Sorry, Tsugumi... looks like this is the end for your brother..."[pcms]
 
 
 *3194|
 ;旧ナンバー[vo_t s="tugumi0161"]
 [vo_t s="R_tug0163"]
-[ns]丞実[nse]
-「ちょっと、うるさい！[r]
-　あんまりデカい声出さないでよ……」[pcms]
+[ns]Tsugumi[nse]
+"Hey, keep it down! Don't make such a loud noise..."[pcms]
 
 
 *3195|
 [fc]
-[ns]克己[nse]
-「え……」[pcms]
+[ns]Kazumi[nse]
+"Eh..."[pcms]
 
 
 *3196|
 [fc]
-聞き覚えのある声……。[r]
-というか、呼ぼうとした相手の声が、[r]
-頭の上から聞こえてくる。[pcms]
+A familiar voice... In fact, it's the voice of the person I was trying[r]
+to call, coming from above my head.[pcms]
 
 
 *3197|
 [fc]
-慌てて、体を覆い隠していた物体を払いのけ、[r]
-声の方向に顔を向ける。[pcms]
+In a panic, I brushed off whatever was covering me and looked in the[r]
+direction of the voice.[pcms]
 
 ;;//s:立ち背景と立ちキャラ表示
 ;;//★合宿所外観・朝昼
@@ -505,33 +490,31 @@
 *3198|
 ;旧ナンバー[vo_t s="tugumi0162"]
 [vo_t s="R_tug0164"]
-[ns]丞実[nse]
-「兄ちゃん、大声出しちゃダメ！[r]
-　あいつらが来ちゃうよ！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother, you can't shout like that! They'll come for us!"[pcms]
 
 
 *3199|
 [fc]
-目の前には、何故か怒り顔の丞実が立っている。[pcms]
+In front of me stood Tsugumi, inexplicably with an angry expression.[pcms]
 
 
 *3200|
 [fc]
-一体どこから……。[r]
-あ、そうか、上から降ってきたのか！？[r]
-それはそうと、無事で良かった……。[pcms]
+How did she get here... Ah, I see, she came down from above! More[r]
+importantly, thank goodness she's safe...[pcms]
 
 
 *3201|
 [fc]
-[ns]克己[nse]
-「丞実！　丞実ぃぃいぃ！！」[pcms]
+[ns]Kazumi[nse]
+"Tsugumi! Tsugumiiii!!"[pcms]
 
 
 *3202|
 [fc]
-今までの努力が一気に報われたような気がして、[r]
-俺は手を広げ、丞実の体に飛びかかろうとした。[pcms]
+Feeling as if all my efforts had finally paid off, I spread my arms[r]
+wide and was about to leap towards Tsugumi.[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug06"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
@@ -539,44 +522,42 @@
 *3203|
 ;旧ナンバー[vo_t s="tugumi0163"]
 [vo_t s="R_tug0165"]
-[ns]丞実[nse]
-「叫ぶなって！　ブッ殺すぞ！」[pcms]
+[ns]Tsugumi[nse]
+"I said don't shout! I'll kill you!"[pcms]
 
 
 *3204|
 [fc]
-真剣そのものの丞実の鋭い目が、[r]
-俺の体を凍り付かせた。[pcms]
+Tsugumi's serious gaze froze me in place.[pcms]
 
 
 *3205|
 [fc]
-[ns]克己[nse]
-「ひぃ！」[pcms]
+[ns]Kazumi[nse]
+"Eek!"[pcms]
 
 
 *3206|
 [fc]
-これ以上叫んだり抱きついたりしたら、[r]
-本当に殺されてしまう。[pcms]
+If I shout or hug her now, she might really kill me.[pcms]
 
 
 *3207|
 [fc]
-落ち着け、俺……。[pcms]
+Calm down, me...[pcms]
 
 
 *3208|
 [fc]
-[ns]克己[nse]
-「それにしても、なんで空から降ってきてんの」[pcms]
+[ns]Kazumi[nse]
+"But seriously, why did you come down from the sky?"[pcms]
 
 
 *3209|
 [fc]
-飛びかかろうとした体を全力で制止し、[r]
-道頓堀にある有名な看板の人物と同じポーズのまま、[r]
-丞実に質問する。[pcms]
+I stopped myself from leaping at her with all my might and,[r]
+maintaining the same pose as a famous signboard character in[r]
+Dotonbori, I asked Tsugumi.[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug02"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
@@ -584,54 +565,56 @@
 *3210|
 ;旧ナンバー[vo_t s="tugumi0164"]
 [vo_t s="R_tug0166"]
-[ns]丞実[nse]
-「何って、カーテンでロープ作って降りてきたんだよ。[r]
-　そしたら兄ちゃん、バカみたいな声で叫んでるし。[r]
-　驚いたわ……で、いつまでそのポーズしてんの」[pcms]
+[ns]Tsugumi[nse]
+"Why? I made a rope out of curtains and climbed down. Then there you[r]
+were, big brother, shouting like an idiot. It startled me... So how[r]
+long are you going to stay in that pose?"[pcms]
 
 
 *3211|
 [fc]
-感染者に襲われて、怪我なんかしてたらいけないと、[r]
-丞実の体を下から上まで観察する――[pcms]
+Worried that she might have been attacked by the infected and gotten[r]
+hurt, I scanned Tsugumi's body from bottom to top--[pcms]
 
 
 *3212|
 [fc]
-何故か丞実は、ジャージの下を穿いておらず、[r]
-日焼けした健康的な足や、白い布が見え隠れしていた。[pcms]
+For some reason, Tsugumi wasn't wearing anything under her jersey, and[r]
+her sun-tanned healthy legs and a glimpse of white fabric were peeking[r]
+out.[pcms]
 
 
 *3213|
 [fc]
-[ns]克己[nse]
-「あ、ああ……まあ、このポーズはいいんだ。[r]
-　それよりお前、パンツ丸出し？」[pcms]
+[ns]Kazumi[nse]
+"Ah, ah... well, this pose is fine. More importantly, are you exposing[r]
+your panties?"[pcms]
 
 
 *3214|
 [fc]
-よく見たら、降りてくる時に巻き付けていたらしいカーテンが、[r]
-太ももの肉に食い込み、ぷにっとしていて妙にエロい。[pcms]
+Upon closer inspection, it seemed that the curtain she had wrapped[r]
+around herself while descending had dug into her thigh flesh, creating[r]
+a strangely erotic bulge.[pcms]
 
 
 *3215|
 [fc]
-……じゃなくて。[r]
-白いパンツだと思っていたものは、水着だった。[pcms]
+...not that. What I thought were white panties turned out to be a[r]
+swimsuit.[pcms]
 
 
 *3216|
 [fc]
-[ns]克己[nse]
-「パンツじゃないから恥ずかしくないモン！　ってやつ？[r]
-　でも、ケッツとか……結構……ごくっ……」[pcms]
+[ns]Kazumi[nse]
+"So it's not embarrassing because it's not panties, huh? But your butt[r]
+is... quite... gulp..."[pcms]
 
 
 *3217|
 [fc]
-こう、妹だと解っていてもコレは刺激的だ。[r]
-思わず息子が反応してしまいそうで、腰を引いた。[pcms]
+Even knowing she's my sister, this is still stimulating. I almost felt[r]
+my son down there reacting, so I pulled my hips back.[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug14"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
@@ -639,15 +622,15 @@
 *3218|
 ;旧ナンバー[vo_t s="tugumi0165"]
 [vo_t s="R_tug0167"]
-[ns]丞実[nse]
-「……何妹に欲情してんの……ホントバカだね。[r]
-　引くわ……」[pcms]
+[ns]Tsugumi[nse]
+"...Why are you getting turned on by your sister... You're really an[r]
+idiot. That's disgusting..."[pcms]
 
 
 *3219|
 [fc]
-[ns]克己[nse]
-「はっ……！　す、スンマセンでしたッ！」[pcms]
+[ns]Kazumi[nse]
+"Ah...! S-Sorry!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug02"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
@@ -655,9 +638,9 @@
 *3220|
 ;旧ナンバー[vo_t s="tugumi0166"]
 [vo_t s="R_tug0168"]
-[ns]丞実[nse]
-「いやもう良いから……それより兄ちゃん、[r]
-　あいつらが来ちゃうよ！　早く移動しよう！」[pcms]
+[ns]Tsugumi[nse]
+"No, it's fine now... But big brother, they're coming! Let's move[r]
+quickly!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug11"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
@@ -665,20 +648,20 @@
 *3221|
 ;旧ナンバー[vo_t s="tugumi0167"]
 [vo_t s="R_tug0169"]
-[ns]丞実[nse]
-「あっ……痛っ……足捻っちゃったかな……イテテ……」[pcms]
+[ns]Tsugumi[nse]
+"Ah... Ouch... Maybe I twisted my ankle... Owie..."[pcms]
 
 
 *3222|
 [fc]
-場所を変えようと言った丞実は、[r]
-足首をかかえてしゃがみ込んでしまった。[pcms]
+As Tsugumi suggested moving to another location, she crouched down,[r]
+holding her ankle.[pcms]
 
 
 *3223|
 [fc]
-[ns]克己[nse]
-「お、おい、大丈夫か！？」[pcms]
+[ns]Kazumi[nse]
+"Hey, are you okay!?"[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c rl time=301][hide_chara_int]
@@ -696,21 +679,19 @@
 *3224|
 ;旧ナンバー[vo_m s="kansenA0001"]
 [vo_mob s="R_kanA0001"]
-[ns]感染者女Ａ[nse]
-「きゃはっははっはっはははは！！[r]
-　な、なんか、おとこの、においがするうううぅ！！[r]
-　どこ！？　どこぉおぉっ！？」[pcms]
+[ns]Infected Woman A[nse]
+"Kyahaha! I smell a man somewhere! Where is it? Whereeee!?"[pcms]
 
 
 *3225|
 [fc]
-すぐ近くまで、感染者が迫っている。[r]
-このままだと、二人とも捕まっちまう。[pcms]
+The infected are closing in on us. If we stay here, we'll both be[r]
+caught.[pcms]
 
 
 *3226|
 [fc]
-こうなったら……。[pcms]
+In that case...[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c rl time=301][hide_chara_int]
@@ -720,14 +701,15 @@
 
 *3227|
 [fc]
-[ns]克己[nse]
-「おい！　丞実、掴まれ！！」[pcms]
+[ns]Kazumi[nse]
+"Hey! Tsugumi, hold on to me!"[pcms]
 
 
 *3228|
 [fc]
-俺は、丞実の腰に手を回して抱きかかえると、[r]
-感染者の声がした方と逆に向かい地面を蹴った。[pcms]
+I wrapped my arms around Tsugumi's waist and lifted her up, then[r]
+kicked off the ground in the opposite direction of the infected[r]
+woman's voice.[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c tb time=500][hide_chara_int]
@@ -740,218 +722,213 @@
 *3229|
 ;旧ナンバー[vo_t s="tugumi0168"]
 [vo_t s="R_tug0170"]
-[ns]丞実[nse]
-「え……？　きゃあっ！！」[pcms]
+[ns]Tsugumi[nse]
+"Eh...? Kyaa!!"[pcms]
 
 
 *3230|
 [fc]
-[ns]克己[nse]
-「走れないんじゃ、こうするしかないだろ！[r]
-　ちょっと我慢しろッ！」[pcms]
+[ns]Kazumi[nse]
+"If you can't run, this is the only way! Just bear with it!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug09"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *3231|
 ;旧ナンバー[vo_t s="tugumi0169"]
 [vo_t s="R_tug0171"]
-[ns]丞実[nse]
-「ち、ちょっと！　下ろして……大丈夫だから……。[r]
-　こら、どさくさ紛れにヘンな所さわんな！！」[pcms]
+[ns]Tsugumi[nse]
+"Wait! Put me down... I'm fine... Hey, don't touch weird places in the[r]
+confusion!!"[pcms]
 
 
 *3232|
 [fc]
-[ns]克己[nse]
-「今はそんな事言ってる場合じゃねえだろ！[r]
-　せっかく助けに来てやってんのに、何だその言いぐさ！[r]
-　大変な思いして来たってのに……ちょっとは感謝しろ！」[pcms]
+[ns]Kazumi[nse]
+"Now's not the time to be saying that! I came all this way to save[r]
+you, and that's how you talk to me? After all the trouble I went[r]
+through... Show some gratitude!"[pcms]
 
 
 *3233|
 [fc]
-かわいげの無いヤツ……。[r]
-でも、あんがい腰も細いし、尻も柔らかいし、[r]
-良い匂いするし……それに、何気に胸デケーんだなコイツ……。[pcms]
+She's so ungrateful... But her waist is surprisingly slender, her ass[r]
+is soft, she smells nice... and she's got bigger breasts than I[r]
+thought...[pcms]
 
 
 *3234|
 [fc]
-じゃなくて！[pcms]
+Not that![pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug07"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *3235|
 ;旧ナンバー[vo_t s="tugumi0170"]
 [vo_t s="R_tug0172"]
-[ns]丞実[nse]
-「いや、そうなんだけど……なんでこんなところに来てんの！」[pcms]
+[ns]Tsugumi[nse]
+"Yeah, but why did you come to such a place!"[pcms]
 
 
 *3236|
 [fc]
-[ns]克己[nse]
-「何でもクソもあるか！[r]
-　ココに来るまでどれだけ犠牲を払ったか！[r]
-　変な奴らがうろちょろしてるし、危ない目に遭うし！」[pcms]
+[ns]Kazumi[nse]
+"Like hell I know! Do you have any idea what sacrifices I made to get[r]
+here? There are weirdos wandering around, and I've been in danger!"[pcms]
 
 
 *3237|
 [fc]
-[ns]克己[nse]
-「何より、大切にしてた赤兎……あれ、ブッ壊れたんだぞ！？[r]
-　俺の唯一の交通手段！　五万円もしたっつのに！！[r]
-　まあ、お前と合流できたからいいけどさ！」[pcms]
+[ns]Kazumi[nse]
+"Above all, my precious Red Hare... it got destroyed! My only means of[r]
+transportation! It cost me fifty thousand yen!! Well, it's fine since[r]
+I was able to meet up with you!"[pcms]
 
 
 *3238|
 ;旧ナンバー[vo_t s="tugumi0171"]
 [vo_t s="R_tug0173"]
-[ns]丞実[nse]
-「え……？」[pcms]
+[ns]Tsugumi[nse]
+"Eh...?"[pcms]
 
 
 *3239|
 [fc]
-[ns]克己[nse]
-「え、じゃないの。[r]
-　ワタクシ様は、お前を助けに来たんだっての！[r]
-　だから、感謝しろっつってんだよ！」[pcms]
+[ns]Kazumi[nse]
+"Not 'eh'. I came here to save you! So show some gratitude!"[pcms]
 
 
 *3240|
 ;旧ナンバー[vo_t s="tugumi0172"]
 [vo_t s="R_tug0174"]
-[ns]丞実[nse]
-「…………」[pcms]
+[ns]Tsugumi[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *3241|
 [fc]
-抱きかかえられた丞実の目がまん丸に見開かれ、[r]
-頬を赤く染めて、それきり黙り込んでしまった。[pcms]
+As I held her in my arms, Tsugumi's eyes went wide and she blushed,[r]
+then fell silent.[pcms]
 
 
 *3242|
 [fc]
-[ns]克己[nse]
-「どうした？　足、痛むか……？」[pcms]
+[ns]Kazumi[nse]
+"What's wrong? Does your foot hurt...?"[pcms]
 
 
 *3243|
 [fc]
-しまった、ちょっと強引だったかな。[r]
-もう少しゆっくり走った方が良かったか……。[pcms]
+Damn, was I too forceful? Maybe I should have run a bit more gently...[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug10"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *3244|
 ;旧ナンバー[vo_t s="tugumi0173"]
 [vo_t s="R_tug0175"]
-[ns]丞実[nse]
-「……がとう……」[pcms]
+[ns]Tsugumi[nse]
+"...thank you..."[pcms]
 
 ;;//s:ありがとう、と言おうとしているが照れて途切れ途切れ
 
 
 *3245|
 [fc]
-[ns]克己[nse]
-「へ……？」[pcms]
+[ns]Kazumi[nse]
+"Huh...?"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug09"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *3246|
 ;旧ナンバー[vo_t s="tugumi0174"]
 [vo_t s="R_tug0176"]
-[ns]丞実[nse]
-「だから……あり……う……って……」[pcms]
+[ns]Tsugumi[nse]
+"That's why... thank you... I'm saying..."[pcms]
 
 ;;//s:ありがとう、と言おうとしているが照れて途切れ途切れ
 
 
 *3247|
 [fc]
-……ふん、ちゃんと感謝の言葉言えるんじゃん。[r]
-顔が真っ赤なのは、プライドが邪魔してるってやつ？[pcms]
+...Hmph, so she can say words of gratitude after all. Is her face all[r]
+red because her pride is getting in the way?[pcms]
 
 
 *3248|
 [fc]
-おもしろいから、少しからかってやろうかな。[pcms]
+It's amusing, so maybe I'll tease her a little.[pcms]
 
 
 *3249|
 [fc]
-[ns]克己[nse]
-「なんだよ、聞こえないぞ？[r]
-　何言おうとしてるんだ？　なあ、丞実？」[pcms]
+[ns]Kazumi[nse]
+"What's that? I can't hear you. What are you trying to say? Right,[r]
+Tsugumi?"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug10"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *3250|
 ;旧ナンバー[vo_t s="tugumi0175"]
 [vo_t s="R_tug0177"]
-[ns]丞実[nse]
-「う……」[pcms]
+[ns]Tsugumi[nse]
+"Ugh..."[pcms]
 
 
 *3251|
 [fc]
-丞実の顔は、耳まで真っ赤になっている。[r]
-よっぽど俺にお礼を言うのが恥ずかしいのかな。[pcms]
+Tsugumi's face is now red all the way to her ears. She must be really[r]
+embarrassed to thank me.[pcms]
 
 
 *3252|
 [fc]
-[ns]克己[nse]
-「なんだ、ションベンでも我慢してんのか？[r]
-　なあ、丞実さん？」[pcms]
+[ns]Kazumi[nse]
+"What's the matter, holding in a pee or something? Right, Miss[r]
+Tsugumi?"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug09"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *3253|
 ;旧ナンバー[vo_t s="tugumi0176"]
 [vo_t s="R_tug0178"]
-[ns]丞実[nse]
-「ち、違うって！　ありがとうって言ってんの……バカ！」[pcms]
+[ns]Tsugumi[nse]
+"No, that's not it! I'm saying thank you... Idiot!"[pcms]
 
 
 *3254|
 [fc]
-[ns]克己[nse]
-「あはは、ちゃんと言えるんじゃん」[pcms]
+[ns]Kazumi[nse]
+"Ahaha, there you go. You can say it after all."[pcms]
 
 
 *3255|
 [fc]
-抱きかかえられたまま、子供のように頬を膨らませ、[r]
-怒る丞実の顔と逆に、俺の顔はほころんでいく。[pcms]
+While being held in his arms, Tsugumi puffs up her cheeks like a child[r]
+and gets angry, but in contrast, my face breaks into a smile.[pcms]
 
 
 *3256|
 [fc]
-なんだか、小さい頃に戻ったみたいだ。[r]
-でも、今は浸ってる場合じゃない。[pcms]
+It feels like we've gone back to our childhood days. But now's not the[r]
+time to be immersed in nostalgia.[pcms]
 
 
 *3257|
 [fc]
-[ns]克己[nse]
-「まあ、なんだ……感謝して貰いたいから来たんじゃない。[r]
-　お前とこれから先も、こうして言い合うためだ。[r]
-　だから、安心するのはまだ早い」[pcms]
+[ns]Kazumi[nse]
+"Well, you know... I didn't come here just to be thanked. I came[r]
+because I want to keep arguing with you like this in the future. So[r]
+don't think you can relax just yet."[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug08"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *3258|
 ;旧ナンバー[vo_t s="tugumi0177"]
 [vo_t s="R_tug0179"]
-[ns]丞実[nse]
-「何カッコ良いこと言ってんのよ」[pcms]
+[ns]Tsugumi[nse]
+"What are you trying to sound so cool for?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *3259|
 [fc]
-丞実はそれだけ言うと、顔を背けてしまった。[r]
-本当に、子供の頃に戻ったみたいだ。[pcms]
+After saying that, Tsugumi turns her face away. It really does feel[r]
+like we've gone back to our childhood.[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -963,24 +940,23 @@
 *3260|
 ;旧ナンバー[vo_m s="kansenA0002"]
 [vo_mob s="R_kanA0002"]
-[ns]感染者女Ａ[nse]
-「きゃはっははっはっはははは！！[r]
-　あ゛――あ――っ……！　やだぁあ！[r]
-　もう、ぐしょぐしょだよぉ……だれかぁぁ！！　いれてぇぇ！」[pcms]
+[ns]Infected Woman A[nse]
+"Kyahahahahaha!! Ah--ah--! Nooo! I'm all wet... Someone, please! Put[r]
+it in me!"[pcms]
 
 
 *3261|
 ;旧ナンバー[vo_m s="kansenB0001"]
 [vo_mob s="R_kanB0001"]
-[ns]感染者女Ｂ[nse]
-「こっち、こっちに、おとこがいるよお！[r]
-　みんなぁ、おとこ、こっち！！　こっちぃいいっ！！」[pcms]
+[ns]Infected Woman B[nse]
+"Over here, over here, there's a man! Everyone, a man, over here!![r]
+This wayyy!!"[pcms]
 
 
 *3262|
 [fc]
-[ns]克己[nse]
-「うわ……やべえ！」[pcms]
+[ns]Kazumi[nse]
+"Whoa... this is bad!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_c4"][ChrSetXY layer=5 x="&sf.std_kanC_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　14　制服４　　
@@ -992,14 +968,13 @@
 
 *3263|
 [fc]
-俺らの声につられてか、[r]
-周囲を取り囲むように感染者達が集まりだしている。[r]
-しかも、妙に数が増えているようにも見える。[pcms]
+Perhaps attracted by our voices, the infected are starting to gather[r]
+around us. And it seems like their numbers are oddly increasing.[pcms]
 
 
 *3264|
 [fc]
-丞実を抱えたまま、このピンチを切り抜けることは――[pcms]
+Getting out of this pinch while still holding Tsugumi--[pcms]
 
 [chara_int][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug09"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
@@ -1008,8 +983,8 @@
 *3265|
 ;旧ナンバー[vo_t s="tugumi0178"]
 [vo_t s="R_tug0180"]
-[ns]丞実[nse]
-「離して、兄ちゃん！　もう大丈夫だから！」[pcms]
+[ns]Tsugumi[nse]
+"Let go, big brother! I'm fine now!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug11"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
@@ -1017,14 +992,14 @@
 *3266|
 ;旧ナンバー[vo_t s="tugumi0179"]
 [vo_t s="R_tug0181"]
-[ns]丞実[nse]
-「……ッ……！　ううっ……」[pcms]
+[ns]Tsugumi[nse]
+"...Hngh... Ugh..."[pcms]
 
 
 *3267|
 [fc]
-[ns]克己[nse]
-「お、おい！　無理すんなっ！！」[pcms]
+[ns]Kazumi[nse]
+"Hey! Don't push yourself!!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug09"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
@@ -1032,21 +1007,21 @@
 *3268|
 ;旧ナンバー[vo_t s="tugumi0180"]
 [vo_t s="R_tug0182"]
-[ns]丞実[nse]
-「無理しないと、ココから逃げられないでしょ！[r]
-　合宿所！　合宿所に行くよ！！[r]
-　あそこには誰かがいるの！」[pcms]
+[ns]Tsugumi[nse]
+"If I don't push myself, we won't be able to escape from here! To the[r]
+training camp! We're going to the training camp!! Someone has to be[r]
+there!"[pcms]
 
 
 *3269|
 [fc]
-丞実がやせ我慢しているってのは、バレバレだ。[pcms]
+It's obvious that Tsugumi is putting on a brave front.[pcms]
 
 
 *3270|
 [fc]
-とはいえ、抱えたままより楽だし、[r]
-何より奴らが襲いかかってきたら丞実を守る為に戦えば良い。[pcms]
+But it's easier than carrying her, and more importantly, if they[r]
+attack, I can fight to protect Tsugumi.[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug06"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
@@ -1054,20 +1029,20 @@
 *3271|
 ;旧ナンバー[vo_t s="tugumi0181"]
 [vo_t s="R_tug0183"]
-[ns]丞実[nse]
-「付いてきて、兄ちゃん！」[pcms]
+[ns]Tsugumi[nse]
+"Follow me, big brother!"[pcms]
 
 
 *3272|
 [fc]
-[ns]克己[nse]
-「おう！」[pcms]
+[ns]Kazumi[nse]
+"Yeah!"[pcms]
 
 
 *3273|
 [fc]
-片足を引きずりながら走る丞実の背中を見つめながら、[r]
-地面を強く蹴り飛ばした。[pcms]
+While watching Tsugumi's back as she runs with a limp, I kick off the[r]
+ground forcefully.[pcms]
 
 [se buf1 storage="seA052"]
 ;;//♪SE複数人の走る足音

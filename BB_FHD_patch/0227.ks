@@ -4,11 +4,11 @@
 ;;//背景：民家、空、合宿楝内部
 ;;//登場人物:主人公、感染丞実、感染静、感染本間、感染ミキ
 ;;//・視点：主人公一人称
-;;//・時間帯：2010年8月19日　夕方～夜(18時～19時)
+;;//・時間帯：2010年8月19日　夕方夜(18時19時)
 ;;//☆概要：寝過ごした克己。慌てて学園へ。
 ;;//　　　　しかし、時既に遅く、合宿所は全滅。
 ;;//　　　　感染したヒロインたちに襲われてしまう。
-;;//・テキスト容量：7~10k前後（短くてもOK）[pcms]
+7~10k characters (shorter is okay)[pcms]
 
 ;;//●_SE 風鈴の音
 [se buf2 storage="seE013"]
@@ -21,13 +21,14 @@
 
 *2102|
 [fc]
-[ns]克己[nse]
-「ん……」[pcms]
+[ns]Kazumi[nse]
+"Mmm..."[pcms]
 
 
 *2103|
 [fc]
-エアコンが効きすぎて、思わず身震いしてしまう。[pcms]
+The air conditioning was too strong, causing me to shiver[r]
+involuntarily.[pcms]
 
 ;;//s:BG:〆空(夕方)
 ;;//★空・夕方A
@@ -36,8 +37,8 @@
 
 *2104|
 [fc]
-ほんのりと赤みが混じった光が瞼の裏を染め、[r]
-頬をじりじりと照らす。[pcms]
+A faintly reddish light stained the back of my eyelids, and the sun[r]
+scorched my cheeks.[pcms]
 
 ;;//seフェード停止###[stop_se buf1]
 [stopse_fadeout buf2 time=1000]
@@ -49,25 +50,25 @@
 
 *2105|
 [fc]
-[ns]克己[nse]
-「え……！？　え！？　ええぇぇぇ！！！？？[r]
-　何、夕方じゃねえか！！　爆睡してんじゃねえかよ！」[pcms]
+[ns]Kazumi[nse]
+"Eh...!? What!? Whaaat!!!? It's not evening yet!! I've been sleeping[r]
+like a log!"[pcms]
 
 
 *2106|
 [fc]
-なんだよ、何ぐっすりイッてんだよ俺！[pcms]
+What the hell, how deeply did I sleep![pcms]
 
 
 *2107|
 [fc]
-[ns]克己[nse]
-「つっ……丞実ッ！　静ちゃんっ！！」[pcms]
+[ns]Kazumi[nse]
+"Tsu... Tsugumi! Shizuka-chan!!"[pcms]
 
 
 *2108|
 [fc]
-休憩はもう終わりだ！[pcms]
+The break is over![pcms]
 
 ;;//seフェード停止###[stopse_all]
 [stopse_fadeout buf1 time=1000]
@@ -87,54 +88,52 @@
 
 *2109|
 [fc]
-[ns]克己[nse]
-「よっ……と……。[r]
-　まーさか、塀を乗り越えて学園に入るなんてな。[r]
-　まさに非常事態ってやつだな」[pcms]
+[ns]Kazumi[nse]
+"Alright... to think I'd have to climb over the fence to get into the[r]
+school. This is definitely an emergency situation."[pcms]
 
 
 *2110|
 [fc]
-理由は分からないけど、[r]
-昼に比べて、感染者の数は疎らになっていた。[pcms]
+For some reason, there were fewer infected than during the day.[pcms]
 
 
 *2111|
 [fc]
-そのおかげで学園の近くまでは楽に来る事が出来たけど、[r]
-正門も裏口も全部締められていて、結局電信柱をよじ登り、[r]
-塀を跳び越えるなんて形でしか入れなかった。[pcms]
+Thanks to that, it was easy to get near the school, but since both the[r]
+main gate and the back gate were closed, I ended up having to climb a[r]
+utility pole and jump over the fence to get in.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_a5"][ChrSetXY layer=5 x="&sf.std_kanA_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　05　ギャル風１
 *2112|
 ;旧ナンバー[vo_m s="infectionA0001"]
 [vo_mob s="R_onnakanA0001"]
-[ns]女感染者Ａ[nse]
-「あ゛～……ああ゛ァ～～……」[pcms]
+[ns]Female Infected A[nse]
+"Aah~... Aaah~..."[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_c2"][ChrSetXY layer=5 x="&sf.std_kanC_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　12　私服２　　
 *2113|
 ;旧ナンバー[vo_m s="infectionB0001"]
 [vo_mob s="R_onnakanB0001"]
-[ns]女感染者Ｂ[nse]
-「んふ、んふ……んふ……」[pcms]
+[ns]Female Infected B[nse]
+"Nfu, nfu... nfu..."[pcms]
 
 
 *2114|
 [fc]
-[ns]克己[nse]
-「……まだいやがる。ここの生徒だけじゃなさそうだけど、[r]
-　外から紛れ込んだのか？[r]
-　っつーか、俺以外に男はいなそうだな」[pcms]
+[ns]Kazumi[nse]
+"...They're still around. They don't seem to be just students from[r]
+here, did they sneak in from outside? And it looks like there are no[r]
+other guys but me."[pcms]
 
 
 *2115|
 [fc]
-まるでハーレムだと鼻で笑いながら、[r]
-感染者に見つからないように、[r]
-植え込みの陰や木の裏に隠れながら校舎へと向かう。[pcms]
+Laughing through my nose as if it were a harem, I made my way to the[r]
+school building while hiding behind bushes and trees so as not to be[r]
+spotted by the infected.[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -145,45 +144,44 @@
 
 *2116|
 [fc]
-[ns]克己[nse]
-「丞実の言ってた合宿所って、これか？」[pcms]
+[ns]Kazumi[nse]
+"Is this the training camp building Tsugumi mentioned?"[pcms]
 
 
 *2117|
 [fc]
-とはいえ、入り口にはブラインドが下ろされていて、[r]
-ここからでは、中を確認する事は出来ない。[pcms]
+However, the blinds were drawn at the entrance, and from here, I[r]
+couldn't see inside.[pcms]
 
 
 *2118|
 [fc]
-[ns]克己[nse]
-「外から見えないんなら、中に入ればいいだけ……。[r]
-　あれ、開いてる」[pcms]
+[ns]Kazumi[nse]
+"If it's not visible from outside, then I just need to go inside...[r]
+Oh, it's open."[pcms]
 
 
 *2119|
 [fc]
-用心深いのか、そうでもないのか。[r]
-鍵は掛けられていないようだった。[pcms]
+Whether out of caution or not, it seemed that no lock was in place.[pcms]
 
 
 *2120|
 [fc]
-[ns]克己[nse]
-「開いているのなら、入って良いって事だよな」[pcms]
+[ns]Kazumi[nse]
+"If it's open, that means I'm allowed to enter, right?"[pcms]
 
 
 *2121|
 [fc]
-躊躇していても仕方ない。[r]
-外にいたら、感染者達に取り囲まれてしまうかもしれない。[pcms]
+Hesitating won't do any good. If I stay outside, I might get[r]
+surrounded by the infected.[pcms]
 
 
 *2122|
 [fc]
-出来るだけ音をたてないように、そっとドアノブを回し、[r]
-ゆっくりと扉を開いて、建物の中に足を踏み入れた。[pcms]
+Trying not to make any noise, I gently turned the doorknob and slowly[r]
+opened the door, stepping into the building.[pcms]
 
 [se buf1 storage="seA026"]
 ;;//♪SE玄関ドアの開く音
@@ -194,78 +192,78 @@
 
 *2123|
 [fc]
-[ns]克己[nse]
-「……誰かいる？」[pcms]
+[ns]Kazumi[nse]
+"...Is anyone there?"[pcms]
 
 
 *2124|
 [fc]
-日が落ちたとは言え、夏の太陽の光は強烈で、[r]
-少し暗い所に入り込んだとたん、[r]
-周りの景色は全て黒の闇に飲み込まれてしまった。[pcms]
+Even though the sun had set, the summer sunlight was intense, and as[r]
+soon as I stepped into a slightly darker place, all the scenery around[r]
+me was swallowed up by darkness.[pcms]
 
 
 *2125|
 [fc]
-そんな中で聞こえるのは、自分の足音と呼吸音だけ。[r]
-他に誰かがいるような感じはない。[pcms]
+All I could hear in the midst of this were my own footsteps and[r]
+breathing. There didn't seem to be anyone else around.[pcms]
 
 
 *2126|
 [fc]
-[ns]克己[nse]
-「ん……？　何だこの匂い……クッセぇ……げほっ……！」[pcms]
+[ns]Kazumi[nse]
+"Hm...? What's this smell... It stinks... *cough*...!"[pcms]
 
 
 *2127|
 [fc]
-鉄の匂い。[pcms]
+The smell of iron.[pcms]
 
 
 *2128|
 [fc]
-捨てるのを忘れて放置してしまった、[r]
-生ゴミの匂い。[pcms]
+The smell of rotting garbage that had been forgotten and left[r]
+unattended.[pcms]
 
 
 *2129|
 [fc]
-夏の海の家の、便所みたいな匂い。[pcms]
+The smell of a summer beach house's toilet.[pcms]
 
 
 *2130|
 [fc]
-沢山の嫌な匂いが、[r]
-夏の熱気に乗って鼻腔を突き刺した。[pcms]
+All sorts of unpleasant smells assaulted my nostrils on the hot summer[r]
+air.[pcms]
 
 
 *2131|
 [fc]
-[ns]克己[nse]
-「何だよ、何だってんだよ……」[pcms]
+[ns]Kazumi[nse]
+"What the hell, what's going on here..."[pcms]
 
 
 *2132|
 [fc]
-ポケットをまさぐり、[r]
-民家から拝借してきた懐中電灯を取り出す。[pcms]
+I fumbled in my pocket and pulled out a flashlight I had borrowed from[r]
+a house.[pcms]
 
 
 *2133|
 [fc]
-何となく、嫌な予感がする。[pcms]
+I had a bad feeling about this.[pcms]
 
 
 *2134|
 [fc]
-だけど、何故だか見ずにはいられない。[pcms]
+But for some reason, I couldn't help but look.[pcms]
 
 
 *2135|
 [fc]
-暗闇の中、不思議な嫌悪感と奇妙な好奇心が鬩ぎ合い、[r]
-懐中電灯を握る、汗が滲み震える手を、[r]
-進む方向へ突き出し、スイッチを入れた。[pcms]
+In the darkness, a strange sense of revulsion and curiosity clashed[r]
+within me as I pushed my sweaty, trembling hand holding the flashlight[r]
+forward and turned it on.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -283,12 +281,13 @@
 
 *2136|
 [fc]
-一瞬のライトの光が床の低いところに向けた瞬間。[pcms]
+The momentary light of the flashlight was directed towards the lower[r]
+part of the floor.[pcms]
 
 
 *2137|
 [fc]
-沢山の人が、折り重なるように床に倒れ込んでいるのが見えた。[pcms]
+I saw many people collapsed on the floor, piled on top of each other.[pcms]
 
 ;;//m:黒が長いので一応背景いれておく
 ;;//★学園廊下・夕方
@@ -297,210 +296,210 @@
 
 *2138|
 [fc]
-そして――[pcms]
+And then--[pcms]
 
 
 *2139|
 [fc]
-床に倒れ込んでいた人物の見開かれ濁った目が、[r]
-何かを訴えかけるように、俺に向けられているのが、見えた――[pcms]
+The cloudy eyes of the person who had collapsed on the floor were wide[r]
+open and seemed to be pleading with me--[pcms]
 
 
 *2140|
 [fc]
-[ns]克己[nse]
-「うっ……うわぁああぁああぁっ！！！」[pcms]
+[ns]Kazumi[nse]
+"Ugh... Uwaaaahhhhh!!!"[pcms]
 
 
 *2141|
 [fc]
-瞬間。[pcms]
+In an instant.[pcms]
 
 
 *2142|
 [fc]
-俺はこの場に充満した臭いや嫌悪感の理由の全てを理解した。[pcms]
+I understood the reason for all the stench and revulsion that filled[r]
+this place.[pcms]
 
 
 *2143|
 [fc]
-沢山の人が頭から血を流して倒れている。[pcms]
+Many people were lying on the ground, bleeding from their heads.[pcms]
 
 
 *2144|
 [fc]
-頭のてっぺんから目以外全てを覆い隠すように血が流れ、[r]
-顔面を薄黒く染めている。[pcms]
+Blood flowed from the tops of their heads, covering everything but[r]
+their eyes, staining their faces a dark shade.[pcms]
 
 
 *2145|
 [fc]
-その周りは、夥しい量の血で、溜まりが出来ている。[pcms]
+Around them, a vast amount of blood had pooled.[pcms]
 
 
 *2146|
 [fc]
-その中の誰一人として、[r]
-灯りを当てても指一本動かさず、[r]
-どう見ても呼吸もしていない。[pcms]
+Not one of them moved so much as a finger when the light hit them, and[r]
+by all appearances, they weren't breathing either.[pcms]
 
 
 *2147|
 [fc]
-それは、五秒だったかもしれない。[r]
-それとも、１０分だったのかも知れない。[pcms]
+It might have been five seconds, or perhaps it was ten minutes.[pcms]
 
 
 *2148|
 [fc]
-目の前の“それ”が何かと言うことを理解するのに、[r]
-暫くの時間を必要とした。[pcms]
+It took me a while to comprehend what "it" was that lay before my[r]
+eyes.[pcms]
 
 
 *2149|
 [fc]
-そしてそれが脳の神経全てに到達したとき、[r]
-始めて俺の脳は、部屋に立ちこめる臭気に対して、[r]
-拒絶反応を引き起こした。[pcms]
+And when that realization reached every nerve in my brain, for the[r]
+first time, my brain triggered a rejection response to the stench that[r]
+hung in the room.[pcms]
 
 
 *2150|
 [fc]
-[ns]克己[nse]
-「ぐっ……うぷっ……！」[pcms]
+[ns]Kazumi[nse]
+"Ugh...ugh...!"[pcms]
 
 
 *2151|
 [fc]
-クソ暑いなか、ここに“いた”連中が暴れ、[r]
-垂れ流したモノが腐ったんだろう。[pcms]
+In the sweltering heat, whatever "they" had rampaged and left behind[r]
+must have rotted.[pcms]
 
 
 *2152|
 [fc]
-元々、生きていた人の残りのモノが俺の体に入ってきた。[pcms]
+The remnants of what were once living people entered my body.[pcms]
 
 
 *2153|
 [fc]
-そう考えると、胃がひっくり返りそうになる。[pcms]
+Just thinking about it made me feel like my stomach was turning inside[r]
+out.[pcms]
 
 
 *2154|
 [fc]
-[ns]克己[nse]
-「うっ……うぇぇぇえぇっ！！[r]
-　げぇっ！　げほっ！　げぇっ！」[pcms]
+[ns]Kazumi[nse]
+"Ugh...ugh...blegh! Cough! Blegh!"[pcms]
 
 
 *2155|
 [fc]
-さっき飲んだビールに胃液が混ざり、[r]
-体外に飛び出して行くのを、涙の滲んだ目で追いかける。[pcms]
+The beer I had just drunk mixed with stomach acid and flew out of my[r]
+body as I followed it with tear-blurred eyes.[pcms]
 
 
 *2156|
 [fc]
-嫌悪感が加速していく中、[r]
-倒れ込んだ人の一人と、再び目が合った。[pcms]
+As my revulsion accelerated, I once again made eye contact with one of[r]
+the fallen people.[pcms]
 
 
 *2157|
 [fc]
-真っ黒な血に塗れた顔の中に、[r]
-ドロリと濁った赤い瞳が浮かんでいた。[pcms]
+In the midst of a face smeared with pitch-black blood, murky red eyes[r]
+floated drearily.[pcms]
 
 
 *2158|
 [fc]
-[ns]克己[nse]
-「げっ……うううぅっ……こ、コイツら、[r]
-　感染者か……ううっ……げほっ……」[pcms]
+[ns]Kazumi[nse]
+"Gah...uhhh...these guys, infected...ugh...cough..."[pcms]
 
 
 *2159|
 [fc]
-感染者が、どうしてこんな所で死んでんだ？[r]
-誰かヒーローでも現れて、全部倒していったってのか？[pcms]
+Why are the infected dead in a place like this? Did some hero show up[r]
+and take them all down?[pcms]
 
 
 *2160|
 [fc]
-[ns]克己[nse]
-「ぐっ……ぐうっ……まさか、そんな事あるわけないしな」[pcms]
+[ns]Kazumi[nse]
+"Ugh...ugh...no way, that can't be possible."[pcms]
 
 
 *2161|
 [fc]
-俺は、この状況に麻痺したのか、[r]
-次第に冷静さを取り戻しつつあった。[pcms]
+I was becoming numb to the situation, gradually regaining my[r]
+composure.[pcms]
 
 
 *2162|
 [fc]
-床に転がる人達をよく見れば、お互いの体をつかみ合ったり、[r]
-髪の毛を毟り合ったような形跡がある。[pcms]
+If you look closely at the people scattered on the floor, there are[r]
+signs that they were grabbing at each other or pulling out each[r]
+other's hair.[pcms]
 
 
 *2163|
 [fc]
-現実的に考えれば、コイツら同士が争った結果、[r]
-この地獄絵図ができあがった……。[pcms]
+Thinking realistically, it's likely that they fought amongst[r]
+themselves, resulting in this hellish scene...[pcms]
 
 
 *2164|
 [fc]
-それか、ウィルスに完全に冒されてしまったか。[pcms]
+Or perhaps they were completely overtaken by the virus.[pcms]
 
 
 *2165|
 [fc]
-[ns]克己[nse]
-「いずれにしても、ここにじっとしてる訳にはいかないな。[r]
-　クサくてやってらんねぇ……それに、確か……。[r]
-　コイツらの体液に触ったら、俺も感染しちまう」[pcms]
+[ns]Kazumi[nse]
+"Either way, I can't just sit here. It stinks too much...and besides,[r]
+I'm sure...if I touch their bodily fluids, I'll get infected too."[pcms]
 
 
 *2166|
 [fc]
-引き返しても、感染者がいる。[r]
-そこに丞実や静ちゃんがいるとは限らない。[pcms]
+Even if I turn back, there are infected. There's no guarantee that[r]
+Tsugumi or Shizuka-chan are there.[pcms]
 
 
 *2167|
 [fc]
-ここで感染者が死んでたって事は、[r]
-行き場を失ってしまったからだろう。[pcms]
+If there are dead infected here, it means they've lost their place to[r]
+go.[pcms]
 
 
 *2168|
 [fc]
-と言うことは、だ……。[r]
-この奥の部屋には、無事な人が隠れているのかもしれない。[pcms]
+Which means...there might be unharmed people hiding in the rooms[r]
+further in.[pcms]
 
 
 *2169|
 [fc]
-[ns]克己[nse]
-「それなら、可能性がある方に行くしかねえだろ！[r]
-　この先にいなくても、探さなかった事を後悔するより良い！」[pcms]
+[ns]Kazumi[nse]
+"Then I've got no choice but to go where there's a possibility! Even[r]
+if they're not ahead, it's better than regretting not having looked[r]
+for them!"[pcms]
 
 
 *2170|
 [fc]
-血溜まりや、倒れた人の体を避けながら、[r]
-ゆっくりと足を進める。[pcms]
+Avoiding the pools of blood and the bodies of the fallen, I slowly[r]
+moved forward.[pcms]
 
 
 *2171|
 [fc]
-[ns]克己[nse]
-「さすがに、仏さんになっちまったら感染者もクソもねえな……」[pcms]
+[ns]Kazumi[nse]
+"If they've become corpses, then there's neither infected nor anything[r]
+else to worry about..."[pcms]
 
 
 *2172|
 [fc]
-一歩、また一歩と進む度、悪臭は強くなっていった。[pcms]
+With each step I took, the stench grew stronger.[pcms]
 
 ;;//s:〆食堂(闇)
 ;;//★食堂・消灯
@@ -509,48 +508,45 @@
 
 *2173|
 [fc]
-[ns]克己[nse]
-「クソッ……こっちもかよ……」[pcms]
+[ns]Kazumi[nse]
+"Damn it...this way too..."[pcms]
 
 
 *2174|
 [fc]
-やっとの事で暗闇から抜け出したと思ったのに、[r]
-そこもまた、暗闇だった。[pcms]
+Just when I thought I had finally escaped the darkness, I found myself[r]
+in darkness once again.[pcms]
 
 
 *2175|
 [fc]
-とはいえ、さっきと少し違うのは、[r]
-懐中電灯を点けなくても、[r]
-部屋の様子がぼんやりと見えると言うこと。[pcms]
+However, unlike before, I could vaguely make out the room without[r]
+needing to turn on my flashlight.[pcms]
 
 
 *2176|
 [fc]
-そしてココも、さっきの通路と同様に死体が転がっていた。[r]
-中でも、スーツの男の死体は体中を食い破られ、[r]
-ほとんど原型を留めていなかった。[pcms]
+And here too, like the corridor before, bodies were strewn about.[r]
+Among them, the body of a man in a suit was so ravaged that it was[r]
+almost unrecognizable.[pcms]
 
 
 *2177|
 [fc]
-[ns]克己[nse]
-「あんな風にはなりたくねえな……。[r]
-　うう……」[pcms]
+[ns]Kazumi[nse]
+"I don't want to end up like that...ugh..."[pcms]
 
 
 *2178|
 [fc]
-元々、俺と同じような形をしていたハズのモノが、[r]
-まるでオモチャみたいにバラバラにされて、床に転がっている。[r]
-とてもじゃないけど、見ていられない。[pcms]
+What was once presumably shaped like me had been torn apart like a toy[r]
+and scattered across the floor. It was unbearable to look at.[pcms]
 
 
 *2179|
 [fc]
-もちろん、見ている訳には行かないんだ。[r]
-丞実達を探すのが優先だ！[pcms]
+Of course, I can't afford to keep looking. Finding Tsugumi and the[r]
+others is my priority![pcms]
 
 ;;//★学園廊下・夕方
 [bg storage="BG15b"][pimage storage="effect_black" layer=0 page=back visible=true dx=0 dy=0 opacity=200][trans_c cross time=500]
@@ -559,9 +555,9 @@
 *2180|
 ;旧ナンバー[vo_s s="sizuka0013"]
 [vo_s s="R_siz0013"]
-;[ns]静[nse]
+[ns]Shizuka[nse]
 [ns]？？？[nse]
-「はは……」[pcms]
+"Haha..."[pcms]
 
 ;;//静 のちほど　？？？　に
 ;;//s:力なく、呆れたような笑い
@@ -569,93 +565,93 @@
 
 *2181|
 [fc]
-[ns]克己[nse]
-「ん？」[pcms]
+[ns]Kazumi[nse]
+"Hm?"[pcms]
 
 
 *2182|
 [fc]
-女の子の声？[pcms]
+A girl's voice?[pcms]
 
 
 *2183|
 [fc]
-どうも、もっと奥の方からの音に聞こえる。[r]
-二階の方……かな？[pcms]
+It sounds like it's coming from deeper inside. Maybe from the second[r]
+floor...?[pcms]
 
 
 *2184|
 ;旧ナンバー[vo_t s="tugumi0064"]
 [vo_t s="R_tug0066"]
-;[ns]丞実[nse]
+[ns]Tsugumi[nse]
 [ns]？？？[nse]
-「んむっ……んんっ……ぷっ……」[pcms]
+"Mmm...nnn...puh..."[pcms]
 
 ;;//丞実　後ほど　？？？　に
 
 
 *2185|
 [fc]
-[ns]克己[nse]
-「やっぱりだ！　誰かが上にいる！」[pcms]
+[ns]Kazumi[nse]
+"Just as I thought! Someone is upstairs!"[pcms]
 
 
 *2186|
 [fc]
-二度目に聞こえて来た声は、丞実の声っぽかった……。[pcms]
+The voice I heard a second time sounded like Tsugumi's...[pcms]
 
 
 *2187|
 [fc]
-だけど、姿を観るまで安心出来ない。[r]
-丞実じゃない女の子かもしれないし、[r]
-最悪……感染者かもしれない。[pcms]
+But I can't relax until I see her. It might be another girl, or at[r]
+worst... an infected.[pcms]
 
 
 *2188|
 [fc]
-ここは慌てず、落ち着いて行動するべきだ……。[pcms]
+I should act calmly and not rush...[pcms]
 
 
 *2189|
 [fc]
-[ns]克己[nse]
-「いきなり飛び込んで目の前に感染者がいたら最悪だもんな……。[r]
-　慎重に……慎重に……」[pcms]
+[ns]Kazumi[nse]
+"It'd be the worst if I rushed in and came face to face with an[r]
+infected... Carefully...carefully..."[pcms]
 
 
 *2190|
 ;旧ナンバー[vo_mk s="miki0001"]
 [vo_m s="R_miki0001"]
-;[ns]美樹[nse]
+[ns]Miki[nse]
 [ns]？？？[nse]
-「ぐぅうううぅうっ！！」[pcms]
+"Grrrrrrr!!"[pcms]
 
 ;;//美樹　後ほど　？？？　に
 
 
 *2191|
 [fc]
-[ns]克己[nse]
-「ぎゃ！？　ぎゃあぁあっ！？」[pcms]
+[ns]Kazumi[nse]
+"Gyah!? Gyaahhh!?"[pcms]
 
 
 *2192|
 [fc]
-真っ暗闇の中突然聞こえた感染者のうめき声に驚き、[r]
-直後何かを踏んづけて、うっかり悲鳴を上げてしまった。[pcms]
+Startled by the sudden groan of an infected in the darkness, I stepped[r]
+on something and inadvertently let out a scream.[pcms]
 
 
 *2193|
 [fc]
-[ns]克己[nse]
-「うう……ご、ごめん……」[pcms]
+[ns]Kazumi[nse]
+"Ugh...so-sorry..."[pcms]
 
 
 *2194|
 [fc]
-闇に慣れだした目に入ってきた、床に倒れた女の子に手を合わせ、[r]
-更に階段を登り、声のした方へと近づいていく。[pcms]
+As my eyes adjusted to the dark, I saw a girl lying on the floor, said[r]
+a prayer for her, and continued up the stairs towards the source of[r]
+the voice.[pcms]
 
 ;;//★汎用背景B・夕方
 [bg storage="BG28b"][pimage storage="effect_black" layer=0 page=back visible=true dx=0 dy=0 opacity=200][trans_c cross time=500]
@@ -663,31 +659,31 @@
 
 *2195|
 [fc]
-階段を上りきると、一つの扉が少し開いていて、[r]
-中から光が漏れ出していた。[pcms]
+At the top of the stairs, there was a door slightly ajar, with light[r]
+leaking out from inside.[pcms]
 
 
 *2196|
 [fc]
-声の主は、きっとこの中だ。[pcms]
+The owner of the voice must be inside.[pcms]
 
 
 *2197|
 [fc]
-[ns]克己[nse]
-「……よし……」[pcms]
+[ns]Kazumi[nse]
+"...Alright..."[pcms]
 
 
 *2198|
 [fc]
-そっとドアノブに手を伸ばし、開こうとする。[pcms]
+Gently reaching for the doorknob, I try to open it.[pcms]
 
 
 *2199|
 ;旧ナンバー[vo_t s="tugumi0065"]
 [vo_t s="R_tug0067"]
-[ns]丞実[nse]
-「んんっ……ぐっ……ぷちゅっ……んんっ……」[pcms]
+[ns]Tsugumi[nse]
+"Nnn...guh...puchu...nnn..."[pcms]
 
 ;;//s:肉を食べてる音
 [se buf1 storage="seA056"]
@@ -696,8 +692,8 @@
 
 *2200|
 [fc]
-[ns]克己[nse]
-「え……？　つ、丞実？　丞実か？」[pcms]
+[ns]Kazumi[nse]
+"Eh...? Tsu-Tsugumi? Is that you, Tsugumi?"[pcms]
 
 ;;//seフェード停止###[stop_se buf1]
 [stopse_fadeout buf1 time=1000]
@@ -705,32 +701,34 @@
 
 *2201|
 [fc]
-何かを食べている様な音がした直後、[r]
-それきり何も聞こえなくなってしまった。[pcms]
+Right after I heard sounds like someone eating, it suddenly went[r]
+silent.[pcms]
 
 
 *2202|
 [fc]
-いきなり声を掛けたから、驚いたんだろうか？[r]
-先に名乗るべきだったかな。[pcms]
+Maybe she was startled because I called out so suddenly? Should I have[r]
+introduced myself first?[pcms]
 
 
 *2203|
 [fc]
-[ns]克己[nse]
-「いや、言ってる場合かよ……どれ……」[pcms]
+[ns]Kazumi[nse]
+"No, is this really the time to be thinking about that... Here[r]
+goes..."[pcms]
 
 ;;//m:以下、向こうから逆に照らされてるらしい。あと日本語変
 
-;;//待っていても仕方ないとドアを開き、懐中電灯で中を照らす。[pcms]
+;;//There's no point in waiting, so I open the door and shine my[r]
+flashlight inside.[pcms]
 
 ;;//強烈な逆光に照らされて、
-;;//部屋の中は真っ黒な人の影が蠢いている。[pcms]
+;;//The room is filled with writhing shadows of people.[pcms]
 
 
 *2204|
 [fc]
-待っていても仕方ないとドアを開く。[pcms]
+There's no point in waiting, so I open the door.[pcms]
 
 ;;//#_ホワイトアウト
 [white_toplayer][trans_c cross time=500][hide_chara_int_w]
@@ -738,13 +736,14 @@
 
 *2205|
 [fc]
-手に持った懐中電灯で照らすつもりが、[r]
-逆に部屋からの強烈な光に照らされて思わず目を細める。[pcms]
+Instead of shining my flashlight, I'm momentarily blinded by the[r]
+intense light coming from inside the room.[pcms]
 
 
 *2206|
 [fc]
-辛うじて視界に捉えたのは、部屋の中に蠢く真っ黒な人の影。[pcms]
+Barely catching sight in my field of vision, there are writhing[r]
+shadows of people in the room.[pcms]
 
 ;;//m:修正ここまで
 
@@ -757,212 +756,204 @@
 
 *2207|
 [fc]
-何人かの人影の真ん中に、大きな固まりが置かれている。[pcms]
+In the middle of several figures, there's a large lump placed there.[pcms]
 
 
 *2208|
 [fc]
-何人かの人影は、その固まりに手を伸ばし、引っ張っていた。[pcms]
+The figures are reaching out to the lump, pulling at it.[pcms]
 
 
 *2209|
 [fc]
-その中心に座っている人影には、見覚えがある。[r]
-髪の毛を頭の横で止めた、ちょっと小柄な女の子。[pcms]
+In the center, sitting among them, is a figure I recognize. A slightly[r]
+petite girl with her hair tied up at the side of her head.[pcms]
 
 
 *2210|
 [fc]
-[ns]克己[nse]
-「丞実？」[pcms]
+[ns]Kazumi[nse]
+"Tsugumi?"[pcms]
 
 
 *2211|
 ;旧ナンバー[vo_t s="tugumi0066"]
 [vo_t s="R_tug0068"]
-[ns]丞実[nse]
-「……ふ……あ……あは……」[pcms]
+[ns]Tsugumi[nse]
+"...fu...ah...aha..."[pcms]
 
 
 *2212|
 [fc]
-[ns]克己[nse]
-「え……！？」[pcms]
+[ns]Kazumi[nse]
+"Eh...!?"[pcms]
 
 [move layer=5 time=300 path='&@"(${&sf.move調整*244},${&sf.move調整*7},255)"'][wm]
 
 
 *2213|
 [fc]
-名前を呼ばれ、[r]
-ライトの光を当てられた女がゆっくりと振り向いた。[pcms]
+The girl who was called by name slowly turned around as the light from[r]
+the flashlight hit her.[pcms]
 
 
 *2214|
 [fc]
-ライトの光を、顔に向けてあげていく。[pcms]
+I raise the light to shine on her face.[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_kan"][ChrSetParts layer=5 chface="F1_tug21"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c tb time=500]
 
 
 *2215|
 [fc]
-そこには口元を歪めて嗤う、[r]
-真っ赤な目をした丞実の姿があった。[pcms]
+There she was, Tsugumi, with a twisted smile and blood-red eyes.[pcms]
 
 
 *2216|
 [fc]
-[ns]克己[nse]
-「ひっ！？　つっ……丞実！？」[pcms]
+[ns]Kazumi[nse]
+"Huh!? Tsu-Tsugumi!?"[pcms]
 
 [chara_int][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="tug2_kan"][ChrSetParts layer=5 chface="F2_tug21"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-120"][trans_c cross time=150]
 *2217|
 ;旧ナンバー[vo_t s="tugumi0067"]
 [vo_t s="R_tug0069"]
-[ns]丞実[nse]
-「ん～……？　ぷぁっ……ぷっ……んっ……かたいなあ……。[r]
-　やっぱ、人げんも、筋ってかたいんだぁ……ぺっ」[pcms]
+[ns]Tsugumi[nse]
+"Mmm...? Pua...puh...nnn...it's so hard. Yeah, human muscles are[r]
+really tough...ptoo"[pcms]
 
 
 *2218|
 [fc]
-丞実は、歪めた口元から真っ赤な固まりを吐き出して嗤う。[pcms]
+Tsugumi laughs with a twisted mouth as she spits out a red lump.[pcms]
 
 
 *2219|
 [fc]
-[ns]克己[nse]
-「ぎゃああああああああああぁああぁぁああぁあ！！！」[pcms]
+[ns]Kazumi[nse]
+"Gyaaaaaaaaaaaaaaaaaaaaaaah!!!"[pcms]
 
 
 *2220|
 [fc]
-おぞましさや、恐怖――[pcms]
+The revulsion, the terror--[pcms]
 
 
 *2221|
 [fc]
-そして丞実までが感染してしまったという絶望感に、[r]
-全身から力が抜けて、その場に尻餅をついてしまう。[pcms]
+And the despair of Tsugumi being infected too, I lose all strength in[r]
+my body and fall to the ground on my butt.[pcms]
 
 [ChrSetEx layer=4 chbase="mik1_jar2_a"][ChrSetParts layer=4 chface="F1_mik20"][ChrSetXY layer=4 x="&sf.std_m_x調整*661" y="&sf.std_m_y調整*36"][trans_c cross time=150]
 *2222|
 ;旧ナンバー[vo_mk s="miki0002"]
 [vo_m s="R_miki0002"]
-[ns]美樹[nse]
-「んん～……？　なぁに？」[pcms]
+[ns]Miki[nse]
+"Mmm...? What's up?"[pcms]
 
 
 *2223|
 ;旧ナンバー[vo_t s="tugumi0068"]
 [vo_t s="R_tug0070"]
-[ns]丞実[nse]
-「ふふっ……兄ちゃんが、きたんだぁ……。[r]
-　お、おいしそうでしょ？　ねぇ……」[pcms]
+[ns]Tsugumi[nse]
+"Hehe... Big brother came... Doesn't it look delicious? Right...?"[pcms]
 
 *2224|
 [fc]
-[ns]克己[nse]
-「丞実……何言ってんだよ……おい……」[pcms]
+[ns]Kazumi[nse]
+"Tsugumi... what are you talking about... hey..."[pcms]
 
 [ChrSetEx layer=3 chbase="hon1_kan_a"][ChrSetParts layer=3 chface="F1_hon20"][ChrSetXY layer=3 x="&sf.std_h_x調整*75" y="&sf.std_h_y調整*-10"][trans_c cross time=150]
 *2225|
 ;旧ナンバー[vo_h s="honma0001"]
 [vo_h s="R_hon0001"]
-[ns]本間[nse]
-「あらぁ……ちょうど良いわねぇ……。[r]
-　これもう、残りカスしかないものねぇ」[pcms]
+[ns]Honma[nse]
+"Oh my... this is just perfect... There's only scraps left now, isn't[r]
+there?"[pcms]
 
 
 *2226|
 ;旧ナンバー[vo_mk s="miki0003"]
 [vo_m s="R_miki0003"]
-[ns]美樹[nse]
-「お腹、ぺこぺこだよぉ……？」[pcms]
+[ns]Miki[nse]
+"I'm so hungry..."[pcms]
 
 
 *2227|
 [fc]
-皆、俺を見て舌なめずりしてる……！？[r]
-まさか丞実達、俺の事……？[pcms]
+Everyone is looking at me and licking their lips...!? Could it be that[r]
+Tsugumi and the others see me as...?[pcms]
 
 
 *2228|
 [fc]
-このままじゃ、そこに転がってる固まりみたくされちまう！[r]
-に、逃げなきゃ！！[pcms]
+If I stay here, I'll end up like that lump lying there! I have to run[r]
+away!![pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *2229|
 [fc]
-[ns]克己[nse]
-「ひっ……！　うっ……うわぁっ！！」[pcms]
+[ns]Kazumi[nse]
+"Eek...! Ugh...uwaaah!!"[pcms]
 
 [旧quake_bg xy m]
 
 
 *2230|
 [fc]
-慌てて立ち上がろうとした矢先、[r]
-足首を誰かに握られて、つんのめってしまった。[pcms]
+In my panic to stand up, someone grabs my ankle, and I stumble.[pcms]
 
 
 *2231|
 [fc]
-誰だ、なんて叫ぼうにも声も出せず、[r]
-無言のまま、視線を足下に落とした。[pcms]
+Before I can even shout 'who is it', I can't make a sound, and[r]
+silently, I drop my gaze to my feet.[pcms]
 
 [ChrSetEx layer=5 chbase="siz2_kan"][ChrSetParts layer=5 chface="F2_siz21"][ChrSetXY layer=5 x="&sf.std_s_x調整*0" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 *2232|
 ;旧ナンバー[vo_s s="sizuka0014"]
 [vo_s s="R_siz0014"]
-[ns]静[nse]
-「かつ己さん……ふふっ……つかまえたぁ……。[r]
-　ふふっ……うふふっ！！　克みさんっ！[r]
-　だ～いすきぃ～……えへへっ……」[pcms]
+[ns]Shizuka[nse]
+"Kazumi-san... hehe... got you... Hehe...ufufu!! Kazumi-san! I love[r]
+you so much...ehehe..."[pcms]
 
 
 *2233|
 [fc]
-[ns]克己[nse]
-「しっ、し、し、静ちゃん！？[r]
-　うわああぁあぁっ！！」[pcms]
+[ns]Kazumi[nse]
+"Shi-Shi-Shizuka-chan!? Uwaaaaaahhh!!"[pcms]
 
 
 *2234|
 [fc]
-足首に絡み付いていたのは、[r]
-丞実達と同じく目を真っ赤にして嗤う、[r]
-静ちゃんだった。[pcms]
+The one entwined around my ankle was Shizuka-chan, laughing with her[r]
+eyes blood-red, just like Tsugumi and the others.[pcms]
 
 [ChrSetEx layer=5 chbase="siz2_kan"][ChrSetParts layer=5 chface="F2_siz20"][ChrSetXY layer=5 x="&sf.std_s_x調整*0" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 *2235|
 ;旧ナンバー[vo_s s="sizuka0015"]
 [vo_s s="R_siz0015"]
-[ns]静[nse]
-「ね、克己さん……わたしと、いっしょに……？[r]
-　い、一緒……あはっ……一緒……あはあぁ！」[pcms]
+[ns]Shizuka[nse]
+"Hey, Kazumi-san... will you be with me...?[r]
+Together...ahaha...together...ahahaa!"[pcms]
 
 
 *2236|
 [fc]
-[ns]克己[nse]
-「やっ……ひぃいいいっ！！[r]
-　静ちゃん！　しっかりしてくれっ！[r]
-　はっ、放して、逃げるんだよ、静ちゃんっ！！」[pcms]
+[ns]Kazumi[nse]
+"No...eek!! Shizuka-chan! Get a hold of yourself! Let go, I have to[r]
+escape, Shizuka-chan!!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_kan"][ChrSetParts layer=5 chface="F1_tug21"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *2237|
 ;旧ナンバー[vo_t s="tugumi0069"]
 [vo_t s="R_tug0071"]
-[ns]丞実[nse]
-「兄ちゃ～ん、にげないでよぉ……。[r]
-　み、みんな？　兄ちゃんをにがすなぁっ……。[r]
-　あっはははっ！　あははははははっ！！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother~ don't run away... Everyone? Don't let big brother[r]
+escape... Ahhahaha! Ahahahahaha!!"[pcms]
 
 [jump storage="7030.ks" target=*7030_TOP]
 

@@ -5,21 +5,22 @@
 
 *7246|
 [fc]
-ココにくる時も、扉は開いていたんだ。[r]
-だったら、２階も開いていて然るべき！[pcms]
+The door was open when I came here too. So it stands to reason that[r]
+the second floor should be open as well![pcms]
 
 
 *7247|
 [fc]
-[ns]克己[nse]
-「同じ危険に晒されるのなら、短時間の方がいい！[r]
-　それに、虎穴に入らずんば虎児を得ずって言うしな！」[pcms]
+[ns]Kazumi[nse]
+"If we're going to be exposed to the same danger, it's better to do it[r]
+for a shorter time! Besides, 'Nothing ventured, nothing gained,'[r]
+right?"[pcms]
 
 
 *7248|
 [fc]
-登り切ってしまえば、あとは目と鼻の先に丞実がいる。[r]
-いくぜっ！！　克己ッ！[pcms]
+Once I make it to the top, Tsugumi will be just a stone's throw away.[r]
+Let's go, Kazumi!![pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -29,16 +30,15 @@
 
 *7249|
 [fc]
-[ns]感染者男Ｃ[nse]
-「ま、まて゛ァァああ？　こ、こらぁ……、[r]
-　お、おんな、おんな、ひ、ひとり゛し゛め、よくないぃい！[r]
-　こらぁ……」[pcms]
+[ns]Infected Man C[nse]
+"W-wait a sec, huh? Hey... y-you, a girl by herself is not good![r]
+Hey..."[pcms]
 
 
 *7250|
 [fc]
-[ns]克己[nse]
-「うっ……うぉ？」[pcms]
+[ns]Kazumi[nse]
+"Uh...woah?"[pcms]
 
 ;;//★学園廊下・朝昼
 [bg storage="BG15a"][trans_c cross time=500]
@@ -46,8 +46,8 @@
 
 *7251|
 [fc]
-決意も新たに走り出そうとした俺を、[r]
-一人の男が引き留めた。[pcms]
+Just as I was about to start running again with renewed determination,[r]
+a man grabbed hold of me to stop me.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x"][ChrSetXY layer=5 x="&sf.std_kan4_x調整*344" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　20　細身金髪　
@@ -55,36 +55,34 @@
 
 *7252|
 [fc]
-[ns]感染者男Ｃ[nse]
-「お、だ、だめ！　お、おれのだって！！[r]
-　あのおんな、みんな、おれのものぉおっ！！」[pcms]
+[ns]Infected Man C[nse]
+"No, don't! She's mine too!! That woman, she's all mine!!"[pcms]
 
 
 *7253|
 [fc]
-振り返るとそこには、サラリーマン風の男がフラフラして、[r]
-俺の肩に手を伸ばしていた。[pcms]
+When I turned around, there was a man dressed like a salaryman[r]
+staggering and reaching out for my shoulder.[pcms]
 
 
 *7254|
 [fc]
-[ns]克己[nse]
-「うぉおおああぁ！？　どっから出てきたのアンタ！！」[pcms]
+[ns]Kazumi[nse]
+"Whoa! Where did you come from?!"[pcms]
 
 
 *7255|
 [fc]
-[ns]感染者男Ｃ[nse]
-「どっ、どこでも……いい、いいじゃねえかァ！！[r]
-　お、おおっ……は、はら゛へったァ！！」[pcms]
+[ns]Infected Man C[nse]
+"Anywhere... it doesn't matter, does it!! Oh... I'm so hungry!!"[pcms]
 
 
 *7256|
 [fc]
-[ns]克己[nse]
-「くっ……くそっ！　近寄るんじゃねえよ変態！！[r]
-　第一こんな女の園に、なんでテメーみたいなのがいるんだよ！！[r]
-　この、犯罪者ッ！！」[pcms]
+[ns]Kazumi[nse]
+"Damn it... Don't come any closer, pervert!! In the first place,[r]
+what's someone like you doing in a place full of women!! You[r]
+criminal!!"[pcms]
 
 [se buf1 storage="seB008"]
 ;;//♪SE人間を殴る音２(痛そう)
@@ -94,15 +92,15 @@
 
 *7257|
 [fc]
-[ns]感染者男Ｃ[nse]
-「うっ……あ゛か゛あぁあぁ！！」[pcms]
+[ns]Infected Man C[nse]
+"Ugh...argh!!"[pcms]
 
 
 *7258|
 [fc]
-[ns]克己[nse]
-「っつーか、普通なら逮捕されんぜ！？[r]
-　見つけたのが俺で……よかったなっ！！」[pcms]
+[ns]Kazumi[nse]
+"Besides, you'd normally be arrested, you know!? You're lucky it was[r]
+me who found you!!"[pcms]
 
 [se buf1 storage="seB008"]
 ;;//♪SE人間を殴る音２(痛そう)
@@ -112,8 +110,8 @@
 
 *7259|
 [fc]
-[ns]感染者男Ｃ[nse]
-「あっ……う、あ……」[pcms]
+[ns]Infected Man C[nse]
+"Ah...uh...ah..."[pcms]
 
 [se buf1 storage="seB014"]
 ;;//♪SE人間が倒れる音
@@ -122,21 +120,20 @@
 
 *7260|
 [fc]
-元々、フラフラしていた所を思いっきりブン殴ったせいで、[r]
-男はアッサリと倒れ、廊下を転がっていった。[pcms]
+Because I punched the already staggering man with all my might, he[r]
+easily fell over and rolled down the corridor.[pcms]
 
 
 *7261|
 [fc]
-[ns]克己[nse]
-「……まあ、俺も俺だけどな……。[r]
-　ったく、もたついていられねえぜ！！」[pcms]
+[ns]Kazumi[nse]
+"...Well, I'm not one to talk... Damn, I can't afford to waste time!!"[pcms]
 
 
 *7262|
 [fc]
-また感染者が来たらうっとうしい。[r]
-２階まで一気に駆け上ろう！[pcms]
+It'll be annoying if another infected person comes. Let's sprint up to[r]
+the second floor![pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -149,10 +146,9 @@
 
 *7263|
 [fc]
-[ns]克己[nse]
-「はぁっ……はっ……はっ……。[r]
-　思った通り、扉は開いてた……閉じられてたら、[r]
-　そこで終わりだったぜ……んっ！？　あっ！！」[pcms]
+[ns]Kazumi[nse]
+"Ha...ha...ha... Just as I thought, the door was open... If it had[r]
+been closed, that would have been the end of it... Huh!? Ah!!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -168,36 +164,33 @@
 
 *7264|
 [fc]
-非常階段の扉を開き、勢いよく２階の廊下に飛び込んだ俺は、[r]
-何かに蹴躓いて、勢いよく倒れ込んでしまった。[pcms]
+I burst into the second floor corridor with momentum after opening the[r]
+emergency staircase door, but I tripped over something and fell[r]
+forward with force.[pcms]
 
 
 *7265|
 [fc]
-[ns]克己[nse]
-「いってぇぇ！！！！　鼻が折れたァああぁっ！！！[r]
-　ぐおぉあおおおおっ！！」[pcms]
+[ns]Kazumi[nse]
+"Ouch!! My nose is broken!! Gwaaahhh!!"[pcms]
 
 
 *7266|
 [fc]
-何の備えもない状態でズッ転け、[r]
-顔面をしたたかに打ち付けてしまった俺は、[r]
-あまりの痛さに身動きが取れなくなってしまった。[pcms]
+Falling face-first without any preparation, I hit my face hard and was[r]
+in so much pain that I couldn't move.[pcms]
 
 
 *7267|
 [fc]
-[ns]克己[nse]
-「はあっ……はああぁッ……ああぁっ……。[r]
-　痛ぇぇ！！　痛てぇよぉっ！！」[pcms]
+[ns]Kazumi[nse]
+"Haah...haahh...aahh... It hurts!! It hurts so much!!"[pcms]
 
 
 *7268|
 [fc]
-やっとの事で、四つん這いの状態で体を引き起こすと、[r]
-ぱたぱたと音を立てて、鼻血が廊下に落ち、[r]
-赤い水たまりを作っていった。[pcms]
+Finally managing to get on all fours, I lifted my body and my[r]
+nosebleed dripped onto the corridor floor, creating a pool of red.[pcms]
 
 ;;//m:このあとイベントだからモブは貼らない方が無難か
 
@@ -205,116 +198,106 @@
 *7269|
 ;旧ナンバー[vo_m s="kansenA0016"]
 [vo_mob s="R_kanA0014"]
-[ns]感染者女Ａ[nse]
-「あっれぇ……て、てつの、においが、するね……。[r]
-　んううっ……な、なまぐさいぃいぃ……なまぐさいよおぉ」[pcms]
+[ns]Infected Woman A[nse]
+"Huh... I smell iron... Nuuuh... It smells so raw... so very raw..."[pcms]
 
 
 *7270|
 [fc]
-[ns]克己[nse]
-「！？」[pcms]
+[ns]Kazumi[nse]
+"!"[pcms]
 
 
 *7271|
 [fc]
-血を止めようと鼻を抑えながら立ち上がると、[r]
-つんのめってしまった当たりから、[r]
-女の子がモゾモゾと起き上がり、俺に組み付いてきた。[pcms]
+As I stood up while holding my nose to stop the bleeding, a girl who[r]
+had been lying where I stumbled got up and clung to me.[pcms]
 
 
 *7272|
 [fc]
-[ns]克己[nse]
-「え……？　え！？　えぇぇっ！？[r]
-　なっ……何何事！？　オイ！？[r]
-　うわっ……うわああああああぁっ！！」[pcms]
+[ns]Kazumi[nse]
+"Eh...? Eh!? Eeehh!? What's happening!? Hey!? Uwah...uwaaaahhh!!"[pcms]
 
 
 *7273|
 [fc]
-一見して華奢な女の子に組み伏せられ、[r]
-俺は、悲鳴を上げながら体を捩る。[pcms]
+Pinned down by a seemingly frail girl, I twisted my body while[r]
+screaming.[pcms]
 
 
 *7274|
 [fc]
-だけど、見た目からは全く想像の付かない馬鹿力で組み伏せられ、[r]
-俺は逃げ出す事すら出来なくなっていた。[pcms]
+But she pinned me down with an unimaginable strength that belied her[r]
+appearance, and I couldn't even escape.[pcms]
 
 
 *7275|
 ;旧ナンバー[vo_m s="kansenB0009"]
 [vo_mob s="R_kanB0009"]
-[ns]感染者女Ｂ[nse]
-「なに～？　ね、ねえ、お、おとこのこえ、きこえたよぉ？」[pcms]
+[ns]Infected Woman B[nse]
+"What's that~? Hey, did you hear a boy's voice?"[pcms]
 
 
 *7276|
 ;旧ナンバー[vo_m s="kansenC0006"]
 [vo_mob s="R_kanC0006"]
-[ns]感染者女Ｃ[nse]
-「ほ、ほんとだぁ……ああ、いたよ～。[r]
-　あそこだ、あそこ～あはっ！！」[pcms]
+[ns]Infected Woman C[nse]
+"Really... oh yeah, there he is~. Over there, over there~ahaha!!"[pcms]
 
 
 *7277|
 ;旧ナンバー[vo_m s="kansenA0017"]
 [vo_mob s="R_kanA0015"]
-[ns]感染者女Ａ[nse]
-「あっハァ……、お、おとこ……セックス……。[r]
-　おなか、へったぁ……んううっ……」[pcms]
+[ns]Infected Woman A[nse]
+"Ahhaa... a man... sex... I'm so hungry... nnuuhh..."[pcms]
 
 
 *7278|
 [fc]
-[ns]克己[nse]
-「お、おい！　離せッ！！　お、俺美味くないし、[r]
-　どっ……童貞だから、下手かもっ！？[r]
-　だ、だからやめてぇっ！！　来ないでぇっ！！」[pcms]
+[ns]Kazumi[nse]
+"Hey! Let go!! I don't taste good, and besides... I'm a virgin so I[r]
+might be bad at it!? So stop it!! Don't come any closer!!"[pcms]
 
 
 *7279|
 ;旧ナンバー[vo_m s="kansenA0018"]
 [vo_mob s="R_kanA0016"]
-[ns]感染者女Ａ[nse]
-「どっ……どうてい……はつもの……」[pcms]
+[ns]Infected Woman A[nse]
+"A virgin... first time..."[pcms]
 
 
 *7280|
 ;旧ナンバー[vo_m s="kansenB0010"]
 [vo_mob s="R_kanB0010"]
-[ns]感染者女Ｂ[nse]
-「お、おいしそうっ！　どうていチンポ！[r]
-　どうていチンポぉっ！」[pcms]
+[ns]Infected Woman B[nse]
+"That sounds delicious! A virgin dick! A virgin dick!!"[pcms]
 
 
 *7281|
 ;旧ナンバー[vo_m s="kansenC0007"]
 [vo_mob s="R_kanC0007"]
-[ns]感染者女Ｃ[nse]
-「わ、わたしにも、ちょうだいっっ！！」[pcms]
+[ns]Infected Woman C[nse]
+"Give me some too, please!!"[pcms]
 
 
 *7282|
 [fc]
-[ns]克己[nse]
-「やっ……やぁああっ！！！[r]
-　来るなッ！　来るなぁあっ！！！」[pcms]
+[ns]Kazumi[nse]
+"No...noooo!!! Don't come! Don't come at me!!!"[pcms]
 
 
 *7283|
 [fc]
-幾ら体を捻って逃げようとしても、[r]
-組み付いた女の子はびくともせず、[r]
-むなしく叫ぶだけの俺に、無数の手が伸びてくる。[pcms]
+No matter how much I twisted my body trying to escape, the girl who[r]
+clung to me didn't budge an inch, and all I could do was scream in[r]
+vain as countless hands reached out for me.[pcms]
 
 
 *7284|
 [fc]
-血や、ドロドロのヘンな体液に塗れた手が迫るのを、[r]
-俺は、情けない悲鳴を上げながら、[r]
-見つめる事しか出来なかった。[pcms]
+The hands smeared with blood and strange viscous fluids approached me,[r]
+and all I could do was watch and scream pathetically.[pcms]
 
 ;;//BGMフェードアウト
 [fadeoutbgm time=1000]

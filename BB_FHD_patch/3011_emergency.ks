@@ -8,73 +8,71 @@
 
 *7199|
 [fc]
-やっぱり、こう言うときこそ最短距離を通るべきだ。[r]
-遠回りすればするだけ、危険度が増すだけだ。[pcms]
+Indeed, it's times like these when one should take the shortest[r]
+distance. The more detours you make, the more dangerous it becomes.[pcms]
 
 
 *7200|
 [fc]
-[ns]克己[nse]
-「まてよ……その前に。[r]
-　映画なんかだと、いっきなり飛び出したヤツって、[r]
-　大概ハチの巣だよな……ちょっと落ち着いて観察してみるか」[pcms]
+[ns]Kazumi[nse]
+"Wait a second... before that. In movies and stuff, the guy who[r]
+suddenly jumps out usually ends up like a beehive... Maybe I should[r]
+calm down and observe a bit."[pcms]
 
 
 *7201|
 [fc]
-俺は、もう一度ブラインドに顔を押し付け、[r]
-飛び出した後の事をシミュレートしてみる。[pcms]
+I press my face against the blind once more, simulating what would[r]
+happen after jumping out.[pcms]
 
 
 *7202|
 [fc]
-まっすぐに駆け抜け、校舎の前に立つ……。[r]
-その間には、感染者が……ん？[pcms]
+I run straight through and stand in front of the school building...[r]
+During that time, there are infected... huh?[pcms]
 
 
 *7203|
 [fc]
-俺が進むべき方向から少し先の、右側。[r]
-そこには、感染者が群がっている場所があった。[pcms]
+A little ahead of the direction I'm supposed to go, on the right side.[r]
+There was a place where the infected were swarming.[pcms]
 
 
 *7204|
 [fc]
-[ns]克己[nse]
-「あ……もしかしてあれ、[r]
-　さっき人が落っこちたあたりか……。[r]
-　アイツも、可愛そうにな……」[pcms]
+[ns]Kazumi[nse]
+"Ah... maybe that's where someone fell earlier... That guy is pitiful[r]
+too..."[pcms]
 
 
 *7205|
 [fc]
-どうにも、群がってる感染者達は、[r]
-落っこちた人の遺族だとか、そういうワケじゃなさそうだな。[pcms]
+It doesn't seem like the infected swarming around are relatives of the[r]
+person who fell or anything like that.[pcms]
 
 
 *7206|
 [fc]
-…………。[r]
-……。[pcms]
+...[pcms]
 
 
 *7207|
 [fc]
-[ns]克己[nse]
-「でも、俺の為に囮になるんだ！　無駄死じゃねえぞ！！[r]
-　成仏してくれよ……」[pcms]
+[ns]Kazumi[nse]
+"But they're becoming decoys for me! It's not a pointless death!! Rest[r]
+in peace..."[pcms]
 
 
 *7208|
 [fc]
-奴らが群がっている所に近づいたり刺激したりしなければ、[r]
-それなりに危険度は低い。[pcms]
+If I don't get too close or provoke the ones swarming, the danger[r]
+level is reasonably low.[pcms]
 
 
 *7209|
 [fc]
-[ns]克己[nse]
-「今度こそ、行くぜっ！！」[pcms]
+[ns]Kazumi[nse]
+"This time for sure, I'm going!!"[pcms]
 
 ;;//★中庭・朝昼
 [bg storage="BG17a"][trans_c lr time=301]
@@ -88,14 +86,14 @@
 
 *7210|
 [fc]
-それでも、何人かの感染者は俺の事に気が付き、[r]
-誘導ミサイルみたいに迫ってくる。[pcms]
+Still, some of the infected notice me and approach like guided[r]
+missiles.[pcms]
 
 
 *7211|
 [fc]
-[ns]感染者男Ａ[nse]
-「お、お、おと゛……は、は゛らへっ……あ゛！」[pcms]
+[ns]Infected Man A[nse]
+"O-o-ooh... I-I'm hu-hungry... Ahh!"[pcms]
 
 [se buf1 storage="seB008"]
 ;;//♪SE人間を殴る音２(痛そう)
@@ -105,32 +103,30 @@
 
 *7212|
 [fc]
-[ns]感染者男Ａ[nse]
-「あき゛ぃっ！？」[pcms]
+[ns]Infected Man A[nse]
+"Agghh!?"[pcms]
 
 
 *7213|
 [fc]
-[ns]克己[nse]
-「ほらっ！　こっち来るな！[r]
-　俺なんか美味しくねーぞ！？　あっち行けっ！[r]
-　ほらぁっ！！」[pcms]
+[ns]Kazumi[nse]
+"Hey! Don't come this way! I'm not tasty!? Go over there! Hey!!"[pcms]
 
 
 *7214|
 [fc]
-確かに、感染者は驚異だ。[pcms]
+Indeed, the infected are a threat.[pcms]
 
 
 *7215|
 [fc]
-でもそれは、大人数に囲まれたり、[r]
-袋小路に追い詰められたりした場合だ。[pcms]
+But that's only if you're surrounded by a large number or cornered in[r]
+a dead end.[pcms]
 
 
 *7216|
 [fc]
-って、ボサっとしてたら追い詰められちまう！[pcms]
+If I space out, I'll get cornered![pcms]
 
 [se buf1 storage="seA047"]
 ;;//♪SE走る足音
@@ -138,27 +134,27 @@
 
 *7217|
 [fc]
-[ns]克己[nse]
-「立ち止まるな、克己ッ！！　うぉぉおっ！！」[pcms]
+[ns]Kazumi[nse]
+"Don't stop, Kazumi! Uooooh!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *7218|
 [fc]
-コイツらの動きは、もの凄くトロい。[r]
-延々走ってるだけでも捕まる事はないだろう。[pcms]
+Their movements are incredibly slow. Just running endlessly should[r]
+prevent them from catching me.[pcms]
 
 
 *7219|
 [fc]
-もし相手するなら、冷静に動きを見て、[r]
-１人だけ相手にするように心がければいい。[pcms]
+If I have to face them, I should calmly watch their movements and make[r]
+sure to deal with only one at a time.[pcms]
 
 
 *7220|
 [fc]
-それだけで危険度はかなり下がる……。[pcms]
+Just that will significantly reduce the danger level...[pcms]
 
 ;;//★グラウンド・朝昼
 [bg storage="BG20a"][trans_c cross time=500]
@@ -166,10 +162,10 @@
 
 *7221|
 [fc]
-[ns]克己[nse]
-「って、政府発行のお堅いパンフに書いてたの、[r]
-　今思い出したぜ！　たまには役に立つなァ！　ああいうのも！[r]
-　そーらっ！　よっと！」[pcms]
+[ns]Kazumi[nse]
+"That's right, I just remembered what was written in the stiff[r]
+government-issued pamphlet! Sometimes it comes in handy! That kind of[r]
+stuff too! So-ra! Yotto!"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan3_x"][ChrSetXY layer=3 x="&sf.std_kan3_x調整*0" y=0]
 ;;//MOB左＠感染者　19　デブ魚屋　
@@ -181,9 +177,8 @@
 
 *7222|
 [fc]
-[ns]感染者男Ｂ[nse]
-「せせせせ、せっ、せっ、[r]
-　せっく……せっくす！？　おおぉおっ？」[pcms]
+[ns]Infected Man B[nse]
+"Se-se-se-se, se-, se-, se-x... sex!? Oooh?"[pcms]
 
 [se buf1 storage="seB008"]
 ;;//♪SE人間を殴る音２(痛そう)
@@ -193,15 +188,14 @@
 
 *7223|
 [fc]
-[ns]感染者男Ｂ[nse]
-「あぶっ……！！[r]
-　やっ、やりてぇっ！　やりてぇぇ！！　おまんこぉおっ！」[pcms]
+[ns]Infected Man B[nse]
+"Abu...!! I wanna do it! I wanna do it!! Pussy!!"[pcms]
 
 
 *7224|
 [fc]
-[ns]克己[nse]
-「うるせえ！　死んでろって！　おらっ！！」[pcms]
+[ns]Kazumi[nse]
+"Shut up! Just die already! Ora!!"[pcms]
 
 [se buf1 storage="seB008"]
 ;;//♪SE人間を殴る音２(痛そう)
@@ -211,29 +205,28 @@
 
 *7225|
 [fc]
-[ns]感染者男Ｂ[nse]
-「あ゛か゛ァあっぁあぁっ！！」[pcms]
+[ns]Infected Man B[nse]
+"Agaaahhhhh!!"[pcms]
 
 
 *7226|
 [fc]
-[ns]克己[nse]
-「ったく、なかなか死なないもんなぁ、コイツら……。[r]
-　まあ、殺すってのもゴメンだけどな……。[r]
-　お、開いてる開いてる！」[pcms]
+[ns]Kazumi[nse]
+"Geez, these guys don't die easily... Well, I'd rather not kill[r]
+them... Oh, it's open, it's open!"[pcms]
 
 
 *7227|
 [fc]
-目的地である非常階段。[r]
-その出入り口は、扉が開いたままだった。[pcms]
+The emergency staircase, my destination. The entrance door was left[r]
+open.[pcms]
 
 
 *7228|
 [fc]
-[ns]克己[nse]
-「開けたのは多分、[ruby text="ヤ　ツ　ら"][ch text="感染者"]だろうけど……。[r]
-　今は感謝しておくか！」[pcms]
+[ns]Kazumi[nse]
+"The one who opened it was probably an infected... But for now, I'm[r]
+grateful!"[pcms]
 
 [se buf1 storage="seA047"]
 ;;//♪SE走る足音
@@ -244,13 +237,13 @@
 
 *7229|
 [fc]
-危ない目に遭うこともなく、[r]
-俺は学園の中に入り込むことが出来た。[pcms]
+I managed to enter the school without any dangerous encounters.[pcms]
 
 
 *7230|
 [fc]
-あとは、丞実のいる教室にたどり着けば半分クリア！[pcms]
+Now, if I can reach the classroom where Tsugumi is, it's half a[r]
+victory![pcms]
 
 ;;//seフェード停止###[stop_se buf1]
 [stopse_fadeout buf1 time=1000]
@@ -261,48 +254,47 @@
 
 *7231|
 [fc]
-[ns]克己[nse]
-「よしよし……ヤツらもいなそうだ。[r]
-　さてと……」[pcms]
+[ns]Kazumi[nse]
+"Alright... It seems they're not around. Now then..."[pcms]
 
 
 *7232|
 [fc]
-アイツのいる所は、静ちゃんのメモから行くと、[r]
-２階の教室……このまま非常階段を昇って、[r]
-出てすぐの近くにある。[pcms]
+The place where she is located, according to Shizuka-chan's memo, is a[r]
+classroom on the second floor... I just need to go up the emergency[r]
+stairs and it's near the exit right away.[pcms]
 
 
 *7233|
 [fc]
-でも、万一２階の入り口扉が開いていなかったら、[r]
-どうしたらいい？[pcms]
+But what if the door to the second floor isn't open? What should I do[r]
+then?[pcms]
 
 
 *7234|
 [fc]
-安全策を取って、間違いなく入る事が出来る１階を通るか？[pcms]
+Should I take the safe route and make sure to enter through the first[r]
+floor which is guaranteed to be accessible?[pcms]
 
 
 *7235|
 [fc]
-……近道が目の前にあるのに、[r]
-わざわざ遠回りするってのもな……。[pcms]
+...It's hard to deliberately take a detour when there's a shortcut[r]
+right in front of me.[pcms]
 
 
 *7236|
 [fc]
-だけど大概、この手の状況って、[r]
-慌てるとロクな事ないんだ。[pcms]
+But usually, in situations like this, rushing leads to nothing good.[pcms]
 
 
 *7237|
 [fc]
-俺の場合は、どうすれば……！？[pcms]
+In my case, what should I do...!?[pcms]
 
 ;	[link storage="3012_goto_1F.ks" target=*3012_goto_1F]１階から中に侵入[endlink]
 ;	[link storage="3013_go_2F.ks" target=*3013_go_2F]２階から中に侵入[endlink]
-;	[s]
+;[pcms]
 
 *SEL15|１階から中に侵入／２階から中に侵入
 [fc]

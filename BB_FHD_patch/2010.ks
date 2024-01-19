@@ -32,31 +32,32 @@
 
 *5752|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *5753|
 [fc]
-俺は、今朝からの汗を流すためにシャワーを借りて、[r]
-その汚れを洗い落としていた。[pcms]
+I was borrowing the shower to wash off the sweat from this morning,[r]
+cleansing myself of the grime.[pcms]
 
 
 *5754|
 [fc]
-べたべたと、まとわりついていた不快感が消えて、[r]
-さっぱりとしてくる。[pcms]
+The sticky discomfort that had been clinging to me disappeared,[r]
+leaving me feeling refreshed.[pcms]
 
 
 *5755|
 [fc]
-でも……思い出すのは、玄関での丞実の声や様子ばかり。[pcms]
+But... all I could think about was Tsugumi's voice and appearance at[r]
+the entrance.[pcms]
 
 
 *5756|
 [fc]
-怨嗟の叫びが俺の鼓膜に刻まれたように、[r]
-何度も何度もリピートして再生されていた。[pcms]
+Her cries of resentment seemed to be etched into my eardrums,[r]
+replaying over and over again.[pcms]
 
 ;;//◆ＳＥ　壁ドン
 [se buf1 storage="seB010"]
@@ -66,19 +67,19 @@
 
 *5757|
 [fc]
-[ns]克己[nse]
-「くっ……」[pcms]
+[ns]Kazumi[nse]
+"Gah..."[pcms]
 
 
 *5758|
 [fc]
-あそこであの決断は正しかったはずだ。[pcms]
+The decision I made back there had to be the right one.[pcms]
 
 
 *5759|
 [fc]
-でも、理性だけでは計算できない何かを、[r]
-俺は失ってしまったような気がしていた。[pcms]
+Yet, I felt like I had lost something that couldn't be calculated with[r]
+reason alone.[pcms]
 
 ;;//seフェード停止###[stop_se buf2]
 [stopse_fadeout buf2 time=1000]
@@ -94,97 +95,93 @@
 
 *5760|
 [fc]
-怪我人がいるところとはべつの大部屋、[r]
-俺はそこに一人で座り込んでいた。[pcms]
+In a large room separate from where the injured were, I sat down[r]
+alone.[pcms]
 
 
 *5761|
 [fc]
-なんとなく、ボーッとしてしまって、[r]
-身体を動かそうという気力が沸いてこない。[pcms]
+Somehow, I just spaced out, unable to muster the energy to move my[r]
+body.[pcms]
 
 
 *5762|
 [fc]
-おそらく、人生最大のピンチを迎えているというのに、[r]
-俺は[ruby text="たぎ"]滾るものも恐れも、なにも考えられなかった。[pcms]
+Despite possibly facing the biggest crisis of my life, I couldn't feel[r]
+any surge of emotion or fear, nothing at all.[pcms]
 
 
 *5763|
 [fc]
-動けない体育の先生からシャツを借りて着替え、[r]
-それからずっとそのままだ。[pcms]
+After borrowing a shirt from the immobile gym teacher to change into,[r]
+I've just been sitting here ever since.[pcms]
 
 
 *5764|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *5765|
 [fc]
-丞実を助けてやれば良かったんだ。[r]
-俺はそのために来たんだから……。[pcms]
+I should have helped Tsugumi. That's what I came here for...[pcms]
 
 
 *5766|
 [fc]
-でも、俺には既に助けられない状態だったんじゃないのか？[pcms]
+But, wasn't she already beyond saving by the time I arrived?[pcms]
 
 
 *5767|
 [fc]
-一緒に破滅したい、変な願望でもあるんだろうか。[pcms]
+Do I have some strange desire to be ruined together with her?[pcms]
 
 
 *5768|
 [fc]
-いや、俺は丞実を見捨てたんだ。[pcms]
+No, I abandoned Tsugumi.[pcms]
 
 
 *5769|
 [fc]
-自分と、静ちゃんと、[r]
-ここに避難している多くの人間のために、[r]
-安全を選択したんだ。[pcms]
+For myself, for Shizuka-chan, and for the many people taking refuge[r]
+here, I chose safety.[pcms]
 
 
 *5770|
 ;旧ナンバー[vo_t s="tugumi0459"]
 [vo_t s="R_tug0309"]
-[ns]丞実[nse]
-「にぃ……ぁん」[pcms]
+[ns]Tsugumi[nse]
+"Nii... an"[pcms]
 
 
 *5771|
 [fc]
-[ns]克己[nse]
-「……ん？」[pcms]
+[ns]Kazumi[nse]
+"...Hm?"[pcms]
 
 
 *5772|
 [fc]
-誰かに呼ばれた気がした。[r]
-静ちゃんか？[pcms]
+I felt like someone called out to me. Was it Shizuka-chan?[pcms]
 
 
 *5773|
 ;旧ナンバー[vo_t s="tugumi0460"]
 [vo_t s="R_tug0310"]
-[ns]丞実[nse]
-「に……ちゃ……ん」[pcms]
+[ns]Tsugumi[nse]
+"Ni... chan"[pcms]
 
 
 *5774|
 [fc]
-これは……外からか？[r]
-兄ちゃん？[pcms]
+Is this... from outside? Brother?[pcms]
 
 
 *5775|
 [fc]
-俺は、恐る恐る窓から声の主を探して見る。[pcms]
+I cautiously looked out the window to find the source of the voice.[pcms]
 
 ;;//BGMフェードアウト
 [fadeoutbgm time=1000]
@@ -195,7 +192,7 @@
 
 *5776|
 [fc]
-すると、そこには……丞実の姿があった。[pcms]
+And there... was Tsugumi's figure.[pcms]
 
 [jump storage="2011H.ks" target=*2011H_TOP]
 

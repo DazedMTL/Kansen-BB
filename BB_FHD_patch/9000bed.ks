@@ -49,8 +49,8 @@
 
 *9562|
 [fc]
-[ns]克己[nse]
-「……これがあの日、おれの身に起きた全部のことだ」[pcms]
+[ns]Kazumi[nse]
+"...This is everything that happened to me that day."[pcms]
 
 ;;//bgm01-10
 [bgm storage="bgm01-10"]
@@ -64,17 +64,16 @@
 
 *9563|
 [fc]
-[ns]克己[nse]
-「さっきの娘、みただろ？　さっきの親父、みただろ？[r]
-　娘に襲われて、あげく親子そろって撃ち殺されたんだぜ？[r]
-　あの親父見てたらさあ、他人事と思えねえんだよ……」[pcms]
+[ns]Kazumi[nse]
+"You saw that girl earlier, right? And the old man? Attacked by his[r]
+daughter, and then both of them shot dead. Seeing that old man... I[r]
+can't just think of it as someone else's problem..."[pcms]
 
 
 *9564|
 [fc]
-[ns]克己[nse]
-「ん……？　俺が今、何してるかって？[r]
-　そりゃあ、おめえ……」[pcms]
+[ns]Kazumi[nse]
+"Hm...? What am I doing right now, you ask? Well, you see..."[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -90,24 +89,24 @@
 
 *9565|
 [fc]
-[ns]克己[nse]
-「あ！　あぎぃ……あったまいてえぇぇ！！　くっそ……。[r]
-　方向転換するだけでも一仕事だぜ……あがぁあぁっ！！」[pcms]
+[ns]Kazumi[nse]
+"Ah! Agii...my head's splitting!! Damn it... Even just turning around[r]
+is a huge effort...agahhh!!"[pcms]
 
 
 *9566|
 [fc]
-[ns]克己[nse]
-「ふうっ……あー、キっつ～……ん……？」[pcms]
+[ns]Kazumi[nse]
+"Phew...ah- that's rough...huh?"[pcms]
 
 ;;//s:大乱交イベントをココで
 
 
 *9567|
 [fc]
-[ns]克己[nse]
-「おーおー、ヤッてるヤッてる……。[r]
-　よくまあ、飽きないモンだぜ……」[pcms]
+[ns]Kazumi[nse]
+"Oh-oh, going at it, going at it... How can they not get tired of[r]
+it..."[pcms]
 
 ;;//s:コンビニ店内
 ;;//★コンビニ
@@ -116,76 +115,73 @@
 
 *9568|
 [fc]
-[ns]克己[nse]
-「でもさあ……まあ、大体は、なんとなく楽しいんだよ。[r]
-　でも、時々すっげぇ気分が悪いんだ。それが、今だ」[pcms]
+[ns]Kazumi[nse]
+"But you know... well, mostly, it's kind of fun. But sometimes I feel[r]
+really sick. Like now."[pcms]
 
 
 *9569|
 [fc]
-[ns]克己[nse]
-「あれほど嫌がってたんだ、しかたねえけど……。[r]
-　でも、今はもう諦めも付いたんだ。[r]
-　諦めるしかないってのもあるけどな」[pcms]
+[ns]Kazumi[nse]
+"She was so against it, no choice but to... But now I've come to[r]
+accept it. There's also nothing else but to accept it."[pcms]
 
 
 *9570|
 [fc]
-[ns]克己[nse]
-「何が最悪かって、そりゃお前、[r]
-　熱っぽいし、頭は割れるみたいに痛いし。[r]
-　何よりクセェんだよ、生ぐせ－！」[pcms]
+[ns]Kazumi[nse]
+"What's the worst part, you ask? Well, I'm feverish, my head feels[r]
+like it's splitting open. And above all, it stinks, the smell of[r]
+life!"[pcms]
 
 
 *9571|
 [fc]
-[ns]克己[nse]
-「まあ……風呂はいってねーしな！[r]
-　でも、モテるんだ、何気に……って、そりゃいいんだ」[pcms]
+[ns]Kazumi[nse]
+"Well... gotta take a bath and sleep! But I'm unexpectedly popular...[r]
+well, that's good."[pcms]
 
 
 *9572|
 [fc]
-[ns]克己[nse]
-「女が一杯群がってる所までは覚えてんだ。[r]
-　すっげー気持ちいい！　なんて思ってたらこのザマだ。[r]
-　その後は、記憶は途切れ途切れ……」[pcms]
+[ns]Kazumi[nse]
+"I remember being surrounded by a bunch of women. It felt so good! And[r]
+then this happened. After that, my memory is spotty..."[pcms]
 
 
 *9573|
 [fc]
-[ns]克己[nse]
-「なんだよ、その顔……。[r]
-　哀れみの表情？　やだな、やめてくれってそういうの！[r]
-　もー……わかった、わかった、はっきり言うって！」[pcms]
+[ns]Kazumi[nse]
+"What's with that face...? Pity? I hate that, stop it with that kind[r]
+of thing! I get it, I get it, I'll say it clearly!"[pcms]
 
 
 *9574|
 [fc]
-[ns]克己[nse]
-「俺は感染者になっちまったんだよ！」[pcms]
+[ns]Kazumi[nse]
+"I've become infected!"[pcms]
 
 
 *9575|
 [fc]
-[ns]克己[nse]
-「なんだよ、感染したのに普通だって？[r]
-　ばか、これが最悪って言ってるヤツだって」[pcms]
+[ns]Kazumi[nse]
+"What do you mean, 'I'm normal even though I'm infected'? Idiot, this[r]
+is what I'm saying is the worst."[pcms]
 
 
 *9576|
 [fc]
-[ns]克己[nse]
-「……戻りたくもねえのに、正気になっちまうって事だ。[r]
-　これが、最悪なんだ……何がなんだかわかんねえ、[r]
-　いつもの状態の方が幸せだ」[pcms]
+[ns]Kazumi[nse]
+"...I don't even want to go back, but I keep regaining my sanity.[r]
+That's the worst part... I don't understand anything, being in my[r]
+usual state is happier."[pcms]
 
 
 *9577|
 [fc]
-[ns]克己[nse]
-「つっても、いつもの状態って、どっちだ？[r]
-　ワケわかんねえよな、へっ……あ……うわっ」[pcms]
+[ns]Kazumi[nse]
+"Even so, what's my usual state? It's all so confusing,[r]
+heh...ah...whoa!"[pcms]
 
 ;;//s:SEガラガラ
 [se buf1 storage="seB099"]
@@ -198,109 +194,101 @@
 
 *9578|
 [fc]
-[ns]克己[nse]
-「うっ……うぇぇ……ふ、二日酔いみたい……。[r]
-　ってことは、キちまったかぁ？　うぅ……。[r]
-　も、もうすこし、こらえてくれ、脳みそ……」[pcms]
+[ns]Kazumi[nse]
+"Ugh...ughh...feels like a hangover... So I've snapped, huh? Ugh...[r]
+Just a little longer, hang in there, brain..."[pcms]
 
 
 *9579|
 [fc]
-[ns]克己[nse]
-「酔っ払いがフラつく理由がわかったよ……。[r]
-　めまいがするんだな、きっと。[r]
-　っつーか、体が硬くてな、歩きにくいんだ」[pcms]
+[ns]Kazumi[nse]
+"I understand why drunkards stagger around... It must be the[r]
+dizziness. Plus, my body is stiff and hard to move."[pcms]
 
 
 *9580|
 [fc]
-[ns]克己[nse]
-「……おい、手ェ貸せよ！　何だよ、助けてくれっての。[r]
-　スルーかよ！　酷いヤツだな、お前……。[r]
-　俺みたいなのには、触りたくねえってのかよ……」[pcms]
+[ns]Katsumi[nse]
+"...Hey, give me a hand! What do you mean, 'help me'? You're just[r]
+going to ignore me?! That's cold, man... You don't want to touch[r]
+someone like me, huh..."[pcms]
 
 
 *9581|
 [fc]
-[ns]克己[nse]
-「まあ、しかたねえな、俺、きったねーもんなぁ……。[r]
-　でも気にならないんだぜ、“アレ”ん時は、な」[pcms]
+[ns]Kazumi[nse]
+"Well, can't help it, I'm filthy... But it doesn't bother me 'during[r]
+that time', you know?"[pcms]
 
 
 *9582|
 [fc]
-[ns]克己[nse]
-「“アレ”っていうと、女のアレみたいだよな。[r]
-　まあ、感染者に“なりきった”時の事だよ。あれはもうね、[r]
-　夢みてるみたいなんだよ……何もかも楽しくて、哀しいんだぜ」[pcms]
+[ns]Kazumi[nse]
+"'That time' sounds like a woman's thing, huh. Well, it's when I'm[r]
+fully infected. It's like a dream... everything is fun and sad."[pcms]
 
 
 *9583|
 [fc]
-[ns]克己[nse]
-「それだけじゃねえんだよ、じかんかんかくがなくなるの。[r]
-　だからヒマしないんだけどさ、今みたくなると、ダメね」[pcms]
+[ns]Kazumi[nse]
+"It's not just that, you lose your sense of time. So you don't get[r]
+bored, but when you're like now, it sucks."[pcms]
 
 
 *9584|
 [fc]
-[ns]克己[nse]
-「なにするにもおっくうで、こまるんだ……。[r]
-　でも、ある程度あたまはっきりしてるからさ、[r]
-　こ、こうしてな？　こうして……」[pcms]
+[ns]Kazumi[nse]
+"Everything is a hassle and bothersome... But my head is somewhat[r]
+clear so I can do this, you know? Like this..."[pcms]
 
 
 *9585|
 [fc]
-[ns]克己[nse]
-「くそ、紙とペンとるだけだってのに」[pcms]
+[ns]Kazumi[nse]
+"Damn it, just grabbing a pen and paper is such a task."[pcms]
 
 
 *9586|
 [fc]
-[ns]克己[nse]
-「か、かね？　ああ、この店、大サービス中なんだよ。[r]
-　ここにあるもの全部タダだ、タダ。[r]
-　だって、てんいん、いねえんだもの。金もねえけど」[pcms]
+[ns]Kazumi[nse]
+"Money? Oh, this store is having a big service right now. Everything[r]
+here is free, free. Because there are no clerks. No money either."[pcms]
 
 
 *9587|
 [fc]
-[ns]克己[nse]
-「くそ……腕がこわばってよ……うまく、うごかねえんだよな。[r]
-　で、おれがしようとしてるのは、まあ……日記だ、日記。[r]
-　きろくをつけるってやつ？」[pcms]
+[ns]Kazumi[nse]
+"Damn...my arms are stiffening up...can't move them well. And what I'm[r]
+trying to do is, well... keep a diary, a diary. You know, keeping a[r]
+record?"[pcms]
 
 
 *9588|
 [fc]
-[ns]克己[nse]
-「…………。[r]
-　なにすんだっけ……。[r]
-　日記……にっきだ」[pcms]
+[ns]Kazumi[nse]
+"... What was I doing again... Diary...diary."[pcms]
 
 
 *9589|
 [fc]
-[ns]克己[nse]
-「へへっ……ば、ばかみてえ……。[r]
-　だれが、みるんだ？　こんなの。[r]
-　ありゃ、じ、じがかけない……こまったな」[pcms]
+[ns]Kazumi[nse]
+"Heh heh...stupid me... Who's going to read this? Something like this.[r]
+Ahh, I can't write properly...this is a problem."[pcms]
 
 
 *9590|
 [fc]
-[ns]克己[nse]
-「ほれ、あれだよ、アレほれ……。[r]
-　ええと……どうすっかな？[r]
-　ああ、そうだよ、そう……」[pcms]
+[ns]Kazumi[nse]
+"Look, that thing over there, that thing... Umm...what should I do? Ah[r]
+yes, that's right..."[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
 ;;//#_ブラックアウト
 [black_toplayer][extrans_c mosaic]
 
-;mm ノイズフェードだったとこどうしようかなぁ ランダムじゃなくてこれでどう？[pcms]
+;mm Noise fade was there what should we do about it maybe not random[r]
+how about this?[pcms]
 
 [wait time=500]
 ;;//s:コンビニ店内
@@ -312,10 +300,9 @@
 
 *9591|
 [fc]
-[ns]克己[nse]
-「おまえ、こーひーぎゅうにゅう、のむ？[r]
-　のみてぇなあ、こーひーぎゅうにゅう。[r]
-　すきだろ？　おまえも？」[pcms]
+[ns]Kazumi[nse]
+"Do you drink coffee milk? I want some coffee milk. You like it too,[r]
+don't you?"[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

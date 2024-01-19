@@ -23,170 +23,168 @@
 
 *9445a|
 [fc]
-[ns]克己[nse]
-「これが……。[r]
-　普通の、退屈な、つまんねー毎日が終わった日の全てだ」[pcms]
+[ns]Kazumi[nse]
+"This is... the end of an ordinary, boring, dull day."[pcms]
 
 
 *9445|
 [fc]
-[ns]克己[nse]
-「しいて言えば……みんなが、[r]
-　俺の事をある程度見直してくれたみたいだって事くらいか。[r]
-　まあ、そりゃ俺が嬉しいだけだけど……」[pcms]
+[ns]Kazumi[nse]
+"If I had to say... it seems like everyone has come to see me in a new[r]
+light. Well, that alone makes me happy..."[pcms]
 
 
 *9446|
 [fc]
-色んな所から煙が昇り、星が瞬く夜空を見つめながら、[r]
-俺は、あの日の出来事を思い返していた。[pcms]
+As smoke rose from various places and the stars twinkled in the night[r]
+sky, I found myself reminiscing about that day's events.[pcms]
 
 
 *9447|
 [fc]
-あのまま平和な日々が続いていたら、[r]
-こんな風に夜空を見上げる事なんて出来ていただろうか。[pcms]
+If those peaceful days had continued, would I have been able to gaze[r]
+up at the night sky like this?[pcms]
 
 
 *9448|
 [fc]
-[ns]克己[nse]
-「だからどうしたって言われたら、それまでだけどな……。[r]
-　ありゃ、コーヒー牛乳が……」[pcms]
+[ns]Kazumi[nse]
+"So what if they ask me what's next? That's it... Ah, the coffee milk[r]
+is..."[pcms]
 
 
 *9449|
 [fc]
-俺は、コーヒー牛乳の箱を空に向け、[r]
-顔に垂直に向けると、ぽたりと最後の一滴が口の中に飛び込んだ。[pcms]
+I tilted the box of coffee milk towards the sky, and as I held it[r]
+vertically to my face, the last drop fell into my mouth.[pcms]
 
 
 *9450|
 [fc]
-[ns]克己[nse]
-「うん、やっぱ美味いなコーヒー牛乳。[r]
-　コレが無くなったら、俺、死んじゃうかも……」[pcms]
+[ns]Kazumi[nse]
+"Yeah, coffee milk is definitely delicious. If I run out of this, I[r]
+might just die..."[pcms]
 
 
 *9451|
 [fc]
-ああ、こんな事、[r]
-静ちゃんや丞実に聞かれたら怒られるな。[pcms]
+Ah, if Shizuka-chan or Tsugumi heard me say such a thing, they'd get[r]
+mad at me.[pcms]
 
 
 *9452|
 [fc]
-[ns]克己[nse]
-「せっかく助かったんだから、死ぬとか言わないの！[r]
-　美樹だってがんばったんだから！！　……ってな」[pcms]
+[ns]Kazumi[nse]
+"You've been saved, so don't talk about dying! Miki worked hard too!![r]
+...is what they'd say."[pcms]
 
 
 *9453|
 [fc]
-大丈夫な様に見えていた美樹ちゃんだったけど、[r]
-救助されてすぐに、首の怪我がもとで倒れてしまった。[pcms]
+Miki-chan seemed fine at first, but right after being rescued, she[r]
+collapsed due to an injury on her neck.[pcms]
 
 
 *9454|
 [fc]
-どうやら、頸動脈すれすれまで、切れてしまっていたらしく、[r]
-一刻を争う状態。[pcms]
+Apparently, it was a close call, with the cut being dangerously close[r]
+to her carotid artery.[pcms]
 
 
 *9455|
 [fc]
-本間先生が、病院に連れて行ってくれと懇願したけど、[r]
-そこも感染者が一杯で近寄れない。[r]
-このままじゃ、生死に関わるって状況だった。[pcms]
+Dr. Honma pleaded to take her to the hospital, but it was full of[r]
+infected people and we couldn't get close. It was a matter of life and[r]
+death.[pcms]
 
 
 *9456|
 [fc]
-もうダメかも、なんて言って、[r]
-静ちゃんも丞実もボロボロ泣いて。[r]
-それに釣られて俺も泣いちまった。[pcms]
+Thinking it was all over, Shizuka-chan and Tsugumi cried their eyes[r]
+out. And their tears made me cry too.[pcms]
 
 
 *9457|
 [fc]
-だけど、自衛隊の隊員が必死に手当してくれて、[r]
-本間先生も手伝って……。[pcms]
+But the Self-Defense Force personnel desperately administered first[r]
+aid, and Dr. Honma helped...[pcms]
 
 
 *9458|
 [fc]
-その甲斐もあって、美樹ちゃんは一命を取り留め、[r]
-今ではすっかり元気になった。[pcms]
+Thanks to their efforts, Miki-chan pulled through and has now fully[r]
+recovered.[pcms]
 
 
 *9459|
 [fc]
-そして、この基地での生活が始まった。[pcms]
+And so began our life at this base.[pcms]
 
 
 *9460|
 [fc]
-感染者に取り囲まれてはいたけど、[r]
-さすが自衛隊の皆さんはよく訓練されていて、[r]
-基地から出さえしなければ、安全で居ることが出来た。[pcms]
+Although we were surrounded by infected people, the Self-Defense Force[r]
+personnel were well-trained and as long as we didn't leave the base,[r]
+we could stay safe.[pcms]
 
 
 *9461|
 [fc]
-尤も、基地から出る事も出来ないわけだけど。[pcms]
+Of course, we couldn't leave the base either.[pcms]
 
 
 *9462|
 [fc]
-そんでまあ、電源もあるし安全も確保されてるって事で、[r]
-俺達はそれぞれがそれぞれ、家族に連絡を取り始めた。[pcms]
+And so, with power and safety secured, each of us began to contact our[r]
+families.[pcms]
 
 
 *9463|
 [fc]
-誰一人として、家族と連携が取れた人はいなかったけど……。[pcms]
+Not a single one of us was able to get in touch with our families...[pcms]
 
 
 *9464|
 [fc]
-そのことが、みんなを苛立たせた。[pcms]
+This fact frustrated everyone.[pcms]
 
 
 *9465|
 [fc]
-――更にマズいのは、“ここ”が、[r]
-いつまでも安全だとは、言っていられなくなってきたって事だ。[pcms]
+--What's worse is that "this place can't be said to be safe forever[r]
+anymore."[pcms]
 
 
 *9466|
 [fc]
-はじめのウチは、この基地に自衛隊の部隊が沢山集まってきた。[r]
-他の基地より、武器弾薬燃料の備蓄が多かったかららしい。[pcms]
+In the beginning, many Self-Defense Force units gathered at this base[r]
+because it had more stockpiles of weapons, ammunition, and fuel than[r]
+other bases.[pcms]
 
 
 *9467|
 [fc]
-だけど当然、次第に燃料も弾薬も使えば減っていく。[pcms]
+But naturally, fuel and ammunition would decrease as they were used.[pcms]
 
 
 *9468|
 [fc]
-ついには、一日に使える弾薬や燃料に使用制限命令が出たらしく、[r]
-俺達みたいに生き残ったヤツらの捜索や、[r]
-物資調達の為の外出が中断されてしまった。[pcms]
+Eventually, there were orders to limit the use of ammunition and fuel[r]
+per day, and missions to search for survivors like us or to go out for[r]
+supplies were suspended.[pcms]
 
 
 *9469|
 [fc]
-[ns]克己[nse]
-「つっても、外に行かなきゃ手に入らないものもあるわけで。[r]
-　コッソリ出て行くヤツもいたけど……よくまあ、[r]
-　あんな中を歩けるよなぁ……さすが自衛隊だ」[pcms]
+[ns]Kazumi[nse]
+"Even so, there are things that can only be obtained by going outside.[r]
+Some people sneaked out... It's amazing how they can walk through that[r]
+chaos... That's the Self-Defense Force for you."[pcms]
 
 
 *9470|
 [fc]
-空に向け続けていた首を、今度は真逆の地面へと向ける。[pcms]
+I turned my neck away from the sky and now faced the ground instead.[pcms]
 
 ;;//♪SE感染者の呻き
 
@@ -197,131 +195,127 @@
 
 *9471|
 [fc]
-眼下には、阿鼻叫喚の地獄絵図が広がっている。[r]
-状況は、何にも変わってない。[pcms]
+Beneath my eyes was a hellish scene of chaos and screaming. The[r]
+situation hadn't changed at all.[pcms]
 
 
 *9472|
 [fc]
-それどころか、むしろ悪くなる一方。[pcms]
+If anything, it was only getting worse.[pcms]
 
 
 *9473|
 [fc]
-ドブネズミが繁殖するみたいに、ヤツらの数は爆発的に増えて、[r]
-今じゃ、俺達以外にまともな人間はいないんじゃないか、[r]
-なんて思えるほどだ。[pcms]
+Like rats breeding in a sewer, their numbers exploded, and now it[r]
+seems like there are no sane humans left other than us.[pcms]
 
 
 *9474|
 [fc]
-[ns]克己[nse]
-「乗っ取られた、って感じだな……。[r]
-　恐竜の時代が終わって、俺らほ乳類の時代が来た……って所か？[r]
-　それにしちゃ、あんな化け物ばっかりでどうなる事やら」[pcms]
+[ns]Kazumi[nse]
+"It feels like we've been overtaken... Like when the age of dinosaurs[r]
+ended and our era of mammals began. But with all those monsters[r]
+around, who knows what will happen."[pcms]
 
 
 *9475|
 [fc]
-まあ、希望が全く無いわけじゃない。[pcms]
+Well, it's not like there's no hope at all.[pcms]
 
 
 *9476|
 [fc]
-逃げ出したと思っていた政府首脳陣は、[r]
-三宅島や伊豆大島に避難して、[r]
-そこで対策を練っているらしい。[pcms]
+The government leaders we thought had fled were actually taking refuge[r]
+on Miyake Island and Izu Oshima, where they seem to be devising[r]
+strategies.[pcms]
 
 
 *9477|
 [fc]
-国としての機能は、かろうじて生きてるって事だ。[pcms]
+The functions of the nation are barely alive.[pcms]
 
 
 *9478|
 [fc]
-そのおかげ……なのかどうか定かじゃ無いけど、[r]
-明日の朝には、世界最強の軍隊による対感染者作戦が展開される。[pcms]
+Thanks to that... or not sure if it's thanks to that, but tomorrow[r]
+morning, the world's strongest military will launch an operation[r]
+against the infected.[pcms]
 
 
 *9479|
 [fc]
-感染者を一掃するため、[r]
-ここら一帯……それ以外にも、ガス散布するって話だ。[pcms]
+To eradicate the infected, they're going to disperse gas over this[r]
+area... and other places too.[pcms]
 
 
 *9480|
 [fc]
-[ns]克己[nse]
-「自分の国で対応できりゃ一番なんだけどな。[r]
-　まあ、原因があっちにあるんだから、[r]
-　この位はして然るべきだしなぁ……」[pcms]
+[ns]Kazumi[nse]
+"It would be best if our own country could handle it. But since the[r]
+cause is over there, it's only right that they do this much..."[pcms]
 
 
 *9481|
 [fc]
-どんなガスか、聞いとくのを忘れたけど、[r]
-人体に影響があるモノなんだろう。[r]
-マトモに吸い込んだら、俺らも死ぬね。[pcms]
+I forgot to ask what kind of gas it is, but it must be something that[r]
+affects humans. If we breathe it in properly, we'll die too.[pcms]
 
 
 *9482|
 [fc]
-[ns]克己[nse]
-「失敗したな、自衛隊の人の誘い受けておくんだったぜ。[r]
-　それかやっぱり、セスカさんにくっついて行けばよかったかな」[pcms]
+[ns]Kazumi[nse]
+"I made a mistake; I should have accepted the invitation from the[r]
+Self-Defense Force personnel. Or maybe I should have stuck with Ms.[r]
+Vasquez."[pcms]
 
 
 *9483|
 [fc]
-あの日、俺を助けてくれたセスカさんには、[r]
-この基地で再会する事が出来た……けど――[pcms]
+That day, Ms. Vasquez who saved me... I was able to reunite with her[r]
+at this base--but--[pcms]
 
 
 *9484|
 [fc]
-都内の何処かにいる身内を助けると、[r]
-ココを出て行ってしまった。[pcms]
+She left this place to save a family member somewhere in Tokyo.[pcms]
 
 
 *9485|
 [fc]
-そもそも、俺達が全員乗ってしまったら、[r]
-セスカさんが身内を見つけても、[r]
-定員オーバーになっちまうかも知れないしな。[pcms]
+After all, if all of us got on board, Senju-san might not be able to[r]
+find her family due to overcapacity.[pcms]
 
 
 *9486|
 [fc]
-そんなこんなで、ここから出てどうするんだ？[r]
-って思うに至った訳だ。[pcms]
+With all that in mind, I ended up wondering what to do after leaving[r]
+here.[pcms]
 
 
 *9487|
 [fc]
-ココを出ても、行き先があるのかどうか分からないし、[r]
-ガス散布さえ乗り切る事が出来れば、感染者の驚異は減って、[r]
-むしろ安全かもしれないなんて思った訳だ。[pcms]
+If we leave here, we don't even know if there's a place to go, and if[r]
+we can survive the gas dispersal, the threat of the infected might[r]
+decrease, and it might actually be safer.[pcms]
 
 
 *9488|
 [fc]
-自衛隊の人達の中にも、俺と同じ考えの人が結構いて、[r]
-この基地に残っていたりもする。[pcms]
+There are quite a few people among the Self-Defense Forces who think[r]
+the same as me, and they've stayed at this base.[pcms]
 
 
 *9489|
 [fc]
-そんな彼らと共に、俺達はガス避けにと、[r]
-窓やドアを封印したりして、今日一日が終わった。[pcms]
+Together with them, we spent the whole day sealing windows and doors[r]
+to avoid the gas.[pcms]
 
 
 *9490|
 [fc]
-[ns]克己[nse]
-「あとは、ガス散布待ち……。[r]
-　息苦しいのが続きそうだから、[r]
-　新鮮な空気を取り込んでおかないと」[pcms]
+[ns]Katsumi[nse]
+"All that's left is to wait for the gas dispersal... I need to breathe[r]
+in some fresh air because it's going to be suffocating."[pcms]
 
 ;;//seフェード停止###[stop_se buf3]
 ;mmmmm ここはもともと何も鳴ってないな　うめき声指定っぽいけど
@@ -334,211 +328,204 @@
 
 *9491|
 [fc]
-俺は、深呼吸をしながら空を見上げる。[pcms]
+I take a deep breath while looking up at the sky.[pcms]
 
 
 *9492|
 [fc]
-[ns]克己[nse]
-「やれることは、大体やったよな。[r]
-　あとは、明日のガス様に期待しよう」[pcms]
+[ns]Katsumi[nse]
+"We've pretty much done everything we can. Now, let's hope for the[r]
+best with tomorrow's gas."[pcms]
 
 
 *9493|
 [fc]
-明日の今頃、もう一回ココに来て、[r]
-地面を見下ろすんだ。[pcms]
+By this time tomorrow, I'll come back here and look down at the[r]
+ground.[pcms]
 
 
 *9494|
 [fc]
-その時にはきっと、イカれた連中も居なくなってる筈だ。[r]
-あんな地獄絵図を見るのは今夜限りで終わり。[pcms]
+By then, surely those crazed people will be gone. This hellish sight[r]
+will end tonight.[pcms]
 
 
 *9495|
 [fc]
-[ns]克己[nse]
-「そうあって欲しいな。[r]
-　ダメなら、発狂したフリでもしてストレス解消するか。[r]
-　……なんて言っても丞実に怒られちまうなあ……」[pcms]
+[ns]Kazumi[nse]
+"I hope so. If not, I might pretend to go mad just to relieve some[r]
+stress... Though Tsugumi would scold me for saying that..."[pcms]
 
 
 *9496|
 [fc]
-まあ、アイツのおかげで、[r]
-今こうしてボヤいていられるってのもあるんだよな。[pcms]
+Well, it's also thanks to her that I'm able to complain like this now.[pcms]
 
 
 *9497|
 [fc]
-ポケットにねじ込んだ携帯を取り出し、[r]
-留守電に残された携帯の留守番メッセージを再生する。[pcms]
+I take out my mobile phone crammed into my pocket and play back the[r]
+voicemail message left on it.[pcms]
 
 
 *9498|
 ;旧ナンバー[vo_t s="tugumi0723"]
 [マイク 位置７ ch=t][vo_t s="R_tug_BIN0307"]
-[ns]丞実[nse]
-「兄ちゃん、ちゃんと電話してよね！[r]
-　まあ、生きてるんならそれでいいけど」[pcms]
+[ns]Tsugumi[nse]
+"Big brother, make sure you call me! Well, as long as you're alive,[r]
+that's fine."[pcms]
 
 
 *9499|
 [fc]
-[ns]克己[nse]
-「へへっ……こんなの吹き込んでたなんて、[r]
-　全然気が付かなかったぜ」[pcms]
+[ns]Kazumi[nse]
+"Heh... I had no idea she recorded such a message."[pcms]
 
 
 *9500|
 [fc]
-こんな風に心配してくれる丞実を助けに、学園に向かった。[r]
-そうしてなかったら、今俺はココにいなかったかもしれないな。[pcms]
+I went to the academy to save Tsugumi who was worried about me like[r]
+this. If I hadn't done that, I might not be here right now.[pcms]
 
 
 *9501|
 [fc]
-もちろん、あんなに危ない目に遭うこともなく、[r]
-安全に過ごしていたかも知れないけど。[pcms]
+Of course, I might have been safe and sound without encountering such[r]
+danger.[pcms]
 
 
 *9502|
 [fc]
-だけど、そうしていたら……今頃はお袋と一緒だったのかな……？[pcms]
+But if I had done that... would I be with mom right now...?[pcms]
 
 
 *9503|
 [fc]
-丞実の吹き込んだ留守電に続き、[r]
-消さずに残してある声を再生する。[pcms]
+Following Tsugumi's voicemail, I play another message that I've kept[r]
+without deleting.[pcms]
 
 
 *9504|
 [fc]
 [vo_mob s="R_katumi_mother0001"]
-[ns]克己の母[nse]
-「ちゃんとご飯は食べてるの？[r]
-　まあ、アンタが元気で生きてるんなら、[r]
-　それだけでもいいんだけど。そうそう、お父さんがね……」[pcms]
+[ns]Kazumi's mother[nse]
+"Are you eating properly? Well, as long as you're healthy and alive,[r]
+that's good enough. Oh yes, your father..."[pcms]
 
 
 *9505|
 [fc]
-退屈な日々の、何気ないお袋の声だ。[pcms]
+It's just a casual voice of my mother from the boring days.[pcms]
 
 
 *9506|
 [fc]
-きっと、無事だ。[r]
-きっと、この留守電に入れた時と同じ声で、[r]
-親父と、俺達が無事だって事を話し合ってるんだ。[pcms]
+She must be safe. Surely, with the same voice as when she left this[r]
+voicemail, she's discussing with dad that we're safe.[pcms]
 
 
 *9507|
 [fc]
-この留守電の声を聞いてからずっと、[r]
-そう自分に言い聞かせてきた。[pcms]
+I've been telling myself that ever since I heard this voicemail.[pcms]
 
 
 *9508|
 [fc]
-だけど――[pcms]
+But--[pcms]
 
 
 *9509|
 [fc]
-[ns]克己[nse]
-「俺は生きてるよ……。俺は、生きてるよ……。[r]
-　だけどさ、どうやって知らせりゃいいんだよ！！[r]
-　電話にでねえじゃねえかよ！！」[pcms]
+[ns]Kazumi[nse]
+"I'm alive... I'm alive... But how do I let them know!! They're not[r]
+answering the phone!!"[pcms]
 
 
 *9510|
 [fc]
-あの日以降、何度も電話を掛けているのに、[r]
-お袋は電話に出る事はなかった。[pcms]
+Since that day, I've called many times, but mom never answered the[r]
+phone.[pcms]
 
 
 *9511|
 [fc]
-それどころか、今はもう呼び出し音すら無くなっちまった。[pcms]
+Now, there's not even a ringing sound anymore.[pcms]
 
 
 *9512|
 [fc]
-[ns]克己[nse]
-「くそっ……どうなったかくらい、教えてくれよ！！[r]
-　ううっ……ううぅうぅっ……お袋！　親父！」[pcms]
+[ns]Kazumi[nse]
+"Damn it... at least let me know what happened!! Ugh... ughhh... Mom![r]
+Dad!"[pcms]
 
 
 *9513|
 [fc]
-缶の底に残ったコーヒー牛乳を最後まで飲みきろうと、[r]
-もう一度、空に垂直に立て口の上で振る。[pcms]
+I try to drink up the last of the coffee milk left at the bottom of[r]
+the can by holding it upright and shaking it above my mouth.[pcms]
 
 
 *9514|
 [fc]
-もちろん、俺の顔も空と垂直だ。[pcms]
+Of course, my face is also vertical to the sky.[pcms]
 
 
 *9515|
 [fc]
-すると、目尻から耳の穴に向けて、生ぬるい液体が流れていく。[pcms]
+Then, a lukewarm liquid flows from the corner of my eyes towards my[r]
+ear canal.[pcms]
 
 
 *9516|
 [fc]
-[ns]克己[nse]
-「くっそぉおっ！！　泣いてどうすんだよ、[r]
-　まだどうなってるか、確認してねえじゃん！[r]
-　うううっ！！　くそおおおっ！！」[pcms]
+[ns]Kazumi[nse]
+"Damn it!! What's crying going to do, I haven't even confirmed what[r]
+happened yet! Ughhh!! Damn it!!"[pcms]
 
 
 *9517|
 [fc]
-もう、会えないのかな……。[r]
-こんな事なら、ホント、もっと親孝行しておくべきだった……。[pcms]
+I wonder if I'll never see them again... If it had come to this, I[r]
+really should have been more filial...[pcms]
 
 
 *9518|
 [fc]
-[ns]克己[nse]
-「お袋！！　親父いぃいっ！！」[pcms]
+[ns]Kazumi[nse]
+"Mom!! Dad!!"[pcms]
 
 
 *9519|
 [fc]
-俺は泣きながら、カラになったコーヒー牛乳の箱を、[r]
-下に群がる感染者達に向けて放り投げ、叫んだ。[pcms]
+Crying, I throw the empty box of coffee milk towards the infected[r]
+swarming below and scream.[pcms]
 
 
 *9520|
 ;旧ナンバー[vo_t s="tugumi0724"]
 [マイク 位置７ ch=t][vo_t s="R_tug_BIN0308"]
-[ns]丞実[nse]
-「おかわり持ってきたよ……兄ちゃん」[pcms]
+[ns]Tsugumi[nse]
+"I brought you a refill... Big brother."[pcms]
 
 ;;//ここから下、イベント絵まで立ちキャラ無し
 
 
 *9521|
 [fc]
-[ns]克己[nse]
-「え……」[pcms]
+[ns]Kazumi[nse]
+"Eh..."[pcms]
 
 
 *9522|
 [fc]
-すると、真横からスッとコーヒー牛乳の箱が差し出される。[pcms]
+Then, a box of coffee milk is smoothly handed to me from the side.[pcms]
 
 
 *9523|
 ;旧ナンバー[vo_s s="sizuka0477"]
 [マイク 位置３ ch=s][vo_s s="R_siz_BIN0226"]
-[ns]静[nse]
-「克己さん……」[pcms]
+[ns]Shizuka[nse]
+"Kazumi-san..."[pcms]
 
 ;;//ここから下、イベント絵まで立ちキャラ無し
 
@@ -546,8 +533,8 @@
 *9524|
 ;旧ナンバー[vo_h s="honma0220"]
 [マイク 位置４ ch=h][vo_h s="R_hon_BIN0112"]
-[ns]本間[nse]
-「……キミらしくないな、涙声なんて」[pcms]
+[ns]Honma[nse]
+"It's not like you to sound so teary."[pcms]
 
 ;;//ここから下、イベント絵まで立ちキャラ無し
 
@@ -555,51 +542,51 @@
 *9525|
 ;旧ナンバー[vo_mk s="miki0120"]
 [マイク 位置６ ch=m][vo_m s="R_miki_BIN0053"]
-[ns]美樹[nse]
-「そうですよ、克己さん……。[r]
-　いつもの元気は、どうしたの？」[pcms]
+[ns]Miki[nse]
+"That's right, Kazumi-san... Where's your usual energy?"[pcms]
 
 ;;//ここから下、イベント絵まで立ちキャラ無し
 
 
 *9526|
 [fc]
-どうやら、封印作業を手伝っていたみんなも、[r]
-屋上に来たらしい。[pcms]
+It seems that everyone who was helping with the sealing work has also[r]
+come to the rooftop.[pcms]
 
 
 *9527|
 [fc]
-丞実や、静ちゃん、本間先生に美樹ちゃん。[r]
-それぞれが、優しげな声を俺の背中に向ける。[pcms]
+Tsugumi, Shizuka-chan, Honma-sensei, and Miki-chan. Each of them[r]
+directs their gentle voices towards my back.[pcms]
 
 
 *9528|
 [fc]
-その声を聞いて、俺は再確認する。[pcms]
+Hearing their voices, I reaffirm something.[pcms]
 
 
 *9529|
 [fc]
-俺は、一人じゃ無いって事を。[pcms]
+That I'm not alone.[pcms]
 
 
 *9530|
 [fc]
-――俺は、この人達を助け出す事が出来たんだって事を。[pcms]
+--That I was able to save these people.[pcms]
 
 
 *9531|
 [fc]
-[ns]克己[nse]
-「あ、ああ……ちょっと、叫んでみたくなったんだよ。[r]
-　よし、コーヒーくれよ、丞実！！」[pcms]
+[ns]Kazumi[nse]
+"Ah, yeah... I just felt like shouting. Alright, give me the coffee[r]
+milk, Tsugumi!!"[pcms]
 
 
 *9532|
 [fc]
-丞実の差し出していたコーヒー牛乳を受け取りながら、[r]
-流れていた涙をコッソリ拭いながら、声のした方向に振り返る。[pcms]
+While receiving the coffee milk that Tsugumi was holding out, I[r]
+secretly wipe away the tears and turn towards where the voices came[r]
+from.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -611,45 +598,44 @@
 ;;//●基地施設の屋上。
 ;;//自販機のコーヒー牛乳を飲む克己。
 ;;//丞実の静を抱いている。
-;;//手前に丞実、背後に本間と美樹もいる。[pcms]
+;;//Tsugumi is in front of me, with Honma and Miki also behind.[pcms]
 
 
 *9533|
 ;旧ナンバー[vo_t s="tugumi0725"]
 [マイク 位置７ ch=t][vo_t s="R_tug_BIN0309"]
-[ns]丞実[nse]
-「ほんと、兄ちゃんこれ好きだよねぇ……。[r]
-　飽きないの？」[pcms]
+[ns]Tsugumi[nse]
+"Really, big brother, you sure love this stuff... Don't you ever get[r]
+tired of it?"[pcms]
 
 
 *9534|
 [fc]
-[ns]克己[nse]
-「こんなに美味いんだぜ？　飽きるワケないだろ。[r]
-　そうだ！　この騒ぎが収まったら俺、[r]
-　コーヒー牛乳作ってる会社に就職しよ！！」[pcms]
+[ns]Kazumi[nse]
+"How could I get tired of something this delicious? That's it! Once[r]
+this mess is over, I'm gonna get a job at the coffee milk company!!"[pcms]
 
 
 *9535|
 ;旧ナンバー[vo_s s="sizuka0478"]
 [マイク 位置３ ch=s][vo_s s="R_siz_BIN0227"]
-[ns]静[nse]
-「ふふっ……就職出来たら私、[r]
-　克己さんの作るコーヒー牛乳、毎日買いに行きますよ」[pcms]
+[ns]Shizuka[nse]
+"Hehe... If you get the job, I'll buy the coffee milk you make every[r]
+day."[pcms]
 
 
 *9536|
 [fc]
-[ns]克己[nse]
-「おう！　来てくれ、ガンガン来てくれ！」[pcms]
+[ns]Kazumi[nse]
+"Yeah! Come on over, come over in droves!"[pcms]
 
 
 *9537|
 ;旧ナンバー[vo_t s="tugumi0726"]
 [マイク 位置７ ch=t][vo_t s="R_tug_BIN0310"]
-[ns]丞実[nse]
-「あのさ、これ、工場生産じゃないの……。[r]
-　兄ちゃんが作るワケじゃないんじゃ……」[pcms]
+[ns]Tsugumi[nse]
+"But you know, isn't this produced in a factory...? It's not like[r]
+you'll be making it yourself..."[pcms]
 
 ;;//■イベントCG　end_001
 [evcg storage="END01e"][trans_c cross time=1000]
@@ -658,8 +644,8 @@
 *9538|
 ;旧ナンバー[vo_h s="honma0221"]
 [マイク 位置４ ch=h][vo_h s="R_hon_BIN0113"]
-[ns]本間[nse]
-「ふふっ……細かい事は突っ込まないであげたら？」[pcms]
+[ns]Honma[nse]
+"Hehe... Why don't we just not sweat the small stuff?"[pcms]
 
 ;;//■イベントCG　end_001
 [evcg storage="END01f"][trans_c cross time=1000]
@@ -668,65 +654,61 @@
 *9539|
 ;旧ナンバー[vo_mk s="miki0121"]
 [マイク 位置６ ch=m][vo_m s="R_miki_BIN0054"]
-[ns]美樹[nse]
-「そうだよ、丞実ちゃん！[r]
-　私も最近、コーヒー牛乳にハマってきたし。[r]
-　就職、がんばってね克己さん！」[pcms]
+[ns]Miki[nse]
+"That's right, Tsugumi-chan! I've been getting into coffee milk lately[r]
+too. Good luck with the job hunt, Kazumi-san!"[pcms]
 
 
 *9540|
 [fc]
-[ns]克己[nse]
-「そこまで言われたら、失敗は許されないよな！[r]
-　よし、任せとけ！！　みんなコーヒー牛乳で溺れさせてやンぜ！[r]
-　覚悟しとけよ！」[pcms]
+[ns]Kazumi[nse]
+"After being told that much, failure is not an option! Alright, leave[r]
+it to me!! I'll drown everyone in coffee milk! Be prepared!"[pcms]
 
 
 *9541|
 ;旧ナンバー[vo_t s="tugumi0727"]
 [マイク 位置７ ch=t][vo_t s="R_tug_BIN0311"]
-[ns]丞実[nse]
-「溺れさせてどうすんのよ……。[r]
-　でも、兄ちゃん……がんばろうね！」[pcms]
+[ns]Tsugumi[nse]
+"Drown us? What are you talking about... But let's do our best, big[r]
+brother!"[pcms]
 
 
 *9542|
 [fc]
-[ns]克己[nse]
-「ああ……」[pcms]
+[ns]Kazumi[nse]
+"Yeah..."[pcms]
 
 
 *9543|
 [fc]
-就職……か。[r]
-まあ、今後この国がどうなるかさっぱり分からないけど、[r]
-生きてりゃ何とかなるだろう。[pcms]
+Employment... huh. Well, I have no idea what will happen to this[r]
+country in the future, but if we're alive, we'll manage somehow.[pcms]
 
 
 *9544|
 [fc]
-それこそ、死んだらコーヒー牛乳が飲めなくなっちまうし。[pcms]
+After all, if we die, we won't be able to drink coffee milk anymore.[pcms]
 
 
 *9545|
 [fc]
-とりあえずは明日を乗り越えて、[r]
-こうしてみんなで笑い合おう。[pcms]
+For now, let's overcome tomorrow and laugh together like this.[pcms]
 
 
 *9546|
 [fc]
-――これからも、ずっと！[pcms]
+--Forever and ever![pcms]
 
 
 *9547|
 [fc]
-そんな風に、決意を堅めた矢先。[pcms]
+Just as I was firming up that resolve.[pcms]
 
 
 *9548|
 [fc]
-電気回路が焦げる匂いが鼻を突き――[pcms]
+The smell of burning electrical circuits hits my nose--[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -749,7 +731,7 @@
 
 *9549|
 [fc]
-視界の至る所で火花が散る。[pcms]
+Sparks scatter everywhere in my field of vision.[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -757,15 +739,14 @@
 
 *9550|
 [fc]
-[ns]克己[nse]
-「ぎゃ！」[pcms]
+[ns]Kazumi[nse]
+"Gyah!"[pcms]
 
 
 *9551|
 [fc]
-そして、次の瞬間。[r]
-お誕生日ケーキの蝋燭を吹き消すみたいに、[r]
-サーッと街の灯りが消えていく。[pcms]
+And then, in the next moment. Like blowing out the candles on a[r]
+birthday cake, the city lights suddenly go out.[pcms]
 
 ;;//〆黒画面
 
@@ -773,48 +754,48 @@
 *9552|
 ;旧ナンバー[vo_t s="tugumi0728"]
 [マイク 位置７ ch=t][vo_t s="R_tug_BIN0312"]
-[ns]丞実[nse]
-「な、何コレ！？　真っ暗だ！」[pcms]
+[ns]Tsugumi[nse]
+"What's this!? It's pitch black!"[pcms]
 
 
 *9553|
 ;旧ナンバー[vo_s s="sizuka0479"]
 [マイク 位置３ ch=s][vo_s s="R_siz_BIN0228"]
-[ns]静[nse]
-「基地の灯りも全部消えてますよ！？」[pcms]
+[ns]Shizuka[nse]
+"All the lights at the base are out too!?"[pcms]
 
 
 *9554|
 [fc]
-[ns]克己[nse]
-「おいおい……マジかよ……。[r]
-　これ、今晩どうするんだよ……」[pcms]
+[ns]Kazumi[nse]
+"Hey hey... You've got to be kidding me... What are we going to do[r]
+tonight..."[pcms]
 
 
 *9555|
 ;旧ナンバー[vo_t s="tugumi0729"]
 [マイク 位置７ ch=t][vo_t s="R_tug_BIN0313"]
-[ns]丞実[nse]
-「何、兄ちゃん怖いの？[r]
-　添い寝してあげよっか？」[pcms]
+[ns]Tsugumi[nse]
+"What's wrong, big brother? Are you scared? Should I sleep next to[r]
+you?"[pcms]
 
 
 *9556|
 ;旧ナンバー[vo_s s="sizuka0480"]
 [マイク 位置３ ch=s][vo_s s="R_siz_BIN0229"]
-[ns]静[nse]
-「じゃあ、私もそうしようかな……？　ふふっ」[pcms]
+[ns]Shizuka[nse]
+"Then maybe I should do the same...? Hehe."[pcms]
 
 
 *9557|
 [fc]
-[ns]克己[nse]
-「ばっ……バカな事言ってんじゃねえよ！」[pcms]
+[ns]Kazumi[nse]
+"Don't say stupid things!"[pcms]
 
 
 *9558|
 [fc]
-ホントは、添い寝されたいんだけどな！！[pcms]
+I really want them to sleep next to me though!![pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -877,22 +858,22 @@
 *9559|
 ;旧ナンバー[vo_t s="tugumi0730"]
 [マイク 位置７ ch=t][vo_t s="R_tug_BIN0314"]
-[ns]丞実[nse]
-「わぁ……綺麗！！」[pcms]
+[ns]Tsugumi[nse]
+"Wow... It's beautiful!!"[pcms]
 
 
 *9560|
 ;旧ナンバー[vo_s s="sizuka0481"]
 [マイク 位置３ ch=s][vo_s s="R_siz_BIN0230"]
-[ns]静[nse]
-「東京でも、こんなに星が見えるんですね！[r]
-　凄い……絵に描いたみたい！」[pcms]
+[ns]Shizuka[nse]
+"Even in Tokyo, you can see so many stars! It's amazing... It looks[r]
+like a painting!"[pcms]
 
 
 *9561|
 [fc]
-[ns]克己[nse]
-「すっげーな、オイ！！」[pcms]
+[ns]Kazumi[nse]
+"This is awesome, man!!"[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

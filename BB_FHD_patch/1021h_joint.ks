@@ -25,39 +25,39 @@
 *3834|
 ;旧ナンバー[vo_s s="sizuka0155"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0027"]
-[ns]静[nse]
-「ふふ……克己さん……。[r]
-　すっごい、逞しい体……。[r]
-　はぁ……意外と鍛えてるんですね……」[pcms]
+[ns]Shizuka[nse]
+"Hehe... Kazumi-san... Such an amazing, sturdy body... Haa... You've[r]
+been working out more than I expected..."[pcms]
 
 
 *3835|
 [fc]
-[ns]克己[nse]
-「え……え？　いや、そ、そうでも……。[r]
-　じゃなくて、何してるの静ちゃん！？」[pcms]
+[ns]Kazumi[nse]
+"Eh... Eh? No, well, not really... That's not the point, what are you[r]
+doing, Shizuka-chan!?"[pcms]
 
 
 *3836|
 ;旧ナンバー[vo_s s="sizuka0156"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0028"]
-[ns]静[nse]
-「何って……？　大好きな克己さんに抱きついてるんですよ？」[pcms]
+[ns]Shizuka[nse]
+"What do you mean 'what'? I'm just hugging my beloved Kazumi-san,[r]
+that's all."[pcms]
 
 
 *3837|
 [fc]
-[ns]克己[nse]
-「いや、だから！　こんなのダメだって！[r]
-　だって俺、裸なんだぞ！　離れてくれよ静ちゃん！」[pcms]
+[ns]Kazumi[nse]
+"No, I mean! This isn't right! Because, I'm naked here! Get off me,[r]
+Shizuka-chan!"[pcms]
 
 
 *3838|
 ;旧ナンバー[vo_s s="sizuka0157"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0029"]
-[ns]静[nse]
-「裸だって、良いじゃないですか。[r]
-　だって、くっついたら気持ちいいんだもの……」[pcms]
+[ns]Shizuka[nse]
+"Even if you're naked, it's fine, isn't it? Because it feels good when[r]
+we're close like this..."[pcms]
 
 [chara_int][trans_c cross time=150]
 ;mmmm 全部右かなぁ
@@ -66,22 +66,20 @@
 
 *3839|
 [fc]
-何言ってんだ、この子……。[r]
-でも、こんなに可愛い子に密着されたら、[r]
-俺の愚息が、すくすく育つ……！！[pcms]
+What is she saying... But when such a cute girl clings to me like[r]
+this, my foolish son down there is growing vigorously...!![pcms]
 
 
 *3840|
 [fc]
-ヤバイ、ボッキしそうなのが静ちゃんにバレちまう！[r]
-軽蔑されちまうううぅぅぅ！！[pcms]
+Damn, she's going to notice my boner! She's going to despise meeee!![pcms]
 
 
 *3841|
 [fc]
-[ns]克己[nse]
-「だ、だからって、急過ぎるって！[r]
-　きっ……気持ちいいけど、ダメだ、こんなの！」[pcms]
+[ns]Kazumi[nse]
+"But still, this is too sudden! It... it feels good but it's not[r]
+right, we can't do this!"[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -111,74 +109,73 @@
 *3842|
 ;旧ナンバー[vo_s s="sizuka0158"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0030"]
-[ns]静[nse]
-「何がダメなの？　ねえ……こんなに熱いのに……？[r]
-　克己さんの、アソコ……ふふっ……」[pcms]
+[ns]Shizuka[nse]
+"What's not right? Hey... even though it's so hot...? Your... down[r]
+there... hehe..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *3842a|
 [fc]
-[ns]克己[nse]
-「ふっ……あぁっ！！」[pcms]
+[ns]Kazumi[nse]
+"Huh... Ahh!!"[pcms]
 
 
 *3843|
 [fc]
-しまったぁああァァァァ！！！[r]
-バレちまうどころの騒ぎじゃねえよ！！[r]
-俺、裸だっつーの！！[pcms]
+Damn it aaaaahhh!!! This is way beyond just getting caught!! I'm[r]
+naked, for crying out loud!![pcms]
 
 
 *3844|
 [fc]
-ああ、ダメだ、軽蔑されるどころか、嫌われる！[r]
-今でこそ笑ってるけど、きっと俺をからかってるんだ。[pcms]
+Ah, no good, she's going to hate me, not just despise me! She might be[r]
+laughing now, but she's surely just mocking me.[pcms]
 
 
 *3845|
 [fc]
-あとで、丞実と一緒に笑うつもりなんだ……。[pcms]
+She's planning to laugh about this later with Tsugumi...[pcms]
 
 
 *3846|
 ;旧ナンバー[vo_s s="sizuka0159"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0031"]
-[ns]静[nse]
-「んっ……ふぁ……あ……ああぁ……んぅう……」[pcms]
+[ns]Shizuka[nse]
+"Mmm... fah... ah... aahh... mmmuu..."[pcms]
 
 
 *3847|
 [fc]
-[ns]克己[nse]
-「え……？　どこか痛いの……！？」[pcms]
+[ns]Kazumi[nse]
+"Eh...? Are you hurt somewhere...!?"[pcms]
 
 
 *3848|
 ;旧ナンバー[vo_s s="sizuka0160"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0032"]
-[ns]静[nse]
-「んぅうっ……ふっ……あぁ……んぅぅうぅ……。[r]
-　アソコが、クニクニ……ヌルヌル……あはぁ……」[pcms]
+[ns]Shizuka[nse]
+"Mmmuuu... huh... ahh... mmmuuu... My pussy is twitching...[r]
+slippery... ahhaa..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *3849|
 [fc]
-[ns]克己[nse]
-「は……ハァぁあぁ！？　ちょっと、静ちゃん！？」[pcms]
+[ns]Kazumi[nse]
+"Ha... Haaaah!? Wait a minute, Shizuka-chan!?"[pcms]
 
 
 *3850|
 [fc]
-静ちゃんの左腕は体に沿って伸びて、[r]
-柔らかそうな太ももの間に挟まれていた。[pcms]
+Shizuka-chan's left arm was stretched along her body, wedged between[r]
+her soft-looking thighs.[pcms]
 
 
 *3851|
 [fc]
-しかも、挟まれてるだけじゃ無い。[r]
-人差し指と中指が妖しく動き回っていた。[pcms]
+And it wasn't just wedged there. Her index and middle fingers were[r]
+moving suspiciously.[pcms]
 
 ;;//■イベントCG　siz_H001
 [evcg storage="siz_H001c"][trans_c cross time=500]
@@ -187,111 +184,107 @@
 *3852|
 ;旧ナンバー[vo_s s="sizuka0161"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0033"]
-[ns]静[nse]
-「ねえ……克己……さん……。[r]
-　はぁ……あぁ……わ、私ね……。[r]
-　ずーっと、克己さんの事が、好きだったの……」[pcms]
+[ns]Shizuka[nse]
+"Hey... Kazumi-san... Haa... ahh... I've always liked you..."[pcms]
 
 
 *3853|
 ;旧ナンバー[vo_s s="sizuka0162"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0034"]
-[ns]静[nse]
-「子供の時、助けてもらってからずっと、ずーっと……。[r]
-　こんな風に、克己さんと抱き合いたいって思ってた」[pcms]
+[ns]Shizuka[nse]
+"Ever since you saved me when we were kids, always, always... I've[r]
+wanted to embrace you like this."[pcms]
 
 
 *3854|
 [fc]
-[ns]克己[nse]
-「あ、ありがとう、でも、こんなのおかしいだろ！？[r]
-　順番がおかしいよ、静ちゃん！[r]
-　こういうのは、まず最初に告白してから……じゃなくて！」[pcms]
+[ns]Kazumi[nse]
+"Thank you, but this is wrong! The order is all messed up, Shizuka-[r]
+chan! Things like this should start with a confession first... not[r]
+like this!"[pcms]
 
 
 *3855|
 ;旧ナンバー[vo_s s="sizuka0163"]
 [マイク 位置７ ch=s][vo_s s="R_siz_BIN0035"]
-[ns]静[nse]
-「ふふ……告白なら、ずーっとしていたのに。[r]
-　バレンタインデーとか、克己さんのお誕生日とか……。[r]
-　何度も、お手紙書いたりしてたのに」[pcms]
+[ns]Shizuka[nse]
+"Hehe... I've been confessing for so long. On Valentine's Day, on your[r]
+birthday... I've written you letters so many times."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *3856|
 [fc]
-[ns]克己[nse]
-「いや、でもあれは……嬉しかったけど、[r]
-　まさかアレ……？」[pcms]
+[ns]Kazumi[nse]
+"No, but those were... I was happy about them, but could it be that[r]
+they were...?"[pcms]
 
 
 *3857|
 [fc]
-俺は、あの手紙なんかは全部、[r]
-小さい頃のお礼だとばかり思っていた。[pcms]
+I had always thought those letters were just thank-yous for the old[r]
+days.[pcms]
 
 
 *3858|
 [fc]
-だって俺、静ちゃんより何歳も上だし、[r]
-暫く会ってない時期もあった。[pcms]
+After all, I'm several years older than Shizuka-chan, and there was a[r]
+time when we didn't see each other.[pcms]
 
 
 *3859|
 [fc]
-だから、アレが告白だって言われても、[r]
-現実味は無かったんだ。[pcms]
+So even if you tell me those were confessions, they didn't feel real[r]
+to me.[pcms]
 
 
 *3860|
 ;旧ナンバー[vo_s s="sizuka0164"]
 [マイク 位置７ ch=s][vo_s s="R_siz_BIN0036"]
-[ns]静[nse]
-「どうしたんですか？　ぼーっとして……。[r]
-　体が熱い……もしかして、熱があるの？」[pcms]
+[ns]Shizuka[nse]
+"What's wrong? You're spacing out... Your body is hot... Could it be[r]
+that you have a fever?"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *3861|
 [fc]
-[ns]克己[nse]
-「いや……そうじゃないけど……。[r]
-　そ、それより、静ちゃんの体も熱いじゃないか！[r]
-　熱があるのは、君の方なんじゃないのか？」[pcms]
+[ns]Kazumi[nse]
+"No... that's not it but... More importantly, your body is hot too![r]
+Could it be that you're the one with a fever?"[pcms]
 
 
 *3862|
 [fc]
-俺の体はシャワーを浴びた後、[r]
-裸でいたからそんなに熱いはずはない。[pcms]
+My body shouldn't be that hot since I just took a shower and have been[r]
+naked since then.[pcms]
 
 
 *3863|
 [fc]
-少し冷えた俺の体に押し当てられた静ちゃんの体の方が、[r]
-むしろ熱い。[pcms]
+Shizuka-chan's body pressed against my slightly chilled one felt even[r]
+hotter.[pcms]
 
 
 *3864|
 [fc]
-ってことはつまり、静ちゃんが熱を出している？[pcms]
+Which means, could it be that Shizuka-chan has a fever?[pcms]
 
 
 *3865|
 [fc]
-……しかも、結構な高熱を。[pcms]
+...And quite a high one at that.[pcms]
 
 
 *3866|
 [fc]
-そうなら、静ちゃんのおかしな行動も、[r]
-ある程度分かる気がする。[pcms]
+If that's the case, I can somewhat understand Shizuka-chan's strange[r]
+behavior.[pcms]
 
 
 *3867|
 [fc]
-それでも、ある程度だけど……。[pcms]
+But only to an extent...[pcms]
 
 ;;//■イベントCG　siz_H001
 [evcg storage="siz_H001d"][trans_c cross time=500]
@@ -300,44 +293,40 @@
 *3868|
 ;旧ナンバー[vo_s s="sizuka0165"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0037"]
-[ns]静[nse]
-「ふぅ……あ、んっ……。[r]
-　やぁ……ぬ、ヌルヌルの……あぁ……ふぁぁ……。[r]
-　か、固くなってきちゃった……」[pcms]
+[ns]Shizuka[nse]
+"Fuu... ah, mmm... Yah... it's getting slippery... ahh... fahh... It's[r]
+getting hard..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *3869|
 [fc]
-[ns]克己[nse]
-「静ちゃん、無理しないで！　こんな事してたら、[r]
-　もっと具合悪くなるだろ……だから、やめろって！」[pcms]
+[ns]Kazumi[nse]
+"Shizuka-chan, don't overdo it! If you keep doing this, you'll feel[r]
+even worse... so stop it!"[pcms]
 
 
 *3870|
 [fc]
-柔らかくのし掛かる静ちゃんを押しのけ、[r]
-立ち上がろうとした。[pcms]
+I tried to push away the softly pressing Shizuka-chan and stand up.[pcms]
 
 
 *3871|
 [fc]
-[ns]克己[nse]
-「くっ……！？　お？　くぉおおっ！！」[pcms]
+[ns]Kazumi[nse]
+"Kuh...!? Oh? Kwooooh!!"[pcms]
 
 
 *3872|
 [fc]
-いくら運動を怠けていたからと言っても、[r]
-小柄な静ちゃんを押しのけるくらい、[r]
-造作も無い事だと思っていた。[pcms]
+Even though I had been neglecting exercise, I thought it would be easy[r]
+to push away the petite Shizuka-chan.[pcms]
 
 
 *3873|
 [fc]
-なのに、押しても引いてもピクリともしない。[r]
-それどころか、静ちゃんの柔らかい体が、[r]
-どんどん押し付けられてくる。[pcms]
+Yet, no matter how much I push or pull, she doesn't budge an inch.[r]
+Instead, Shizuka-chan's soft body is pressing against me even more.[pcms]
 
 ;;//■イベントCG　siz_H001
 [evcg storage="siz_H001e"][trans_c cross time=500]
@@ -346,60 +335,57 @@
 *3874|
 ;旧ナンバー[vo_s s="sizuka0166"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0038"]
-[ns]静[nse]
-「ねぇ……克己さん……わ、私のアソコ……触ってみて？[r]
-　ね……熱くて、弾けそうになっちゃってるの……。[r]
-　克己さんに触って欲しくて、ヌルヌルになってるの……」[pcms]
+[ns]Shizuka[nse]
+"Hey... Kazumi-san... my, my pussy... could you touch it? It's so hot,[r]
+and it feels like it's going to burst... I want you to touch it, it's[r]
+all slippery..."[pcms]
 
 
 *3875|
 [fc]
-[ns]克己[nse]
-「な、だ、ダメだって……。[r]
-　そんなのダメだって何度も……うっ！？」[pcms]
+[ns]Kazumi[nse]
+"No, that's not good... I've told you many times that we shouldn't...[r]
+ugh!?"[pcms]
 
 
 *3876|
 ;旧ナンバー[vo_s s="sizuka0167"]
 [マイク 位置７ ch=s][vo_s s="R_siz_BIN0039"]
-[ns]静[nse]
-「ほらぁ……克己さんのアソコだって、[r]
-　こんなに熱くて弾けそうになってるじゃない……。[r]
-　ふふっ……私達、似てますね……」[pcms]
+[ns]Shizuka[nse]
+"Look... your dick is getting so hot and looks like it's about to[r]
+burst too... Hehe... We're similar, aren't we..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *3877|
 [fc]
-静ちゃんの温かい手が、俺の下腹部……。[r]
-愚息のすぐ近を滑らせる。[pcms]
+Shizuka-chan's warm hand glides near my lower abdomen... right next to[r]
+my son of folly.[pcms]
 
 
 *3878|
 [fc]
-[ns]克己[nse]
-「い、いや、そうじゃなくてッ！　ふぁ！？」[pcms]
+[ns]Kazumi[nse]
+"No, that's not what I mean! Ahh!?"[pcms]
 
 
 *3879|
 [fc]
-すると、下腹部に電気を流したみたいな感覚が襲う。[pcms]
+Then, a sensation like electricity flows through my lower abdomen.[pcms]
 
 
 *3880|
 ;旧ナンバー[vo_s s="sizuka0168"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0040"]
-[ns]静[nse]
-「ふううっ……あはっ……これが、お、おちん……の皮……。[r]
-　あはぁ……クニクニしてて……、[r]
-　中に、コリコリしたのが出来てきてる……」[pcms]
+[ns]Shizuka[nse]
+"Hoo... ahah... this is the... foreskin... Ahaha... It's so squishy...[r]
+and there's something hard forming inside..."[pcms]
 
 
 *3881|
 [fc]
-[ns]克己[nse]
-「ふっ、ふぁあぁ！？　お、お……おぉおっ！？[r]
-　やっ、やめ……はうあぁあぁ！？」[pcms]
+[ns]Kazumi[nse]
+"Huh, fahh!? Oh, ohh!? Stop, stop it... hauuahh!?"[pcms]
 
 ;;//■イベントCG　siz_H001
 [evcg storage="siz_H001c"][trans_c cross time=500]
@@ -408,333 +394,320 @@
 *3882|
 ;旧ナンバー[vo_s s="sizuka0169"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0041"]
-[ns]静[nse]
-「ね、これ……ほ、包茎っていうんでしょう……？[r]
-　童貞の印だって……」[pcms]
+[ns]Shizuka[nse]
+"Hey, this... is called phimosis, right...? It's a sign of a[r]
+virgin..."[pcms]
 
 
 *3883|
 [fc]
-[ns]克己[nse]
-「どっ、童貞っ！！[r]
-　そういうこと言わなくていいっての！[r]
-　っていうか、もうやめてくれぇっっ！！」[pcms]
+[ns]Kazumi[nse]
+"Virgin!! There's no need to say things like that! And anyway, please[r]
+just stop it!!"[pcms]
 
 
 *3884|
 ;旧ナンバー[vo_s s="sizuka0170"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0042"]
-[ns]静[nse]
-「わぁ……ピクンピクンいってる……。[r]
-　あはぁ……童貞のおちん……んぅうっ……。[r]
-　私と、一緒……んふぅう……」[pcms]
+[ns]Shizuka[nse]
+"Wow... it's twitching... Ahah... a virgin's dick... nnuuhh... Just[r]
+like me... nfuuh..."[pcms]
 
 
 *3885|
 [fc]
-童貞のチンチンと、私が一緒……？[pcms]
+A virgin's dick and I are the same...?[pcms]
 
 
 *3886|
 [fc]
-[ns]克己[nse]
-「一緒って、何だ……？　くっ……うぁっ！！[r]
-　いっ……いてぇぇ！！　いてぇって！！」[pcms]
+[ns]Kazumi[nse]
+"The same as what...? Kuh... wahh!! It hurts!! It hurts!!"[pcms]
 
 
 *3887|
 ;旧ナンバー[vo_s s="sizuka0171"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0043"]
-[ns]静[nse]
-「あ……あ……か、皮が剥けてきた……。[r]
-　おちん……の先っぽが見えてきた、真っ赤……。[r]
-　真っ赤なのが顔を出してる……」[pcms]
+[ns]Shizuka[nse]
+"Ah... ah... the skin is peeling back... The tip of your dick is[r]
+starting to show, it's bright red... A bright red head is peeking[r]
+out..."[pcms]
 
 
 *3888|
 [fc]
-[ns]克己[nse]
-「くぅああぁあっ！！」[pcms]
+[ns]Kazumi[nse]
+"Kuuaahh!!"[pcms]
 
 
 *3889|
 ;旧ナンバー[vo_s s="sizuka0172"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0044"]
-[ns]静[nse]
-「ふうっ……すっごい匂い……チーズみたいな……あぁ……。[r]
-　クサいけど、克己さんの匂いが濃縮されてるみたい……。[r]
-　ふぅうっ……ふうっ……あぁ……食べちゃいたい……」[pcms]
+[ns]Shizuka[nse]
+"Hoo... such a strong smell... like cheese... ahh... It smells bad,[r]
+but it's like Kazumi-san's scent is concentrated... Hoo... hoo...[r]
+ahh... I want to eat it..."[pcms]
 
 
 *3890|
 [fc]
-静ちゃんは、真っ赤なベロを出して、[r]
-舌なめずりしていた。[pcms]
+Shizuka-chan sticks out her bright red tongue and licks her lips.[pcms]
 
 
 *3891|
 [fc]
-そんな、妖艶でもあり、[r]
-何処か空恐ろしさすら感じる表情に、[r]
-俺はすくみ上がってしまって、益々身動きが取れなくなっていく。[pcms]
+In such a bewitching expression, which also feels somewhat terrifying,[r]
+I freeze up and become even more unable to move.[pcms]
 
 
 *3892|
 ;旧ナンバー[vo_s s="sizuka0173"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0045"]
-[ns]静[nse]
-「ねえ、克己さん？　恥ずかしい……？[r]
-　童貞のおちん……を私に見られて、恥ずかしいの？」[pcms]
+[ns]Shizuka[nse]
+"Hey, Kazumi-san? Are you embarrassed...? Are you embarrassed that I'm[r]
+seeing your virgin dick?"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *3893|
 [fc]
-[ns]克己[nse]
-「はっ……恥ずかしいに決まってるだろ！[r]
-　やめてくれよおっ……うぅうっ……」[pcms]
+[ns]Katsumi[nse]
+"Hah... Of course I'm embarrassed! Please stop it... uuuuh..."[pcms]
 
 
 *3894|
 [fc]
-なんだか静ちゃんの口調が変わりだした気がする。[r]
-俺の事をなじって、悦びだしたみたいな感じの口調だ。[pcms]
+I feel like Shizuka-chan's tone of voice has changed. She seems to be[r]
+taking pleasure in mocking me.[pcms]
 
 
 *3895|
 [fc]
-しかも俺は、それに対して情けない声を返してしまっている。[r]
-こんな姿見られたく無いってのに……。[pcms]
+Moreover, I'm responding with a pathetic voice. Despite not wanting to[r]
+be seen like this...[pcms]
 
 
 *3896|
 ;旧ナンバー[vo_s s="sizuka0174"]
 [マイク 位置７ ch=s][vo_s s="R_siz_BIN0046"]
-[ns]静[nse]
-「あれぇ……ねえ、また大きくなってきたわ……。[r]
-　あはっ、あははっ！！　た、楽しい……！[r]
-　大好きな人と、こんな事出来るなんてね……」[pcms]
+[ns]Shizuka[nse]
+"Oh my... look, it's getting bigger again... Ahah, ahaha!! It's[r]
+fun...! To be able to do this with the person I love..."[pcms]
 
 
 *3897|
 [fc]
-[ns]克己[nse]
-「大好きなら……くうぅうっ……もう、やめてくれっ！！[r]
-　こんなのは……もっと親密になってから……あぁあっ！！」[pcms]
+[ns]Kazumi[nse]
+"If you love me then... kuuuuhh... please stop!! This should be done[r]
+when we're more intimate... ahhhh!!"[pcms]
 
 
 *3898|
 ;旧ナンバー[vo_s s="sizuka0175"]
 [マイク 位置７ ch=s][vo_s s="R_siz_BIN0047"]
-[ns]静[nse]
-「……ダメですよ……私は、もう待てません……。[r]
-　丞実ちゃんばっかりずるいですよ。[r]
-　あの子はエッチしてるのに、私は……オナニーばっかりで……」[pcms]
+[ns]Shizuka[nse]
+"...No good... I can't wait any longer... Tsugumi-chan always gets her[r]
+way. She gets to have sex while I'm just left with masturbation..."[pcms]
 
 
 *3899|
 ;旧ナンバー[vo_s s="sizuka0176"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0048"]
-[ns]静[nse]
-「先輩に更衣室でエッチされたとか……色々エッチな事……。[r]
-　んぅうっ……ふうううっ……あぁ……だから、[r]
-　興奮しちゃって……」[pcms]
+[ns]Shizuka[nse]
+"Like being fucked by a senior in the changing room and all sorts of[r]
+naughty things... nnuuhh... hooohh... ahh... that's why I'm getting[r]
+excited..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *3900|
 [fc]
-[ns]克己[nse]
-「なっ、なにっ！？　丞実がそんな……。[r]
-　くうっ……だからって、こんなの……！！　ううぅうっ！[r]
-　やっ、やめっ……ふぅああっ！！　くうぉおおっ」[pcms]
+[ns]Katsumi[nse]
+"What!? Tsugumi did such things... Kuhh... but that doesn't mean you[r]
+can do this...!! Uuuuhh! Stop it... fuuahhh!! Kuooh!"[pcms]
 
 
 *3901|
 [fc]
-静ちゃんの呼吸が荒くなるのと共に、[r]
-心なしか、息子を握った手の動きが激しくなっていくのを感じる。[pcms]
+As Shizuka-chan's breathing becomes rougher, I can feel the hand[r]
+gripping my son moving more vigorously.[pcms]
 
 
 *3902|
 ;旧ナンバー[vo_s s="sizuka0177"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0049"]
-[ns]静[nse]
-「ふふっ、丞実ちゃんが言ってた通り……。[r]
-　男の人って、おちん……を、こんな風にされるのが、[r]
-　好きって言ってた。ふぁ……あっつい……」[pcms]
+[ns]Shizuka[nse]
+"Hehe, just as Tsugumi-chan said... Men really do like their dicks[r]
+being handled this way. Faa... it's so hot..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *3903|
 [fc]
-[ns]克己[nse]
-「へっ！？　うっ……ううぅぅっ……」[pcms]
+[ns]Kazumi[nse]
+"Heh!? Uhh... uuuuhh..."[pcms]
 
 
 *3904|
 [fc]
-何してんだアイツ……！！[r]
-静ちゃんに余計な事吹き込んでたとか！！[pcms]
+What the hell is she doing...!! Filling Shizuka-chan's head with such[r]
+nonsense!![pcms]
 
 
 *3905|
 [fc]
-それはそうとして、このままだと俺……。[r]
-気持ち良くて、色々とどうでも良くなってきた気が……。[pcms]
+And at this rate, I'm going to feel too good and start not caring[r]
+about anything...[pcms]
 
 
 *3906|
 ;旧ナンバー[vo_s s="sizuka0178"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0050"]
-[ns]静[nse]
-「他にもね……丞実ちゃんから色々聞かされてたの。[r]
-　お腹の中で、おちん……を感じるのが一番気持ち良いって。[r]
-　……もちろん、好きな相手のを、ね」[pcms]
+[ns]Shizuka[nse]
+"Also, Tsugumi-chan told me various things. That feeling a dick inside[r]
+your stomach is the best feeling. ...Of course, only if it belongs to[r]
+someone you love."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *3907|
 [fc]
-好きな相手を、お腹の中で感じる？[r]
-それって、つまりセックスって事だよな……。[pcms]
+To feel a loved one inside your stomach? That means sex, right...[pcms]
 
 
 *3908|
 [fc]
-っつーか、丞実のヤツ……！！[r]
-俺の許可なくセックスしてたってのかよ！！[pcms]
+And Tsugumi that girl...!! She had sex without my permission!?[pcms]
 
 
 *3909|
 [fc]
-チキショー！！　俺なんて、まだだってのに……！！[r]
-アイツめ！！[pcms]
+Dammit!! While I'm still waiting for my turn... That girl!![pcms]
 
 
 *3910|
 ;旧ナンバー[vo_s s="sizuka0179"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0051"]
-[ns]静[nse]
-「だからね、克己さん……。[r]
-　私も、克己さんをお腹の中で感じたい……。[r]
-　私の手の中の、この……あっついおちんちんを！！」[pcms]
+[ns]Shizuka[nse]
+"So you see, Kazumi-san... I also want to feel you inside my stomach.[r]
+This hot dick in my hand!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *3911|
 [fc]
-[ns]克己[nse]
-「ふっ……ううぅうっ……うぉおおっ！！[r]
-　だ、ダメぇぇっ！！　中に入れる前に出ちまうううっ！」[pcms]
+[ns]Kazumi[nse]
+"Huhh... uuuuhh... uoooh!! No, no wayyy!! I'll cum before it even gets[r]
+inside!!"[pcms]
 
 
 *3912|
 [fc]
-俺の顔を見つめながら、嬉しそうに笑う静ちゃんの手は、[r]
-愚息を柔らかく包み込み、派手に上下させた。[pcms]
+While gazing into my eyes with a happy smile, Shizuka-chan gently[r]
+wraps her hand around my son and starts moving it up and down[r]
+dramatically.[pcms]
 
 
 *3913|
 ;旧ナンバー[vo_s s="sizuka0180"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0052"]
-[ns]静[nse]
-「いいんですよ……克己さんっ！！[r]
-　何度でも、出して良いんですよ……。[r]
-　私の体に、一杯出してください！！」[pcms]
+[ns]Shizuka[nse]
+"It's okay, Kazumi-san! You can cum as many times as you want...[r]
+Please cum a lot inside my body!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *3914|
 [fc]
-[ns]克己[nse]
-「くっ、くっ、おっ……おぉおぉぅ！！」[pcms]
+[ns]Kazumi[nse]
+"Ku, ku, oh... ooooh!!"[pcms]
 
 
 *3915|
 [fc]
-静ちゃんの手が、完全に露出しパンパンに張った亀頭と、[r]
-余った皮の付け根に何度もぶつけられる。[pcms]
+Shizuka's hand repeatedly strikes the fully exposed and swollen glans[r]
+and the base of the excess skin.[pcms]
 
 
 *3916|
 [fc]
-今まで完全にガードされていた、敏感な“ソコ”を責められて、[r]
-俺の愚息は大量の涎を噴き出させ、静ちゃんの手を濡らしていた。[pcms]
+Being attacked at that sensitive spot which had been completely[r]
+guarded until now, my son spewed out a large amount of drool, wetting[r]
+Shizuka-chan's hand.[pcms]
 
 
 *3917|
 ;旧ナンバー[vo_s s="sizuka0181"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0053"]
-[ns]静[nse]
-「あはっ……あははっ！！　克己さんのが私の手の中で、[r]
-　ピクンピクンいってるっ！！　エッチなおつゆが一杯出てて……[r]
-　私のアソコみたいになってる！　あはっ！！　あははっ！！」[pcms]
+[ns]Shizuka[nse]
+"Ahaha... Ahahaha!! Kazumi-san's is twitching in my hand!! There's so[r]
+much naughty dew coming out... It's becoming like my pussy! Ahaha!![r]
+Ahahaha!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s to1 "旧sizukaZ0001"]
 
 
 *3918|
 [fc]
-[ns]克己[nse]
-「くぉおおおおおっ！！！！」[pcms]
+[ns]Kazumi[nse]
+"Guoooooooh!!!!!"[pcms]
 
 
 *3919|
 [fc]
-いかんっ！　いかんいかんいかん！！[r]
-初体験で女の子にイカされるなんて、ダメだぁっ！！[r]
-そんなのダメッ！！　ダメっダメッダメっ！！！[pcms]
+No good! No good no good no good!! I can't let a girl make me cum on[r]
+my first experience, that's not right!! That's just not right!! Not[r]
+right not right not right!!!"[pcms]
 
 
 *3920|
 [fc]
-初体験は、ちゃんと告白してっ！！[r]
-それから、キスして、愛してるって囁いてからじゃないと！！！[pcms]
+The first experience should be after a proper confession!! And then,[r]
+after kissing and whispering 'I love you'!!"[pcms]
 
 
 *3921|
 [fc]
-その後やっと、俺が静ちゃんを絶頂まで導くんだぁぁっ！！[pcms]
+Only after that, I should be the one to lead Shizuka-chan to climax!!"[pcms]
 
 
 *3922|
 ;旧ナンバー[vo_t s="tugumi0221"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0001"]
-[ns]丞実[nse]
-「兄ちゃん！？　兄ちゃんちょっと来てー！！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother!? Big brother, come here for a sec--!!"[pcms]
 
 
 *3923|
 [fc]
-[ns]克己[nse]
-「丞実！？　くっうううっ！！」[pcms]
+[ns]Kazumi[nse]
+"Tsugumi!? Kuuuuh!!"[pcms]
 
 
 *3924|
 [fc]
-丞実が俺を呼ぶ声は、どこか切羽詰まった感じがした。[r]
-もしかしたら、アイツの方でも何かあったのか？[pcms]
+Tsugumi's voice calling for me had a sense of urgency. Could it be[r]
+that something happened on her end too?[pcms]
 
 
 *3925|
 ;旧ナンバー[vo_s s="sizuka0182"]
 [マイク 位置７ ch=s][vo_s s="R_siz_BIN0054"]
-[ns]静[nse]
-「克己さん、手で出すのは、嫌？　それなら、[r]
-　私のお腹の中で出してもいいの……好きにしていいんですよ？[r]
-　私、克己さんの事が大好きだから……何をされてもいいの……」[pcms]
+[ns]Shizuka[nse]
+"Kazumi-san, do you dislike cumming with hands? If so, you can cum[r]
+inside my stomach... You can do as you like, okay? Because I really[r]
+love you, Kazumi-san... I don't mind whatever you do to me..."[pcms]
 
 
 *3926|
 [fc]
-上気した頬と潤んだ瞳と、懇願するような静ちゃんの言葉に、[r]
-俺の心は揺れ動く。[pcms]
+My heart wavers at the sight of Shizuka-chan's flushed cheeks, moist[r]
+eyes, and her pleading words.[pcms]
 
 
 *3927|
 [fc]
-[ns]克己[nse]
-「うううぅっ……どっ、どうしたらいいの俺……」[pcms]
+[ns]Kazumi[nse]
+"Uuuuh... what should I do..."[pcms]
 
 
 [bgvstop s]
@@ -742,26 +715,26 @@
 *3928|
 ;旧ナンバー[vo_s s="sizuka0183"]
 [マイク 位置７ ch=s][vo_s s="R_siz_BIN0055"]
-[ns]静[nse]
-「ふふっ……丞実ちゃんに聞いた事、色々試してみたいんです。[r]
-　その相手は、克己さんじゃなきゃダメなの……。[r]
-　手だけじゃなくて、お口や、お尻……色々してあげますよ……」[pcms]
+[ns]Shizuka[nse]
+"Hehe... I want to try various things I heard from Tsugumi-chan. You[r]
+have to be the one, Kazumi-san... Not just with hands, but with mouth[r]
+and butt... I'll do various things for you..."[pcms]
 
 
 *3929|
 [fc]
-[ns]克己[nse]
-「なっ……なにぃ！！　ううぅうっ……」[pcms]
+[ns]Kazumi[nse]
+"Wha... what!! Uuuuh..."[pcms]
 
 
 *3930|
 [fc]
-どうする！[pcms]
+What should I do![pcms]
 
 
 *3931|
 [fc]
-どうする、俺ェェェェェ！！！！[pcms]
+What should I do, meeeeee!!!"[pcms]
 
 ;;//シーン回想用条件分岐
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -776,7 +749,7 @@
 ;;//選択肢
 ;	[link target=*tugumi]丞実のところへ行く[endlink]
 ;	[link storage="1022H.ks" target=*1022H_TOP]今はこのまま……[endlink]
-;	[s]
+;[pcms]
 
 
 *SEL09|丞実のところへ行く／今はこのまま……
@@ -799,86 +772,81 @@
 
 *3932|
 [fc]
-ダメ……！　ダメダメだめだめだめ！　ダメ、絶対！[pcms]
+No...! No no no no no! Absolutely not![pcms]
 
 
 *3933|
 [fc]
-やっぱり、静ちゃんの様子は何処かおかしい！[r]
-って、ココまでやられておいて、俺もどうかと思うけど……。[r]
-だけど、ダメなんだ！！[pcms]
+After all, there's something off about Shizuka-chan! And to think I'm[r]
+saying this after what she's done to me... But it's not right!!"[pcms]
 
 
 *3934|
 ;旧ナンバー[vo_s s="sizuka0184"]
 [マイク 位置７ ch=s][vo_s s="R_siz_BIN0056"]
-[ns]静[nse]
-「ね、克己さん……私の処女、貰ってください。[r]
-　代わりに、私が、克己さんの童貞をもらっちゃいますけど……。[r]
-　ね、いいでしょう？　克己さん……」[pcms]
+[ns]Shizuka[nse]
+"Hey, Kazumi-san... please take my virginity. In exchange, I'll take[r]
+your virginity... Is that okay? Kazumi-san..."[pcms]
 
 
 *3935|
 [fc]
-[ns]克己[nse]
-「ダメだって！　な、静ちゃん、俺の言うことを聞くんだ！[r]
-　俺の事が好きなら、な？　静ちゃん！！」[pcms]
+[ns]Kazumi[nse]
+"I said no! Listen to me, Shizuka-chan, if you like me, okay? Shizuka-[r]
+chan!!"[pcms]
 
 
 *3936|
 [fc]
-幾ら可愛くったって、幾ら俺を好きだって言ってくれたって、[r]
-こんな所で、こんな事をするのはダメなんだ！！[pcms]
+No matter how cute she acts or how much she says she likes me, doing[r]
+this kind of thing here is just not right!!"[pcms]
 
 
 *3937|
 [fc]
-第一、おかしくなった状態の静ちゃんとこのままエッチして、[r]
-静ちゃんに何かあったらどうするんだ。[pcms]
+First of all, if I have sex with Shizuka-chan while she's in this[r]
+strange state and something happens to her, what then?[pcms]
 
 
 *3938|
 [fc]
-それに……。[r]
-あまり考えたくないけど、静ちゃんは……、[r]
-もしかしたら、感染してるかも知れない！[pcms]
+And... I don't want to think about it, but Shizuka-chan might...[r]
+possibly be infected!"[pcms]
 
 
 *3939|
 [fc]
-深呼吸をして、落ち着きを取り戻しながら、[r]
-静ちゃんの顔を覗き込んだ。[pcms]
+I take a deep breath to regain my composure and peer into Shizuka-[r]
+chan's face.[pcms]
 
 
 *3940|
 [fc]
-紅く染まった頬や耳の真ん中の目が、[r]
-いつの間にか充血して、真っ赤になっていた。[pcms]
+The middle of her cheeks and ears that had turned red were now[r]
+bloodshot and bright red.[pcms]
 
 
 *3941|
 [fc]
-これって、感染者の特徴の一つ……じゃなかったか！？[r]
-ってことは、こんな風におかしくなったのは、[r]
-感染してたせいかッ！！[pcms]
+This is one of the characteristics of an infected person... wasn't[r]
+it!? So the reason she became like this is because she was infected?!"[pcms]
 
 
 *3942|
 [fc]
-これ以上静ちゃんとくっついているのは危ない！[pcms]
+It's dangerous to be any closer to Shizuka-chan from now on![pcms]
 
 
 *3943|
 [fc]
-[ns]克己[nse]
-「うわぁあっ！！　ごっ、ごめん静ちゃん！！」[pcms]
+[ns]Kazumi[nse]
+"Uwaaaah!! Sorry, Shizuka-chan!!"[pcms]
 
 
 *3944|
 [fc]
-俺は、思いっきり息を吸い込むと、[r]
-静ちゃんの体を、手と足を使って押し返し、[r]
-体を引き起こした。[pcms]
+I take a deep breath and push Shizuka-chan away using my hands and[r]
+feet, then pull myself up.[pcms]
 
 ;;//bgm01-15
 [bgm storage="bgm01-15"]
@@ -891,22 +859,21 @@
 *3945|
 ;旧ナンバー[vo_s s="sizuka0185"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0057"]
-[ns]静[nse]
-「きゃあっ……」[pcms]
+[ns]Shizuka[nse]
+"Kyaa...!"[pcms]
 
 
 *3946|
 [fc]
-[ns]克己[nse]
-「ごっ、ごめん！　でも、ダメなんだ！[r]
-　君の好意は嬉しいけど、絶対ダメなんだあぁっ！！[r]
-　丞実ぃいいっ！！　大変だぁっ！　丞実いぃいっ！！」[pcms]
+[ns]Kazumi[nse]
+"Sorry! But it's not right! I'm happy for your feelings but it's[r]
+absolutely not right!! Tsugumi!! It's serious! Tsugumi!!"[pcms]
 
 
 *3947|
 [fc]
-床に手をついて項垂れている静ちゃんに謝りながら、[r]
-シャワー室を飛び出した。[pcms]
+While apologizing to Shizuka-chan who is hanging her head with her[r]
+hands on the floor, I rush out of the shower room.[pcms]
 
 ;;//★脱衣所的な
 [bg storage="BG_lockerroom"][trans_c cross time=500]
@@ -916,71 +883,70 @@
 
 *3948|
 [fc]
-[ns]克己[nse]
-「うっ、うわっ……おっとと……」[pcms]
+[ns]Kazumi[nse]
+"Uh, uwaah... whoopsie..."[pcms]
 
 
 *3949|
 [fc]
-まさか、静ちゃんに手コキなんかされると思わなかったな……。[r]
-やたら興奮したし、妙にうまかった気がする。[r]
-イッてもないのに、足腰がフラフラだ。[pcms]
+I never thought Shizuka-chan would give me a handjob. It was strangely[r]
+exciting and felt really good. Even though I didn't cum, my legs are[r]
+wobbly."[pcms]
 
 
 *3950|
 [fc]
-つーか、あのままぼーっとしてたら、静ちゃんに上に乗られて、[r]
-あっけなく感染してたんだろう。[pcms]
+If I had stayed spaced out like that, Shizuka-chan would have gotten[r]
+on top of me and I would have been infected without any fuss."[pcms]
 
 
 *3951|
 [fc]
-もちろんそれは、俺の憶測が正しければ、だ。[r]
-静ちゃんが感染者になっちまったなんて、考えたくも無い。[pcms]
+Of course, that's if my speculation is correct. I don't even want to[r]
+think about Shizuka-chan becoming an infected person."[pcms]
 
 
 *3952|
 [fc]
-[ns]克己[nse]
-「だけど静ちゃん、まさか……誰かとヤッて感染したのか？」[pcms]
+[ns]Kazumi[nse]
+"But Shizuka-chan, could it be... did you get infected by sleeping[r]
+with someone?"[pcms]
 
 
 *3953|
 [fc]
-いや、処女だって言ってたもんな。[r]
-じゃあ、怪我でもしたってのか？[pcms]
+No, she said she was a virgin. So, did she get injured or something?[pcms]
 
 
 *3954|
 [fc]
-脱ぎ捨ててあった草野球のユニフォームの袖に手を通し終え、[r]
-あとはハーパンを穿くため、[r]
-片足を上げた状態で考え込んでいた。[pcms]
+Having finished slipping my arm through the sleeve of the discarded[r]
+baseball uniform, I stood on one leg to put on my shorts, lost in[r]
+thought.[pcms]
 
 ;;//m:立ち無し
 *3955|
 ;旧ナンバー[vo_s s="sizuka0186"]
 [マイク 位置１３ ch=s][vo_s s="R_siz_BIN0058"]
-[ns]静[nse]
-「克己さ～ん……酷い……なんで、突き飛ばしたりするの？」[pcms]
+[ns]Shizuka[nse]
+"Kazumi-san... that's mean... why did you push me away?"[pcms]
 
 
 *3956|
 [fc]
-[ns]克己[nse]
-「うわっ……静ちゃん！？」[pcms]
+[ns]Kazumi[nse]
+"Whoa... Shizuka-chan!?"[pcms]
 
 
 *3957|
 [fc]
-ヤバイ、静ちゃんがこっちに向かってるみたいだ。[pcms]
+Damn, it looks like Shizuka-chan is heading this way.[pcms]
 
 
 *3958|
 [fc]
-それにしても、妙に動きが緩慢だ。[r]
-そのおかげで、まだココにたどり着けないでいるみたいだから、[r]
-助かったと言えば助かったけど……。[pcms]
+But her movements are strangely slow. Thankfully, it seems she can't[r]
+reach me yet because of that...[pcms]
 
 ;;//s:ここから先の静の立ちは、感染立ちで貼り込む
 
@@ -988,14 +954,14 @@
 *3959|
 ;旧ナンバー[vo_t s="tugumi0222"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0002"]
-[ns]丞実[nse]
-「兄ちゃん大変だよ！　いつまでシャワー浴びてんの！！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother, this is bad! How long are you going to shower?!"[pcms]
 
 
 *3960|
 [fc]
-[ns]克己[nse]
-「つっ、丞実！！」[pcms]
+[ns]Kazumi[nse]
+"Tsugumi!!"[pcms]
 
 ;;//s:ＳＥ　ドアが乱暴に開かれる
 [se buf1 storage="seA004"]
@@ -1009,101 +975,100 @@
 *3961|
 ;旧ナンバー[vo_t s="tugumi0223"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0003"]
-[ns]丞実[nse]
-「きゃあっ！！　そ、そんな……！？[r]
-　静っ！？　どうしたの静ッ！！」[pcms]
+[ns]Tsugumi[nse]
+"Kyaa!! So, something like that...!? Shizuka!? What happened to you,[r]
+Shizuka!!"[pcms]
 
 
 *3962|
 [fc]
-[ns]克己[nse]
-「うわぁあっ！！　丞実、逃げろッ！！[r]
-　静ちゃんは感染してるッ！　近寄るなあっ！！」[pcms]
+[ns]Kazumi[nse]
+"Uwaaaah!! Tsugumi, run!! Shizuka-chan is infected! Don't come any[r]
+closer!!"[pcms]
 
 [ChrSetEx layer=5 chbase="siz1_kan"][ChrSetParts layer=5 chface="F1_siz21" x=87][ChrSetXY layer=5 x="&sf.std_s_x調整*342" y="&sf.std_s_y調整*60"][trans_c cross time=150]
 *3963|
 ;旧ナンバー[vo_s s="sizuka0187"]
 [マイク 位置９ ch=s][vo_s s="R_siz_BIN0059"]
-[ns]静[nse]
-「ふふっ……わ、私が、どうしたの？[r]
-　ねえ……き、気持ちいいこと、しましょう？[r]
-　ふふっ……克己さん、だ～い好き……ふふっ……ふふふっ！」[pcms]
+[ns]Shizuka[nse]
+"Hehe... what's wrong with me? Hey... shall we do something pleasant?[r]
+Hehe... I love you so much, Kazumi-san... hehehe!"[pcms]
 
 
 *3964|
 [fc]
-見れば、静ちゃんは辿々しい口調のまま、[r]
-焦点の合わない目をしてよたよたと歩いてくる。[pcms]
+Looking over, Shizuka-chan was walking towards us with a slurred[r]
+speech and unfocused eyes.[pcms]
 
 
 *3965|
 [fc]
-表情には、いつもの凜々しさはなくて、[r]
-だらしなく歪んだ微笑みを浮かべていた。[pcms]
+Her expression lacked its usual dignity, instead, she wore a sloppy,[r]
+twisted smile.[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug12"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *3966|
 ;旧ナンバー[vo_t s="tugumi0224"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0004"]
-[ns]丞実[nse]
-「やだ……静まで、そんな……感染したって、何よ……。[r]
-　どういうことなの、兄ちゃん！　なんで、静がそんな……、[r]
-　ぐすっ……やだぁ……やだよ、静ぁっ！」[pcms]
+[ns]Tsugumi[nse]
+"No... not Shizuka too... What does 'infected' mean...? What's going[r]
+on, big brother! Why is Shizuka like this...? *sob* No... I don't want[r]
+this, Shizuka!"[pcms]
 
 
 *3967|
 [fc]
-俺を挟んで静ちゃんと対峙している丞実の顔が、[r]
-みるみる青くなって、目からは涙がこぼれ落ちていく。[pcms]
+Tsugumi's face turned pale as she confronted Shizuka-chan across from[r]
+me, and tears began to spill from her eyes.[pcms]
 
 [ChrSetEx layer=5 chbase="siz1_kan"][ChrSetParts layer=5 chface="F1_siz21" x=87][ChrSetXY layer=5 x="&sf.std_s_x調整*342" y="&sf.std_s_y調整*60"][trans_c cross time=150]
 *3968|
 ;旧ナンバー[vo_s s="sizuka0188"]
 [マイク 位置９ ch=s][vo_s s="R_siz_BIN0060"]
-[ns]静[nse]
-「あっはぁァ……丞実ちゃん？　私もね、丞実ちゃんみたいに、[r]
-　気持ちいいことしたいんだぁ……だから、克己さんを、[r]
-　ちょっと貸してもらいたいんだぁ……あはぁ……」[pcms]
+[ns]Shizuka[nse]
+"Ahhhaa... Tsugumi-chan? I also want to feel good like Tsugumi-chan...[r]
+so I want to borrow Kazumi-san for a bit... ahaha..."[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug12"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *3969|
 ;旧ナンバー[vo_t s="tugumi0225"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0005"]
-[ns]丞実[nse]
-「静……そんな……ねえ、静ぁ……冗談はやめてよ……」[pcms]
+[ns]Tsugumi[nse]
+"Shizuka... don't say things like that... hey, Shizuka... stop joking[r]
+around..."[pcms]
 
 [ChrSetEx layer=5 chbase="siz2_kan"][ChrSetParts layer=5 chface="F2_siz21"][ChrSetXY layer=5 x="&sf.std_s_x調整*0" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 *3970|
 ;旧ナンバー[vo_s s="sizuka0189"]
 [マイク 位置９ ch=s][vo_s s="R_siz_BIN0061"]
-[ns]静[nse]
-「冗談なんか、いってないよ～？　ふふっ……知ってるでしょ？[r]
-　わたしが、かつ己さんのこと、大好きな事。[r]
-　アンタが言ってた事を、私と克己さんがするんだよ！！」[pcms]
+[ns]Shizuka[nse]
+"I'm not joking at all~? Hehe... You know, right? That I really love[r]
+Kazumi-san. I'm going to do what you were talking about with Kazumi-[r]
+san!!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug08"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *3971|
 ;旧ナンバー[vo_t s="tugumi0226"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0006"]
-[ns]丞実[nse]
-「やだ……静、そんな事言う子じゃない……。[r]
-　アンタ誰……？　ねえ、静を何処にやったの！？[r]
-　静を返してぇっ！！　ぐすっ……うわああぁぁん！！」[pcms]
+[ns]Tsugumi[nse]
+"No... Shizuka isn't the kind of girl to say such things... Who are[r]
+you...? Hey, what have you done with Shizuka!? Give her back to me!![r]
+*sob* Uwaaaah!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *3972|
 [fc]
-[ns]克己[nse]
-「おい、丞実！　しっかりしろッ！！[r]
-　ここにいたらダメだ！　逃げるぞっ！！！」[pcms]
+[ns]Kazumi[nse]
+"Hey, Tsugumi! Pull yourself together!! We can't stay here! We have to[r]
+run!!"[pcms]
 
 
 *3973|
 [fc]
-口元を抑えて震えている丞実の手を引き、[r]
-にじり寄る静ちゃんを尻目に、更衣室を飛び出した。[pcms]
+While holding back tears and trembling, I grabbed Tsugumi's hand and[r]
+dashed out of the changing room, leaving Shizuka-chan behind.[pcms]
 
 ;;//★汎用背景B・朝昼
 [bg storage="BG28a"][trans_c lr time=301]
@@ -1113,32 +1078,30 @@
 *3974|
 ;旧ナンバー[vo_t s="tugumi0227"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0007"]
-[ns]丞実[nse]
-「兄ちゃん、静は……静は、なんであんな事になっちゃったの！？[r]
-　他のみんなもおかしくなっちゃってるし……！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother, why has Shizuka become like this!? Everyone else is[r]
+acting weird too...!"[pcms]
 
 
 *3975|
 [fc]
-[ns]克己[nse]
-「わかんねぇよ！　だけど、これだけは覚えておけ！！[r]
-　あのヘンな奴らみんな……静ちゃんも、全部！！[r]
-　全部、感染者なんだよ！！」[pcms]
+[ns]Kazumi[nse]
+"I don't know! But remember this!! All those weird people... including[r]
+Shizuka-chan, all of them!! They're all infected!!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug07"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *3976|
 ;旧ナンバー[vo_t s="tugumi0228"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0008"]
-[ns]丞実[nse]
-「感染者……！？　そんなの、四年前に……」[pcms]
+[ns]Tsugumi[nse]
+"Infected...!? But that was supposed to be four years ago..."[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug13"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *3977|
 ;旧ナンバー[vo_t s="tugumi0229"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0009"]
-[ns]丞実[nse]
-「あっ！　み、美樹ちゃんっ！？[r]
-　本間先生も……！！！」[pcms]
+[ns]Tsugumi[nse]
+"Ah! Miki-chan!? And Honma-sensei too...!!!"[pcms]
 
 ;;//m:美樹の服装はどれだ
 
@@ -1150,32 +1113,31 @@
 *3978|
 ;旧ナンバー[vo_mk s="miki0060"]
 [マイク 位置１０ ch=m][vo_m s="R_miki_BIN0002"]
-[ns]美樹[nse]
-「あ゛は゛はぁ……つっ、つ、つ、つ、丞実……。[r]
-　きもちいいぃなあぁ……か、からだ、ふわふわするぅ……」[pcms]
+[ns]Miki[nse]
+"Ahahaha... Tsu-Tsu-Tsugumi... It feels so good... my body feels so[r]
+light..."[pcms]
 
 
 *3979|
 ;旧ナンバー[vo_h s="honma0107"]
 [マイク 位置１６ ch=h][vo_h s="R_hon_BIN0048"]
-[ns]本間[nse]
-「あぁ……男がいるわ……あなた……。[r]
-　ねえ、わたしのオマンコに、熱いのちょうだい……。[r]
-　ふうぅっ……あぁ……オマンコ、熱いの……」[pcms]
+[ns]Honma[nse]
+"Ahh... there's a man here... you... Hey, give me your hot stuff in my[r]
+pussy... Hoooh... ahh... my pussy wants it hot..."[pcms]
 
 
 *3980|
 [fc]
-[ns]克己[nse]
-「なっ……なんだあれ！　なんであんなに……。[r]
-　くそおっ！！　ココは、元々ダメだったんじゃねえのか！？」[pcms]
+[ns]Kazumi[nse]
+"What the... what's that! Why are they like that... Damn it!! Was this[r]
+place always bad from the start!?"[pcms]
 
 
 *3981|
 [fc]
-ココに入った時に感じた違和感は、これか！[r]
-この建物の中の女の子の、誰かが感染してて、[r]
-それが一気に広がっちまったんだ！[pcms]
+The discomfort I felt when I entered this place was because of this![r]
+Someone among the girls inside this building got infected, and it[r]
+spread all at once![pcms]
 
 [ChrSetEx layer=1 chbase="mob_kan_c4"][ChrSetXY layer=1 x="&sf.std_kanC_x調整*0" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　14　制服４　　
@@ -1184,8 +1146,8 @@
 *3982|
 ;旧ナンバー[vo_m s="kansenA0005"]
 [マイク 位置９][vo_mob s="R_kanjoA_BIN0001"]
-[ns]感染者女Ａ[nse]
-「お、おとこっ……おとこっ！！」[pcms]
+[ns]Infected Woman A[nse]
+"A man... a man!!"[pcms]
 
 ;レイヤの枚数変更
 ;[eval exp="f.maxlayer = 7"][layers_num_add]
@@ -1196,8 +1158,8 @@
 
 *3982a|
 [fc]
-[ns]感染者男Ａ[nse]
-「にくぅううっ！　にっ、にく！　ううぅおおあおあぁ！！」[pcms]
+[ns]Infected Man A[nse]
+"Meat uuuuh! Meat! Uuuuoooohhh!!"[pcms]
 
 [ChrSetEx layer=2 chbase="mob_kan_b1"][ChrSetXY layer=2 x="&sf.std_kanB_x調整*750" y=0][trans_c cross time=150]
 ;;//MOB左＠感染者　07　ＯＬ風１　
@@ -1206,15 +1168,14 @@
 *3983|
 ;旧ナンバー[vo_m s="kansenB0004"]
 [vo_mob s="R_kanB0004"]
-[ns]感染者女Ｂ[nse]
-「どっ……どけえぇっ！　おとこ、のチンポ、わたしのものっ！[r]
-　どけっ……どけぇっ！！」[pcms]
+[ns]Infected Woman B[nse]
+"Move it... move it! The man's dick is mine! Move... move it!!"[pcms]
 ;FHD 改行されてなかった
 
 *3984|
 [fc]
-階段の踊り場に集まりだした感染者が、我先にと俺達を目指し、[r]
-手を伸ばした。[pcms]
+The infected people who started gathering at the landing of the stairs[r]
+were reaching out towards us in a rush to be first.[pcms]
 
 ;;//s:ＳＥ　どん
 [se buf1 storage="seB010"]
@@ -1226,8 +1187,8 @@
 *3985|
 ;旧ナンバー[vo_mk s="miki0061"]
 [マイク 位置１０ ch=m][vo_m s="R_miki_BIN0003"]
-[ns]美樹[nse]
-「あ……」[pcms]
+[ns]Miki[nse]
+"Ah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -1238,15 +1199,14 @@
 
 *3986|
 [fc]
-その勢いで、一人の女の子が突き飛ばされ、[r]
-階段を転がり落ちてくる。[pcms]
+In their momentum, one girl was pushed and tumbled down the stairs.[pcms]
 
 
 *3987|
 [fc]
-一段、また一段と階段のヘリに頭をぶつけ、跳ね上がりながら、[r]
-俺達の足下まで転がり落ちてきた少女の首は、[r]
-あらぬ方向に曲がっていた。[pcms]
+With each step, her head hit the edge of the stairs and bounced up as[r]
+she rolled down to our feet. The girl's neck was bent in an unnatural[r]
+direction.[pcms]
 
 [se buf1 storage="seB025"]
 ;;//♪SE骨が折れる
@@ -1260,14 +1220,13 @@
 
 *3988|
 [fc]
-つけていたメガネが、[r]
-倒れた首のすぐ近くに落ちて砕ける音がした。[pcms]
+The sound of her glasses falling and shattering near her fallen head[r]
+could be heard.[pcms]
 
 
 *3989|
 [fc]
-それでも、メガネをつけていた女の子は、[r]
-指一つ動かす事はなかった。[pcms]
+Yet the girl who had been wearing the glasses didn't move a finger.[pcms]
 
 ;;//★汎用背景B・朝昼
 [bg storage="BG28a"][trans_c cross time=500]
@@ -1277,14 +1236,14 @@
 *3990|
 ;旧ナンバー[vo_t s="tugumi0230"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0010"]
-[ns]丞実[nse]
-「きゃああああああああああああああああぁぁ！！！」[pcms]
+[ns]Tsugumi[nse]
+"Kyaaaaaaaaaaaaaaaaaaaaaah!!!"[pcms]
 
 
 *3991|
 [fc]
-[ns]克己[nse]
-「うわあぁぁああっ！！！」[pcms]
+[ns]Kazumi[nse]
+"Uwaaaaaaaah!!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1303,22 +1262,22 @@
 *3992|
 ;旧ナンバー[vo_h s="honma0108"]
 [マイク 位置１６ ch=h][vo_h s="R_hon_BIN0049"]
-[ns]本間[nse]
-「あっはははは！　バカが落ちて死んだわ！！　あははっ！」[pcms]
+[ns]Honma[nse]
+"Ahahaha! That idiot fell and died!! Ahaha!"[pcms]
 
 
 *3993|
 ;旧ナンバー[vo_m s="kansenA0006"]
 [マイク 位置９][vo_mob s="R_kanjoA_BIN0002"]
-[ns]感染者女Ａ[nse]
-「ほんとだ、ばかだなー……しんでやんの！　くちから、[r]
-　ちがでてるっ！　おっかしいっ！！　あはははっ！！」[pcms]
+[ns]Infected Woman A[nse]
+"It's true, what an idiot... she's dead! Blood's coming out of her[r]
+mouth! It's hilarious!! Ahahaha!!"[pcms]
 
 
 *3994|
 [fc]
-そんなメガネの子を、踊り場の上で揺れながら見ている連中は、[r]
-心配するでもなく嗤っていた。[pcms]
+The people watching the girl with glasses from above the landing were[r]
+laughing instead of showing concern.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1330,17 +1289,17 @@
 
 *3995|
 [fc]
-[ns]克己[nse]
-「おい、丞実……あんな奴ら、相手にしてらんねーぞ！[r]
-　人間やめちまってんぞ、あいつら！！[r]
-　おい、ボサっとしてないで、ここから出るぞッ！！」[pcms]
+[ns]Kazumi[nse]
+"Hey, Tsugumi... we can't deal with those guys! They've stopped being[r]
+human, those bastards!! Hey, don't just stand there, we're getting out[r]
+of here!!"[pcms]
 
 
 *3996|
 ;旧ナンバー[vo_t s="tugumi0231"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0011"]
-[ns]丞実[nse]
-「うんっ！　逃げようっ！」[pcms]
+[ns]Tsugumi[nse]
+"Yeah! Let's escape!"[pcms]
 
 [chara_int][trans_c cross time=150]
 [se buf1 storage="seA052"]
@@ -1349,12 +1308,12 @@
 
 *3997|
 [fc]
-今度は、丞実が俺の手を引いて先を走り出す。[pcms]
+This time, Tsugumi took my hand and started running ahead.[pcms]
 
 
 *3998|
 [fc]
-決意を感じる丞実の顔には、一筋の涙が流れていた。[pcms]
+Determination on Tsugumi's face, a single tear was streaming down.[pcms]
 
 ;;//BGMフェードアウト
 [fadeoutbgm time=1000]

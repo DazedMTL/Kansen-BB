@@ -35,167 +35,162 @@
 
 *8674|
 [fc]
-[ns]克己[nse]
-「う……っ、うううう…………」[pcms]
+[ns]Kazumi[nse]
+"Ugh... uuuuu..."[pcms]
 
 
 *8675|
 [fc]
-顎先が胸にくっつくほど首を押し曲げられ、[r]
-俺は息苦しさに呻いていた。[pcms]
+My neck was bent so much that my chin was stuck to my chest, and I was[r]
+groaning from the suffocation.[pcms]
 
 
 *8676|
 [fc]
-だけど息苦しさ以上に心を苛んでいるのは、[r]
-妹たちに晒している、この『みっともない格好』だった。[pcms]
+But more than the suffocation, what tormented my heart was the[r]
+"shameful appearance" I was exposing to my sisters.[pcms]
 
 
 *8677|
 ;旧ナンバー[vo_s s="sizuka0384"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0157"]
-[ns]静[nse]
-「きゃはははははははっっ！[r]
-　何これ……死んだカエルみたいですよ……？」[pcms]
+[ns]Shizuka[nse]
+"Kyahaha! What's this...? You look like a dead frog...?"[pcms]
 
 
 *8678|
 ;旧ナンバー[vo_mk s="miki0062"]
 [マイク 位置７ ch=m][vo_m s="R_miki_BIN0004"]
-[ns]美樹[nse]
-「おっさんのくせにぃ、こんなカッコして、はずかしくないの～？[r]
-　チンポ、ばっきばきにしちゃってるし～……」[pcms]
+[ns]Miki[nse]
+"Even though you're an old man, you're in such a pose, aren't you[r]
+embarrassed? Your dick is rock hard too..."[pcms]
 
 
 *8679|
 [fc]
-無防備に晒された股間に突き刺さる、無数の視線。[r]
-それだけで頭の中がグチャグチャになってしまう。[pcms]
+The countless gazes piercing my exposed crotch alone were enough to[r]
+scramble my brain.[pcms]
 
 
 *8680|
 ;旧ナンバー[vo_h s="honma0145"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0050"]
-[ns]本間[nse]
-「ふふっ……しかも、包茎なの？[r]
-　あなたのお兄さん、包茎なのね……ふふっ」[pcms]
+[ns]Honma[nse]
+"Fufu... And what's this, are you uncircumcised? Your big brother is[r]
+uncircumcised... fufu"[pcms]
 
 
 *8681|
 ;旧ナンバー[vo_t s="tugumi0600"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0215"]
-[ns]丞実[nse]
-「なによ、ホーケーでもいいじゃん……。[r]
-　ホーケーがいやなら、ひとりじめしてやるし」[pcms]
+[ns]Tsugumi[nse]
+"What's the big deal, being uncircumcised is fine... If you don't like[r]
+being uncircumcised, I'll monopolize you."[pcms]
 
 
 *8682|
 [fc]
-ホーケーホーケーと連呼され、俺は羞恥で気が狂いそうだった。[r]
-それなのにアレは恥ずかしげもなく固さを増していく。[pcms]
+Being repeatedly called uncircumcised, I felt like I was going insane[r]
+from the shame. Yet that thing shamelessly continued to harden.[pcms]
 
 
 *8683|
 ;旧ナンバー[vo_s s="sizuka0385"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0158"]
-[ns]静[nse]
-「まってください……わたしはべつに、ホーケーでもいいの。[r]
-　かわかむりの、はずかしがりやさんチンポぉ、[r]
-　きっちりと、しゃかいふっきぃ、させてあげますから、ね？」[pcms]
+[ns]Shizuka[nse]
+"Please wait... I don't mind if it's uncircumcised. Your shy,[r]
+foreskin-covered cock, I'll make sure to rehabilitate it properly,[r]
+okay?"[pcms]
 
 
 *8684|
 [fc]
-そう言うなり、静ちゃんがアレに手を伸ばしてくる。[r]
-だがその手を邪険に払ったのは本間先生だった。[pcms]
+As she said that, Shizuka reached out for it. But it was Honma-sensei[r]
+who harshly swatted her hand away.[pcms]
 
 
 *8685|
 ;旧ナンバー[vo_h s="honma0146"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0051"]
-[ns]本間[nse]
-「ふふふ。まあ、まちなさい。[r]
-　まずはじっくりと、しらべさせてもらうわよぉ」[pcms]
+[ns]Honma[nse]
+"Fufufu. Now, now, wait. First, let me examine it thoroughly."[pcms]
 
 
 *8686|
 [fc]
-先生は不満げな静ちゃんを無視し、欲望に潤んだ瞳を輝かせる。[pcms]
+Honma-sensei ignored the dissatisfied Shizuka and her eyes sparkled[r]
+with desire.[pcms]
 
 
 *8687|
 ;旧ナンバー[vo_h s="honma0147"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0052"]
-[ns]本間[nse]
-「においは……そうとうな、ものねぇ……。[r]
-　さすが、ねんきのはいった、包茎チンポだこと……ふふっ」[pcms]
+[ns]Honma[nse]
+"The smell is... quite something, isn't it...? As expected of a dick[r]
+with years of smegma... fufu"[pcms]
 
 
 *8688|
 [fc]
-亀頭に巻きついた皮を弄りながら、彼女は鼻を鳴らした。[r]
-その姿はまるでトリュフを探すブタのようだ。[pcms]
+While playing with the skin wrapped around the glans, she snorted[r]
+through her nose. She looked just like a pig searching for truffles.[pcms]
 
 
 *8689|
 ;旧ナンバー[vo_t s="tugumi0601"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0216"]
-[ns]丞実[nse]
-「すっげーくさいけど、かわいいとおもうよ、あたしは。[r]
-　だから……かわいいクサクサチンポ、[r]
-　はやくしゃぶらせて？」[pcms]
+[ns]Tsugumi[nse]
+"It's super smelly but I think it's cute. So... let me suck on your[r]
+cute stinky dick quickly?"[pcms]
 
 
 *8690|
 ;旧ナンバー[vo_h s="honma0148"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0053"]
-[ns]本間[nse]
-「まちなさいってぇ、いってるでしょ？[r]
-　こんなにくさいってことは、チンカスまみれってことなのよ？」[pcms]
+[ns]Honma[nse]
+"I said wait, didn't I? If it smells this bad, it means it's covered[r]
+in smegma, right?"[pcms]
 
 
 *8691|
 ;旧ナンバー[vo_t s="tugumi0602"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0217"]
-[ns]丞実[nse]
-「いいじゃん！　チンカスたべるもん！[r]
-　チーズみたいな、のーこーチンカスぅ、ベロのうえで、[r]
-　こ、ころがしながらぁ、たっぷりしゃぶるぅぅぅ！！」[pcms]
+[ns]Tsugumi[nse]
+"That's fine! I'll eat the smegma! Like cheese, I'll roll the leftover[r]
+smegma on my tongue and suck it all up!!!"[pcms]
 
 
 *8692|
 [fc]
-いまだ検分を続けようとする先生を押し退けると、[r]
-丞実は涎を滴らせながらアレを鷲掴みにする。[pcms]
+Pushing aside Honma-sensei who was still intent on inspecting, Tsugumi[r]
+grabbed it with drool dripping down.[pcms]
 
 
 *8693|
 ;旧ナンバー[vo_t s="tugumi0603"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0218"]
-[ns]丞実[nse]
-「さあ、兄ちゃん！！　そのコドモチンポぉ、[r]
-　あたしがイチニンマエにぃ、してあげるよっ！！！」[pcms]
+[ns]Tsugumi[nse]
+"Come on, big brother!! I'll make your childlike dick all grown up!!!"[pcms]
 
 
 *8694|
 [fc]
-[ns]克己[nse]
-「つぐ……みッ！　それは……それだけはやめ……ろッッ！！」[pcms]
+[ns]Kazumi[nse]
+"Tsugu...mi! That... just that, stop... it!!"[pcms]
 
 
 *8695|
 ;旧ナンバー[vo_t s="tugumi0604"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0219"]
-[ns]丞実[nse]
-「あはっ、あはははははははっっ！！[r]
-　カワイイいもうとのぉ、すンごいノドマンコで……、[r]
-　ドーテーそつぎょうぅうぅう！！」[pcms]
+[ns]Tsugumi[nse]
+"Ahaha, ahahahahaha!! With your cute little sister's amazing throat[r]
+pussy... you'll graduate from virginity!!!"[pcms]
 
 
 *8696|
 [fc]
-丞実は親指と人差し指で作った輪に亀頭をあてがうと、[r]
-そのまま一気に唇を押し付け……飲み込んでいた。[pcms]
+As Tsugumi placed the glans against the ring formed by her thumb and[r]
+index finger, she pressed her lips against it and swallowed it whole.[pcms]
 
 ;;//m:ここからフェラ
 
@@ -215,242 +210,239 @@
 
 *8697|
 [fc]
-[ns]克己[nse]
-「…………ッッッ！！！」[pcms]
+[ns]Kazumi[nse]
+"...!!!!"[pcms]
 
 
 *8698|
 [fc]
-その瞬間、文字通り皮が裂けるような痛みも圧して[r]
-腰が砕けるほどの快感が脳天を殴打していた。[pcms]
+The moment her lips closed around it, a pain as if my skin was tearing[r]
+apart assaulted me along with an overwhelming pleasure that struck my[r]
+brain.[pcms]
 
 
 *8699|
 ;旧ナンバー[vo_t s="tugumi0605"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0220"]
-[ns]丞実[nse]
-「んぢゅっ、ぢゅぶぶぶぶぶぶっっ！！！[r]
-　あへっ、くっさあぁぁい！！　でもぉ、おいしいぃいぃぃ！！」[pcms]
+[ns]Tsugumi[nse]
+"Njutsu, jububububu!!! Aheh, so stinky!! But so tasty!!!"[pcms]
 
 
 *8700|
 ;旧ナンバー[vo_t s="tugumi0606"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0221"]
-[ns]丞実[nse]
-「んおおっ、んぶっ、じゅるるる…………っ！[r]
-　ひ……っ、おおお……！　あたま……クラクラするぅぅぅ！[r]
-　ぢゅっ、ぢゅぶっ、ぢゅっ、ぢゅっ、ぢゅるるるるるぅっ！」[pcms]
+[ns]Tsugumi[nse]
+"Noooh, nbufu, jurururu...! Hih... ooooh! My head's spinning! Jutsu,[r]
+jubu, jutsu, jutsu, jururururu!!"[pcms]
 
 
 *8701|
 [fc]
-ハムスターかなにかのように頬を膨らませながら、[r]
-丞実は妙に熱い舌を亀頭に絡みつかせてくる。[pcms]
+Puffing her cheeks like a hamster, Tsugumi wrapped her unusually hot[r]
+tongue around the glans.[pcms]
 
 
 *8702|
 [fc]
-[ns]克己[nse]
-「お……っ、おおおお…………！！」[pcms]
+[ns]Kazumi[nse]
+"Oh... ohhhhh...!!"[pcms]
 
 
 *8703|
 [fc]
-高々と上げた腰がガクガクと震え、視界の中で火花が散る。[r]
-それぐらい妹のフェラは衝撃的で、なによりも素晴らしかった。[pcms]
+My hips raised high shook violently and sparks scattered in my field[r]
+of vision. That's how shocking and wonderful my sister's fellatio was.[pcms]
 
 
 *8704|
 [fc]
-[ns]克己[nse]
-「おま……、なんで……こんなにっ、うまい……んだよッ」[pcms]
+[ns]Kazumi[nse]
+"Why... how can you be... so good at this...?"[pcms]
 
 
 *8705|
 ;旧ナンバー[vo_t s="tugumi0607"]
 [マイク 位置３][マイク 位置３ ch=t][vo_t s="R_tug_BIN0222"]
-[ns]丞実[nse]
-「んひぃっ、えーーっ、そんなんどーでもいいじゃんか。[r]
-　それよりぃ、もっとチンカスぅ、あじわわせて？」[pcms]
+[ns]Tsugumi[nse]
+"Nhihih, eehh, who cares about that. More importantly, let me taste[r]
+more of your smegma?"[pcms]
 
 
 *8706|
 [fc]
-舌先が別の生き物のように蠢き、皮と亀頭の間に潜り込む。[r]
-そして裏側にこびり付いていた汚物を掻き出していく。[pcms]
+The tip of her tongue wriggled like a separate creature, slipping[r]
+between the skin and glans to scrape off the filth stuck underneath.[pcms]
 
 
 *8707|
 ;旧ナンバー[vo_t s="tugumi0608"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0223"]
-[ns]丞実[nse]
-「んいいいいいっっ！！　くるぅっ、アタマにびんびんくるぅっ！[r]
-　チーズみたいでぇっ！　おいしいぃぃ！！[r]
-　んっっ！　んぶっ、んおおおおおっっっ！！！」[pcms]
+[ns]Tsugumi[nse]
+"Nyiiiiii!!! It's coming, it's hitting my brain! It's like cheese! So[r]
+tasty!! Nhhhh! Nbufu, noooooo!!!"[pcms]
 
 
 *8708|
 [fc]
-削ぎ落としたそれを喉に流し落としながら、[r]
-丞実は狂ったように叫び続けた。[pcms]
+As she swallowed what she scraped off, Tsugumi continued to scream[r]
+like a madwoman.[pcms]
 
 
 *8709|
 ;旧ナンバー[vo_t s="tugumi0609"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0224"]
-[ns]丞実[nse]
-「あふうっ、このままっ、かじりとってみたいかもぉ！！[r]
-　兄ちゃんのチンポぉ！　たべたいよぉおぉぉ！！」[pcms]
+[ns]Tsugumi[nse]
+"Afuuhh, I kinda want to bite it off!! Your dick! I want to eat it!!!"[pcms]
 
 
 *8710|
 [fc]
-[ns]克己[nse]
-「いっ、イヤだ……ッ！　それだけは……それだけは……！！」[pcms]
+[ns]Kazumi[nse]
+"No... No! Anything but that... anything but that...!!"[pcms]
 
 
 *8711|
 [fc]
-さあっと背筋が凍り、俺は兄であることも忘れて首を振る。[pcms]
+A chill ran down my spine and forgetting that I was her brother, I[r]
+shook my head.[pcms]
 
 
 *8712|
 ;旧ナンバー[vo_s s="sizuka0386"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0159"]
-[ns]静[nse]
-「ダメですよぉ……！[r]
-　わたしたちもぉ、チンポもぐもぐするんですからぁぁ！[r]
-　まだ、とっておいてくださいぃぃ！！」[pcms]
+[ns]Shizuka[nse]
+"You can't do that...! We also want to munch on the dick! Please save[r]
+some for us!!"[pcms]
 
 
 *8713|
 [fc]
-犬のように舌を垂らして静ちゃんが言う。[r]
-『まだ』という単語が気がかりだが、[r]
-ひとまずは命を繋いだらしい……。[pcms]
+Drooling like a dog, Shizuka spoke. The word "save" worried me but for[r]
+now, it seemed my life was spared...[pcms]
 
 
 *8714|
 ;旧ナンバー[vo_t s="tugumi0610"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0225"]
-[ns]丞実[nse]
-「ん……っ、はああああ。それにしても、妹のフェラで[r]
-　こんなにビンビンにするなんて、さいってい！！」[pcms]
+[ns]Tsugumi[nse]
+"Nn... Haaaah. But still, to get this hard from your sister's blowjob,[r]
+that's the worst!!"[pcms]
 
 
 *8715|
 [fc]
-[ns]克己[nse]
-「う……っ。そ、それはおまえが……」[pcms]
+[ns]Kazumi[nse]
+"Ugh... That's because you..."[pcms]
 
 
 *8716|
 [fc]
-当然の反応っちゃ反応なんだけど、俺には返す言葉がなかった。[r]
-それぐらい丞実のフェラは心地良く、刺激的だったからだ。[pcms]
+It was a natural reaction, but I had no words to return. Tsugumi's[r]
+blowjob felt so good and stimulating, that was why.[pcms]
 
 
 *8717|
 ;旧ナンバー[vo_t s="tugumi0611"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0226"]
-[ns]丞実[nse]
-「あはぁっ、きもちいいんだねぇ？[r]
-　チンカスもきれいにしてもらって、だいまんぞくぅ？」[pcms]
+[ns]Tsugumi[nse]
+"Ahaha, it feels good, doesn't it? Are you completely satisfied after[r]
+I cleaned up all your smegma?"[pcms]
 
 
 *8718|
 ;旧ナンバー[vo_t s="tugumi0612"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0227"]
-[ns]丞実[nse]
-「……でもでもぉ！　まだまだしゃぶりたりないからっ、[r]
-　兄ちゃんのチンポっ、もっとたのしむのぉ！！　ぢゅるる！」[pcms]
+[ns]Tsugumi[nse]
+"...But but! I'm not satisfied with just sucking, I want to enjoy your[r]
+dick more!! Jururu!"[pcms]
 
 
 *8719|
 [fc]
-唇にまとわりついた唾液には、なにやら赤いものが混じっている。[pcms]
+Saliva clung to her lips, mixed with something red.[pcms]
 
 
 *8720|
 [fc]
-一瞬アレを囓られたのかと思ったが、さっきまで『食べて』いた[r]
-なにかの残滓であることがわかって安堵してしまう。[pcms]
+For a moment I thought she had bitten it, but then I realized it was[r]
+just the residue of something she had been "eating" earlier and I felt[r]
+relieved.[pcms]
 
 
 *8721|
 [fc]
-[ns]克己[nse]
-「ちッ、違う……だろッ！　こいつは人を……」[pcms]
+[ns]Kazumi[nse]
+"Tch, no... that's not it! This girl is... people..."[pcms]
 
 
 *8722|
 [fc]
-……を食べた口で、俺のモノをしゃぶってる。[pcms]
+...she's sucking on my thing with a mouth that has eaten people.[pcms]
 
 
 *8723|
 [fc]
-それがなんて恐ろしいことなのか、異常なことなのか。[r]
-なのにどうして俺は……安堵なんかしたんだよ！？[pcms]
+How terrifying and abnormal that is. Yet why did I feel... relieved!?[r]
+What's wrong with me?[pcms]
 
 
 *8724|
 [fc]
-自分のアレを食い千切られなくて良かった？[r]
-本当にそれだけでなのか？　それとも、俺は頭がおかしく……。[pcms]
+Am I just glad that my thing wasn't bitten off? Is that really all[r]
+there is to it? Or is my head just messed up...[pcms]
 
-;;//メモ：フェラされたら感染するのかしら？　発症の速度は？[pcms]
+Can you get infected from a blowjob? How fast does it manifest?[pcms]
 
 
 *8725|
 ;旧ナンバー[vo_t s="tugumi0613"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0228"]
-[ns]丞実[nse]
-「はぶっ、んぶぶぶぶっ！　ぢゅぶっ、ぢゅぶぶぶっ！[r]
-　んっ、はあ……っ、おいひ……ぃっ、んぶっ、んおおおっ！[r]
-　ぢゅっ、ぢゅぶっ、ぢゅるるるっ、ぢゅううううううっ！」[pcms]
+[ns]Tsugumi[nse]
+"Habu, nubububu! Jubu, jubububu! Nn, haa... oihi...i, nubu, noooo![r]
+Juu, jubu, jurururu, juuuuuuu!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t s="tugumi0613"]
 
 
 *8726|
 [fc]
-頭上で響く淫靡な水音のせいか、頭が朦朧としていく。[r]
-視界に薄紅色の膜が広がり、まるで夢の中の出来事みたいだ。[pcms]
+The lewd sound of water echoing above made my head grow hazy. A thin[r]
+crimson film spread across my vision, as if everything was happening[r]
+in a dream.[pcms]
 
 
 *8727|
 [fc]
-絡みつく舌に蹂躙されながらもアレは狂おしく震え、[r]
-いまかいまかと射精のタイミングを伺っている。[pcms]
+While being ravaged by her entwining tongue, it trembled madly,[r]
+waiting for the right moment to ejaculate.[pcms]
 
 
 *8728|
 [fc]
-妹の熱い口マンコの中に精液をブチ撒けたら、[r]
-いったいどれほど気持ちいいんだろう？[pcms]
+I wonder how good it would feel to spray my semen inside my sister's[r]
+hot mouth pussy?[pcms]
 
 
 *8729|
 [fc]
-きっと本格的に頭がイカれるぐらい気持ちよくて……。[pcms]
+It would probably feel so good that I'd completely lose my mind...[pcms]
 
 
 *8730|
 ;旧ナンバー[vo_s s="sizuka0387"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0160"]
-[ns]静[nse]
-「いいかげんに、してください！！」[pcms]
+[ns]Shizuka[nse]
+"Please stop it already!!"[pcms]
 
 
 *8731|
 [fc]
-その叫びと共に、射精のタイミングは吹き飛んでしまう。[pcms]
+With that shout, the timing for ejaculation was blown away.[pcms]
 
 
 *8732|
 [fc]
-ぼんやりした視界の中では、不満で一杯の静ちゃんが[r]
-俺のアレから無理矢理丞実を引き剥がしていた。[pcms]
+In my blurry vision, Shizuka-chan, full of dissatisfaction, was[r]
+forcibly peeling Tsugumi away from my thing.[pcms]
 
 ;;//■イベントCG　mob_H016　ムキ
 [evcg storage="mob_H016b"][trans_c cross time=500]
@@ -459,57 +451,57 @@
 *8733|
 ;旧ナンバー[vo_t s="tugumi0614"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0229"]
-[ns]丞実[nse]
-「ちょっとぉ！　いいトコだったのに、なんでジャマするのよぉ」[pcms]
+[ns]Tsugumi[nse]
+"Hey! It was just getting good, why are you interrupting?!"[pcms]
 
 
 *8734|
 ;旧ナンバー[vo_s s="sizuka0388"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0161"]
-[ns]静[nse]
-「つぐみは、もうたくさんおチンポくわえたんだしっ、[r]
-　かつみさんのおチンポは、わたしがくわえるんですぅぅぅ！！」[pcms]
+[ns]Shizuka[nse]
+"Tsugumi has already had her fill of dicks, now it's my turn to suck[r]
+on Kazumi-san's dick!!"[pcms]
 
 
 *8735|
 [fc]
-そのまま俺の股に割って入ると、大きく開けた口に近づけてくる。[pcms]
+She wedged herself between my legs and approached with her mouth wide[r]
+open.[pcms]
 
 
 *8736|
 ;旧ナンバー[vo_s s="sizuka0389"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0162"]
-[ns]静[nse]
-「はぁっ、はぁぁぁぁっ！　おチンポぉ！[r]
-　かつみさんのっ、ホーケーおチンポぉぉぉぉぉぉぉ！！！」[pcms]
+[ns]Shizuka[nse]
+"Hah, hahhhhh! Dick! Kazumi-san's hot dick!!!"[pcms]
 
 
 *8737|
 [fc]
-生暖かい吐息が寸止め状態のアレにまとわりつき、[r]
-新たな快感の始まりを期待させる。[pcms]
+The warm breath wrapped around my almost-edging thing, promising the[r]
+start of a new pleasure.[pcms]
 
 
 *8738|
 ;旧ナンバー[vo_t s="tugumi0615"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0230"]
-[ns]丞実[nse]
-「しかたないなぁ～、チンカスは、ぜんぶたべちゃったから、[r]
-　あとはセーエキぐらいしかのこってないけどね」[pcms]
+[ns]Tsugumi[nse]
+"Can't be helped~ I've eaten all the smegma already, so there's only[r]
+semen left."[pcms]
 
 
 *8739|
 ;旧ナンバー[vo_s s="sizuka0390"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0163"]
-[ns]静[nse]
-「ずるぅい！　クサくてたまらないチンカス、[r]
-　わたしもたべたかったのにぃぃ！[r]
-　ううう、セーエキでぇ、ガマンしますぅぅぅ……」[pcms]
+[ns]Shizuka[nse]
+"That's not fair! I wanted to eat the stinky smegma too! Ugh, I'll[r]
+have to be satisfied with the semen..."[pcms]
 
 
 *8740|
 [fc]
-言うが早いか、静ちゃんはパクリと亀頭を咥えこむ。[pcms]
+No sooner had she said that than Shizuka-chan took the glans into her[r]
+mouth with a plop.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -527,48 +519,47 @@
 
 *8741|
 [fc]
-[ns]克己[nse]
-「……つっ！」[pcms]
+[ns]Kazumi[nse]
+"...Tch!"[pcms]
 
 
 *8742|
 [fc]
-だが素行を訝しがるほど手慣れていた丞実とは違い、[r]
-彼女のそれは実に辿々しいものだった。[pcms]
+Unlike Tsugumi who was experienced in such matters, her blowjob was[r]
+quite clumsy.[pcms]
 
 
 *8743|
 ;旧ナンバー[vo_s s="sizuka0391"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0164"]
-[ns]静[nse]
-「ん……っ、んぶっ、ん……っ！！　は……っ、んあっ！[r]
-　かつみさんのぉ、すごくぅ、おっきいですぅ……ぢゅぷっ」[pcms]
+[ns]Shizuka[nse]
+"Nn... nubu, n...!! Ha... nha! Kazumi-san's is so big...jup"[pcms]
 
 
 *8744|
 [fc]
-ときおり口を開けて呼吸を整えながらも[r]
-何度もアレを唇の奥に押し込んでいく。[pcms]
+She occasionally opened her mouth to breathe while repeatedly pushing[r]
+it deep into her lips.[pcms]
 
 
 *8745|
 [fc]
-その度に滑らかな歯に亀頭がぶつかり、[r]
-痛いような心地良いような奇妙な感覚が広がった。[pcms]
+Each time, the smooth teeth would hit the glans, spreading a strange[r]
+sensation that was both painful and pleasant.[pcms]
 
 
 *8746|
 ;旧ナンバー[vo_h s="honma0149"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0054"]
-[ns]本間[nse]
-「もう～～、ダメじゃないの。そんなにらんぼうにしたら、[r]
-　だいじなチンポがきずだらけになっちゃうじゃない」[pcms]
+[ns]Honma[nse]
+"Oh come on~ That's not good. If you're too rough with it, the[r]
+precious dick will get all scratched up."[pcms]
 
 
 *8747|
 [fc]
-静ちゃんの初々しいフェラにやきもきしたのか、[r]
-先生がじれったそうに声を上げた。[pcms]
+Perhaps frustrated by Shizuka-chan's inexperienced blowjob, Honma-[r]
+sensei raised her voice impatiently.[pcms]
 
 ;;//メモ：プロット通り文武両道とか書きたいけどひらがなでは読みづらいですね
 
@@ -576,27 +567,25 @@
 *8748|
 ;旧ナンバー[vo_h s="honma0150"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0055"]
-[ns]本間[nse]
-「アナタは、文ぶ……りょう道、[r]
-　もんくなしのしゅうさいかとおもったけど……。[r]
-　こういうことは、まだまだみたいね……？」[pcms]
+[ns]Honma[nse]
+"I thought you were a master of literary and martial arts without any[r]
+complaints... But it seems you still have much to learn about this..."[pcms]
 
 
 *8749|
 ;旧ナンバー[vo_s s="sizuka0392"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0165"]
-[ns]静[nse]
-「んんん～～～！！　ぢゅ……っ、ぢゅるっ、ちゅぷ……っ、[r]
-　ん……はっ、だって……つぐみちゃんが、わたしのぶんまで、[r]
-　おチンポたべちゃうんですぅ……だから、だからぁ」[pcms]
+[ns]Shizuka[nse]
+"Nnnnn~!! Ju... juru, chup... n... ha! Because Tsugumi-chan ate my[r]
+share of the dick too... so that's why"[pcms]
 
 
 *8750|
 ;旧ナンバー[vo_h s="honma0151"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0056"]
-[ns]本間[nse]
-「うふっ、うふふふふふ、これからまなべばいいのよ。[r]
-　せっかくだしぃ、おてほん、みせてあげるわね」[pcms]
+[ns]Honma[nse]
+"Ufu, ufufufufufu, you can learn from now on. Since we're here, I'll[r]
+show you an example."[pcms]
 
 ;;//■イベントCG　mob_H016　ムキ
 [evcg storage="mob_H016b"][trans_c cross time=500]
@@ -604,22 +593,22 @@
 
 *8751|
 [fc]
-しぶしぶといった様子で静ちゃんが離れると、[r]
-今度は本間先生が俺のアレと対峙した。[pcms]
+Reluctantly Shizuka-chan moved away and now Honma-sensei confronted my[r]
+thing.[pcms]
 
 
 *8752|
 ;旧ナンバー[vo_h s="honma0152"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0057"]
-[ns]本間[nse]
-「オトナのテク……包茎チンポにあじわわせてあげるわ……。[r]
-　かくごなさいよ！　あはははははっっ！！」[pcms]
+[ns]Honma[nse]
+"I'll let you taste an adult's technique... on your foreskin-covered[r]
+dick... Brace yourself! Ahahahahaha!!"[pcms]
 
 
 *8753|
 [fc]
-[ns]克己[nse]
-「せ……先生……ッ、う……おおおおお！！」[pcms]
+[ns]Kazumi[nse]
+"Se...Sensei... Uh... oooooh!!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -636,81 +625,81 @@
 
 *8754|
 [fc]
-先生が真っ赤な口にアレを含むなり、鮮烈な快感が頭を殴打する。[pcms]
+As soon as Sensei took it into her bright red mouth, an intense[r]
+pleasure struck my head.[pcms]
 
 
 *8755|
 ;旧ナンバー[vo_h s="honma0153"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0058"]
-[ns]本間[nse]
-「ぢゅぽっ！　ぢゅぐ……ぢゅぽっ！　ん……んんんんんん！[r]
-　ぢゅっ、ぢゅぐっ、ぢゅるるるるる！！」[pcms]
+[ns]Honma[nse]
+"Jupo! Jug... jupo! Nn...nnnnnnn! Jup, jugu, jurururururu!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_h s="honma0153"]
 
 
 *8756|
 [fc]
-これが『ディープスロート』ってヤツなのか……。[r]
-静ちゃんどころか、丞実さえ凌駕する激しい口撃だった。[pcms]
+Is this what they call a "deep throat"...? It was a fierce oral[r]
+assault that surpassed even Shizuka-chan, let alone Tsugumi.[pcms]
 
 
 *8757|
 [fc]
-真っ赤な唇を割り裂き、喉奥までいっぱいに飲み込みながら[r]
-軟体生物のような舌を竿全体に絡みつかせてくる。[pcms]
+Splitting her bright red lips, she swallowed it deep into her throat[r]
+while her tongue, like a soft-bodied creature, entwined itself around[r]
+the entire shaft.[pcms]
 
 
 *8758|
 ;旧ナンバー[vo_h s="honma0154"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0059"]
-[ns]本間[nse]
-「んっ、んおおお……っ！　ふふ……どおかしらぁ。[r]
-　そこらの、こむすめとは、んっ、ぶぷっ！　ちがうでしょおお？」[pcms]
+[ns]Honma[nse]
+"Nn, n-oooooh...! Fufu... How is it? It's different from your average[r]
+girl, isn't it? Nn, bup! Oooooh?"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_h s="honma0153"]
 
 
 *8759|
 ;旧ナンバー[vo_s s="sizuka0393"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0166"]
-[ns]静[nse]
-「ひどいです……こすむめよばわりなんてぇ。[r]
-　わたしだってぇ、そのぐらいできますぅぅぅ」[pcms]
+[ns]Shizuka[nse]
+"That's mean... calling me an 'average girl'. I can do that much[r]
+toooooo."[pcms]
 
 
 *8760|
 ;旧ナンバー[vo_t s="tugumi0616"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0231"]
-[ns]丞実[nse]
-「そうだよぉ！　ためしにやらせてみてよ！」[pcms]
+[ns]Tsugumi[nse]
+"That's right! Let me try it for a test!"[pcms]
 
 
 *8761|
 ;旧ナンバー[vo_s s="sizuka0394"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0167"]
-[ns]静[nse]
-「ずるぅいぃいぃ！[r]
-　そういってぇ、またおチンポたべるつもりですね！」[pcms]
+[ns]Shizuka[nse]
+"That's not fairrrr! You're planning to eat the dick again, aren't[r]
+you!"[pcms]
 
 
 *8762|
 ;旧ナンバー[vo_h s="honma0155"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0060"]
-[ns]本間[nse]
-「ケンカしちゃあ、ダメよぉおぉ。あっ、そろそろでるかしら？[r]
-　いいのよ、ノドチンコにせいえきぃ、ぶっかけてぇ！！[r]
-　んっ、ぐぷっ！　ぢゅぶぶぶぶぶっっっ！！」[pcms]
+[ns]Honma[nse]
+"No fighting now. Oh, is it about to come out? It's okay, go ahead and[r]
+splatter your semen on my throat cock! Nn, gup! Jubububububu!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_h s="honma0153"]
 
 
 *8763|
 [fc]
-[ns]克己[nse]
-「そ、そんな……ことッ、お……おおおお……」[pcms]
+[ns]Kazumi[nse]
+"Th-that's... such a thing... uh... oooooh..."[pcms]
 
 
 *8764|
 [fc]
-しかし舌は自在に動き回り、俺のガマンをあっさりと打ち砕いた。[pcms]
+However, her tongue moved freely, easily shattering my endurance.[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -724,76 +713,78 @@
 *8765|
 ;旧ナンバー[vo_h s="honma0156"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0061"]
-[ns]本間[nse]
-「んぶうぅうぅぅぅ！！　おごっ、おおおおぉぉおぉっっ！！」[pcms]
+[ns]Honma[nse]
+"Nbuuuuuuu!! Ogoh, oooooohhhhh!!"[pcms]
 
 
 *8766|
 [fc]
-迸る大量の精液を喉で受け止めながら、先生は恍惚に喘ぐ。[r]
-半ば白目を剥きながら、まるで縊死しかかってるみたいだった。[pcms]
+While catching the spurting semen in her throat, Sensei gasped in[r]
+ecstasy. Half rolling her eyes back, she looked as if she was on the[r]
+verge of asphyxiation.[pcms]
 
 
 *8767|
 ;旧ナンバー[vo_h s="honma0157"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0062"]
-[ns]本間[nse]
-「……んっ、じゅるっ、んんんん……っ。はああ……。[r]
-　こいわぁ、すごくこくておいしい。あら……まだのこってる」[pcms]
+[ns]Honma[nse]
+"...Nn, juru, nnnnnn... Haaa... This is really thick and tasty. Oh...[r]
+there's still some left."[pcms]
 
 
 *8768|
 [fc]
-そう淫靡に囁くなり、口をすぼめて啜り始める。[r]
-あまりに下品なその顔に、恐怖を越えた快感に震えてしまう。[pcms]
+Whispering lewdly, she began to suck with pursed lips. The utterly[r]
+vulgar expression on her face sent shivers of pleasure beyond fear[r]
+through me.[pcms]
 
 
 *8769|
 ;旧ナンバー[vo_h s="honma0158"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0063"]
-[ns]本間[nse]
-「じゅぶぶぶぶぶっ！！　せいえきぃ、ひさしぶりぃぃぃ！[r]
-　さいきんは……ダンナがシてくれなかったのよね……。[r]
-　んっ……んぷっ、じゅぱっ、じゅるるるるるるるっっ！！」[pcms]
+[ns]Honma[nse]
+"Jububububu!! Semen, it's been so long! Recently... my husband hasn't[r]
+given it to me... Nn... nup, jupa, jururururururu!!"[pcms]
 
 
 *8770|
 [fc]
-すっかり空になったってのに、先生はアレを吸い続けている。[r]
-このままだとタマまで吸い出されそうだ……。[pcms]
+Even though I was completely drained, Sensei continued to suck on it.[r]
+At this rate, she might even suck out my balls...[pcms]
 
 
 *8771|
 ;旧ナンバー[vo_s s="sizuka0395"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0168"]
-[ns]静[nse]
-「ううう、わたしもぉ、おチンポたべますぅぅ！[r]
-　せいえきぃ、じゅるじゅるってしたいですうぅぅうぅ！」[pcms]
+[ns]Shizuka[nse]
+"Uuuu, I want to eat the dick toooo! I want to slurp up the semen[r]
+uuuuuuu!"[pcms]
 
 
 *8772|
 [fc]
-さっき途中で邪魔される形となっていた静ちゃんが[r]
-目を血走らせて先生の首を絞め始めた。[pcms]
+Shizuka-chan, who had been interrupted earlier, began to strangle[r]
+Sensei with bloodshot eyes.[pcms]
 
 
 *8773|
 ;旧ナンバー[vo_s s="sizuka0396"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0169"]
-[ns]静[nse]
-「はなせぇ、はなせえぇぇぇぇ！！　チンポ、はなせぇ！！」[pcms]
+[ns]Shizuka[nse]
+"Let gooo, let goooooo!! Let go of the dick!!"[pcms]
 
 
 *8774|
 [fc]
-たまらずアレを取り離し、先生はバタバタと暴れ始める。[pcms]
+Unable to bear it any longer, she detached it and Sensei began to[r]
+flail about.[pcms]
 
 
 *8775|
 ;旧ナンバー[vo_h s="honma0159"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0064"]
-[ns]本間[nse]
-「おごっ、おおお……っっ！」[pcms]
+[ns]Honma[nse]
+"Ogoh, oooooo...!!"[pcms]
 
 ;;//■イベントCG　mob_H016
 [evcg storage="mob_H016g"][trans_c cross time=500]
@@ -801,104 +792,102 @@
 
 *8776|
 [fc]
-俺はその時になってようやく『冗談』ではなく、[r]
-本気で首を絞め上げていることに気づいた。[pcms]
+It was only then that I realized she wasn't joking; she was seriously[r]
+strangling her.[pcms]
 
 
 *8777|
 ;旧ナンバー[vo_t s="tugumi0617"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0232"]
-[ns]丞実[nse]
-「ダメだよぉ、しずか。コロしたらあとがメンドーじゃん。[r]
-　兄ちゃんのせいえきは、まだまだでてくるとおもうよぉ？」[pcms]
+[ns]Tsugumi[nse]
+"You can't do that, Shizuka. If you kill her, it'll be troublesome[r]
+afterward. Don't you think more semen will come out from brother?"[pcms]
 
 
 *8778|
 ;旧ナンバー[vo_s s="sizuka0397"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0170"]
-[ns]静[nse]
-「そ、そう……？　それなら……ゆるしてあげます」[pcms]
+[ns]Shizuka[nse]
+"Is that so...? If that's the case... I'll forgive you."[pcms]
 
 
 *8779|
 [fc]
-するりと白い指が離れたが、先生の首には赤黒い指跡が[r]
-アリアリと残されていた。一体どんな力で絞めてたんだ……。[pcms]
+The slender white fingers slipped away, but red and black marks from[r]
+her grip remained clearly on Sensei's neck. What kind of strength was[r]
+she using...[pcms]
 
 
 *8780|
 ;旧ナンバー[vo_s s="sizuka0398"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0171"]
-[ns]静[nse]
-「それじゃあ、こんどこそ、わたしが、[r]
-　克己さんのおチンポたべますね。[r]
-　いいですよね、せんせい？」[pcms]
+[ns]Shizuka[nse]
+"Then now, this time for sure, I will eat Kazumi-san's dick. That's[r]
+okay with you, right, Sensei?"[pcms]
 
 
 *8781|
 [fc]
-涎と精液を垂らして倒れ伏す先生を見下ろしながら、[r]
-静ちゃんが薄笑みと共に迫ってくる。[pcms]
+Gazing down at Sensei who lay collapsed, drooling saliva and semen,[r]
+Shizuka approached with a faint smile.[pcms]
 
 
 *8782|
 ;旧ナンバー[vo_s s="sizuka0399"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0172"]
-[ns]静[nse]
-「さあぁぁぁぁ、かつみさぁん。わたしがおチンポを[r]
-　たああああっぷりかわいがってあげますねぇぇぇ」[pcms]
+[ns]Shizuka[nse]
+"Nowwww, Kazumi-san. I will take great care of your dick eeeeeee."[pcms]
 
 
 *8783|
 [fc]
-[ns]克己[nse]
-「い、いらねえ！　もう勘弁してくれ！　う、うわああああ！」[pcms]
+[ns]Kazumi[nse]
+"I-I don't need it! Please spare me! Uwaaaaah!"[pcms]
 
 
 *8784|
 [fc]
-必死な抵抗を無視して戦慄く指が伸びてくる。[r]
-でも……その行き先を邪魔する者が現れた。[pcms]
+Ignoring my desperate resistance, trembling fingers reached out.[r]
+But... someone appeared to block their path.[pcms]
 
 
 *8785|
 ;旧ナンバー[vo_mk s="miki0063"]
 [マイク 位置７ ch=m][vo_m s="R_miki_BIN0005"]
-[ns]美樹[nse]
-「ねえ～、まって～？　おとこのひとってぇ、[r]
-　チンポさわったりするだけじゃなくて、[r]
-　こういうのもよろこぶんですよぉおおぉ？」[pcms]
+[ns]Miki[nse]
+"Hey~, wait~? Men don't just enjoy having their dicks touched, they[r]
+also like this toooo?"[pcms]
 
-;;//※美樹？　美樹ちゃん？[pcms]
+;;//※Miki? Miki-chan?[pcms]
 
 ;;//いままで遠巻きにしていたメガネの子が、
 
 
 *8785a|
 [fc]
-いままで黙って見ていたメガネの子が、[r]
-そんなことを言いながら俺と静ちゃんの間に割り込んでくる。[pcms]
+The bespectacled girl who had been silent until now cut in between me[r]
+and Shizuka-chan as she said that.[pcms]
 
 
 *8786|
 ;旧ナンバー[vo_s s="sizuka0400"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0173"]
-[ns]静[nse]
-「じゃまするの……？」[pcms]
+[ns]Shizuka[nse]
+"Are you interrupting...?"[pcms]
 
 
 *8787|
 ;旧ナンバー[vo_mk s="miki0064"]
 [マイク 位置７ ch=m][vo_m s="R_miki_BIN0006"]
-[ns]美樹[nse]
-「そぉじゃなくて、ためしたいことがあるの。[r]
-　ね、いいでしょ～？　しずか……」[pcms]
+[ns]Miki[nse]
+"Not exactly. There's something I want to try. Right? It's okay, isn't[r]
+it? Shizuka..."[pcms]
 
 
 *8788|
 [fc]
-美樹はおもむろに俺の股に顔を突っ込むと、[r]
-ケツの穴……じゃなく、キンタマに舌を這わせ始める。[pcms]
+Miki slowly buried her face in my crotch and began to run her tongue[r]
+not over my ass but over my balls.[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -910,99 +899,100 @@
 *8789|
 ;旧ナンバー[vo_mk s="miki0065"]
 [マイク 位置７ ch=m][vo_m s="R_miki_BIN0007"]
-[ns]美樹[nse]
-「んああああ……んっ、おぉっ……お、おぉぉおおおっ」[pcms]
+[ns]Miki[nse]
+"Naaaaah... Nn, ohh... Ohh, oooooohhhhh"[pcms]
 
 
 *8790|
 [fc]
-涎塗れの舌をベットリとタマ袋に押し付けながら[r]
-持ち上げるように転がしてくる。[pcms]
+While pressing her saliva-covered tongue firmly against my ball sack,[r]
+she began to roll them as if lifting them up.[pcms]
 
 
 *8791|
 [fc]
-[ns]克己[nse]
-「……んおっ！　おおーーーッ！」[pcms]
+[ns]Kazumi[nse]
+"...Nn-oh! Oooh---!"[pcms]
 
 
 *8792|
 [fc]
-フェラすら初めてだって言うのに、[r]
-パンパンに膨れたタマ袋がこね上げられ、[r]
-俺はみっともない声を上げてしまう。[pcms]
+Even though it was my first time getting a blowjob, my balls were[r]
+kneaded so vigorously that I couldn't help but let out an embarrassing[r]
+moan.[pcms]
 
 
 *8793|
 ;旧ナンバー[vo_s s="sizuka0401"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0174"]
-[ns]静[nse]
-「わあ！　きもちよさそう！」[pcms]
+[ns]Shizuka[nse]
+"Wow! That looks so pleasurable!"[pcms]
 
 
 *8794|
 ;旧ナンバー[vo_mk s="miki0066"]
 [マイク 位置７ ch=m][vo_m s="R_miki_BIN0008"]
-[ns]美樹[nse]
-「まだまだ～！　これからだよ……？[r]
-　んごっ、んぶぅっ、ぶぶっ、んんんんんんんっっっ！」[pcms]
+[ns]Miki[nse]
+"We're just getting started~! Right...? Nngoh, nmbuu, bubu, nnnnnnnn!"[pcms]
 
 
 *8795|
 [fc]
-舌をごとタマ袋を吸い込むと、そのまま口の中で転がす。[r]
-その度に袋の中でタマが圧迫され、なんとも言えない快感が広がる。[pcms]
+As she sucked my ball sack into her mouth, she rolled it around[r]
+inside. With each movement, my balls were compressed, spreading an[r]
+indescribable pleasure.[pcms]
 
 
 *8796|
 ;旧ナンバー[vo_mk s="miki0067"]
 [マイク 位置７ ch=m][vo_m s="R_miki_BIN0009"]
-[ns]美樹[nse]
-「んぼっ、んぼぉっ！　んぐんぐ……ぢゅぶっ、ぢゅぶぶっっ！[r]
-　んほぉ！　ぐぶっ、くぢゅっ！　おおお……っ！！」[pcms]
+[ns]Miki[nse]
+"Nboh, nbooh! Ngunngu...jubu, jububu! Nhooh! Gubu, kudju! Oooh...!!"[pcms]
 ;miki0067
 
 
 *8797|
 [fc]
-激しさを増していくタマへの攻撃に、俺は息も絶え絶えだ。[r]
-ついでに言えば、他の三人も驚いたような顔をしていた。[pcms]
+The intensity of the attack on my balls was so overwhelming that I was[r]
+gasping for breath. Incidentally, the other three girls also looked[r]
+surprised.[pcms]
 
 
 *8798|
 ;旧ナンバー[vo_h s="honma0160"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0065"]
-[ns]本間[nse]
-「タマぜめなんて、なかなかやるわねぇ。[r]
-　いがいなふくへいの、しゅつげんってヤツかしら？」[pcms]
+[ns]Honma[nse]
+"Ball teasing, huh? That's pretty bold. Is this what they call an[r]
+unexpected counterattack?"[pcms]
 
 
 *8799|
 ;旧ナンバー[vo_t s="tugumi0618"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0233"]
-[ns]丞実[nse]
-「タマタマさんもきもちいいんだね。[r]
-　こんどは、あたしもやってみなくちゃあ」[pcms]
+[ns]Tsugumi[nse]
+"So the balls feel good too, huh? Next time, I've got to try it[r]
+myself."[pcms]
 
 
 *8800|
 [fc]
-驚きの表情はすぐに消え去り、欲望に満ちた視線が降り注ぐ。[r]
-そんな中、早くも行動を始めたのは静ちゃんだった。[pcms]
+Their expressions of surprise quickly vanished, replaced by gazes[r]
+filled with desire. Amidst this, Shizuka-chan was the first to take[r]
+action.[pcms]
 
 
 *8801|
 ;旧ナンバー[vo_s s="sizuka0402"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0175"]
-[ns]静[nse]
-「おてほんは、そのぐらいでいいですよ……。[r]
-　はやくぅっ、はやくおチンポっ！　おチンポすわせてぇ！！」[pcms]
+[ns]Shizuka[nse]
+"That's enough of a demonstration... Hurry up, hurry and let me ride[r]
+that dick! I want to ride that dick!!"[pcms]
 
 
 *8802|
 [fc]
-乱暴を美樹をはね飛ばすと、涎を垂らしながらアレに吸い付く。[r]
-そしてそのまま一気に喉元まで飲み込んでいた。[pcms]
+After roughly pushing Miki aside, Shizuka-chan clung to it with drool[r]
+dripping down and swallowed it all the way to her throat in one go.[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -1014,38 +1004,37 @@
 *8803|
 ;旧ナンバー[vo_s s="sizuka0403"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0176"]
-[ns]静[nse]
-「んぼぉぉぉおぉおぉおおぉぉぉっっっ！！！[r]
-　ぐぼっ、ぐぶっ、ぐぼっ！　おっ、おおっ、おおおおお！！」[pcms]
+[ns]Shizuka[nse]
+"Nboooooooohhhhhhh!!! Gubo, gubu, gubo! Oh, ooh, ooooooh!!"[pcms]
 
 
 *8804|
 [fc]
-喉の突き当たり、ノドチンコのあたりに亀頭を叩きつけながら[r]
-静ちゃんは下品きわまる声を上げ始める。[pcms]
+While slamming the head of my dick against the back of her throat,[r]
+Shizuka-chan began to make extremely vulgar noises.[pcms]
 
 
 *8805|
 ;旧ナンバー[vo_s s="sizuka0404"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0177"]
-[ns]静[nse]
-「ほひっ、ほおおお！　おぐっ、おええっ、ぶほぉおぉ！！[r]
-　ひぐ……っ、へげぇぇ、ほおっ！　んんんっ、おおおお！！」[pcms]
+[ns]Shizuka[nse]
+"Hohi, hooo! Oggu, oeeh, buhoooh! Higu...h, hegeeeh, hoooh! Nnnn,[r]
+ooooooh!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_s s="sizuka0404"]
 
 
 *8806|
 [fc]
-凄まじいバキューム・フェラに腰がガクガクと震えてしまう。[r]
-そんな俺の様子に嫉妬でもしたのか、丞実が襲いかかってくる。[pcms]
+The incredible vacuum blowjob made my hips shake uncontrollably.[r]
+Jealous of my reaction, Tsugumi pounced on me.[pcms]
 
 
 *8807|
 ;旧ナンバー[vo_t s="tugumi0619"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0234"]
-[ns]丞実[nse]
-「つぎあたしっ！　あたしもチンポすうのっ！！[r]
-　兄ちゃんっ、ちんぽっ！　のどまであじわわせてよぉぉぉ！」[pcms]
+[ns]Tsugumi[nse]
+"My turn next! I want to suck that dick too!! Big brother, let me[r]
+taste it down to my throat!!"[pcms]
 
 ;;//■イベントCG　mob_H016　美樹玉なめ
 [evcg storage="mob_H016h"][trans_c cross time=500]
@@ -1054,15 +1043,15 @@
 *8808|
 ;旧ナンバー[vo_s s="sizuka0405"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0178"]
-[ns]静[nse]
-「んぼっ！　まっ、まって！[r]
-　まだわたしぃっ、せーえきのんでなぁぁぁぃ！！」[pcms]
+[ns]Shizuka[nse]
+"Nboh! Wa-wait! I haven't finished drinking the semen yeeet!!"[pcms]
 
 
 *8809|
 [fc]
-静ちゃんが抵抗するも、あっさりと押し退けられてしまうと[r]
-『チングリ返し』な俺の股間に顔を叩きつけてきた。[pcms]
+Despite Shizuka-chan's resistance, she was easily pushed aside as[r]
+Tsugumi slammed her face into my crotch while I was in a "bungled"[r]
+position.[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -1074,22 +1063,21 @@
 *8810|
 ;旧ナンバー[vo_t s="tugumi0620"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0235"]
-[ns]丞実[nse]
-「おごっ！！　ごおおおおおっっっっ！！　おおおっ、おぼっ！[r]
-　おほぉぉぉぉおおおお……！　んっ、んぐうううぅぅぅ！！」[pcms]
+[ns]Tsugumi[nse]
+"Ogoh!! Goooooohhhhhhh!!! Oooh, obuh! Ohoooooo...! Nnguuuuuuu!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t s="tugumi0620"]
 
 
 *8811|
 [fc]
-[ns]克己[nse]
-「いでぇぇ！　やめろっ、このバカ！！」[pcms]
+[ns]Kazumi[nse]
+"Ouchhh! Stop it, you idiot!!"[pcms]
 
 
 *8812|
 [fc]
-対抗心でも疼いていたのか、手加減無用でアレを飲み込む丞実。[r]
-痛いぐらいの衝撃に俺は叫び声を上げてしまう。[pcms]
+Perhaps driven by a sense of rivalry, Tsugumi swallowed it without any[r]
+restraint. The painful impact made me scream out loud.[pcms]
 
 ;;//■イベントCG　mob_H016　美樹玉なめ
 [evcg storage="mob_H016h"][trans_c cross time=500]
@@ -1098,88 +1086,88 @@
 *8813|
 ;旧ナンバー[vo_t s="tugumi0621"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0236"]
-[ns]丞実[nse]
-「だまれっ！！　バカはどっちよ兄ちゃん！　いもうとサマが、[r]
-　このクサレチンポをキレーキレーにしてやってんだからさ！」[pcms]
+[ns]Tsugumi[nse]
+"Shut up!! Who's the idiot here, big brother! Your little sister is[r]
+about to tear this rotten dick to shreds!"[pcms]
 
 
 *8814|
 [fc]
-ギラギラした瞳で見据えられ、背筋に冷たいものが走る。[pcms]
+A chill ran down my spine as I was stared down with those glaring[r]
+eyes.[pcms]
 
 
 *8815|
 [fc]
-そうだ、こいつらは……おかしくなってんだ。[r]
-いくら気持ち良くても、こいつはもうおかしいんだ……。[pcms]
+That's right, these girls...they've gone mad. No matter how good it[r]
+feels, this is just crazy...[pcms]
 
 
 *8816|
 ;旧ナンバー[vo_t s="tugumi0622"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0237"]
-[ns]丞実[nse]
-「そぉそぉ、しずかにしてたほうがいいよぉ。[r]
-　んぼっ、んぶぶぶ……っ、いひっ、チンポいいっ！！[r]
-　このままくいちぎってやりたいぐらいぃぃぃ！！」[pcms]
+[ns]Tsugumi[nse]
+"That's right, you should stay quiet. Nboh, nmbubu...ihhi, this dick[r]
+feels so good!! I want to bite it off just like this!!"[pcms]
 
 
 *8817|
 [fc]
-竿に突き刺さる犬歯の感触。これは脅しとかじゃなくて、[r]
-本気で考えてるんだ。こいつらなら気にせず本気で……。[pcms]
+The sensation of canine teeth stabbing into my shaft. This isn't just[r]
+a threat; she's seriously considering it. They would do it without[r]
+hesitation...[pcms]
 
 
 *8818|
 ;旧ナンバー[vo_h s="honma0161"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0066"]
-[ns]本間[nse]
-;FHD「ダメだってぇ。チンポぉ、なくなったらためしないでしょお。[r]
-;FHD　ほらほらぁ、わたしにももっとたのませてぇ！！」[pcms]
-「ダメだってぇ。チンポぉ、なくなったらたのしめないでしょお。[r]
-　ほらほらぁ、わたしにももっとたのしませてぇ！！」[pcms]
+[ns]Honma[nse]
+"No way, if you lose your dick, you can't enjoy it anymore. Come on,[r]
+let me have more fun with it too!!"[pcms]
+"No way, if you lose your dick, you can't enjoy it anymore. Come on,[r]
+let me have more fun with it too!!"[pcms]
 
 
 *8819|
 [fc]
-首筋に指跡をつけたまま、先生が舌を伸ばしてくる。[r]
-そのあとから静ちゃんや美樹の舌がついてきた。[pcms]
+With finger marks still on my neck, the teacher extended her tongue[r]
+towards me. Shizuka-chan and Miki's tongues followed suit.[pcms]
 
 
 *8820|
 ;旧ナンバー[vo_mk s="miki0068"]
 [マイク 位置７ ch=m][vo_m s="R_miki_BIN0010"]
-[ns]美樹[nse]
-「わたしぃ、タマタマのふくろでいいですよぉお、[r]
-　チンポはみんなにまかせときますから……えへへへへ」[pcms]
+[ns]Miki[nse]
+"I'm fine with just the ballsack, you all can take care of the[r]
+dick...ehehehehe"[pcms]
 
 
 *8821|
 [fc]
-よほどタマ舐めが好みなのか、[r]
-乳首に吸い付く赤ちゃんみたいに[r]
-美樹は執拗にタマを舐め転がしてくる。[pcms]
+Apparently really enjoying ball licking, Miki kept persistently[r]
+rolling my balls around in her mouth like a baby sucking on a nipple.[pcms]
 
 
 *8822|
 ;旧ナンバー[vo_s s="sizuka0406"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0179"]
-[ns]静[nse]
-「つぐみちゃん！　おチンポよこしなさいよぉ！[r]
-　あんたみたいなヤリマン、そこでマンコでもこすってなさい！」[pcms]
+[ns]Shizuka[nse]
+"Tsugumi-chan! Hand over that dick right now! You slutty girl should[r]
+just rub your pussy over there!"[pcms]
 
 
 *8823|
 [fc]
-酷い暴言に丞実の瞳に殺気が宿るも、アレを離すことなく[r]
-ひたすら亀頭を吸い上げ、甘噛みを繰り返してくる。[pcms]
+Despite the harsh words sparking murderous intent in Tsugumi's eyes,[r]
+she didn't let go and kept sucking on the head and gently biting it[r]
+repeatedly.[pcms]
 
 
 *8824|
 ;旧ナンバー[vo_h s="honma0162"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0067"]
-[ns]本間[nse]
-「いいじゃない、みんなでわけあいましょうぅ。[r]
-　ほらぁ、じゅんばんにぃ、べろべろすればいいのよぉぉ」[pcms]
+[ns]Honma[nse]
+"It's fine, let's share. Come on, we can take turns licking it..."[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -1190,23 +1178,22 @@
 
 *8825|
 [fc]
-余りにも異常な状況にも関わらず、不思議な秩序が生まれた。[r]
-三人は亀頭を回し合い次々と舌を押し付けてくる……。[pcms]
+In spite of the abnormal situation, a strange order emerged. The three[r]
+of them took turns pressing their tongues against the head...[pcms]
 
 
 *8826|
 ;旧ナンバー[vo_t s="tugumi0623"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0238"]
-[ns]丞実[nse]
-「はへぇぇぇ……みんなのよだれぇ、[r]
-　あまくておいしいぃぃぃ」[pcms]
+[ns]Tsugumi[nse]
+"Hahheee...everyone's saliva is so sweet and delicious..."[pcms]
 
 
 *8827|
 ;旧ナンバー[vo_s s="sizuka0407"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0180"]
-[ns]静[nse]
-「そうだね……かつみじるとまざってぇ、おいしいぃぃ」[pcms]
+[ns]Shizuka[nse]
+"That's right...mixed with Kazumi's juice, it's delicious..."[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -1218,16 +1205,15 @@
 *8828|
 ;旧ナンバー[vo_h s="honma0163"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0068"]
-[ns]本間[nse]
-「みきも、なめなくて、いいのかしらぁぁぁ？」[pcms]
+[ns]Honma[nse]
+"Miki, aren't you going to lick too?"[pcms]
 
 
 *8829|
 ;旧ナンバー[vo_mk s="miki0069"]
 [マイク 位置７ ch=m][vo_m s="R_miki_BIN0011"]
-[ns]美樹[nse]
-「わたしぃ、タマタマのほうがすきぃぃぃ。[r]
-　はひっ、タマタマすきぃぃぃぃ！！」[pcms]
+[ns]Miki[nse]
+"I prefer the balls... Hahi, I love balls!!"[pcms]
 
 ;;//■イベントCG　mob_H016　美樹玉なめ静フェラ
 [evcg storage="mob_H016i"][trans_c cross time=500]
@@ -1235,22 +1221,23 @@
 
 *8830|
 [fc]
-奇妙な調和が生まれたが、俺は快感の渦で狂いそうだった。[r]
-いやいや……このまま気が狂ってしまえば、どんなにいいだろう。[pcms]
+A strange harmony had been established, but I was on the verge of[r]
+madness from the whirlpool of pleasure. No, no...how wonderful it[r]
+would be to lose my mind like this.[pcms]
 
 
 *8831|
 [fc]
-こいつらと一緒に頭がおかしくなったら、[r]
-ずっとずっとこの快感を味わっていられるじゃないか……。[pcms]
+If I went crazy with them, I could taste this pleasure forever and[r]
+ever...[pcms]
 
 
 *8832|
 ;旧ナンバー[vo_s s="sizuka0408"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0181"]
-[ns]静[nse]
-「はぶうううっ！　つぎはぁぁ、つぐみちゃんのばん、だよ？[r]
-　さあ、どおぞおぉおぉ……んぶううっ！」[pcms]
+[ns]Shizuka[nse]
+"Habuuuu! Next is Tsugumi-chan's turn, okay? Come on,[r]
+pleaseee...nbuuuu!"[pcms]
 
 ;;//■イベントCG　mob_H016　美樹玉なめ
 [evcg storage="mob_H016h"][trans_c cross time=500]
@@ -1258,20 +1245,20 @@
 
 *8833|
 [fc]
-たっぷりと亀頭を堪能した静ちゃんが[r]
-丞実にソレを譲り渡そうとした瞬間だった。[pcms]
+The moment Shizuka, who had thoroughly enjoyed the head, tried to hand[r]
+it over to Tsugumi.[pcms]
 
 
 *8834|
 [fc]
-すでにガマンを越えて麻痺しかかっていたソレは、[r]
-その些細な刺激にさえ耐えられなかった。[pcms]
+It, already beyond endurance and nearly numb, couldn't withstand even[r]
+that slight stimulation.[pcms]
 
 
 *8835|
 [fc]
-[ns]克己[nse]
-「ほおおおお…………ッッ！！」[pcms]
+[ns]Katsumi[nse]
+"Hooooo...!!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -1290,8 +1277,8 @@
 
 *8836|
 [fc]
-水道管が破裂したみたいに吹き出した白濁液が[r]
-ビチャビチャと四人の顔に降り注いでいく。[pcms]
+The milky fluid burst out like a ruptured water pipe, showering down[r]
+on the faces of all four of them.[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -1300,9 +1287,9 @@
 *8837|
 ;旧ナンバー[vo_s s="sizuka0409"]
 [マイク 位置８ ch=s][vo_s s="R_siz_BIN0182"]
-[ns]静[nse]
-「ふあああああ……！　せーえきぃ！　ふんすいみたいぃぃぃ！[r]
-　あつくてぇ、どろどろでぇ、あはははははっっ」[pcms]
+[ns]Shizuka[nse]
+"Fuaaaaa...! Semen! It's like a fountain! It's hot and gooey,[r]
+ahahahahaha!"[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -1311,17 +1298,17 @@
 *8838|
 ;旧ナンバー[vo_h s="honma0164"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0069"]
-[ns]本間[nse]
-「すごいぃ、すごいわぁ！　せいえきふんすい、きもちいいぃ！[r]
-　まだこんなにこいのだせるなんてぇ、さすがよ……？」[pcms]
+[ns]Honma[nse]
+"Amazing, so amazing! A semen fountain feels so good! To think you can[r]
+still cum this much, impressive...?"[pcms]
 
 
 *8839|
 ;旧ナンバー[vo_mk s="miki0070"]
 [マイク 位置７ ch=m][vo_m s="R_miki_BIN0012"]
-[ns]美樹[nse]
-「ほへえええ……。あつくてぇ、どろどろぉぉぉ……。[r]
-　これでパックしたらぁ、おはだつるつるぅぅぅ」[pcms]
+[ns]Miki[nse]
+"Hoeheeee... It's hot and gooey... If I did a facial pack with this,[r]
+my skin would be so smooth..."[pcms]
 
 ;;//■イベントCG　mob_H016
 [evcg storage="mob_H016m"][trans_c cross time=1000]
@@ -1329,22 +1316,22 @@
 
 *8840|
 [fc]
-三者三様の感想が漏れる中、顔面にベットリと精液を[r]
-こびり付かせたまま、丞実が喜悦に満ちた顔で囁いた。[pcms]
+As varied reactions slipped out, Tsugumi, her face plastered with[r]
+semen, whispered with a face full of joy.[pcms]
 
 
 *8841|
 ;旧ナンバー[vo_t s="tugumi0624"]
 [マイク 位置３ ch=t][vo_t s="R_tug_BIN0239"]
-[ns]丞実[nse]
-「ねぇ、兄ちゃん……つづきぃ、いけるよねぇ？[r]
-　まさかこれでおわりとか、つまんないこといわないよねぇ？」[pcms]
+[ns]Tsugumi[nse]
+"Hey, big brother...we can keep going, right? You're not going to say[r]
+something boring like this is the end, are you?"[pcms]
 
 
 *8842|
 [fc]
-ここで首を横に振るだけの勇気は残っていなかった。[r]
-俺に出来たのは、ただ従順に頷くだけだった……。[pcms]
+I didn't have the courage to shake my head at that point. All I could[r]
+do was nod submissively...[pcms]
 
 [jump storage="7032_siz.ks" target=*7032_siz_TOP]
 

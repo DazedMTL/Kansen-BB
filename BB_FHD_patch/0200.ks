@@ -11,8 +11,7 @@
 
 *896|
 [fc]
-…………。[r]
-……。[pcms]
+... ...[pcms]
 
 ;;//s:SE　救急車のサイレンなど
 [se buf1 storage="seC015"]
@@ -21,9 +20,8 @@
 
 *897|
 [fc]
-もう少しで完全にシャットダウンする所だった意識は、[r]
-セミの声に混ざって聞こえるサイレンの音によって、[r]
-引き戻された。[pcms]
+My consciousness, which was about to completely shut down, was pulled[r]
+back by the sound of sirens mixed with the chirping of cicadas.[pcms]
 
 ;;//bgm01-01
 [bgm storage="bgm01-01"]
@@ -34,35 +32,33 @@
 
 *897|
 [fc]
-[ns]克己[nse]
-「なんだよ、うっせーな……」[pcms]
+[ns]Kazumi[nse]
+"What's that, so noisy..."[pcms]
 
 
 *898|
 [fc]
-いっそ寝てしまおうとも思ったけど、[r]
-それを許してくれない位の台数が走り回っている音がする。[pcms]
+I thought about just going back to sleep, but the sound of so many[r]
+vehicles running around wouldn't allow it.[pcms]
 
 
 *899|
 [fc]
-何か、大事件でもあったんだろうか？[r]
-……だとしたら、黙って寝ている訳にはいかない。[pcms]
+Could there be some major incident? ...If that's the case, I can't[r]
+just lie here and sleep.[pcms]
 
 
 *900|
 [fc]
-[ns]克己[nse]
-「くっ……うう、お、俺は……。[r]
-　ピューリッツァー賞を取る為に産まれてきた男ォ……。[r]
-　うううう……」[pcms]
+[ns]Kazumi[nse]
+"Ugh...uh, I... I'm the man born to win the Pulitzer Prize...[r]
+Ughhh..."[pcms]
 
 
 *901|
 [fc]
-床にうち捨ててあった携帯を拾い上げ、[r]
-カメラモードに切り替えながら、[r]
-タマタマの痛みを堪え、外に飛び出していく。[pcms]
+Picking up the cellphone that was thrown on the floor, I switch it to[r]
+camera mode while enduring the pain in my balls and rush outside.[pcms]
 
 ;;//seフェード停止###[stop_se buf2]
 [stopse_fadeout buf1 time=1000]
@@ -79,20 +75,18 @@
 *902|
 ;旧ナンバー[vo_t s="tugumi0053"]
 [vo_t s="R_tug0055"]
-[ns]丞実[nse]
-「ああ、兄ちゃん起きたんだね。[r]
-　うるさいもんねえ、救急車やらパトカーやら。[r]
-　さっきは急ブレーキの音も聞こえたよ」[pcms]
+[ns]Tsugumi[nse]
+"Ah, big brother, you're awake. It's noisy, isn't it? Ambulances and[r]
+police cars. I even heard the sound of a sudden brake earlier."[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar1_a"][ChrSetParts layer=5 chface="F1_tug01"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
 
 *903|
 [fc]
-[ns]克己[nse]
-「なんか事件かねえ？　色んな所から聞こえてくる気がする。[r]
-　あっちもこっちも大変だなあ……。[r]
-　ああ、ヘリコプターまで飛んでら」[pcms]
+[ns]Kazumi[nse]
+"Is there some kind of incident? I can hear it from various places.[r]
+It's a mess everywhere... Ah, there's even a helicopter flying."[pcms]
 
 ;;//★空・朝昼A
 [bg storage="BG31a"][trans_c cross time=500]
@@ -100,15 +94,14 @@
 
 *904|
 [fc]
-正直ヘリコプターなんて珍しくもなんともないのに、[r]
-鳴り止まないサイレンの音に興奮してしまってか、[r]
-思わず写メを取ろうと構えた。[pcms]
+Honestly, helicopters aren't rare or anything, but maybe I got excited[r]
+by the incessant siren sounds and instinctively tried to take a[r]
+snapshot.[pcms]
 
 
 *905|
 [fc]
-そんな俺を、丞実は落胆の表情で見つめ、[r]
-ため息をついた。[pcms]
+Tsugumi looks at me with a disappointed expression and sighs.[pcms]
 
 ;;//★マンション外観（町並み・朝昼）
 [bg storage="BG12a"][trans_c cross time=500]
@@ -118,36 +111,35 @@
 *906|
 ;旧ナンバー[vo_t s="tugumi0054"]
 [vo_t s="R_tug0056"]
-[ns]丞実[nse]
-「何、野次馬根性で飛び出してきたの？　あっきれた……」[pcms]
+[ns]Tsugumi[nse]
+"What, did you come out here with a rubbernecking spirit? That's[r]
+disappointing..."[pcms]
 
 
 *907|
 [fc]
-『可愛そうな人』なんて言わんばかりの目で見つめられると、[r]
-なんだか恥ずかしくなってしまって、[r]
-構えた携帯を、コッソリとズボンのポケットに滑り込ませた。[pcms]
+Being stared at with eyes that seemed to say "poor thing," I felt[r]
+embarrassed and secretly slipped my cellphone into my pants pocket.[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar1_a"][ChrSetParts layer=5 chface="F1_tug07"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *908|
 ;旧ナンバー[vo_t s="tugumi0055"]
 [vo_t s="R_tug0057"]
-[ns]丞実[nse]
-「それにしても、朝からずーっとこんな感じだよね[r]
-　段々増えてるみたいだけど、何かあったのかな？」[pcms]
+[ns]Tsugumi[nse]
+"Even so, it's been like this since morning. It seems to be getting[r]
+worse, I wonder if something happened?"[pcms]
 
 
 *909|
 [fc]
-丞実は俺から目を話すと、[r]
-空を飛ぶヘリコプターに目を向けたまま独りごちる。[pcms]
+Tsugumi turns her gaze away from me and mutters to herself while[r]
+looking at the helicopter flying in the sky.[pcms]
 
 
 *910|
 [fc]
-[ns]克己[nse]
-「ふうん。お前、ここからチャリで学園までいくんだろ？[r]
-　気をつけろよ」[pcms]
+[ns]Kazumi[nse]
+"Huh. You're going to school by bike from here, right? Be careful."[pcms]
 
 ;;//seフェード停止###[stop_se buf1]
 [stopse_fadeout buf3 18 time=1000]
@@ -157,107 +149,103 @@
 *911|
 ;旧ナンバー[vo_t s="tugumi0056"]
 [vo_t s="R_tug0058"]
-[ns]丞実[nse]
-「うん。合宿なんだよね。案外楽しみなんだ。[r]
-　学園に泊まるのって、ワクワクしちゃう！[r]
-　静もいるしさ、退屈しなそう！」[pcms]
+[ns]Tsugumi[nse]
+"Yeah. It's a training camp. I'm actually looking forward to it.[r]
+Staying at school is exciting! Shizuka will be there too, so it won't[r]
+be boring!"[pcms]
 
 
 *912|
 [fc]
-[ns]克己[nse]
-「へ、なに？　教室とかで寝泊まりすんの？」[pcms]
+[ns]Kazumi[nse]
+"Heh, what? You're going to sleep in classrooms or something?"[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar1_a"][ChrSetParts layer=5 chface="F1_tug01"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *913|
 ;旧ナンバー[vo_t s="tugumi0057"]
 [vo_t s="R_tug0059"]
-[ns]丞実[nse]
-「ううん、違うよ。宿泊施設があるんだよ。[r]
-　今日から二泊三日なんだ。[r]
-　結構、荷物大変なんだよね……」[pcms]
+[ns]Tsugumi[nse]
+"No, that's not it. There's a lodging facility. It's for two nights[r]
+and three days starting today. Packing is quite a hassle..."[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar1_a"][ChrSetParts layer=5 chface="F1_tug07"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
 
 *914|
 [fc]
-そう言って丞実は、ふっとため息をついた。[pcms]
+With that said, Tsugumi lets out a small sigh.[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar1_a"][ChrSetParts layer=5 chface="F2_tug07"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=500]
 
 
 *915|
 [fc]
-夏の日差しを受けて煌めく汗が、[r]
-健康的に焼けた肌の上を流れて行く。[pcms]
+The sweat glistening under the summer sun flows over her healthily[r]
+tanned skin.[pcms]
 
 
 *916|
 [fc]
-流れ落ちる汗の筋は、[r]
-柔らかに存在を主張する鎖骨、細い首筋細い顎に、[r]
-銀色のラインを描き――[pcms]
+The trail of sweat draws a silver line across her softly pronounced[r]
+collarbone, slender neck, and delicate chin--[pcms]
 
 
 *917|
 [fc]
-――おそらく、夏の暑さに火照ったんだろう。[r]
-仄かに赤く熱を帯びた唇の横で薄く消えていた。[pcms]
+--probably heated by the summer warmth. It faintly disappears beside[r]
+her slightly flushed and warm lips.[pcms]
 
 
 *918|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *919|
 [fc]
-妙に憂いを帯びた大人っぽい表情。[r]
-その中心の瞳の奥に、一抹の不安を感じる。[pcms]
+Her expression is tinged with a melancholy maturity. In the depths of[r]
+her eyes at its center, I feel a hint of anxiety.[pcms]
 
 
 *920|
 [fc]
-いや――[pcms]
+No--[pcms]
 
 
 *921|
 [fc]
-――実際には丞実に対してじゃない。[r]
-丞実の瞳に映り込んだ、街の空気に対してだ――[pcms]
+--it's not actually about Tsugumi. It's about the atmosphere of the[r]
+city reflected in Tsugumi's eyes--[pcms]
 
 
 *922|
 [fc]
-[ns]克己[nse]
-「……な、なあ、丞実。学園まで送って行くよ。[r]
-　うん、それがいい、そうしよう……。[r]
-　荷物、持ってやるからさ」[pcms]
+[ns]Kazumi[nse]
+"...Hey, Tsugumi. I'll take you to school. Yeah, that's better, let's[r]
+do that... I'll carry your luggage."[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar1_a"][ChrSetParts layer=5 chface="F2_tug07"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *923|
 ;旧ナンバー[vo_t s="tugumi0058"]
 [vo_t s="R_tug0060"]
-[ns]丞実[nse]
-「は？　何言ってんの？　送ってくとか」[pcms]
+[ns]Tsugumi[nse]
+"Huh? What are you talking about? Take me there?"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar1_c"][ChrSetParts layer=5 chface="F2_tug09"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *924|
 ;旧ナンバー[vo_t s="tugumi0059"]
 [vo_t s="R_tug0061"]
-[ns]丞実[nse]
-「あー……解った。あたしらの合宿覗こうって、[r]
-　そういう魂胆ね？　イヤらしい……」[pcms]
+[ns]Tsugumi[nse]
+"Ah--...I get it. You're planning to peep on our training camp, aren't[r]
+you? That's lewd..."[pcms]
 
 
 *925|
 [fc]
-[ns]克己[nse]
-「い、いや、それもアリだけどさ。[r]
-　そうじゃないんだ、[r]
-　何か妙な胸騒ぎがするっていうか……」[pcms]
+[ns]Kazumi[nse]
+"No, that's an option too, but that's not it. I just have this strange[r]
+premonition..."[pcms]
 
 ;;//s:ＢＧＭ無音
 ;;//BGMフェードアウト
@@ -271,22 +259,21 @@
 
 *926|
 [fc]
-夏独特の湿った空気が肺の中を圧迫し、[r]
-妙に息苦しくて、助けを求める様に手を伸ばす。[pcms]
+The humid air unique to summer compresses inside my lungs, making it[r]
+difficult to breathe, and I reach out as if seeking help.[pcms]
 
 
 *927|
 [fc]
-あの夏の日の、溺れた時の様に――[pcms]
+Just like that summer day when I was drowning--[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar1_a"][ChrSetParts layer=5 chface="F2_tug01"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *928|
 ;旧ナンバー[vo_t s="tugumi0060"]
 [vo_t s="R_tug0062"]
-[ns]丞実[nse]
-「……気持ちだけ貰っておくよ。[r]
-　あたしは大丈夫だから。[r]
-　だから今度は、お父さん達を安心させてあげて」[pcms]
+[ns]Tsugumi[nse]
+"...I'll take your concern. I'll be fine. So this time, make our[r]
+parents feel at ease."[pcms]
 
 ;;//s:声優指示：哀しげな感じで
 
@@ -297,24 +284,24 @@
 
 *929|
 [fc]
-丞実は、慈しむような微笑みを浮かべてる。[pcms]
+Tsugumi smiles at me with a tender look.[pcms]
 
 
 *930|
 [fc]
-伸ばした手は、震えてる。[pcms]
+My outstretched hand is trembling.[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar1_a"][ChrSetParts layer=5 chface="F2_tug07"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *931|
 ;旧ナンバー[vo_t s="tugumi0061"]
 [vo_t s="R_tug0063"]
-[ns]丞実[nse]
-「どうしたの？　そんな深刻な顔して……」[pcms]
+[ns]Tsugumi[nse]
+"What's wrong? You look so serious..."[pcms]
 
 
 *932|
 [fc]
-丞実は微笑みながら、俺の震える手を握った。[pcms]
+Tsugumi smiles as she holds my trembling hand.[pcms]
 
 ;;//s:ＢＧＭフェードイン
 ;;//bgm01-01
@@ -323,147 +310,143 @@
 
 *933|
 [fc]
-その手は、夏の気温よりも少しだけ高くて。[r]
-だけど、揺らぐ心を静めてくれた。[pcms]
+Her hand is slightly warmer than the summer temperature. But it calmed[r]
+my shaking heart.[pcms]
 
 
 *934|
 [fc]
-[ns]克己[nse]
-「あ、いや……ありがとな、丞実。[r]
-　電話もちゃんとするから……さ」[pcms]
+[ns]Kazumi[nse]
+"Ah, no...thanks, Tsugumi. I'll make sure to call...yeah."[pcms]
 
 
 *935|
 [fc]
-柔らかな手が、そっと離れていく。[pcms]
+Her soft hand gently slips away.[pcms]
 
 
 *936|
 [fc]
-だけど、ぬくもりは残ったまま。[pcms]
+But the warmth remains.[pcms]
 
 
 *937|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar1_a"][ChrSetParts layer=5 chface="F2_tug01"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 
 
 *938|
 [fc]
-ぬくもりと、柔らかな感覚の残る手の平を見つめる俺に、[r]
-丞実はいつもの元気の良い笑顔を向ける。[pcms]
+As I stare at my palm, still feeling the warmth and softness, Tsugumi[r]
+gives me her usual cheerful smile.[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar1_a"][ChrSetParts layer=5 chface="F1_tug04"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *939|
 ;旧ナンバー[vo_t s="tugumi0062"]
 [vo_t s="R_tug0064"]
-[ns]丞実[nse]
-「うんうん。じゃあ、また来るからね」[pcms]
+[ns]Tsugumi[nse]
+"Yep yep. Then, I'll come again, okay?"[pcms]
 
 
 *940|
 [fc]
-[ns]克己[nse]
-「ああ……」[pcms]
+[ns]Kazumi[nse]
+"Ah..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *941|
 [fc]
-自転車のスタンドを勢いよく蹴り上げながら、[r]
-サドルに飛び乗った丞実は、振り返り様に叫んだ。[pcms]
+While energetically kicking up the bike stand, Tsugumi jumps onto the[r]
+saddle and shouts back as she looks over her shoulder.[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar1_a"][ChrSetParts layer=5 chface="F2_tug03"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *942|
 ;旧ナンバー[vo_t s="tugumi0063"]
 [vo_t s="R_tug0065"]
-[ns]丞実[nse]
-「そうそう、何かあったら助けに来てね。[r]
-　頼りにしてるよ、兄ちゃん！　じゃあねえ～！！」[pcms]
+[ns]Tsugumi[nse]
+"That's right, if anything happens, come to my rescue. I'm counting on[r]
+you, big brother! See ya~!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *943|
 [fc]
-立ち漕ぎの状態で、丞実は勢いよく走り出す。[pcms]
+With a standing pedal start, Tsugumi dashes off energetically.[pcms]
 
 
 *944|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *945|
 [fc]
-どんどん小さくなっていく小さな背中を、[r]
-ありったけの感謝の気持ちを込めて見送った。[pcms]
+I watch her small back getting smaller and smaller, sending her off[r]
+with all the gratitude I can muster.[pcms]
 
 
 *946|
 [fc]
-『何かあったら助けに来てね』[pcms]
+"If anything happens, come to my rescue."[pcms]
 
 
 *947|
 [fc]
-あの言葉はささくれ立った心を少し癒やしてくれた。[pcms]
+Those words soothed my frayed heart a little.[pcms]
 
 
 *948|
 [fc]
-アイツは、まだ俺の事を見捨ててない。[r]
-アイツは、まだ俺の事を頼りにしてくれているんだ。[pcms]
+She hasn't given up on me. She still relies on me.[pcms]
 
 
 *949|
 [fc]
-あの台詞は、何よりのプレゼントだ。[pcms]
+That line is the best present of all.[pcms]
 
 
 *950|
 [fc]
-[ns]克己[nse]
-「ありがとうな、丞実……」[pcms]
+[ns]Kazumi[nse]
+"Thanks, Tsugumi..."[pcms]
 
 
 *951|
 [fc]
-さて。[r]
-あと、やることだが……。[pcms]
+Now then. There's still stuff to do...[pcms]
 
 
 *952|
 [fc]
-うん、これだけ励まされたんだ。[r]
-今なら、色々出来そうな気がする。[pcms]
+Yeah, with all this encouragement, I feel like I can do various things[r]
+now.[pcms]
 
 
 *953|
 [fc]
-空だって飛べそうだァァァ！？[pcms]
+I feel like I could even fly through the sky![pcms]
 
 
 *954|
 [fc]
-でもね！[p]
-でもね！！[pcms]
+But hey! But hey!![pcms]
 
 ;;//m:わかりにくいから最初のｋｗだけにしておく
 
 
 *955|
 [fc]
-[ns]克己[nse]
-「おうちに電話するのいやあああああぁぁあぁぁあぁ！？[r]
-　怒られるものぉぉ！　そうだようん、まずは仕事探しだね！？[r]
-　就職情報誌もらったりコーヒー牛乳買いに行かなきゃねえ！？」[pcms]
+[ns]Kazumi[nse]
+"I don't wanna call hooome! I'm gonna get scolded! Yeah, that's right,[r]
+first things first, job hunting, right!? Gotta get employment[r]
+magazines and buy some coffee milk!"[pcms]
 
 ;;//BGMフェードアウト
 [fadeoutbgm time=1000]
@@ -474,7 +457,7 @@
 ;;//g_clearが成立しているかどうか
 ;;//YES ラベル　0200_Aspect
 ;;//NO  ラベル　0210_jump
-;;//m:jump先ラベル意味消失してるのでここで直に飛ばす。[pcms]
+;;//m:jump label meaning lost so jumping directly here.[pcms]
 
 [if exp="sf.g_clear==1"][jump target=*0200_Aspect][endif]
 [jump storage="0210.ks" target=*0210_TOP]
@@ -523,7 +506,7 @@
 ;	;[link target=*aspect_sel_SEL01 single=true left="&f.aspect1_x" top="&f.aspect1_y" width=320 height=180 layer=0 border=0][endlink]
 ;	[link target=*aspect_sel_SEL02 single=true left="&f.aspect2_x" top="&f.aspect2_y" width=320 height=180 layer=1 border=0][endlink]
 ;	[link target=*aspect_sel_SEL03 single=true left="&f.aspect3_x" top="&f.aspect3_y" width=320 height=180 layer=2 border=0][endlink]
-;	[s]
+;[pcms]
 
 ;	[black_toplayer][trans_c cross time=500][hide_chara_int]
 
@@ -536,7 +519,7 @@
 ;	;	;ボタン込み
 ;	;	[zap_set1]
 ;	;	[zap_set2]
-;	;	[s]
+; ;[pcms]
 ;
 ;	ボタン選択肢ですが仮で通常選択肢表示
 ;	[sel02 text='克己' target=*aspect_sel_SEL02]

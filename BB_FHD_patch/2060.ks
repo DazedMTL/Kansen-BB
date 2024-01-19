@@ -21,68 +21,68 @@
 
 *7014|
 [fc]
-足を折った子の話だと、[r]
-丞実とはぐれたのは２階の非常階段近くらしい。[pcms]
+According to the kid with the broken leg, Tsugumi got separated near[r]
+the emergency stairs on the second floor.[pcms]
 
 
 *7015|
 [fc]
-俺は、合宿所の一番南側に移動すると、[r]
-同じ高さの２階から窓を開けて、その辺りを見渡してみた。[pcms]
+I moved to the southernmost part of the dormitory and opened a window[r]
+on the second floor at the same height to survey the area.[pcms]
 
 [bg storage="BG21a"][trans_c cross time=500]
 
 
 *7016|
 [fc]
-外には、結構な数の感染者がうろついている。[r]
-冷静に上から眺めていると、かなり怖い絵になっていた。[pcms]
+Outside, a considerable number of infected were wandering around.[r]
+Looking down calmly from above, it was quite a scary sight.[pcms]
 
 
 *7017|
 [fc]
-[ns]克己[nse]
-「くそっ……」[pcms]
+[ns]Kazumi[nse]
+"Damn it..."[pcms]
 
 [bg storage="BG29a"][trans_c cross time=500]
 
 
 *7018|
 [fc]
-南の非常階段の辺りは何とか見えるが、[r]
-そこに丞実の姿は無い。[pcms]
+I can somewhat see the area around the southern emergency stairs, but[r]
+there's no sign of Tsugumi there.[pcms]
 
 
 *7019|
 [fc]
-教室の中の様子を確認したいところだったけれど、[r]
-距離もあるし角度的にも見にくい位置で、[r]
-窓も太陽の反射で良くわからなかった。[pcms]
+I wanted to check inside the classrooms, but they were too far away[r]
+and at a difficult angle to see clearly, and the windows were hard to[r]
+make out due to the reflection of the sun.[pcms]
 
 
 *7020|
 [fc]
-俺は、その非常階段を追うようにしながら、[r]
-視線を少しずつ上にあげていく。[pcms]
+I followed the emergency stairs with my eyes, gradually raising my[r]
+gaze upwards.[pcms]
 
 [bg storage="BG31a"][trans_c cross time=500]
 
 
 *7021|
 [fc]
-丞実が逃げるなら、下じゃなくて上だろう。[pcms]
+If Tsugumi were to run away, she would go up, not down.[pcms]
 
 
 *7022|
 [fc]
-するとそこには、感染したらしい女の子に、[r]
-男が組み付かれて暴れている姿があった。[pcms]
+Then I saw a girl who seemed to be infected, struggling as a man[r]
+grappled with her.[pcms]
 
 
 *7023|
 [fc]
-先生だろうか……必死に抵抗しているが、[r]
-組み付かれてしまってはどうにも……。[pcms]
+Is that a teacher...? He's desperately resisting, but once he's been[r]
+grappled, there's not much he can do...[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -95,58 +95,57 @@
 
 *7024|
 [fc]
-[ns]克己[nse]
-「あっ！」[pcms]
+[ns]Kazumi[nse]
+"Ah!"[pcms]
 
 
 *7025|
 [fc]
-その男性が女の子と揉み合いながら、[r]
-階段の手すりから、するっと滑るように落ちていった。[pcms]
+While struggling with the girl, the man slipped from the handrail of[r]
+the stairs and fell down.[pcms]
 
 
 *7026|
 [fc]
-滞空時間は、ほんの１秒ほど。[pcms]
+The time he was airborne was only about a second.[pcms]
 
 [red_toplayer][trans_c cross time=500][hide_chara_int_r]
 
 
 *7027|
 [fc]
-落下して、地面に打ち付けられた男性は、[r]
-そのままぴくりとも動かなかった。[pcms]
+The man who fell and hit the ground didn't move an inch afterward.[pcms]
 
 
 *7028|
 [fc]
-そこに、感染者たちが集まってくる。[pcms]
+The infected began to gather around him.[pcms]
 
 
 *7029|
 [fc]
-[ns]克己[nse]
-「ぐっ……」[pcms]
+[ns]Kazumi[nse]
+"Guh..."[pcms]
 
 
 *7030|
 [fc]
-俺は、生唾を飲み込みながら、[r]
-いつのまにか流れていた冷や汗をぬぐい取る。[pcms]
+I swallowed my saliva and wiped away the cold sweat that had formed[r]
+without me noticing.[pcms]
 
 
 *7031|
 [fc]
-こんなところに丞実がいるのか？[r]
-本当に……？[pcms]
+Is Tsugumi really in such a place...? Truly...?[pcms]
 
 [bg storage="BG29a"][trans_c cross time=500]
 
 
 *7032|
 [fc]
-気を取り直して教室を確認していると、[r]
-正面の見やすい窓の近くに、誰かが立ったのがわかった。[pcms]
+As I regained my composure and checked the classrooms again, I could[r]
+see someone standing near a window that was easy to see from the[r]
+front.[pcms]
 
 [stopbgm]
 
@@ -161,16 +160,16 @@
 
 *7033|
 [fc]
-[ns]克己[nse]
-「え……？」[pcms]
+[ns]Kazumi[nse]
+"Eh...?"[pcms]
 
 [bgm storage="bgm01-02"]
 
 
 *7034|
 [fc]
-ジャージ姿の女の子で、虚ろな表情に赤い瞳。[r]
-明らかに、あいつらと同じ症状をしている。[pcms]
+The girl in a jersey had a vacant expression with red eyes. Clearly,[r]
+she had the same symptoms as them.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -183,13 +182,12 @@
 
 *7035|
 [fc]
-俺は、背筋に冷たい怖気が走るのがわかった。[pcms]
+I felt a cold dread run down my spine.[pcms]
 
 
 *7036|
 [fc]
-ジャージ姿の女の子と視線が合ったまま、[r]
-目が離せなくなっている。[pcms]
+As our eyes met, I couldn't look away from the girl in the jersey.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -202,8 +200,8 @@
 
 *7037|
 [fc]
-[ns]克己[nse]
-「そ、そんな……馬鹿な……」[pcms]
+[ns]Kazumi[nse]
+"No, no way... This is ridiculous..."[pcms]
 
 [black_toplayer][trans_c cross time=500]
 
@@ -212,52 +210,51 @@
 
 *7038|
 [fc]
-それは……その赤い眼をした、ジャージ姿の女の子は……、[r]
-間違いなく、丞実そのものだった。[pcms]
+That girl... with those red eyes in a jersey was unmistakably Tsugumi[r]
+herself.[pcms]
 
 
 *7039|
 [fc]
-窓辺に立つ丞実は、首をかしげるような曖昧な仕草で[r]
-俺の方を見ている。[pcms]
+Tsugumi standing by the window made an ambiguous gesture like tilting[r]
+her head as she looked in my direction.[pcms]
 
 
 *7040|
 [fc]
-ガラス戸に手を当てて、じっとこちらをのぞき見ていた。[pcms]
+She placed her hand on the glass door and peered intently over here.[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_kan"][ChrSetParts layer=5 chface="F2_tug21"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-120"][trans_c cross time=150]
 
 
 *7041|
 [fc]
-そして、自分が見ているものが兄だと認識したのか、[r]
-狂気めいた笑みを浮かべて、ガラス戸を叩きはじめる。[pcms]
+Then, as if she recognized that what she was looking at was her[r]
+brother, she began to hit the glass door with a mad smile.[pcms]
 
 
 *7042|
 [fc]
-べたんべたんと、緩慢な動作で断続的に叩いていた。[pcms]
+She tapped it intermittently with slow movements, thud thud.[pcms]
 
 
 *7043|
 [fc]
-何を表そうとしているのかわからないが、[r]
-喜んでいるように見える……。[pcms]
+I couldn't tell what she was trying to express, but she seemed[r]
+happy...[pcms]
 
 
 *7044|
 [fc]
-そのとき、どこからか男の叫び声が聞こえてきた。[r]
-丞実がそれに反応して、後ろを振り返る。[pcms]
+Then I heard a man's scream from somewhere. Tsugumi reacted to it and[r]
+looked back.[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 
 *7045|
 [fc]
-そして、そのまま俺の方には向き直らずに、[r]
-よたよたと窓際から離れていった。[pcms]
+Without turning back towards me, she staggered away from the window.[pcms]
 
 ;;//メモ　合宿所のこの階段使っていいのかな……
 [bg storage="BG28a"][trans_c cross time=500]
@@ -265,65 +262,65 @@
 
 *7046|
 [fc]
-[ns]克己[nse]
-「あ……あぁ……」[pcms]
+[ns]Kazumi[nse]
+"Ah... Ahh..."[pcms]
 
 
 *7047|
 [fc]
-腰が抜けたように、がっくりと身体が床に落ち、[r]
-俺はそのまま座り込んで、立てなかった。[pcms]
+As if my legs had given out, my body slumped to the floor, and I just[r]
+sat there, unable to stand up.[pcms]
 
 
 *7048|
 [fc]
-妹の無残に変わり果てた姿。[r]
-人ではなくなってしまった、その現実……。[pcms]
+The sight of my sister transformed into something gruesome. The[r]
+reality that she was no longer human...[pcms]
 
 
 *7049|
 [fc]
-[ns]克己[nse]
-「うっ……くううっ……」[pcms]
+[ns]Kazumi[nse]
+"Ugh... Kuuuh..."[pcms]
 
 
 *7050|
 [fc]
-今朝会ったばかりの、元気でやさしい丞実が、[r]
-あんなことになるなんて……。[pcms]
+The cheerful and kind Tsugumi I met just this morning... to think she[r]
+would end up like that...[pcms]
 
 [ChrSetEx layer=5 chbase="siz1_pol1_a"][ChrSetParts layer=5 chface="F1_siz12"][ChrSetXY layer=5 x="&sf.std_s_x調整*342" y="&sf.std_s_y調整*60"][trans_c cross time=150]
 
 
 *7051|
 [fc]
-隣を見ると、いつの間に現れたのか、[r]
-静ちゃんが窓の外を絶望的な顔で覗いていた。[pcms]
+When I looked to the side, Shizuka-chan had appeared at some point and[r]
+was peering out of the window with a look of despair.[pcms]
 
 
 *7052|
 [fc]
-口元を振るわせ、手をぎゅっと握りしめて静かに泣いている。[pcms]
+Her mouth quivered as she clenched her hands tightly and cried[r]
+quietly.[pcms]
 
 
 *7053|
 [fc]
-[ns]克己[nse]
-「み、見ちゃ駄目だ、静ちゃん……」[pcms]
+[ns]Kazumi[nse]
+"Don't look, Shizuka-chan... You shouldn't see this..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *7054|
 [fc]
-俺は静ちゃんの視界を遮るように立ち上がり、[r]
-その身体を抱きしめた。[pcms]
+I stood up to block Shizuka-chan's view and hugged her.[pcms]
 
 
 *7055|
 [fc]
-涙が止めどなく流れ落ち、[r]
-喉からこぼれる嗚咽が身体の奥から沸き上がってくる。[pcms]
+Tears streamed down endlessly, and sobs spilled from my throat,[r]
+welling up from deep within me.[pcms]
 
 [ChrSetEx layer=5 chbase="siz2_pol1_a"][ChrSetParts layer=5 chface="F2_siz11"][ChrSetXY layer=5 x="&sf.std_s_x調整*96" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 
@@ -331,76 +328,74 @@
 *7056|
 ;旧ナンバー[vo_s s="sizuka0367"]
 [vo_s s="R_siz0211"]
-[ns]静[nse]
-「ごめんね……丞実ちゃん……、[r]
-　すぐに助けてあげれば良かったのに……」[pcms]
+[ns]Shizuka[nse]
+"I'm sorry... Tsugumi-chan... I should have helped you sooner..."[pcms]
 
 
 *7057|
 [fc]
-[ns]克己[nse]
-「静ちゃんが悪いんじゃない……、[r]
-　誰にもどうにも出来なかったことなんだから……」[pcms]
+[ns]Kazumi[nse]
+"It's not your fault, Shizuka-chan... It was something that no one[r]
+could have done anything about..."[pcms]
 
 
 *7058|
 ;旧ナンバー[vo_s s="sizuka0368"]
 [vo_s s="R_siz0212"]
-[ns]静[nse]
-「克己さんに、全部押しつけてしまって、[r]
-　丞実ちゃんも助けられないで……」[pcms]
+[ns]Shizuka[nse]
+"I've pushed everything onto you, Kazumi-san, and I couldn't even save[r]
+Tsugumi-chan..."[pcms]
 
 
 *7059|
 [fc]
-[ns]克己[nse]
-「すまん丞実……本当にすまん……」[pcms]
+[ns]Kazumi[nse]
+"I'm sorry, Tsugumi... I'm truly sorry..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *7060|
 [fc]
-俺たちは、丞実に対する後悔の念と謝罪を、[r]
-繰り返し呟いていた。[pcms]
+We kept muttering our regrets and apologies to Tsugumi.[pcms]
 
 
 *7061|
 [fc]
-もう取り返しのつかない、大切な人だった丞実。[pcms]
+Tsugumi, who was now irretrievably gone, had been someone so dear to[r]
+us.[pcms]
 
 
 *7062|
 [fc]
-これ以上は泣かないと区切りを付けるように、[r]
-俺たちは思っていることを全部吐き出して、[r]
-お互いに泣き合った……。[pcms]
+As if to draw a line and say we wouldn't cry anymore, we poured out[r]
+everything we were thinking and cried together...[pcms]
 
 
 *7063|
 ;旧ナンバー[vo_s s="sizuka0369"]
 [vo_s s="R_siz0213"]
-[ns]静[nse]
-「ううっ……」[pcms]
+[ns]Shizuka[nse]
+"Uuhh..."[pcms]
 
 ;;//◆重複セリフです
 
 
 *7064|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *7065|
 [fc]
-どこかで様子を見ていたのか、[r]
-泣き疲れた俺たちの前に本間先生が現れる。[pcms]
+Perhaps having been watching from somewhere, Honma-sensei appeared[r]
+before us, exhausted from crying.[pcms]
 
 
 *7066|
 [fc]
-相変わらずの、理路整然とした穏やかな顔だ。[pcms]
+Her face was as calm and methodical as ever.[pcms]
 
 [ChrSetEx layer=5 chbase="hon1_hak_a"][ChrSetParts layer=5 chface="F1_hon01"][ChrSetXY layer=5 x="&sf.std_h_x調整*330" y="&sf.std_h_y調整*-10"][trans_c cross time=150]
 
@@ -408,8 +403,8 @@
 *7067|
 ;旧ナンバー[vo_h s="honma0140"]
 [vo_h s="R_hon0094"]
-[ns]本間[nse]
-「どうする？」[pcms]
+[ns]Honma[nse]
+"What will you do?"[pcms]
 
 ;;//◆重複セリフです
 
@@ -418,19 +413,19 @@
 
 *7068|
 [fc]
-一刻を争う怪我人がいる。[r]
-俺たちは、その人を救うと決めたはずだ。[pcms]
+There was someone with injuries that needed immediate attention. We[r]
+had decided to save that person.[pcms]
 
 
 *7069|
 [fc]
-涙をぬぐって、俺は力強く答えた。[pcms]
+Wiping away my tears, I answered with determination.[pcms]
 
 
 *7070|
 [fc]
-[ns]克己[nse]
-「行きましょう！」[pcms]
+[ns]Kazumi[nse]
+"Let's go!"[pcms]
 
 ;;//メモ　つなぎのために一旦暗転とか入れとく
 [black_toplayer][trans_c cross time=500][hide_chara_int]

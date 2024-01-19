@@ -34,31 +34,31 @@
 
 *1296|
 [fc]
-強い日差しに焼かれたアスファルトが焦げ、[r]
-夏特有の匂いを放つ。[pcms]
+The asphalt scorched by the strong sunlight emits the distinctive[r]
+smell of summer.[pcms]
 
 
 *1297|
 [fc]
-揺らぐ道路の上には、[r]
-踏みつけると糸を引いて伸びるガムの屑が落ちている。[pcms]
+On the wavering road, there are scraps of gum that stretch like[r]
+threads when stepped on.[pcms]
 
 
 *1298|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *1299|
 [fc]
-いつもよりほんのちょっと暑いくらいで、[r]
-何も変わらない夏になる筈だった。[pcms]
+It was supposed to be just a slightly hotter than usual summer, with[r]
+nothing else changing.[pcms]
 
 
 *1300|
 [fc]
-だけど、何だかちょっと違う中をくぐり抜け――[pcms]
+But somehow, it feels a little different as I make my way through--[pcms]
 
 ;;//BG:〆櫻岡女子学園
 ;;//★学園外観・朝昼
@@ -67,108 +67,102 @@
 
 *1301|
 [fc]
-やっとココまでたどり着いたんだ。[r]
-丞実と、静ちゃんの通う学園まで――[pcms]
+I've finally made it here, to the school that Tsugumi and Shizuka-chan[r]
+attend--[pcms]
 
 
 *1302|
 [fc]
-[ns]克己[nse]
-「エライ目にあったぜ……。[r]
-　大した距離もないってのに疲れた……」[pcms]
+[ns]Kazumi[nse]
+"That was rough... Even though it's not that far, I'm exhausted..."[pcms]
 
 
 *1303|
 [fc]
-俺の家からココまでなんて、二キロもなかった筈だ。[r]
-普段なら、ちんたら歩いたって二十分程度の距離だ。[r]
-なのに、随分掛かってしまった気がする。[pcms]
+It should be less than two kilometers from my house to here. Normally,[r]
+even if I dawdle, it's about a twenty-minute walk. But it feels like[r]
+it took much longer.[pcms]
 
 
 *1304|
 [fc]
-[ns]克己[nse]
-「にしても……。[r]
-　街中があんな事になってるなんて思わなかったぜ」[pcms]
+[ns]Kazumi[nse]
+"Still... I never expected the town to be in such chaos."[pcms]
 
 
 *1305|
 [fc]
-色々なモノが燃える焦げた匂いと飛び交う罵声。[r]
-ガム屑の隣に流れる、真っ黒な液体のシミと、[r]
-頭から血を流して倒れているオッサン。[pcms]
+The smell of various things burning and the exchange of curses. Next[r]
+to the gum scraps flows a stain of pitch-black liquid, and a man lies[r]
+collapsed with blood flowing from his head.[pcms]
 
 
 *1306|
 [fc]
-その中を[ruby text="愛　馬"][ch text="チャリ"]に跨がり、[r]
-金属バットを振り回し、俺は颯爽と駆け抜けた！[pcms]
+Straddling my bike and swinging a metal bat, I dashed through it all[r]
+with flair![pcms]
 
 
 *1307|
 [fc]
-[ns]克己[nse]
-「まるで呂布奉先みたいだったろうな……。[r]
-　[ruby text="せきと"][ch text="赤兎"]に跨がり、押し寄せる敵をバッタバッタと……。[r]
-　……後で丞実に自慢しよ……にしても、ダリー……」[pcms]
+[ns]Kazumi[nse]
+"I must have looked like Lu Bu himself... Riding on Red Hare, mowing[r]
+down the approaching enemies... I'll brag about it to Tsugumi later...[r]
+But man, I'm beat..."[pcms]
 
 
 *1308|
 [fc]
-毎日毎日、チャリに乗ってコンビニに行ったり、[r]
-ゲームのコントローラーを振り回したり、[r]
-右手を上下させたりする運動してたってのに。[pcms]
+Every day, I ride my bike to the convenience store, swing around game[r]
+controllers, and do exercises moving my right hand up and down.[pcms]
 
 
 *1309|
 [fc]
-なんでこんなに息がアガってんだ俺！？[r]
-……無理もないよな。[r]
-ここまで走ってきたンだもんな。[pcms]
+Why am I so out of breath!? ...It's no surprise though. I ran all the[r]
+way here.[pcms]
 
 
 *1310|
 [fc]
-赤兎は、途中で壮絶に息絶えてしまったんだ。[r]
-俺の大事な大事な相棒……惜しいことをした……。[pcms]
+Red Hare met a tragic end halfway through the journey. My precious,[r]
+precious partner... It's a shame...[pcms]
 
 
 *1311|
 [fc]
-……っつか、パンクしたから乗り捨ててきたんだけど。[r]
-それはいい。後で回収に行くから。[pcms]
+...Well, actually, I abandoned it because it got a flat tire. But[r]
+that's okay. I'll go back to pick it up later.[pcms]
 
 
 *1312|
 [fc]
-それより何より、丞実がピンチ！[r]
-いつまでもヘバってる訳にはいかないんだ！[pcms]
+More importantly, Tsugumi is in trouble! I can't afford to be slacking[r]
+off now![pcms]
 
 
 *1313|
 [fc]
-[ns]克己[nse]
-「どっから入ればいいのか……。[r]
-　正門は開いたままだけど、あそこから入った瞬間、[r]
-　しょっ引かれたりしねーだろうな？」[pcms]
+[ns]Kazumi[nse]
+"Where should I enter from...? The main gate is wide open, but if I go[r]
+in there, I might get nabbed on the spot, right?"[pcms]
 
 
 *1314|
 [fc]
-……でも非常事態だもん、仕方ないよな。[r]
-堂々としていれば大丈夫だ。[pcms]
+...But it's an emergency situation, so it can't be helped. If I act[r]
+confidently, it'll be fine.[pcms]
 
 
 *1315|
 [fc]
-うん、秘密の花園にようこそ俺――[pcms]
+Welcome to my secret garden, me--[pcms]
 
 
 *1316|
 [fc]
-漫画で良くある、典型的な泥棒よろしく、[r]
-手を幽霊の様な形にしながら、[r]
-忍び足で門に向かおうとした瞬間。[pcms]
+The moment I tried to sneak towards the gate with stealthy steps, like[r]
+a typical thief in manga making ghost-like hand gestures.[pcms]
 
 [旧quake_bg xy m]
 
@@ -176,43 +170,41 @@
 *1317|
 [fc]
 [ns]？？？[nse]
-「コラァァ――――！！」[pcms]
+"Hey you----!!"[pcms]
 
 
 *1318|
 [fc]
-[ns]克己[nse]
-「ぎゃ」[pcms]
+[ns]Kazumi[nse]
+"Eek!"[pcms]
 
 
 *1319|
 [fc]
-突然、背後からダミ声をぶつけられ、[r]
-思わず体を硬直させてしまう。[pcms]
+Suddenly hit with a loud shout from behind, my body instinctively[r]
+stiffens.[pcms]
 
 
 *1320|
 [fc]
-邪な考えが見抜かれてしまった。[r]
-このまま逃げよう……。[pcms]
+My wicked thoughts have been seen through. I should just run away...[pcms]
 
 
 *1321|
 [fc]
-と思ったけど、そんな状態じゃないんだ！[pcms]
+But that's not the situation I'm in![pcms]
 
 
 *1322|
 [fc]
-逃げてる場合じゃないし、何よりビビってる必要もない。[r]
-俺に声を掛けてきたヤツも、[r]
-街の中にいたヤツらの仲間だろう。[pcms]
+There's no need to run or be scared. The person who called out to me[r]
+must be one of those guys from town.[pcms]
 
 
 *1323|
 [fc]
-幸い、一人しかいないみたいだし、[r]
-ここは一発カマして黙らせてやる。[pcms]
+Luckily, it seems there's only one of them. This is my chance to[r]
+strike and silence them.[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -220,26 +212,25 @@
 
 *1324|
 [fc]
-[ns]克己[nse]
-「よし……」[pcms]
+[ns]Kazumi[nse]
+"Alright..."[pcms]
 
 
 *1325|
 [fc]
-汗の滲んだ手の平をズボンに拭い、[r]
-黒いテープの巻かれた金属バットの柄を握り直し、[r]
-声の主の方向へと振り返る。[pcms]
+I wipe my sweaty palms on my pants, grip the handle of the metal bat[r]
+wrapped in black tape again, and turn towards the source of the voice.[pcms]
 
 
 *1326|
 [fc]
-もし感染者なら思いっきりバットを振り抜く。[r]
-そうじゃなかったら――謝って逃げよう！[pcms]
+If it's an infected person, I'll swing the bat with all my might. If[r]
+not--I'll apologize and run away![pcms]
 
 
 *1327|
 [fc]
-サン、ニー、イチ……。[pcms]
+Three, two, one...[pcms]
 
 ;;//★学園外観・朝昼
 [bg storage="BG14a"][trans_c lr time=300]
@@ -247,22 +238,20 @@
 
 *1328|
 [fc]
-[ns]克己[nse]
-「ウォリャアァア！！！　あ……？[r]
-　え……キャ――――！？」[pcms]
+[ns]Kazumi[nse]
+"Take this----! Ah...? Eh...Kyaa----!?"[pcms]
 
 
 *1329|
 [fc]
-何があっても対処出来るように、[r]
-気合いを入れて振り返ったつもりだった。[pcms]
+I was ready to handle whatever came at me with full spirit as I turned[r]
+around.[pcms]
 
 
 *1330|
 [fc]
-だけど、そこに広がっていたのは、[r]
-さっきまで街で観てた光景なんか、[r]
-比べものにならないほど、酷い状態だった。[pcms]
+But what unfolded before me was a scene far worse than anything I'd[r]
+seen in town before, incomparable in its horror.[pcms]
 
 ;;//s:ここに汎用系の乱交絵何か使えないだろうか
 
@@ -271,15 +260,13 @@
 
 *1331|
 [fc]
-俺に背を向ける状態で沢山の人が集まり、[r]
-壁を作りだしている。[pcms]
+A large group of people had their backs to me, forming a wall.[pcms]
 
 
 *1332|
 [fc]
-その壁の隙間から、更に沢山の人のざわめきや、[r]
-叫び声が滲み出してくる。[r]
-……禍々しさすら感じる空気と共に。[pcms]
+Through the gaps in that wall seeped even more noise from the crowd[r]
+and screams, along with an air that felt ominously sinister.[pcms]
 
 ;;//s:絵が入った場合は上記の地の文不要
 
@@ -287,9 +274,8 @@
 *1333|
 ;旧ナンバー[vo_m s="higai0001"]
 [vo_mob s="R_osoware0001"]
-[ns]襲われる女性[nse]
-「あ、あ、あはぁああぁぁぁあ！！[r]
-　やっ、や、やあああああああああああぁぁあぁ！！！」[pcms]
+[ns]Attacked Woman[nse]
+"Ah, ah, ahaaaaahhh!! Noo, noo, noooooooahhh!!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x="&sf.std_kan1_x調整*340" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　17　金髪筋肉　
@@ -297,11 +283,11 @@
 
 *1333a|
 [fc]
-[ns]金髪の男[nse]
-「あ゛はぁ゛あ゛！！！　わかい゛って、い゛い゛なぁ！」[pcms]
+[ns]Blond-haired man[nse]
+"Ahahaha!!! Young flesh is sooo good!"[pcms]
 
-;;//m:[ns]メガネの男[nse]→[ns]グラサンの男[nse]
-;;//[ns]シャツ一枚の男[nse]→[ns]店員らしき男[nse]
+[ns]Glasses-wearing Man[nse]
+[ns]Man in a Single Shirt[nse]
 
 [ChrSetEx layer=3 chbase="mob_kan5_x"][ChrSetXY layer=3 x="&sf.std_kan5_x調整*0" y=0][trans_c cross time=150]
 ;;//MOB左＠感染者　21　細身茶髪　
@@ -309,9 +295,9 @@
 
 *1333b|
 [fc]
-[ns]グラサンの男[nse]
-「い、いいいいい、じ、じぇー、けぇぇぇ～。[r]
-　ふと、もも、あし、ぜんぶ、いいなああ」[pcms]
+[ns]Sunglasses Man[nse]
+"Y-yeah yeah yeah, g-great legs... Thighs and everything are just[r]
+niceee."[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan6_x"][ChrSetXY layer=4 x="&sf.std_kan6_x調整*605" y=0][trans_c cross time=150]
 ;;//MOB右＠感染者　19　デブ店員　
@@ -319,86 +305,79 @@
 
 *1333c|
 [fc]
-[ns]店員らしき男[nse]
-「ば、ばか、ケツがいいんだ、ケツが！[r]
-　おれは、ケツをなめる！　ンンン！！」[pcms]
+[ns]A man who appears to be a clerk[nse]
+"Idiot, it's the ass that's good, the ass! I'm gonna lick it! Mmmm!!"[pcms]
 
 
 *1334|
 ;旧ナンバー[vo_m s="higai0002"]
 [vo_mob s="R_osoware0002"]
-[ns]襲われる女性[nse]
-「あっ！　や、やだぁああぁあぁ！！[r]
-　やだっ！　やぁああぁあ！！」[pcms]
+[ns]Attacked Woman[nse]
+"Ah! No, nooooo!! Stop it! Noooo!!"[pcms]
 
 
 *1335|
 [fc]
-[ns]克己[nse]
-「お、おい……おい！」[pcms]
+[ns]Kazumi[nse]
+"Hey...hey!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *1336|
 [fc]
-[ns]若い男の子の声[nse]
-「あ――ッ！　あ、や、やめてくれえぇっ！[r]
-　うわぁあぁぁぁあ！！」[pcms]
+[ns]Young boy's voice[nse]
+"Ah--! Stop it, pleaseee! Uwaaaahhh!!"[pcms]
 
 
 *1337|
 [fc]
-女の子の悲鳴と俺の声は、[r]
-男の叫び声が覆い被さり消えていく。[pcms]
+The girl's screams and my voice are drowned out by the men's shouting.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_b3"][ChrSetXY layer=5 x="&sf.std_kanB_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　09　ＯＬ風２　
 *1338|
 ;旧ナンバー[vo_m s="nyokyousi0001"]
 [vo_mob s="R_kyosi0001"]
-[ns]女教師[nse]
-「あはぁあぁぁ……ずーっと、ねらってたんだよぉお？[r]
-　きみのこと、か、かわいいなぁって……ねぇ……？[r]
-　わ、たしとぉ……オマンコしよおぉお？」[pcms]
+[ns]Female Teacher[nse]
+"Ahaaa... I've always had my eye on you? You're so cute... right...?[r]
+How about you and me... have some pussy fun?"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan_a4"][ChrSetXY layer=3 x="&sf.std_kanA_x調整*50" y=0][trans_c cross time=150]
 ;;//MOB左＠感染者　04　制服３　　
 *1339|
 ;旧ナンバー[vo_m s="kan_josiA0001"]
 [vo_mob s="R_kanJOA0001"]
-[ns]感染女子生徒Ａ[nse]
-「ばかぁ！　ねらってたのは、あたしのほう！[r]
-　あたしのほうが、さきだよね、やまおかくんっ！」[pcms]
+[ns]Infected Female Student A[nse]
+"Idiot! I was the one targeting him! I got to him first, right,[r]
+Yamada-kun!"[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan_c5"][ChrSetXY layer=4 x="&sf.std_kanC_x調整*650" y=0][trans_c cross time=150]
 ;;//MOB右＠感染者　15　制服５　　
 *1340|
 ;旧ナンバー[vo_m s="kan_josiB0001"]
 [vo_mob s="R_kanJOB0001"]
-[ns]感染女子生徒Ｂ[nse]
-「やまおかはぁ～わたしとセックスするんだよね～？[r]
-　まえ、やくそくしたもんね？　ねえ、うふふっ……」[pcms]
+[ns]Infected Female Student B[nse]
+"Yamada is going to have sex with me, right~? You promised before,[r]
+didn't you? Hey, ufufu..."[pcms]
 
 
 *1341|
 [fc]
-[ns]若い男の子の声[nse]
-「わぁあぁあ！！　なっ、舐めちゃ……！[r]
-　三人いっぺんになんて、うっ、うわあぁぁ！！」[pcms]
+[ns]Young boy's voice[nse]
+"Waaaah!! Don't lick...! All three at once, ugh, uwaaahhh!!"[pcms]
 
 
 *1342|
 [fc]
-[ns]克己[nse]
-「うわハーレムだ」[pcms]
+[ns]Kazumi[nse]
+"Wow, a harem."[pcms]
 
 
 *1343|
 [fc]
-ある意味羨ましい……。[r]
-俺も混ぜてくんねーかな？[r]
-でも、外であんな風にするのはちょっと恥ずかしいか？[pcms]
+In a way, I'm envious... Could I join in too? But doing it like that[r]
+outside is a bit embarrassing, isn't it?[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -425,9 +404,9 @@
 
 *1344|
 [fc]
-現実逃避しかけていた俺の真横数十センチの所を、[r]
-白い大きな塊が走り抜け、[r]
-沢山の人達をはじき飛ばし、壁にぶつかった。[pcms]
+As I was about to escape from reality, a large white mass rushed past[r]
+me just a few dozen centimeters away, knocking over many people and[r]
+hitting the wall.[pcms]
 
 ;;//s:クラクション　なりっぱなし
 
@@ -437,39 +416,37 @@
 
 *1345|
 [fc]
-それが車だって気が付くまで、[r]
-大体五秒ほど必要だった。[pcms]
+It took about five seconds to realize that it was a car.[pcms]
 
 
 *1346|
 [fc]
-[ns]克己[nse]
-「うわあぁあっ！！」[pcms]
+[ns]Kazumi[nse]
+"Uwaaaahhh!!"[pcms]
 
 
 *1347|
 [fc]
-目の前で事故が起きたと言うことは、[r]
-脳は完全に理解している。[r]
-だけど、体は動かない。[pcms]
+My brain fully understands that an accident has occurred right before[r]
+my eyes. But my body won't move.[pcms]
 
 
 *1348|
 [fc]
-学園の壁に突き刺さる、白い軽自動車。[r]
-軽自動車が走り抜けた後に広がる、夥しい血。[r]
-鳴り続けるクラクション。[pcms]
+A white compact car is embedded in the school wall. The blood that[r]
+spread after the car passed through. The continuous blaring of the[r]
+horn.[pcms]
 
 
 *1349|
 [fc]
-痛いほどに見開いた目の前に広がる光景は、[r]
-ネットやテレビで何度も観てた筈だ。[pcms]
+The scene spread before my wide-open eyes is something I've seen[r]
+countless times on the internet and TV.[pcms]
 
 
 *1350|
 [fc]
-それなのに、体は未だに動かせない。[pcms]
+And yet, my body still won't move.[pcms]
 
 ;;//seフェード停止###[stop_se buf1]
 [stopse_fadeout buf1 20 time=1000]
@@ -477,114 +454,110 @@
 
 *1351|
 [fc]
-[ns]酒焼けした声のオッサン[nse]
-「ぎゃあああああああああああああああああぁあぁ！！」[pcms]
+[ns]A middle-aged man with a booze-soaked voice[nse]
+"Gyaaaaaaaahhhhhhhhhhh!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_a6"][ChrSetXY layer=5 x="&sf.std_kanA_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　06　ギャル風２
 *1352|
 ;旧ナンバー[vo_m s="hanra0001"]
 [vo_mob s="R_hanra0001"]
-[ns]半裸の女性[nse]
-「はっ、は、はは！　うでの、うらのにく！[r]
-　こ、ここ、こここ……おいし、うま……」[pcms]
+[ns]Half-naked woman[nse]
+"Ha, ha, haha! The flesh on the underside of the arm! Here, here,[r]
+here... tasty, delicious..."[pcms]
 ;旧ナンバー[vo_m s="punk0005"]
 [vo_mob s="R_punk0001"]
-[ns]パンクス風女の子[nse]
-「ふともものうちがわのおにくもおいしいんだよ！[r]
-　タマタマから、ちょっとした！　あはははあっ！」[pcms]
+[ns]Punk-style Girl[nse]
+"The meat on the inside of the thigh is delicious too! Just a little[r]
+from the balls! Ahahaha!"[pcms]
 
 ;;//m:ネームチップが微妙に違くて録りこぼしだよ
 
-;;//[ns]パンクス風の女[nse]
+[ns]Punk-style Woman[nse]
 ;バイノーラル版で収録
 ;正しい名前は下記 ナンバーはケツからの続きにしておく
 
 
 *1353|
 [fc]
-音程の低い汚い悲鳴が次第に甲高くなり、擦れて消える。[pcms]
+The low-pitched dirty screams gradually become higher and fade away.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *1354|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *1355|
 [fc]
-一筋の風が人垣を走り抜け、[r]
-塩気混じりの錆のような匂いを俺の鼻腔に運び込む。[pcms]
+A gust of wind runs through the crowd, carrying a salty rust-like[r]
+smell to my nostrils.[pcms]
 
 
 *1356|
 [fc]
-これって、つまり……。[r]
-悲鳴を上げてたオッサンの、[r]
-体の中に入ってた液体の臭い？[pcms]
+This means... The smell of the liquid that was inside the man who was[r]
+screaming?[pcms]
 
 
 *1357|
 [fc]
-こいつらの行動は、どう考えても異常……。[r]
-っつか、四年前のあの……。[r]
-テレビで言っていた……だから、つまり……！[pcms]
+Their actions are clearly abnormal... Or rather, like that incident[r]
+four years ago... What they said on TV... So, in other words...![pcms]
 
 
 *1358|
 [fc]
-[ns]克己[nse]
-「こいつらやっぱり、感染者だって事かよ！？[r]
-　羨ましいとか言ってられねーぞ！！」[pcms]
+[ns]Kazumi[nse]
+"These guys are definitely infected, aren't they!? There's no time to[r]
+be envious!!"[pcms]
 
 
 *1359|
 [fc]
-[ns]若い男の子の声[nse]
-「ぎゃあぁあぁぁああぁ！！　いっ、痛いぃぃっ！[r]
-　痛いよおおぉぉ！！」[pcms]
+[ns]Young boy's voice[nse]
+"Gyaaahhhhh!! It hurts! It hurts so much!!"[pcms]
 
 
 *1360|
 [fc]
-若い男の悲鳴はそれきり消えた。[pcms]
+The young man's screams then ceased.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_c3"][ChrSetXY layer=5 x="&sf.std_kanC_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　13　私服３　　
 *1361|
 ;旧ナンバー[vo_m s="higai0003"]
 [vo_mob s="R_osoware0003"]
-[ns]襲われる女性[nse]
-「あ……あ、あはは！　あははははははぁあぁ！！[r]
-　気持ちいいいいぃぃっ！　あはぁあああ！！[r]
-　あぁあぁ……うわぁぁあぁあん！」[pcms]
+[ns]Attacked Woman[nse]
+"Ah... ahaha! Ahahahahahaahh!! It feels so goooood! Ahhaaaahh!![r]
+Aaahh...uwaaaahhhn!"[pcms]
 
 
 *1362|
 [fc]
-若い女の享楽と悲壮感に溢れた声が、パタリと止まる。[pcms]
+The young woman's voice filled with pleasure and despair suddenly[r]
+stops.[pcms]
 
 
 *1363|
 [fc]
-学園の門は開かれていた。[r]
-入り口の前は、感染者で一杯。[r]
-学園の中だって、感染者が一杯かもしれない。[pcms]
+The school gates were open. The entrance was full of infected people.[r]
+Even inside the school, there might be a lot of infected people.[pcms]
 
 
 *1364|
 [fc]
-[ns]克己[nse]
-「ココがこんな状態って事は……丞実は……」[pcms]
+[ns]Kazumi[nse]
+"If this is the situation here... then Tsugumi is..."[pcms]
 
 
 *1365|
 [fc]
-丞実も、静ちゃんも感染者にもみくちゃにされて、[r]
-もう、ダメになってるかも知れない……。[pcms]
+Tsugumi and Shizuka-san might have been mauled by the infected and[r]
+could already be beyond saving...[pcms]
 
 ;;//s:携帯の着信音
 [se buf1 storage="seC003"]
@@ -593,98 +566,94 @@
 
 *1366|
 [fc]
-[ns]克己[nse]
-「びっくりしたァぁ！　携帯、生きてんだな！」[pcms]
+[ns]Kazumi[nse]
+"That scared me! My phone is still alive!"[pcms]
 
 
 *1367|
 [fc]
-うれしさで震える手を抑えポケットから携帯を取り出すと、[r]
-眩しい太陽の下でもよく見える、[r]
-ＬＥＤの青い光が点滅していた。[pcms]
+With trembling hands filled with joy, I take out my phone from my[r]
+pocket and under the bright sun, I can see the blue LED light blinking[r]
+clearly.[pcms]
 
 
 *1368|
 [fc]
-[ns]克己[nse]
-「め、メール……誰だ……！？　誰……誰！？」[pcms]
+[ns]Kazumi[nse]
+"A message... who could it be...!? Who... who!?"[pcms]
 
 
 *1369|
 [fc]
-二つ折りの携帯の天板に親指を引っかけ、[r]
-器用に跳ね上げると、ディスプレイには大きく、[r]
-『Ｒｅ：Ｒｅ：Ｒｅ：Ｒｅ：』と表示されていた。[pcms]
+Flipping open my clamshell phone with my thumb on the top panel, the[r]
+display showed in large letters, "Re:Re:Re:Re:"[pcms]
 
 
 *1370|
 [fc]
-俺の友達でこんな横着をするヤツは一人も居ない。[r]
-何気にみんな几帳面なんだ。[pcms]
+None of my friends would do something this lazy. They're all[r]
+surprisingly meticulous.[pcms]
 
 
 *1371|
 [fc]
-と言う事はアイツしかいない。丞実だ！[pcms]
+Which means it can only be her. Tsugumi![pcms]
 
 
 *1372|
 [fc]
-[ns]克己[nse]
-「無事か？　無事なのかよ！」[pcms]
+[ns]Kazumi[nse]
+"Are you safe? Are you okay!?"[pcms]
 
 
 *1373|
 [fc]
-電話じゃないから、返事は返ってこない。[r]
-それは、分かっている事。[r]
-それでも叫ばずにはいられなかった。[pcms]
+Since it's not a phone call, I won't get a reply. I know that, but I[r]
+couldn't help but shout.[pcms]
 
 
 *1374|
 [fc]
-そのままメールを開く。[pcms]
+I open the email right away.[pcms]
 
 
 *1375|
 [fc]
-『学園から出られなくなっちゃった。[r]
-　兄ちゃんの方は大丈夫？』[pcms]
+"I can't get out of the school. Are you okay, big brother?"[pcms]
 
 
 *1376|
 [fc]
-と書かれてある。[pcms]
+is written.[pcms]
 
 
 *1377|
 [fc]
-[ns]克己[nse]
-「つ、丞実……」[pcms]
+[ns]Kazumi[nse]
+"Ts... Tsugumi..."[pcms]
 
 
 *1378|
 [fc]
-これが、今さっき送られたモノでも、[r]
-少し前に送られたモノだとしても、[r]
-この学園にいたことは確かだ。[pcms]
+Whether this was sent just now or a little earlier, it's certain that[r]
+she was in this school.[pcms]
 
 
 *1379|
 [fc]
-それに、ここに来る前に丞実達とすれ違ったりはしていない。[r]
-きっと、まだ学園の中にいる！[pcms]
+Plus, I haven't passed by Tsugumi and the others before coming here.[r]
+They must still be inside the school![pcms]
 
 
 *1380|
 [fc]
-[ns]克己[nse]
-「そうだ、そうだよ……」[pcms]
+[ns]Kazumi[nse]
+"That's right, that's it..."[pcms]
 
 
 *1381|
 [fc]
-アイツは、まだ無事なんだ。[pcms]
+She's still safe.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan6_x"][ChrSetXY layer=5 x="&sf.std_kan6_x調整*330" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　19　デブ店員　
@@ -692,9 +661,8 @@
 
 *1381a|
 [fc]
-[ns]店員らしき男[nse]
-「お、おおお……、あ、あいつのあし、[r]
-　うまそう、じゃねえ？」[pcms]
+[ns]A man who appears to be a clerk[nse]
+"Oh, ohhh... that girl's legs, they look tasty, don't they?"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x="&sf.std_kan1_x調整*340" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　17　金髪筋肉　
@@ -702,62 +670,57 @@
 
 *1381b|
 [fc]
-[ns]金髪の男[nse]
-「た、たしかに、な……い、イッとくかぁ……？」[pcms]
+[ns]Blond-haired man[nse]
+"Yeah, definitely... Should we go for it...?"[pcms]
 
 
 *1382|
 [fc]
-新しい獲物を求めてか、[r]
-感染者達は俺を見るなり、[r]
-歯をむき出しにして笑った。[pcms]
+Seeking new prey, the infected looked at me and laughed with their[r]
+teeth bared.[pcms]
 
 
 *1383|
 [fc]
-あの二人が、コイツらみたいのに犯されてたら？[r]
-こんな異常者に囲まれて、メチャクチャにされて……。[pcms]
+What if those two were assaulted by creatures like these? Surrounded[r]
+by such freaks, being torn apart...[pcms]
 
 
 *1383a|
 [fc]
-“ソレ”を意識したとき、[r]
-今まで連続で送られていた脳の信号は、[r]
-一気に全身に向けて駆け出した。[pcms]
+The moment I became conscious of that, the signals that had been[r]
+continuously sent to my brain suddenly raced throughout my body.[pcms]
 
 
 *1384|
 [fc]
-[ns]克己[nse]
-「は、ははは、ははははっ！[r]
-　バカじゃねーの……」[pcms]
+[ns]Kazumi[nse]
+"Ha, haha, hahahaha! Idiots..."[pcms]
 
 
 *1385|
 [fc]
-もうダメかもしれない。[r]
-だけど――[pcms]
+It might already be too late. But--[pcms]
 
 
 *1386|
 [fc]
-かも知れない、だろ！？[pcms]
+It might be, right!?[pcms]
 
 
 *1387|
 [fc]
-[ns]克己[nse]
-「実際にそれを観る前に決めつけるなんて、[r]
-　バカのやることだ！[r]
-　待ってろ、丞実、静ちゃん！」[pcms]
+[ns]Kazumi[nse]
+"Deciding before actually seeing it is something only a fool would do![r]
+Hang on, Tsugumi, Shizuka-chan!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *1388|
 [fc]
-覚悟を決め、学園の入り口を睨みながら叫ぶと、[r]
-沢山の赤い目が一斉にこちらに向けられる。[pcms]
+I shout as I make up my mind and glare at the entrance of the school,[r]
+and a multitude of red eyes turn towards me all at once.[pcms]
 
 ;レイヤの枚数変更
 ;[eval exp="f.maxlayer = 10"][layers_num_add]
@@ -782,65 +745,61 @@
 
 *1389|
 [fc]
-ざっと見ただけでも、百人以上はいるだろう。[pcms]
+At a glance, there must be over a hundred of them.[pcms]
 
 
 *1390|
 [fc]
-[ns]克己[nse]
-「……う……」[pcms]
+[ns]Kazumi[nse]
+"...ugh..."[pcms]
 
 
 *1391|
 [fc]
-幾らカッコつけても、[r]
-あの中を走り抜けるなんて自殺行為だ。[pcms]
+No matter how much I try to act cool, running through that crowd would[r]
+be suicidal.[pcms]
 
 
 *1392|
 [fc]
-それに、さっきの車の事故の音。[r]
-あれにつられてか、[r]
-感染者がこちらへなだれ込んで来ている。[pcms]
+Plus, the sound of the car accident earlier. Perhaps attracted by that[r]
+noise, the infected are pouring this way.[pcms]
 
 
 *1393|
 [fc]
-ここにいるのは危なすぎるし、[r]
-正面口から特攻するのもダメ。[r]
-だけど、悩むまでもない。[pcms]
+It's too dangerous to stay here, and a frontal assault through the[r]
+main entrance is out of the question. But there's no need to ponder.[pcms]
 
 
 *1394|
 [fc]
-[ns]克己[nse]
-「……簡単な事だ！　裏口から入ればいいんだ！」[pcms]
+[ns]Kazumi[nse]
+"...It's simple! Just enter from the back door!"[pcms]
 
 
 *1395|
 [fc]
-大概裏口なんて小さくて目立たない所にあるから、[r]
-もし感染者がいたとしても、[r]
-突破できないような人数ではないはずだ。[pcms]
+Usually, back doors are small and inconspicuous, so even if there are[r]
+infected there, it shouldn't be an overwhelming number.[pcms]
 
 
 *1396|
 [fc]
-[ns]克己[nse]
-「よっし！」[pcms]
+[ns]Kazumi[nse]
+"Alright!"[pcms]
 
 
 *1397|
 [fc]
-これ以上モタモタしていられない。[r]
-きっと丞実も静ちゃんも、この中で俺を待っている。[pcms]
+I can't afford to waste any more time. Tsugumi and Shizuka-chan must[r]
+be waiting for me inside.[pcms]
 
 
 *1398|
 [fc]
-もう一度決意を固めるため、[r]
-学園をまっすぐに睨み付けてから、[r]
-迫り寄る感染者の群れを背に駆け出した。[pcms]
+To reaffirm my resolve once more, I glare straight at the school and[r]
+then start running with the approaching horde of infected behind me.[pcms]
 
 [se buf1 storage="seA050"]
 ;;//♪SE走り去る足音
@@ -863,39 +822,39 @@
 ;;//MOB中＠感染者　17　金髪筋肉　
 
 ;;//m:なぜかここからＡＢＣ表記なので適宜変えとく
-;;//[ns]感染者男Ａ[nse][ns]感染者男Ｄ[nse]→[ns]金髪の男[nse]
-;;//[ns]店員らしき男[nse]→[ns]店員らしき男[nse]
-;;//[ns]グラサンの男[nse]→[ns]グラサンの男[nse]
+[ns]Infected Man A[nse]
+[ns]A man who appears to be a clerk[nse]
+[ns]Sunglasses Man[nse]
 
 
 *1399|
 [fc]
-[ns]金髪の男[nse]
-「お、おぉぉおぉお、お、に、にく、にくぅぅう？」[pcms]
+[ns]Blond-haired man[nse]
+"Oh, oooohhhhh, meat, meeeaaat?"[pcms]
 
 
 *1400|
 [fc]
-決意を固め、校門から飛び出した俺に、[r]
-まるで待ち構えていたみたいに、感染者が飛びかかってきた。[pcms]
+As I make my decision and dash out from the school gates, an infected[r]
+lunges at me as if it had been lying in wait.[pcms]
 
 
 *1401|
 [fc]
-ここ最近サボっていたとはいえ、[r]
-草野球で鍛えた体はまだ錆び付いちゃいない。[pcms]
+Even though I've been slacking off lately, my body honed by playing[r]
+baseball isn't rusty yet.[pcms]
 
 
 *1402|
 [fc]
-[ns]金髪の男[nse]
-「お、おぉぉおぉお、お、にぃぃぃくぅぅううう？」[pcms]
+[ns]Blond-haired man[nse]
+"Oh, oooohhhhh, meat, meeeaaat?"[pcms]
 
 
 *1403|
 [fc]
-[ns]克己[nse]
-「うわキモ！」[pcms]
+[ns]Kazumi[nse]
+"Ew gross!"[pcms]
 
 ;	;;//s:バットで殴る
 ;	[se buf1 storage="seB007"]
@@ -910,12 +869,12 @@
 ;	;システムボタン＆ウィンドウ表示
 ;	[sysbt_meswin]
 
-;mm 逆移植　白フラつぎじゃね？[pcms]
+;mm Reverse transplantation white flutters right?[pcms]
 
 
 *1404|
 [fc]
-そんな俺の体は、口の動きにシンクロして動いていた。[pcms]
+My body moved in sync with the movement of my mouth.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -935,115 +894,112 @@
 
 *1405|
 [fc]
-[ns]金髪の男[nse]
-「い゛でぁあぁ゛ァァ！？」[pcms]
+[ns]Blond-haired man[nse]
+"Iiiideeeaaaahhh!?"[pcms]
 
 
 *1406|
 [fc]
-咄嗟の事で驚いた俺は、身を守るため、[r]
-打撃練習よろしくフルスイングした。[pcms]
+In a moment of surprise, I swung full force as if I were at batting[r]
+practice to protect myself.[pcms]
 
 
 *1407|
 [fc]
-バットは立ちふさがった男の体に吸い込まれ、[r]
-それは脇腹に食い込んでいた。[pcms]
+The bat was sucked into the body of the man blocking my way, burying[r]
+itself in his flank.[pcms]
 
 
 *1408|
 [fc]
-[ns]金髪の男[nse]
-「あ゛がァ゛ぁぁ……」[pcms]
+[ns]Blond-haired man[nse]
+"Agh, aaaaah..."[pcms]
 
 [move layer=5 time=500 accel=-2  path='&@"(${&sf.move調整*340},${&sf.move調整*500},255)"'][wm]
 
 
 *1409|
 [fc]
-[ns]克己[nse]
-「あ、ご、ごめん！　大丈夫か！？」[pcms]
+[ns]Kazumi[nse]
+"Ah, sorry! Are you okay?!"[pcms]
 
 
 *1410|
 [fc]
-いくら草野球のバットとはいえ、[r]
-俺が手にしているのは、ミズヌ製のいいものだ。[r]
-下手したら内臓破裂とか肋骨骨折とか……。[pcms]
+Even though it's just a baseball bat from amateur games, the one I'm[r]
+holding is a good Mizuno product. If I'm not careful, I could cause[r]
+internal bleeding or break some ribs...[pcms]
 
 
 *1411|
 [fc]
-つまり、ゴメンじゃ済まないっていうか！[pcms]
+In other words, sorry isn't going to cut it![pcms]
 
 
 *1412|
 [fc]
-[ns]克己[nse]
-「あ、あの……」[pcms]
+[ns]Kazumi[nse]
+"Um..."[pcms]
 
 
 *1413|
 [fc]
-体をくの字に折り曲げて揺れる男に対し、[r]
-自分のしでかした、とんでもない事を詫びようと、[r]
-震える手を伸ばす。[pcms]
+As the man bent into a 'く' shape and trembled, I reached out with a[r]
+shaking hand to apologize for the terrible thing I had done.[pcms]
 
 [move layer=5 time=250 accel=2 path='&@"(${&sf.move調整*340},${&sf.move調整*0},255)"'][wm]
 
 
 *1414|
 [fc]
-[ns]金髪の男[nse]
-「あ゛は゛ぁぁああぁあ！！！！！！[r]
-　に、おに゛ぐぅぅおあおぁあぁ！！」[pcms]
+[ns]Blond-haired man[nse]
+"Aghaaaaaaah!! Ni, oni-guuuooaah!!"[pcms]
 
 
 *1415|
 [fc]
-[ns]克己[nse]
-「うわキモ！」[pcms]
+[ns]Kazumi[nse]
+"Ew, gross!"[pcms]
 
 
 *1416|
 [fc]
-そうだよ！　何度も観たじゃんかよ！[pcms]
+That's right! Haven't I seen this countless times before![pcms]
 
 
 *1417|
 [fc]
-何発殴られても笑いながら起き上がってくる動画とか！[r]
-足が折れてヘンな方向に曲がってても歩いて来るとか！[pcms]
+Videos of them getting up laughing no matter how many times they're[r]
+hit! Walking towards me with broken legs bent in weird directions![pcms]
 
 
 *1418|
 [fc]
-そうだよ！　こいつらは感染者なんだ！[r]
-躊躇してたら俺が死ぬ！[pcms]
+That's right! These guys are infected! If I hesitate, I'll be the one[r]
+to die![pcms]
 
 
 *1419|
 [fc]
-この結論を導き出すまで、僅か数秒の事。[r]
-結論が出た今――[pcms]
+It only took a few seconds to come to this conclusion. Now that I've[r]
+reached it--[pcms]
 
 
 *1420|
 [fc]
-さっきより、もっと冷静に、[r]
-さっきより、もっと力を込めて。[pcms]
+With more calm than before, with more strength than before.[pcms]
 
 
 *1421|
 [fc]
-ありったけの力を込めて、グリップを握りしめ、[r]
-腰に力を入れて、バットを振り抜いた――[pcms]
+I gripped the bat with all my might, put power into my hips, and swung[r]
+with all my strength--[pcms]
 
 
 *1422|
 [fc]
-[ns]克己[nse]
-「死ねオリャアァァ！！！！」[pcms]
+[ns]Kazumi[nse]
+"Die, take this!!!"[pcms]
 
 ;;//s:バットで殴る
 [se buf1 storage="seB008"]
@@ -1056,52 +1012,51 @@
 
 *1423|
 [fc]
-[ns]金髪の男[nse]
-「お゛か゛ぁああぁあぁ゛ァぁ゛ァぁ゛ァ！！？[r]
-　あ、あは゛は゛は゛は゛は゛ァあああ！！」[pcms]
+[ns]Blond-haired man[nse]
+"Ogaaaaaaaah!? Ah, ahahahahaha!!"[pcms]
 
 
 *1424|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *1425|
 [fc]
-俺は東山アベンジャーズの５番打者なんだぜ！！[r]
-川上哲治の再来なんて言われてた位完璧なんだ。[pcms]
+I'm the fifth batter of the Higashiyama Avengers!! They used to call[r]
+me the second coming of Tetsuharu Kawakami because I was perfect.[pcms]
 
 
 *1426|
 [fc]
-[ns]克己[nse]
-「リーグ４位の打率……なめんじゃねえ！！」[pcms]
+[ns]Kazumi[nse]
+"League's fourth-best batting average... don't underestimate me!!"[pcms]
 
 
 *1427|
 [fc]
-その俺が、渾身の力を込めたスイングを見せたと言うのに、[r]
-目の前の男は頭から血を流しながら、にやけてる。[pcms]
+And yet, despite showing my full-powered swing, the man in front of me[r]
+is grinning with blood flowing from his head.[pcms]
 
 
 *1428|
 [fc]
-[ns]金髪の男[nse]
-「あ、あはぁぁあぁ……あは、あははは、あははは！[r]
-　おにくぅぅううう？　おおおにぃぃくううううう！！！」[pcms]
+[ns]Blond-haired man[nse]
+"Ah, ahahaaa... ahaha, ahahaha, ahahaha! Meat, meeeaaat? Ooooh[r]
+meeeaaat!!!"[pcms]
 
 
 *1429|
 [fc]
-利いてない訳じゃないだろうけど、[r]
-コレじゃ埒があかない。[pcms]
+It's not like it didn't affect him, but this isn't getting us[r]
+anywhere.[pcms]
 
 
 *1430|
 [fc]
-[ns]金髪の男[nse]
-「お、おぉぉおぉお、お、に、にく、にくぅぅう？」[pcms]
+[ns]Blond-haired man[nse]
+"Oh, oooohhhhh, meat, meeeaaat?"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan6_x"][ChrSetXY layer=3 x="&sf.std_kan6_x調整*0" y=0][trans_c cross time=150]
 ;;//MOB左＠感染者　19　デブ店員　
@@ -1109,20 +1064,20 @@
 
 *1430a|
 [fc]
-[ns]店員らしき男[nse]
-「お゛ッほ゛ぉおぉ゛ぁ！！　は゛ら゛へった゛ァァあ！！」[pcms]
+[ns]A man who appears to be a clerk[nse]
+"Oghhhoohhaa!! I'm so hungry!!"[pcms]
 
 
 *1431|
 [fc]
-金属バットを握り締め、構え直す俺の周りに、[r]
-またしても感染者が集まりだしてくる。[pcms]
+As I grip the metal bat and get ready again, more infected start to[r]
+gather around me.[pcms]
 
 
 *1432|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan5_x"][ChrSetXY layer=4 x="&sf.std_kan5_x調整*660" y=0][trans_c cross time=150]
 ;;//MOB右＠感染者　21　細身茶髪　
@@ -1130,43 +1085,43 @@
 
 *1432a|
 [fc]
-[ns]グラサンの男[nse]
-「に、にににに、にく、にくレアミディアーム！！」[pcms]
+[ns]Sunglasses Man[nse]
+"Ni, ni ni ni ni, meat, rare medium meat!!"[pcms]
 
 
 *1433|
 [fc]
-[ns]金髪の男[nse]
-「めし！　おい゛め゛し！！　うぉおお！？」[pcms]
+[ns]Blond-haired man[nse]
+"Food! Gimme food!! Woah!?"[pcms]
 
-;;//[ns]金髪の男[nse]
-;;//「いっ、いれ゛て゛ぇぇぇ！？　ね゛ぇぇ゛ぇ～！」[pcms]
+[ns]Blond-haired man[nse]
+;;//"Put it in, pleeease!? Neeeee~!"[pcms]
 
 
 *1434|
 [fc]
-[ns]克己[nse]
-「ふざけんな……冗談じゃねえ……」[pcms]
+[ns]Kazumi[nse]
+"Don't mess with me... this isn't a joke..."[pcms]
 
 
 *1435|
 [fc]
-三十六計逃げるに如かずって、[r]
-孫子の兵法書にゃ載ってないんだぜ。[r]
-だけど、コリャ三十六計逃げるに如かずって状況だろ！[pcms]
+The Art of War doesn't say anything about 'the best strategy is to run[r]
+away,' but this is definitely a situation where 'the best strategy is[r]
+to run away' applies![pcms]
 
 
 *1436|
 [fc]
-[ns]克己[nse]
-「やってらんねえ！　逃げるが勝ちってな！[r]
-　バーカ！　チキショー！」[pcms]
+[ns]Kazumi[nse]
+"I can't deal with this! Running away is the best option! Idiot! Damn[r]
+it!"[pcms]
 
 
 *1437|
 [fc]
-でもまあ、この程度の人数なら、[r]
-俺様の力を持ってすれば何とでも出来たんだけどな！[pcms]
+But well, if it were just this number of people, with my strength I[r]
+could have handled it![pcms]
 
 [se buf1 storage="seA050"]
 ;;//♪SE走り去る足音
@@ -1185,102 +1140,95 @@
 
 *1438|
 [fc]
-[ns]克己[nse]
-「ゼェ……ゼェ……。[r]
-　クソあちーし、裏口ねーしよ……。[r]
-　クソダリーし、どっから入るんだよココ！」[pcms]
+[ns]Kazumi[nse]
+"Pant... pant... Damn it's hot, let's go through the back door... Damn[r]
+it's annoying, where do we enter from here?!"[pcms]
 
 
 *1439|
 [fc]
-さっきの感染者どもが追いかけてくるわ、[r]
-もう一個の大通りにたむろってた奴らも、どいつもコイツも[r]
-俺の事が大好きみたいで、一斉にこちらに向かってくる。[pcms]
+The infected I saw earlier are chasing after me, and all the guys[r]
+loitering on another main street seem to love me a lot too; they all[r]
+head towards me at once.[pcms]
 
 
 *1440|
 [fc]
-[ns]克己[nse]
-「何だよ何だよ！　どうしろってんだよ！[r]
-　普通、大通り以外の道には通用口があるってもんだろ！[r]
-　なんでセオリー通りに設計しねえんだよ、クソ！」[pcms]
+[ns]Kazumi[nse]
+"What the hell! What am I supposed to do! Normally there are service[r]
+entrances on roads other than the main street! Why didn't they design[r]
+it according to the standard, damn it!"[pcms]
 
 
 *1441|
 [fc]
-なんて愚痴ってる間にも、[r]
-感染者どもは俺に“サイン”を貰おうと迫って来る。[pcms]
+Even as I grumble about it, the infected are closing in on me as if[r]
+they want an autograph.[pcms]
 
 
 *1442|
 [fc]
-[ns]克己[nse]
-「……しかも何アレ？[r]
-　やったらカサカサ動き速いヤツいるし！[r]
-　……キモ！」[pcms]
+[ns]Kazumi[nse]
+"...And what's that? There are some really fast-moving ones among[r]
+them! ...Gross!"[pcms]
 
 
 *1443|
 [fc]
-あんなの、ニュースでやってなかったじゃん！[r]
-感染者は動きが鈍いから簡単に逃げられるとか、[r]
-全部嘘じゃん！[pcms]
+They didn't show that on the news! They said that infected move slowly[r]
+so you can easily escape them - all lies![pcms]
 
 
 *1444|
 [fc]
-狭い小路に入ってしまったのが悪かったのか、[r]
-このままじゃ沢山の俺の[ruby text="感染者"][ch text="ファン"]達に圧殺されちまう。[pcms]
+If entering this narrow alley was a mistake, I'm going to be crushed[r]
+by the many fans of mine at this rate.[pcms]
 
 
 *1445|
 [fc]
-[ns]克己[nse]
-「どうする……どうする克己！　オイ、[r]
-　死ぬか、死ぬか克己！？」[pcms]
+[ns]Kazumi[nse]
+"What to do... what to do, Kazumi! Hey, is it death or death,[r]
+Kazumi!?"[pcms]
 
 
 *1446|
 [fc]
-なんて……簡単に死ねる訳ねえだろ。[r]
-死んだら痛いんだもの！　大体、俺が死んだら、[r]
-丞実も静ちゃんも死んじゃうかも知れないだろ！[pcms]
+As if... I can't just die that easily. Dying would hurt! Besides, if I[r]
+die, Tsugumi and Shizuka-chan might end up dead too![pcms]
 
 
 *1447|
 [fc]
-[ns]克己[nse]
-「考えろ……考えろ……。[r]
-　こう言うときは落ち着いて考えりゃ、[r]
-　何とかなるもんだ！」[pcms]
+[ns]Kazumi[nse]
+"Think... think... When you calm down and think about it, you can[r]
+figure something out!"[pcms]
 
 
 *1448|
 [fc]
-要は、学園ん中に入れれば良いんだ。[r]
-だとしたら、この壁を乗り越えればいい。[pcms]
+The point is to get inside the school. Then I just need to climb over[r]
+this wall.[pcms]
 
 
 *1449|
 [fc]
-だけど、壁の高さは俺の背より随分高い。[r]
-挙げ句の果てに、[r]
-ヘンなヤツ防止の『忍び返し』が輝いてる。[pcms]
+But the wall is considerably higher than my height. To top it off,[r]
+there are anti-intruder spikes shining at the top.[pcms]
 
 
 *1450|
 [fc]
-[ns]克己[nse]
-「アレが刺さったら痛いだろうな、[r]
-　多分泣くな……。[r]
-　別の方法はないか……？」[pcms]
+[ns]Kazumi[nse]
+"If I get impaled by those, it's going to hurt, I'll probably cry...[r]
+Is there another way...?"[pcms]
 
 
 *1451|
 [fc]
-感染者達は、どんどん距離を縮めてくる……。[r]
-けど、よく見ると一箇所だけ人数が薄い場所がある。[r]
-あそこを抜けて、もと来た道に戻るか……？[pcms]
+The infected are closing the distance rapidly... But on closer[r]
+inspection, there's one spot where the crowd is thinner. Should I[r]
+break through there and go back the way I came...?[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x="&sf.std_kan1_x調整*340" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　17　金髪筋肉　
@@ -1288,14 +1236,14 @@
 
 *1451a|
 [fc]
-[ns]金髪の男[nse]
-「あは゛ッ……つか、ま、え……だァ゛……」[pcms]
+[ns]Blond-haired man[nse]
+"Ahah... catch, me... there..."[pcms]
 
 
 *1452|
 [fc]
-[ns]克己[nse]
-「ヒィ！？　やめてください！？」[pcms]
+[ns]Kazumi[nse]
+"Eek!? Please stop!?"[pcms]
 
 ;;//s:バットで殴る
 [se buf1 storage="seB007"]
@@ -1307,8 +1255,8 @@
 
 *1453|
 [fc]
-[ns]金髪の男[nse]
-「あ゛がぁ゛……」[pcms]
+[ns]Blond-haired man[nse]
+"Agah..."[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan5_x"][ChrSetXY layer=4 x="&sf.std_kan5_x調整*660" y=0][trans_c cross time=150]
 ;;//MOB右＠感染者　21　細身茶髪　
@@ -1316,8 +1264,8 @@
 
 *1453a|
 [fc]
-[ns]グラサンの男[nse]
-「に、にににに、にく、にくウェルダン！！」[pcms]
+[ns]Sunglasses Man[nse]
+"Ni, ni ni ni, meat, well-done!!"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan6_x"][ChrSetXY layer=3 x="&sf.std_kan6_x調整*0" y=0][trans_c cross time=150]
 ;;//MOB左＠感染者　19　デブ店員　
@@ -1325,28 +1273,26 @@
 
 *1453b|
 [fc]
-[ns]店員らしき男[nse]
-「はらへった゛ァァ！？　もうだめ゛ェェ……！！」[pcms]
+[ns]A man who appears to be a clerk[nse]
+"I'm so hungry! It's no good anymore...!!"[pcms]
 
 
 *1454|
 [fc]
-感染者達はもう目と鼻の先だ。[r]
-うかうかしてたら、[r]
-こいつら全部に捕まってエライ事されちまう。[pcms]
+The infected are right before my eyes. If I'm not careful, I'll be[r]
+caught by all of them and something terrible will happen.[pcms]
 
 
 *1455|
 [fc]
-[ns]克己[nse]
-「……っつか、どのみち俺、大ピンチじゃんな？[r]
-　職業勇者、大ピンチじゃんよ！」[pcms]
+[ns]Kazumi[nse]
+"...Anyway, I'm in a huge pinch, aren't I? A professional hero in a[r]
+huge pinch!"[pcms]
 
 
 *1456|
 [fc]
-せっかく冷静になりかけていたのに、[r]
-また、一気に心拍数が跳ね上がる。[pcms]
+Just as I was starting to calm down, my heart rate shoots up again.[pcms]
 
 ;;//s:以下フラグ判定で飛び先ラベル変更
 
@@ -1377,7 +1323,7 @@
 ;	[link storage="0221H.ks" target=*0221H_TOP]住宅街の路地へ撤退[endlink]
 ;	[link target=*think]落ち着いて考える[endlink]
 ;	[link target=*charge]強行突破あるのみだ！[endlink]
-;	[s]
+;[pcms]
 
 
 *SEL02|住宅街の路地へ撤退／落ち着いて考える／強行突破あるのみだ！
@@ -1407,7 +1353,7 @@
 ;;//s:選択肢
 ;	[link storage="0221H.ks" target=*0221H_TOP]住宅街の路地へ撤退[endlink]
 ;	[link target=*think]落ち着いて考える[endlink]
-;	[s]
+;[pcms]
 
 
 *SEL03|住宅街の路地へ撤退／落ち着いて考える
@@ -1436,17 +1382,16 @@
 
 *1457|
 [fc]
-[ns]克己[nse]
-「だから落ち着けっての！[r]
-　映画なんかでもテンパッたヤツが死ぬだろ！？[r]
-　ほら、落ち着けって克己！」[pcms]
+[ns]Kazumi[nse]
+"That's why I need to calm down! In movies, it's always the ones who[r]
+panic that die, right!? See, calm down, Kazumi!"[pcms]
 
 
 *1458|
 [fc]
-感染者から俺までの距離はもう、三メートルくらいだ。[r]
-慌ててズッ転けたりしたら、それだけで死一直線。[r]
-だからこそ落ち着くんだ、ほら周り見ろよく見ろ克己！[pcms]
+The distance between me and the infected is now only about three[r]
+meters. If I panic and trip over, it's a straight line to death.[r]
+That's why I need to stay calm, look around carefully, Kazumi![pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan2_x"][ChrSetXY layer=4 x="&sf.std_kan2_x調整*605" y=0][trans_c cross time=150]
 ;;//MOB右＠感染者　18　デブ男　　
@@ -1454,8 +1399,8 @@
 
 *1458a|
 [fc]
-[ns]奇声を上げる感染者[nse]
-「キィイィエエェェェェェ！！」[pcms]
+[ns]Infected Person Screaming[nse]
+"Kiiiiieeeeeee!!"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan4_x"][ChrSetXY layer=3 x="&sf.std_kan4_x調整*0" y=0][trans_c cross time=150]
 ;;//MOB左＠感染者　20　細身金髪　
@@ -1463,14 +1408,14 @@
 
 *1458b|
 [fc]
-[ns]妙に頭の長い感染者[nse]
-「おっ……お、おっ、おっ、へ、ヘリ……ローター……」[pcms]
+[ns]An infected with an unusually long head[nse]
+"Oh... oh, oh, oh, he, heli... rotor..."[pcms]
 
 
 *1459|
 [fc]
-[ns]克己[nse]
-「イヤァァ！？　だから速いって！　怖いぃぃい！！」[pcms]
+[ns]Kazumi[nse]
+"Noooo!? That's why they're fast! Scaryyyyy!!"[pcms]
 
 [se buf1 storage="seB008"]
 ;;//♪SE人間を殴る音２(痛そう)
@@ -1481,8 +1426,8 @@
 
 *1460|
 [fc]
-[ns]奇声を上げる感染者[nse]
-「ぎっ……」[pcms]
+[ns]Infected Person Screaming[nse]
+"Gih..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -1495,68 +1440,65 @@
 
 *1461|
 [fc]
-[ns]妙に頭の長い感染者[nse]
-「あっ、が……」[pcms]
+[ns]An infected person with an unusually long head[nse]
+"Ah, gah..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *1462|
 [fc]
-[ns]克己[nse]
-「はあっ……はぁ……。[r]
-　くそ、キリねーぞこれ……」[pcms]
+[ns]Kazumi[nse]
+"Haa... haa... Damn, this is endless..."[pcms]
 
 
 *1463|
 [fc]
-このままじゃ遅かれ早かれ、こいつらの餌食だ。[r]
-幾ら俺がバッティングの名手だと言っても、[r]
-体力は無限な訳じゃない。[pcms]
+If things continue like this, sooner or later I'll become their prey.[r]
+No matter how good I am at batting, my stamina isn't infinite.[pcms]
 
 
 *1464|
 [fc]
-どうしたモノかと、再度辺りを見回す。[pcms]
+I look around again, wondering what to do.[pcms]
 
 
 *1465|
 [fc]
-感染者がバカみたいな人数で迫ってきている以外、[r]
-いつもと何も変わらない。[pcms]
+Apart from the ridiculous number of infected approaching me,[r]
+everything else is as usual.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *1466|
 [fc]
-そんな中、一箇所だけいつもとちょっと違った所がある。[r]
-それは、黄色と黒のストライプの物体が立てかけられた電信柱だ。[pcms]
+In the midst of all this, there's one place that's a little different[r]
+than usual. It's a utility pole with a yellow and black striped object[r]
+leaning against it.[pcms]
 
 
 *1467|
 [fc]
-[ns]克己[nse]
-「電線の工事……？　あ！」[pcms]
+[ns]Kazumi[nse]
+"Electrical line work...? Ah!"[pcms]
 
 
 *1468|
 [fc]
-工事が始まる直前に感染者が現れた。[r]
-そして、工事の人は慌てて逃げた……。[pcms]
+The infected appeared just before the work was about to start. And[r]
+then the workers panicked and fled...[pcms]
 
 
 *1469|
 [fc]
-そのおかげだろう。[r]
-電信柱に登る為の棒が付けられたままだった。[pcms]
+Thanks to that, the pole used for climbing was left attached.[pcms]
 
 
 *1470|
 [fc]
-[ns]克己[nse]
-「あれなら登れる！　うおおおおぉぉ！[r]
-　どけ！　おまえらぁあぁぁ！！」[pcms]
+[ns]Kazumi[nse]
+"I can climb that! Uooooohhh! Move it! Get out of my wayyyyy!!"[pcms]
 
 [se buf1 storage="seA049"]
 ;;//♪SEスニーカーで走る音
@@ -1564,8 +1506,7 @@
 
 *1471|
 [fc]
-バットをデタラメに振り回しながら、[r]
-目的の電信柱に駆け寄る。[pcms]
+Swinging my bat wildly as I run towards the target utility pole.[pcms]
 
 [se buf1 storage="seB010"]
 ;;//♪SE打撃音
@@ -1579,9 +1520,8 @@
 
 *1472|
 [fc]
-すぐに電信柱の前にたどり着くことが出来た俺は、[r]
-古いニンジャ映画よろしく、バットを背中に差し込むと、[r]
-勢いよくジャンプして足かけに飛びついた。[pcms]
+I managed to reach the pole quickly and like an old ninja movie, I[r]
+sheathed the bat on my back and jumped vigorously onto the foothold.[pcms]
 
 ;;//★学園外観・朝昼
 [bg storage="BG14a"][trans_c cross time=500]
@@ -1592,9 +1532,8 @@
 *1473|
 ;旧ナンバー[vo_m s="going0001"]
 [vo_mob s="R_ita0001"]
-[ns]イッちゃった女の子[nse]
-「あー、あー、ああああぁぁ！！[r]
-　おっ、おちんちんんぅぅぅうんん！！」[pcms]
+[ns]Girl Who Came[nse]
+"Ah-, ah-, aaaaahhh!! Oh, dickkkknnnn!!"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan_a2"][ChrSetXY layer=3 x="&sf.std_kanA_x調整*50" y=0][trans_c cross time=150]
 ;;//MOB左＠感染者　02　金髪女　　
@@ -1603,40 +1542,37 @@
 *1474|
 ;旧ナンバー[vo_m s="punk0001"]
 [vo_mob s="R_punk0002"]
-[ns]パンクス風女の子[nse]
-「あはっ、あはっ！　あははっ！[r]
-　セックス！　セックスしよおぉお！！」[pcms]
+[ns]Punk-style Girl[nse]
+"Ahah, ahah! Ahahaha! Sex! Let's have sexxx!!"[pcms]
 
 
 *1475|
 [fc]
-[ns]克己[nse]
-「うわっ、離せ！　離せぇぇっ！！」[pcms]
+[ns]Kazumi[nse]
+"Uwah, let go! Let go of meee!!"[pcms]
 
 
 *1476|
 [fc]
-電信柱にしがみついたとたん、[r]
-集まって来た感染者が一斉に手を伸ばし、[r]
-足首にしがみつこうとする。[pcms]
+As soon as I clung to the utility pole, the gathered infected all[r]
+reached out at once trying to cling to my ankles.[pcms]
 
 
 *1477|
 [fc]
-まるでカンダタになった気分だ。[r]
-ここで降りろなんて叫んでたら、[r]
-俺まで地獄行きだ。[pcms]
+I feel like Kandata. If I shout to get down here, I'll be going to[r]
+hell too.[pcms]
 
 
 *1478|
 [fc]
-って事は……。[pcms]
+That means...[pcms]
 
 
 *1479|
 [fc]
-[ns]克己[nse]
-「お前らだけ地獄に落ちろ！　バーカ！」[pcms]
+[ns]Kazumi[nse]
+"You guys can go to hell alone! Idiots!"[pcms]
 
 [se buf1 storage="seB008"]
 ;;//♪SE人間を殴る音２(痛そう)
@@ -1648,9 +1584,8 @@
 *1480|
 ;旧ナンバー[vo_m s="going0002"]
 [vo_mob s="R_ita0002"]
-[ns]イッちゃった女の子[nse]
-「あっ！　あがっ！！[r]
-　い、いだぁぃい……あああぁ……」[pcms]
+[ns]Girl Who Came[nse]
+"Ah! Ahh!! It, it hurts... aaaaah..."[pcms]
 
 [se buf1 storage="seB008"]
 ;;//♪SE人間を殴る音２(痛そう)
@@ -1662,16 +1597,14 @@
 *1481|
 ;旧ナンバー[vo_m s="punk0002"]
 [vo_mob s="R_punk0003"]
-[ns]パンクス風女の子[nse]
-「ひあぁぁ～！！　いい……こ、こういうのも、[r]
-　いいぃぃぃねぇぇぇ！！」[pcms]
+[ns]Punk-style Girl[nse]
+"Hiaaah~!! Good... this kind of thing, it feels so gooood!!"[pcms]
 
 
 *1482|
 [fc]
-[ns]克己[nse]
-「うわっ！　うわあぁあ！[r]
-　変態っ！　変態だぁぁっ！」[pcms]
+[ns]Kazumi[nse]
+"Uwah! Uwaaaah! Pervert! You're all perverts!"[pcms]
 
 [se buf1 storage="seB008"]
 ;;//♪SE人間を殴る音２(痛そう)
@@ -1689,128 +1622,126 @@
 *1483|
 ;旧ナンバー[vo_m s="punk0003"]
 [vo_mob s="R_punk0004"]
-[ns]パンクス風女の子[nse]
-「あはぁぁぁぁぁ……きっ、きもち、いいっ！[r]
-　いたきもちいいよおおぉぉ……！！」[pcms]
+[ns]Punk-style Girl[nse]
+"Ahahaaa... it feels, it feels good! It hurts but it feels so[r]
+good...!!"[pcms]
 
 
 *1484|
 [fc]
-女の子達は、顔を蹴られよろめきながらも、[r]
-血や、男なら良く見慣れた液体に塗れた手を、[r]
-熊手の様にして伸ばしてくる。[pcms]
+The girls, even as they stagger from being kicked in the face, stretch[r]
+out their hands smeared with blood and a fluid men are all too[r]
+familiar with, like bear claws reaching out.[pcms]
 
 
 *1485|
 [fc]
-まだ“マトモ”だった頃は綺麗にしてただろうけど、[r]
-今ではツメが剥がれ、[r]
-どす黒い血が泥みたいにこびり付いた手を……。[pcms]
+Hands that must have been well-cared for when they were still sane,[r]
+now with nails peeled off and caked with dark, muddy blood...[pcms]
 
 
 *1486|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *1487|
 [fc]
-血や、体液を媒介にして感染していくウィルス。[r]
-それに冒され、発症してしまった人が目の前にいる。[pcms]
+A virus that spreads through blood and bodily fluids. Those who have[r]
+been infected and show symptoms are right in front of me.[pcms]
 
 
 *1488|
 [fc]
-感染者に対する恐怖や、ウィルスの知識はあった。[r]
-彼ら彼女らの行動がどんなモノかも、伝え聞き、恐怖していた。[pcms]
+I knew about the fear of the infected and the virus. I had heard about[r]
+their behavior and was terrified of it.[pcms]
 
 
 *1489|
 [fc]
-だけど今、そんな知識だけの恐怖なんて、[r]
-本物の何十分の一以下だって事を思い知らされる。[pcms]
+But now, I realize that the fear based on just knowledge is a fraction[r]
+of what the real thing is.[pcms]
 
 
 *1490|
 [fc]
-『パッと見は楽しそう。だけど感染したらすぐに死ぬ』[pcms]
+"At first glance, it looks fun. But once you're infected, you die[r]
+quickly."[pcms]
 
 
 *1491|
 [fc]
-それはほとんどの人が、感染者の基礎知識として知っている事。[r]
-だけど、感染してしまったら最後。[pcms]
+That's something most people know as basic knowledge about the[r]
+infected. But once you're infected, that's the end.[pcms]
 
 
 *1492|
 [fc]
-死への恐怖なんて、微塵も感じない。[r]
-マトモだった時の事なんか、全部忘れちまうんだ。[r]
-そして、こいつらに引っ掻かかれでもしたら一発で仲間入り。[pcms]
+You don't feel a shred of fear of death. You forget everything about[r]
+when you were sane. And if these creatures scratch you even once,[r]
+you're one of them.[pcms]
 
 
 *1493|
 [fc]
-[ns]克己[nse]
-「そ、そんなのゴメンだ！」[pcms]
+[ns]Kazumi[nse]
+"I don't want any part of that!"[pcms]
 
 
 *1494|
 [fc]
-単純に死ぬのが怖い。[r]
-まだ何も成してない。[r]
-沢山やり残した事がある。[pcms]
+I'm simply scared to die. I haven't accomplished anything yet. There's[r]
+so much left to do.[pcms]
 
 
 *1495|
 [fc]
-何より、丞実や静ちゃんが待ってるんだ！[pcms]
+Above all, Tsugumi and Shizuka-chan are waiting for me![pcms]
 
 
 *1496|
 [fc]
-[ns]克己[nse]
-「俺はまだ死ねないんだ！」[pcms]
+[ns]Kazumi[nse]
+"I can't die yet!"[pcms]
 
 
 *1497|
 [fc]
-視線は染者達の頭の上を飛び越えて、[r]
-学園の壁を睨み付ける。[pcms]
+My gaze flies over the heads of the infected and glares at the wall of[r]
+the academy.[pcms]
 
 
 *1498|
 [fc]
-電信柱の上からジャンプすれば、[r]
-ギリギリ壁の上に着地できそうな距離だ。[pcms]
+If I jump from the top of the utility pole, I might just barely land[r]
+on top of the wall.[pcms]
 
 
 *1499|
 [fc]
-だけど、失敗すれば忍び返しがグッサリだ。[r]
-下手すりゃ一発で死ぬ。[pcms]
+But if I fail, the spikes will pierce me deeply. A bad move could kill[r]
+me instantly.[pcms]
 
 ;
 ;	*1500|
 ;	;旧ナンバー[vo_m s="going0003"]
 ;	[vo_mob s="R_ita0003"]
-;	[ns]イッちゃった女の子[nse]
-;	「え、えっち、しようよぉおぉ……あたしと、[r]
-;	　えっち～……」[pcms]
+[ns]Girl Who Came[nse]
+"Hey, let's have sex... with me, let's have sex~..."[pcms]
 ;mmmmm 無音になってるからカット
 
 *1501|
 [fc]
-[ns]克己[nse]
-「ど、どっちみち死ぬってんなら俺は……、[r]
-　人間として死ぬっ！　いくぞおぉおっ！」[pcms]
+[ns]Kazumi[nse]
+"If I'm going to die either way, I'd rather... die as a human! Here I[r]
+gooo!"[pcms]
 
 
 *1502|
 [fc]
-彼らの声援に応えるように、それ以上の大声で叫びながら、[r]
-電信柱の足場を力一杯蹴り飛ばし、壁を目指して飛んだ。[pcms]
+As if responding to their cheers, I shout even louder and kick off the[r]
+foothold on the utility pole with all my might, aiming for the wall.[pcms]
 
 ;;//m:空を飛んだー！？的な演出を何か
 
@@ -1829,9 +1760,9 @@
 *1503|
 ;旧ナンバー[vo_m s="punk0004"]
 [vo_mob s="R_punk0005"]
-[ns]パンクス風女の子[nse]
-「ふふ……わたしの、もうドロッドロだよぉ……？[r]
-　おちんちん、いれてみたくない～？　ふふ……」[pcms]
+[ns]Punk-style Girl[nse]
+"Hehe... I'm all wet and messy... Don't you want to put your dick in?[r]
+Hehe..."[pcms]
 
 ;;//[ChrSetEx layer=3 chbase="mob_kan2_x"][ChrSetXY layer=3 x="&sf.std_kan2_x調整*0" y=0][trans_c cross time=150]
 ;;//MOB左＠感染者　18　デブ男　　
@@ -1839,8 +1770,8 @@
 
 *1503a|
 [fc]
-[ns]金髪の男[nse]
-「あ゛がぁ゛……ああぁあ゛に、にげんなぁあぁぁ！！」[pcms]
+[ns]Blond-haired man[nse]
+"Agaaah... aahhh, don't run awayyy!!"[pcms]
 
 ;;//[ChrSetEx layer=4 chbase="mob_kan1_x"][ChrSetXY layer=4 x="&sf.std_kan1_x調整*650" y=0][trans_c cross time=150]
 ;;//MOB右＠感染者　17　金髪筋肉　
@@ -1848,39 +1779,37 @@
 
 *1503b|
 [fc]
-[ns]奇声を上げる感染者[nse]
-「まて、こ、こらァァあぁ……」[pcms]
+[ns]Infected Person Screaming Strangely[nse]
+"Wait, hey, come baaack..."[pcms]
 
 
 *1504|
 [fc]
-沢山の感染者の手が、[r]
-まるで最高に盛り上がったライブ会場みたいに、[r]
-一斉に宙を目指して伸びる。[pcms]
+The hands of many infected reach up all at once, like at the peak of[r]
+an exhilarating live concert.[pcms]
 
 
 *1505|
 [fc]
-そんな彼らの頭上を、[r]
-走り幅跳びの選手よろしく足掻きながら宙を舞う俺に、[r]
-学園の壁が迫る。[pcms]
+Above their heads, I kick through the air like a long jumper and the[r]
+wall of the academy looms closer.[pcms]
 
 
 *1506|
 [fc]
-だけど、ちょっと飛距離が足りない！[pcms]
+But my jump is just a little short![pcms]
 
 
 *1507|
 [fc]
-[ns]克己[nse]
-「くっそおぉおぉぉ！！」[pcms]
+[ns]Kazumi[nse]
+"Damn it allll!!"[pcms]
 
 
 *1508|
 [fc]
-あと少しだからと手を伸ばし[r]
-太陽の光を反射して鋭く光る忍び返しを握りしめる。[pcms]
+Because it's just a little more to go, I reach out and grab the[r]
+sharply shining spikes reflecting the sunlight.[pcms]
 
 [se buf1 storage="seB027"]
 ;;//♪SE鎌で切りつける音
@@ -1897,24 +1826,22 @@
 
 *1509|
 [fc]
-[ns]克己[nse]
-「ぐっ……！　い、痛ぇぇぇぇ！！[r]
-　でも、死んでられっかよぉおおぉぉ！！！[r]
-　オリァアアアアァアァ！！」[pcms]
+[ns]Kazumi[nse]
+"Guh...! It, it hurts!! But I can't just die hereee!!! Oryaaa!!"[pcms]
 
 
 *1510|
 [fc]
-鋭く尖った金属の板が手に食い込むくらい何だってんだ。[r]
-あんな奴らに喰われて死ぬより、[r]
-少し痛いだけの方が全然マシだ。[pcms]
+So what if sharp metal plates bite into my hand? It's far better than[r]
+being eaten by those things and dying. A little pain is nothing[r]
+compared to that.[pcms]
 
 
 *1511|
 [fc]
-指が千切れそうになるくらいの痛みを堪えながら、[r]
-勢いづいた体を壁に引き寄せ、[r]
-そのまま学園の敷地内に飛び込んだ。[pcms]
+Enduring pain like my fingers might be torn off, I pull my body[r]
+towards the wall with momentum and leap into the grounds of the[r]
+academy.[pcms]
 
 [se buf1 storage="seB012"]
 ;;//♪SE人間が地面に叩きつけられる音
@@ -1924,9 +1851,8 @@
 
 *1512|
 [fc]
-[ns]克己[nse]
-「イッデェェェ！！！　げほっ……げぇっ……、[r]
-　いてぇよオガーヂャーン！　うぅ……げほっ……」[pcms]
+[ns]Kazumi[nse]
+"Yesss!!! Cough... cough... it hurts, damn it! Ugh... cough..."[pcms]
 
 ;;//#_ホワイトアウト
 [white_toplayer][trans_c cross time=1000][hide_chara_int_w]
@@ -1934,9 +1860,8 @@
 
 *1513|
 [fc]
-かっこよくキメる筈だったのに、[r]
-バランスを崩した俺は、[r]
-背中から地面に真っ逆さま。[pcms]
+I was supposed to land coolly, but losing my balance, I fell straight[r]
+down onto my back.[pcms]
 
 ;;//★グラウンド・朝昼
 [bg storage="BG20a"][trans_c cross time=1000]
@@ -1944,39 +1869,37 @@
 
 *1514|
 [fc]
-忍び返しが食い込んだ手や、[r]
-強かに打ち付けた背中が猛烈に痛くて地面を転がり回る。[pcms]
+The hand pierced by the spikes and my back that hit hard against the[r]
+ground hurt so much that I roll around on the ground.[pcms]
 
 
 *1515|
 [fc]
-感染者達の群れから逃れる事も、[r]
-目的地である学園の中に飛び込むことも、[r]
-どっちもうまくいったってのに、最後が締まらない。[pcms]
+I managed to escape from the horde of infected and jump into the[r]
+academy, my destination. Both went well, but the ending was not tight.[pcms]
 
 
 *1516|
 [fc]
-とはいえ、助かったには違いないけど……。[pcms]
+But still, I'm definitely saved...[pcms]
 
 
 *1517|
 ;旧ナンバー[vo_m s="pretty_voice0001"]
 [vo_mob s="R_cute0001"]
-[ns]可愛らしい声の女の子[nse]
-「ふふっ……うふふっ……」[pcms]
+[ns]A girl with a cute voice[nse]
+"Fufu...ufufu..."[pcms]
 
 
 *1518|
 [fc]
-くそ、みっともないのはイヤってほど解ってんだ、[r]
-ほっといて……。[pcms]
+"Damn, I know it's embarrassing, just leave me alone..."[pcms]
 
 
 *1519|
 [fc]
-背中をさすりながら体を起こすと、[r]
-何人かの女の子が、こちらを見て笑っていた。[pcms]
+As I rub my back and get up, several girls were looking this way and[r]
+laughing.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_c3"][ChrSetXY layer=5 x="&sf.std_kanC_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　13　私服３　　
@@ -1985,10 +1908,8 @@
 *1520|
 ;旧ナンバー[vo_m s="pretty_voice0002"]
 [vo_mob s="R_cute0002"]
-[ns]可愛らしい声の女の子[nse]
-「ふふっ……あはははぁあぁ！！[r]
-　おっとこが、きたぁあぁあ！！[r]
-　あぁあぁあ！！」[pcms]
+[ns]A girl with a cute voice[nse]
+"Fufu... Ahahaha!! A guy, he's come!! Ahhh!!"[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan_a3"][ChrSetXY layer=4 x="&sf.std_kanA_x調整*650" y=0][trans_c cross time=150]
 ;;//MOB右＠感染者　03　制服２　　
@@ -1997,9 +1918,8 @@
 *1521|
 ;旧ナンバー[vo_m s="genki0001"]
 [vo_mob s="R_genki0001"]
-[ns]元気そうな女の子[nse]
-「えぇぇ！　ほんと？　ホント？[r]
-　あ、あたし、が、いっちばん～！」[pcms]
+[ns]Energetic Girl[nse]
+"Eeeh! Really? Really? Ah, I'm gonna be the first~!"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan_c4"][ChrSetXY layer=3 x="&sf.std_kanC_x調整*50" y=0][trans_c cross time=150]
 ;;//MOB左＠感染者　14　制服４　　
@@ -2008,37 +1928,33 @@
 *1522|
 ;旧ナンバー[vo_m s="ositoyaka0001"]
 [vo_mob s="R_oshito0001"]
-[ns]おしとやかそうな子[nse]
-「あぁあぁ……わた、しの、おまんこに、[r]
-　いれてくれる……？　ねえ、ねえぇ～……」[pcms]
+[ns]A demure-looking child[nse]
+"Ahh... will you put it in my pussy...? Hey, hey~..."[pcms]
 
 
 *1523|
 [fc]
-[ns]克己[nse]
-「お、おいおい……モテモテだな俺……。[r]
-　くっそー、こんな時じゃなかったら大喜びだってのに！」[pcms]
+[ns]Kazumi[nse]
+"Hey, hey... I'm quite the ladies' man... Damn it, I'd be overjoyed if[r]
+it weren't for this situation!"[pcms]
 
 
 *1524|
 [fc]
-神様のン馬鹿！[r]
-こんな時にモテさせてくれなくたって良いじゃない！[pcms]
+God damn it! I don't need to be popular at a time like this![pcms]
 
 
 *1525|
 ;旧ナンバー[vo_m s="ositoyaka0002"]
 [vo_mob s="R_oshito0002"]
-[ns]おしとやかそうな子[nse]
-「ねぇってばぁ～……えっち、してちょうだい？[r]
-　ねぇ……ねぇぇ……」[pcms]
+[ns]A demure-looking child[nse]
+"Hey, I'm saying~... let's have sex, please? Hey... hey~..."[pcms]
 
 
 *1526|
 [fc]
-[ns]克己[nse]
-「嘆いている場合じゃねえ！[r]
-　どっちに行けば良いんだ！？」[pcms]
+[ns]Kazumi[nse]
+"This is no time to be lamenting! Which way should I go!?"[pcms]
 
 ;;//s:この下の状況説明がクドイ
 ;;//m:全部の外観は無いからなぁ。あるのだけやると半端になるし背景は切り替えないでおくか。
@@ -2049,68 +1965,64 @@
 
 *1527|
 [fc]
-素早く辺りを見回すと、真正面にはテニスコートが二面ある。[r]
-それを挟んで正面には小さな小さな建物……。[r]
-あれは別棟みたいなものか？[pcms]
+Quickly looking around, there are two tennis courts right in front of[r]
+me. Across them is a small building... Is that an annex?[pcms]
 
 
 *1528|
 [fc]
-その右側には小さな体育館と、ガラス張りの建物。[r]
-なんだか、水が流れるような音も聞こえる。[pcms]
+To the right of that is a small gymnasium and a glass building. I can[r]
+also hear something like the sound of flowing water.[pcms]
 
 
 *1529|
 [fc]
-正面の建物の奥の方には、また別の大きくて立派な建物……。[r]
-あれは本校舎だろう。[pcms]
+Behind the building in front, there's another large and splendid[r]
+building... That must be the main school building.[pcms]
 
 
 *1530|
 [fc]
-そして、左側はグラウンド……。[pcms]
+And to the left is the sports ground...[pcms]
 
 
 *1531|
 [fc]
-あのガラス張りの建物、ありゃプールかもしれない。[r]
-その隣にあるのは体育館。[pcms]
+That glass building might be the pool. Next to it is the gymnasium.[pcms]
 
 
 *1532|
 [fc]
-グラウンドや本校舎の方からは、[r]
-ヘンなうめき声みたいなのが聞こえてくる。[r]
-まあ、近寄らない方が良いだろう。[pcms]
+From the sports ground and the main school building, weird groaning[r]
+sounds can be heard. It's probably best not to go near there.[pcms]
 
 
 *1533|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *1534|
 [fc]
-めぼしい所はその二つ。[r]
-それ以外は無駄足になりそうな気もするし、[r]
-時間もそんなにあるわけじゃない。[pcms]
+The two notable places are those. Anywhere else seems like it would be[r]
+a waste of time, and I don't have much of that.[pcms]
 
 
 *1535|
 [fc]
-よく見りゃどっちの方にも感染者がいる。[pcms]
+If you look closely, there are infected people in both directions.[pcms]
 
 
 *1536|
 [fc]
-しいて言えば体育館の方が数が多そうだけど、[r]
-プールの方は何だか騒々しい。[pcms]
+If anything, there seem to be more around the gymnasium, but the pool[r]
+area is quite noisy.[pcms]
 
 
 *1537|
 [fc]
-っつーことは、だ！[pcms]
+That means...![pcms]
 
 ;;//s:この下の状況説明がクドイ
 
@@ -2137,7 +2049,7 @@
 ;;//選択肢
 ;	[link target=*front]真正面の建物の方へ[endlink]
 ;	[link storage="0222H.ks" target=*0222H_TOP]ガラス張りの建物の方へ[endlink]
-;	[s]
+;[pcms]
 
 
 *SEL04|真正面の建物の方へ／ガラス張りの建物の方へ
@@ -2162,37 +2074,36 @@
 
 *1538|
 [fc]
-そうだよ、段々思い出してきた。[r]
-丞実達は合宿で『泊まる場所がある』って、[r]
-言ってたじゃないか。[pcms]
+That's right, I'm starting to remember. Tsugumi and the others said[r]
+they had a place to stay for the camp.[pcms]
 
 
 *1539|
 [fc]
-ガラス張りの建物はきっとプールだろう。[r]
-その隣の小さい建物こそ、合宿所……だと思う。[pcms]
+The glass building must surely be the pool. The small building next to[r]
+it must be the lodging for the camp... I think.[pcms]
 
 
 *1540|
 [fc]
-騒ぎがデカくなってきて、[r]
-荷物を取りに戻ったってのは十二分にあり得る話だ。[pcms]
+The commotion has gotten louder, and it's entirely possible they went[r]
+back to get their belongings.[pcms]
 
 
 *1541|
 [fc]
-何よりあっち側はまだ感染者が少なく見える。[pcms]
+Above all, there seem to be fewer infected on that side.[pcms]
 
 
 *1542|
 [fc]
-[ns]克己[nse]
-「決めた！」[pcms]
+[ns]Kazumi[nse]
+"I've decided!"[pcms]
 
 
 *1543|
 [fc]
-真正面の別棟の方だ！[pcms]
+The annex right in front![pcms]
 
 [se buf1 storage="seA050"]
 ;;//♪SE走り去る足音
@@ -2208,52 +2119,51 @@
 
 *1544|
 [fc]
-[ns]克己[nse]
-「やったら綺麗な入り口……役所みてー……」[pcms]
+[ns]Kazumi[nse]
+"What a neat entrance... like a government office..."[pcms]
 
 
 *1545|
 [fc]
-[ns]克己[nse]
-「そりゃ当然、鍵掛けるわな……」[pcms]
+[ns]Kazumi[nse]
+"Of course, they'd lock it..."[pcms]
 
 
 *1546|
 [fc]
-一面ガラス張りで両開きの扉。[r]
-なかなかオシャレな色したゲートに、ブラインドは、[r]
-引いても押してもピクリともしない。[pcms]
+Glass doors that open both ways. The stylishly colored gate with[r]
+blinds doesn't budge an inch no matter if you push or pull.[pcms]
 
 
 *1547|
 [fc]
-[ns]克己[nse]
-「ん……？」[pcms]
+[ns]Kazumi[nse]
+"Hm...?"[pcms]
 
 
 *1548|
 [fc]
-うっすらと開かれた扉から、中の声が漏れ聞こえる。[r]
-それは、感染者達のイカれたうめき声じゃなくて、[r]
-真っ当な人間のソレだった。[pcms]
+Through the slightly open doors, I can hear voices from inside.[r]
+They're not the deranged groans of the infected but those of sane[r]
+humans.[pcms]
 
 
 *1549|
 [fc]
-[ns]克己[nse]
-「はろー！　はろーぉー？」[pcms]
+[ns]Kazumi[nse]
+"Hello! Hellooo?"[pcms]
 
 
 *1550|
 [fc]
-中を覗きながら叫んでみると、何かが動く気配もある。[r]
-何故だか、サッと身を隠した様にも見える。[pcms]
+As I peek inside and shout, there seems to be some movement. For some[r]
+reason, it looks like they quickly hid themselves.[pcms]
 
 
 *1551|
 [fc]
-間違いない、中には人がいる。[r]
-しかも、まだまともな人間だ。[pcms]
+No doubt about it, there are people inside. And they're still sane[r]
+humans.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_c3"][ChrSetXY layer=5 x="&sf.std_kanC_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　13　私服３　　
@@ -2262,8 +2172,8 @@
 *1552|
 ;旧ナンバー[vo_m s="pretty_voice0003"]
 [vo_mob s="R_cute0003"]
-[ns]可愛らしい声の女の子[nse]
-「どぉこぉ～？　どこなのぉ～？　お～と～こぉ～」[pcms]
+[ns]A girl with a cute voice[nse]
+"Whereee~? Where are you~? Guyyy~"[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan_a3"][ChrSetXY layer=4 x="&sf.std_kanA_x調整*650" y=0][trans_c cross time=150]
 ;;//MOB右＠感染者　03　制服２　　
@@ -2272,22 +2182,20 @@
 *1553|
 ;旧ナンバー[vo_m s="genki0002"]
 [vo_mob s="R_genki0002"]
-[ns]元気そうな女の子[nse]
-「うずくよぉ……おまんこ、あっつくて、[r]
-　バカになるぅ……んぁあああァ……」[pcms]
+[ns]Energetic Girl[nse]
+"It's throbbing... my pussy's so hot, I'm going crazy... nnaaahhh..."[pcms]
 
 
 *1554|
 [fc]
-[ns]克己[nse]
-「げ……また来た……！」[pcms]
+[ns]Kazumi[nse]
+"Geh... they're here again...!"[pcms]
 
 
 *1555|
 [fc]
-俺の声に反応しちまったのか。[r]
-このままここで粘ってても、[r]
-中の奴らは開けてくれなさそうだし……。[pcms]
+Maybe they reacted to my voice. Sticking around here won't do any[r]
+good, the people inside don't seem like they'll open up...[pcms]
 
 ;;//s:感染女下からイン　速め
 
@@ -2298,74 +2206,71 @@
 *1556|
 ;旧ナンバー[vo_m s="ositoyaka0003"]
 [vo_mob s="R_oshito0003"]
-[ns]おしとやかそうな子[nse]
-「えっちしよぉ……ねぇ……」[pcms]
+[ns]A demure-looking child[nse]
+"Let's do something naughty... hey..."[pcms]
 
 
 *1557|
 [fc]
-いつの間に這い寄っていたのか、[r]
-足下から感染者が勢いよく立ち上がり、[r]
-抱きつこうとしてきた。[pcms]
+Before I knew it, an infected had crawled up to my feet and suddenly[r]
+stood up, trying to embrace me.[pcms]
 
 
 *1558|
 [fc]
-[ns]克己[nse]
-「うわぁぁ！」[pcms]
+[ns]Kazumi[nse]
+"Whoa!"[pcms]
 
 
 *1559|
 [fc]
-思わず体をよじり、すがりつく女の子をふりほどきながら、[r]
-勢いよく後ずさる。[pcms]
+I twist my body instinctively, shaking off the girl clinging to me as[r]
+I quickly back away.[pcms]
 
 
 *1560|
 ;旧ナンバー[vo_m s="ositoyaka0004"]
 [vo_mob s="R_oshito0004"]
-[ns]おしとやかそうな子[nse]
-「きゃぁ……あ、あははァ……」[pcms]
+[ns]A demure-looking child[nse]
+"Kyaa...ah, ahaha..."[pcms]
 
 
 *1561|
 [fc]
-これだけ騒いでいるのに、[r]
-中の人が出てくる気配はない。[pcms]
+Despite all the noise, there's no sign of anyone from inside coming[r]
+out.[pcms]
 
 
 *1562|
 [fc]
-[ns]克己[nse]
-「クソッ！　お前ら良い死に方しねーぞ！[r]
-　俺みたいな善良な市民を……ぎゃ！」[pcms]
+[ns]Kazumi[nse]
+"Damn it! You're not going to die a good death! To think you'd do this[r]
+to a decent citizen like me...gya!"[pcms]
 
 
 *1563|
 ;旧ナンバー[vo_m s="ositoyaka0005"]
 [vo_mob s="R_oshito0005"]
-[ns]おしとやかそうな子[nse]
-「うふふ……ふふ……ああぁぁぁはははは！！！[r]
-　お、おいしそぉ～……はつものの、においがするぅ」[pcms]
+[ns]A demure-looking child[nse]
+"Ufufu...fufu...ahahaha!!! It looks so tasty... I can smell something[r]
+fresh."[pcms]
 
 
 *1564|
 [fc]
-[ns]克己[nse]
-「は、初物……！？　冗談じゃねえよ！[r]
-　喰われてたまるかよ！！」[pcms]
+[ns]Kazumi[nse]
+"Fresh...!? You've got to be kidding me! I'm not going to be eaten!!"[pcms]
 
 
 *1565|
 [fc]
-うかうかしてたら、俺はこの子の餌食だ。[r]
-さんざん弄ばれて、最後には骨だけにされちまう。[pcms]
+If I'm not careful, I'll become prey for this girl. Toyed with[r]
+mercilessly, and in the end, left with nothing but bones.[pcms]
 
 
 *1566|
 [fc]
-このままココにいるのはマズい。[r]
-別の建物の方に急ごう！[pcms]
+It's not safe to stay here. I need to hurry to another building![pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -2373,7 +2278,7 @@
 ;;//★合宿所外観・朝昼
 ;;//s:上のは背景を変えるべきかどうか
 ;;//m:克己の言ってる別の建物ってどれのことだろ。選択肢にあった屋内プールあるやつか？
-;;//ガラス張りの建物的な背景ないとだめか……[pcms]
+;;//A glass building background is necessary...[pcms]
 
 ;;//★汎用背景C・朝昼
 [bg storage="BG29a"][trans_c cross time=500]
@@ -2381,9 +2286,9 @@
 
 *1567|
 [fc]
-[ns]克己[nse]
-「おい！　中に入れてくれよ！　隠れてんだろ！？[r]
-　俺はまだ死にたくないんだ、開けてくれっ！」[pcms]
+[ns]Kazumi[nse]
+"Hey! Let me in! I know you're hiding! I don't want to die yet, open[r]
+up!"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan_b3"][ChrSetXY layer=3 x="&sf.std_kanB_x調整*50" y=0]
 ;;//MOB左＠感染者　09　ＯＬ風２　
@@ -2396,36 +2301,33 @@
 *1568|
 ;旧ナンバー[vo_m s="ositoyaka0006"]
 [vo_mob s="R_oshito0006"]
-[ns]おしとやかそうな子[nse]
-「うふふ……ふふ……。[r]
-　うふふふふふふっ……」[pcms]
+[ns]A demure-looking child[nse]
+"Ufufu...fufu... Ufufufufufu..."[pcms]
 
 
 *1569|
 [fc]
-さっきの大人しそうな女の子が、[r]
-沢山の感染者を引き連れ迫ってくる。[r]
-今度こそ開けて貰わないと、もう後がない。[pcms]
+The quiet-looking girl from before is now approaching with a horde of[r]
+infected. If they don't open up this time, there's no hope left.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *1570|
 [fc]
-普通にドアを叩いていたって、[r]
-中の奴らは開けてくれなさそうだ。[pcms]
+Just knocking on the door normally doesn't seem like it'll make the[r]
+people inside open up.[pcms]
 
 
 *1571|
 [fc]
-窓ガラスを叩いていても、[r]
-感染者に間違われてしまうだろう。[r]
-うっかり割ってしまったら元も子もない。[pcms]
+Even if I tap on the window glass, I might be mistaken for an[r]
+infected. If I accidentally break it, that's the end of it.[pcms]
 
 
 *1572|
 [fc]
-だとしたら、こうだ！[pcms]
+Then, this is what I'll do![pcms]
 
 [se buf1 storage="seB095"]
 ;;//♪SEドン
@@ -2436,10 +2338,9 @@
 
 *1573|
 [fc]
-[ns]克己[nse]
-「開けてくれぇぇっ！！[r]
-　俺はまだ死ねないんだって！[r]
-　丞実と、静ちゃんを助け出すまで……死ねないんだってば！」[pcms]
+[ns]Kazumi[nse]
+"Open up!! I can't die yet! I have to rescue Tsugumi and Shizuka-[r]
+chan... I can't die until then!"[pcms]
 
 [se buf1 storage="seB095"]
 ;;//♪SEドン
@@ -2450,22 +2351,21 @@
 
 *1574|
 [fc]
-俺は、ありったけの力を込めて叫びながら、[r]
-入り口の脇の壁を連続で蹴った。[pcms]
+I shout with all my might while continuously kicking the wall next to[r]
+the entrance.[pcms]
 
 
 *1575|
 [fc]
-『第二体育館』と書かれた小さなプレートが、[r]
-ほんの少し浮いた。[pcms]
+A small plate that reads "Second Gymnasium" lifted up just a bit.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_c4"][ChrSetXY layer=5 x="&sf.std_kanC_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　14　制服４　　
 *1576|
 ;旧ナンバー[vo_m s="ositoyaka0007"]
 [vo_mob s="R_oshito0007"]
-[ns]おしとやかそうな子[nse]
-「あは、は、ははァ……チンポ、ちょうだいぃぃぃ」[pcms]
+[ns]A demure-looking child[nse]
+"Aha, ha, haha... Give me your dick..."[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_a3"][ChrSetXY layer=5 x="&sf.std_kanA_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　03　制服２　　
@@ -2474,17 +2374,16 @@
 *1577|
 ;旧ナンバー[vo_m s="pretty_voice0004"]
 [vo_mob s="R_cute0004"]
-[ns]可愛らしい声の女の子[nse]
-「ふふっ……ふふふっ！　あはははあぁぁ！！[r]
-　せーえき！　せいえきちょうだいっ！」[pcms]
+[ns]A girl with a cute voice[nse]
+"Fufu...fufufu! Ahahaha!! Give me your semen! I want your semen!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *1578|
 [fc]
-[ns]克己[nse]
-「開けて！　開けてくれってば！」[pcms]
+[ns]Kazumi[nse]
+"Open it! Open up, I tell you!"[pcms]
 
 ;;//s:ここから下の静と女の子Ａは立ち絵無し
 
@@ -2492,9 +2391,9 @@
 *1579|
 ;旧ナンバー[vo_s s="sizuka0002"]
 [vo_s s="R_siz0002"]
-;[ns]静[nse]
+[ns]Shizuka[nse]
 [ns]？？？[nse]
-「克己さんッ！！」[pcms]
+"Kazumi-san!!"[pcms]
 
 ;;//静 後ほど　？？？に
 
@@ -2504,43 +2403,40 @@
 
 *1580|
 [fc]
-[ns]克己[nse]
-「え……！？」[pcms]
+[ns]Kazumi[nse]
+"Eh...!?"[pcms]
 
 
 *1581|
 [fc]
-俺の事を知ってるって事は……この子！？[pcms]
+If she knows me, then... this girl!?[pcms]
 
 
 *1582|
 ;旧ナンバー[vo_m s="girlA0001"]
 [vo_mob s="R_girlA0001"]
-[ns]女の子Ａ[nse]
-「静ッ！　開けちゃダメだってば！[r]
-　入ってきちゃうでしょ！」[pcms]
+[ns]Girl A[nse]
+"Shizuka! Don't open it! They'll get in!"[pcms]
 
 
 *1583|
 [fc]
-やっぱり、静ちゃんか！[pcms]
+It's Shizuka-chan after all![pcms]
 
 
 *1584|
 [fc]
-[ns]克己[nse]
-「ちょ、お、おい！[r]
-　見殺しかよ！　助けてくれよ！[r]
-　静ちゃん！　助けてくれぇっ！」[pcms]
+[ns]Kazumi[nse]
+"Hey, wait! Are you going to leave me to die? Help me! Shizuka-chan![r]
+Help me!"[pcms]
 
 
 *1585|
 ;旧ナンバー[vo_s s="sizuka0003"]
 [vo_s s="R_siz0003"]
-;[ns]静[nse]
+[ns]Shizuka[nse]
 [ns]？？？[nse]
-「どいてっ！　克己さん！[r]
-　早く……こっちに！」[pcms]
+"Move! Kazumi-san! Hurry... this way!"[pcms]
 
 ;;//静　後ほど　？？？　に
 
@@ -2548,8 +2444,8 @@
 ;	*1586|
 ;	;旧ナンバー[vo_m s="girlA0002"]
 ;	[vo_mob s="R_girlA0002"]
-;	[ns]女の子Ａ[nse]
-;	「静ッ！！」[pcms]
+[ns]Girl A[nse]
+"Shizuka!!"[pcms]
 ;mmmm ボイス無いらしいのでカットしておく
 
 ;;//#_ホワイトアウト
@@ -2569,14 +2465,15 @@
 *1587|
 ;旧ナンバー[vo_s s="sizuka0004"]
 [vo_s s="R_siz0004"]
-[ns]静[nse]
-「克己さん……！」[pcms]
+[ns]Shizuka[nse]
+"Kazumi-san...!"[pcms]
 
 ;;//s:嬉しそうな表情
-;;//m:服装はラクロスでいいのかな？[pcms]
+;;//m:Is lacrosse clothing okay?[pcms]
 
 ;;//人工の光が視界を奪い、それが晴れたとき、
-;;//目の前には後光を帯びた天使のような少女が立っていた。[pcms]
+;;//Before me stood a girl who seemed like an angel bathed in[r]
+backlight.[pcms]
 
 ;;//m:上記テキストとそれに伴う演出指定が意図不明なのでコメントアウトしておく。
 ;;//克己は外にいるから建物内部の光で目倉状態にはならないと思うの
@@ -2584,21 +2481,20 @@
 
 *1588|
 [fc]
-[ns]克己[nse]
-「静ちゃん！　ありが……」[pcms]
+[ns]Kazumi[nse]
+"Shizuka-chan! Thank..."[pcms]
 
 
 *1589|
 [fc]
-これで、目的の一つは達成できる。[r]
-しかも危機的状況を打開することができる。[pcms]
+This means one of my goals has been achieved. And I can get out of[r]
+this critical situation.[pcms]
 
 
 *1590|
 [fc]
-その二つの喜びは、[r]
-自分の置かれた状態を忘れさせてしまいそうになる。[r]
-だけどそれは、静ちゃんの表情の変化と共に終わりを告げた。[pcms]
+The joy of these two things almost makes me forget the predicament I'm[r]
+in. But that ends with the change in Shizuka-chan's expression.[pcms]
 
 [ChrSetEx layer=5 chbase="siz1_pol1_a"][ChrSetParts layer=5 chface="F1_siz09"][ChrSetXY layer=5 x="&sf.std_s_x調整*342" y="&sf.std_s_y調整*60"][trans_c cross time=150]
 
@@ -2606,31 +2502,30 @@
 *1591|
 ;旧ナンバー[vo_s s="sizuka0005"]
 [vo_s s="R_siz0005"]
-[ns]静[nse]
-「ッ……！？　危ないッ！！」[pcms]
+[ns]Shizuka[nse]
+"Ah...!? Dangerous!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_b1"][ChrSetXY layer=5 x="&sf.std_kanB_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　07　ＯＬ風１　
 *1592|
 ;旧ナンバー[vo_m s="oban0001"]
 [vo_mob s="R_obakan0001"]
-[ns]オバン感染者[nse]
-「あ……あ゛は゛は゛は゛は゛ァ……、[r]
-　わ、わかい、おと゛こ゛ォぉおおぉ」[pcms]
+[ns]Oban Infected[nse]
+"Ah...ahahaha... young, boy..."[pcms]
 
 ;;//s:これはオバンじゃないかもしれん
 
 
 *1593|
 [fc]
-静ちゃんが叫ぶ方向には、気味の悪い感染者の顔があった。[pcms]
+In the direction Shizuka-chan screamed, there was the face of a creepy[r]
+infected.[pcms]
 
 
 *1594|
 [fc]
-[ns]克己[nse]
-「うっ……うわぁあぁ！！！[r]
-　まだ居たのかよ！！　くっ……くそおおっ！！」[pcms]
+[ns]Kazumi[nse]
+"Ugh...uwaaaah!!! There's still one here!! Damn it...damn!!!"[pcms]
 
 [se buf1 storage="seB040"]
 ;;//♪SE鉄パイプの風切り音
@@ -2644,85 +2539,85 @@
 
 *1595|
 [fc]
-忍者よろしく背中に突き刺してあったバットを引き抜きながら、[r]
-脳天に金属バットを叩き込む為、叫んだ。[pcms]
+As if he were a ninja, he shouted while pulling out the bat that had[r]
+been stabbed into his back, aiming to smash it into the infected's[r]
+skull.[pcms]
 
 
 *1596|
 [fc]
-……筈だった。[pcms]
+...Or so he intended.[pcms]
 
 
 *1597|
 [fc]
-[ns]克己[nse]
-「あ、あれ……あれっ！！」[pcms]
+[ns]Kazumi[nse]
+"Ah, that...that!!"[pcms]
 
 
 *1598|
 [fc]
-咄嗟の事で慌てたせいか、[r]
-それとも、深々と刺してしまったせいか、[r]
-背中に突き入れたバットはなかなか抜けなかった。[pcms]
+Perhaps due to the suddenness of the situation or because it was[r]
+stabbed too deeply, the bat stuck in his back wouldn't come out[r]
+easily.[pcms]
 
 
 *1599|
 ;旧ナンバー[vo_m s="oban0002"]
 [vo_mob s="R_obakan0002"]
-[ns]オバン感染者[nse]
-「は、は゛た゛、き゛れい……ねぇぇ……。[r]
-　ちっ、ちんぽも、き゛れ゛ぃかし、らぁぁ？」[pcms]
+[ns]Oban Infected[nse]
+"Ha, hand...pretty...nee. Your cock, is it also pretty, huh?"[pcms]
 
 
 *1600|
 [fc]
-[ns]克己[nse]
-「ひっ……ぎゃあぁあぁあ！！！」[pcms]
+[ns]Kazumi[nse]
+"Hii...gyaaaah!!!"[pcms]
 
 
 *1601|
 [fc]
-『脳に異常を来した感染者は、筋力の抑止力を失う。[r]
-　つまり、組み付かれたら最後。[r]
-　骨格の破損などお構いなしの腕力で、締め付けられる』[pcms]
+"An infected whose brain has gone haywire loses their muscle[r]
+inhibitions. In other words, if they grab you, it's over. They'll[r]
+squeeze with a strength that doesn't care about breaking bones."[pcms]
 
 
 *1602|
 [fc]
-こんな時に思い出される、教則ビデオの台詞。[pcms]
+These are the lines from an instructional video that come to mind at[r]
+such a time.[pcms]
 
 
 *1603|
 [fc]
-『組み付かれたら最後』[r]
-それって……今がまさにその状態だ！[pcms]
+"If they grab you, it's over" - that's... exactly the situation I'm in[r]
+right now![pcms]
 
 
 *1604|
 ;旧ナンバー[vo_m s="oban0003"]
 [vo_mob s="R_obakan0003"]
-[ns]オバン感染者[nse]
-「ぢ、ぢゅ～し、よおぉおよおぉお！！[r]
-　べろ、だしてぇぇ……ねぇ……べろ、べろぉぉぉ」[pcms]
+[ns]Oban Infected[nse]
+"Juicy, sooo juicy!! Stick out your tongue...come on...tongue,[r]
+tongue..."[pcms]
 
 
 *1605|
 [fc]
-武器として役に立たないバットから手を離し、[r]
-汗と厚化粧で滑る、たるんだ顎を押さえ抵抗する。[pcms]
+Letting go of the useless bat as a weapon, he resists by pressing down[r]
+on the greasy, makeup-smeared, flabby chin.[pcms]
 
 
 *1606|
 [fc]
-だけど、ここに来るまでの格闘や暑さのせいで体力が失われ、[r]
-にじり寄る感染者を撥ねのける事が出来ない。[pcms]
+But due to the fighting and heat on the way here, his strength is[r]
+sapped, and he can't fend off the approaching infected.[pcms]
 
 
 *1607|
 [fc]
-[ns]克己[nse]
-「うっ……う、ぐうううぅぅっ！！[r]
-　そんなの、ダメだ……うわぁあぁ！！」[pcms]
+[ns]Kazumi[nse]
+"Ugh...ugh, nooo!! That's no good...uwaaaah!!"[pcms]
 
 [se buf1 storage="seB013"]
 ;;//♪SE人が倒れる
@@ -2732,47 +2627,46 @@
 
 *1608|
 [fc]
-[ns]克己[nse]
-「ぐっ……うううぅうぅ……」[pcms]
+[ns]Kazumi[nse]
+"Guh...ughhhhh..."[pcms]
 
 
 *1609|
 [fc]
-力負けしてしまった俺は、地面に尻餅をつき、[r]
-感染者に覆い被さられてしまった。[pcms]
+Overpowered, I fall to the ground on my butt, with the infected[r]
+looming over me.[pcms]
 
 
 *1610|
 ;旧ナンバー[vo_m s="oban0004"]
 [vo_mob s="R_obakan0004"]
-[ns]オバン感染者[nse]
-「ん゛ふぅううぅ゛……ふうぅ゛ぅぅう」[pcms]
+[ns]Oban Infected[nse]
+"Nfuuuuh...fuuuuhhh..."[pcms]
 
 
 *1611|
 [fc]
-タコの様に窄められた真っ赤な口が、俺の顔に迫る。[r]
-少しでも触れてしまったらゲームオーバーだ。[pcms]
+The octopus-like narrowed red mouth approaches my face. If it touches[r]
+me even a little, it's game over.[pcms]
 
 
 *1612|
 [fc]
-[ns]克己[nse]
-「わあぁぁぁ！！[r]
-　こんなので死ぬのはイヤだ！！」[pcms]
+[ns]Kazumi[nse]
+"Waaahhh!! I don't want to die like this!!"[pcms]
 
 
 *1613|
 ;旧ナンバー[vo_s s="sizuka0006"]
 [vo_s s="R_siz0006"]
-[ns]静[nse]
-「イヤァアアァァ！！！！」[pcms]
+[ns]Shizuka[nse]
+"Nooooo!!!"[pcms]
 
 
 *1614|
 [fc]
-[ns]克己[nse]
-「え……？」[pcms]
+[ns]Kazumi[nse]
+"Eh...?"[pcms]
 
 [se buf1 storage="seB040"]
 ;;//♪SE鉄パイプの風切り音
@@ -2783,9 +2677,8 @@
 
 *1615|
 [fc]
-静ちゃんの悲鳴の直後、[r]
-真横から一直線に伸びた影が、[r]
-黒い固まりに吸い込まれていった。[pcms]
+Right after Shizuka-chan's scream, a shadow stretched straight from[r]
+the side and was absorbed into the black mass.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -2809,14 +2702,14 @@
 *1616|
 ;旧ナンバー[vo_m s="oban0005"]
 [vo_mob s="R_obakan0005"]
-[ns]オバン感染者[nse]
-「ぶっ……ぐっ……あ、が……ぁ……」[pcms]
+[ns]Oban Infected[nse]
+"Buh...guh...ah, ga...ah..."[pcms]
 
 
 *1617|
 [fc]
-[ns]克己[nse]
-「ひっ……！！」[pcms]
+[ns]Kazumi[nse]
+"Hii...!!"[pcms]
 
 [move layer=5 time=100 accel=-1 path='&@"(${&sf.move調整*300},${&sf.move調整*0},255)"'][wm]
 [move layer=5 time=200 accel=-1 path='&@"(${&sf.move調整*400},${&sf.move調整*0},255)"'][wm]
@@ -2829,48 +2722,47 @@
 
 *1618|
 [fc]
-強烈な太陽の光で白く染まった世界の中、[r]
-黒い固まりが真横に流れ、すぐに体が軽くなる。[pcms]
+In a world dyed white by the intense sunlight, the black mass flows[r]
+sideways, and immediately my body feels lighter.[pcms]
 
 
 *1619|
 [fc]
-逃げるなら今しかない！[pcms]
+If I'm going to escape, now's the only chance![pcms]
 
 
 *1620|
 [fc]
-[ns]克己[nse]
-「くそっ！」[pcms]
+[ns]Kazumi[nse]
+"Damn it!"[pcms]
 
 
 *1621|
 [fc]
-重くのし掛かってきた感染者を撥ねのけ、[r]
-大慌てで地面から体を起こすと、[r]
-静ちゃんが肩で息をしながら立っていた。[pcms]
+He pushes off the heavy infected that was bearing down on him and[r]
+scrambles up from the ground to see Shizuka-chan standing there,[r]
+panting with her shoulders.[pcms]
 
 [ChrSetEx layer=5 chbase="siz2_pol1_c"][ChrSetParts layer=5 chface="F2_siz09"][ChrSetXY layer=5 x="&sf.std_s_x調整*96" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 *1622|
 ;旧ナンバー[vo_s s="sizuka0007"]
 [vo_s s="R_siz0007"]
-[ns]静[nse]
-「はっ……はっ……はぁ……はぁ……。[r]
-　克己さん、大丈夫！？」[pcms]
+[ns]Shizuka[nse]
+"Hah...hah...haa...haa... Kazumi-san, are you okay!?"[pcms]
 
 [ChrSetEx layer=5 chbase="siz1_pol1_c"][ChrSetParts layer=5 chface="F1_siz09"][ChrSetXY layer=5 x="&sf.std_s_x調整*342" y="&sf.std_s_y調整*60"][trans_c cross time=150]
 
 
 *1623|
 [fc]
-そんな静ちゃんは、手に長い棒を待っている。[pcms]
+In her hand, Shizuka-chan is holding a long stick.[pcms]
 
 
 *1624|
 [fc]
-太く硬そうな材質で出来ているラケットの先端は粉々だ。[r]
-よほど躊躇無くぶん殴ったんだろう。[r]
-これなら、幾らなんでももう起き上がってなんか……。[pcms]
+The end of the racket made from thick and hard material is shattered.[r]
+She must have hit without hesitation. With this much damage, there's[r]
+no way it could get back up again...[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_b1"][ChrSetXY layer=5 x="&sf.std_kanB_x調整*350" y=500][trans_c cross time=150]
 ;;//MOB中＠感染者　07　ＯＬ風１　
@@ -2880,102 +2772,96 @@
 *1625|
 ;旧ナンバー[vo_m s="oban0006"]
 [vo_mob s="R_obakan0006"]
-[ns]オバン感染者[nse]
-「ぶぁ……い、い゛だいぃぃ……。[r]
-　に゛げな゛ぃでぇ゛……」[pcms]
+[ns]Oban Infected[nse]
+"Bua...nooo... Don't run away..."[pcms]
 
 
 *1626|
 [fc]
-[ns]克己[nse]
-「うわぁぁあぁぁっ！！」[pcms]
+[ns]Kazumi[nse]
+"Uwaaaahhh!!"[pcms]
 
 
 *1627|
 [fc]
-一難去ってまた一難。[pcms]
+Out of one trouble and into another.[pcms]
 
 
 *1628|
 [fc]
-完全にキマった筈なのに、[r]
-感染者は全く利いてない様に嗤い、動き出した。[pcms]
+Even though it should have been completely knocked out, the infected[r]
+laughs as if unaffected and starts moving again.[pcms]
 
 [ChrSetEx layer=5 chbase="siz1_pol1_c"][ChrSetParts layer=5 chface="F1_siz13"][ChrSetXY layer=5 x="&sf.std_s_x調整*342" y="&sf.std_s_y調整*60"][trans_c cross time=150]
 *1629|
 ;旧ナンバー[vo_s s="sizuka0008"]
 [vo_s s="R_siz0008"]
-[ns]静[nse]
-「きゃあああああああああぁあぁぁ！！！[r]
-　ら、ラケットが！　あぁあぁ……」[pcms]
+[ns]Shizuka[nse]
+"Kyaaaaaaaahhh!!! The racket! Ahhh..."[pcms]
 
 
 *1630|
 [fc]
-静ちゃんは目を大きく見開き、[r]
-小刻みに体を震わせて、[r]
-その場に立ち尽くしてしまった。[pcms]
+Shizuka-chan's eyes widen in shock, her body trembles in short bursts,[r]
+and she stands frozen on the spot.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_b1"][ChrSetXY layer=5 x="&sf.std_kanB_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　07　ＯＬ風１　
 *1631|
 ;旧ナンバー[vo_m s="oban0007"]
 [vo_mob s="R_obakan0007"]
-[ns]オバン感染者[nse]
-「ぶぅうぅうあ゛ぁ゛、[r]
-　……じゅる……お゛とこ゛ぉ……」[pcms]
+[ns]Oban Infected[nse]
+"Boooahh...slurp...boy..."[pcms]
 
 
 *1632|
 [fc]
-ま、まずい！[r]
-まずいまずいマズい！！[pcms]
+This is bad! Really bad!![pcms]
 
 
 *1633|
 [fc]
-そ、そうだ、俺も武器持ってんじゃん！[r]
-これを静ちゃんに渡せば……！[pcms]
+Right, I have a weapon too! If I give this to Shizuka-chan...![pcms]
 
 
 *1634|
 [fc]
-[ns]克己[nse]
-「しっ、静ちゃん！　バット！　バット使って！！[r]
-　ほっ、ほら！！　バット！　バーット！！」[pcms]
+[ns]Kazumi[nse]
+"Shi-Shizuka-chan! The bat! Use the bat!! Here, the bat! The ba-at!!"[pcms]
 
 
 *1635|
 [fc]
-大きく口を開けて迫る感染者の顔を押し上げながら、[r]
-体をよじって、背中のバットを目立たせようとした。[pcms]
+While pushing up the face of the approaching infected with his open[r]
+mouth, he twisted his body to make the bat on his back more[r]
+noticeable.[pcms]
 
 [ChrSetEx layer=5 chbase="siz2_pol2_c"][ChrSetParts layer=5 chface="F4_siz12"][ChrSetXY layer=5 x="&sf.std_s_x調整*96" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 *1636|
 ;旧ナンバー[vo_s s="sizuka0009"]
 [vo_s s="R_siz0009"]
-[ns]静[nse]
-「あ……あぁあ……」[pcms]
+[ns]Shizuka[nse]
+"Ah...ahhhh..."[pcms]
 
 
 *1637|
 [fc]
-だけど静ちゃんはよほど気が動転しているのか、[r]
-砕けたラケットを握ったまま動かない。[pcms]
+But Shizuka-chan seems too distraught to move, still gripping the[r]
+broken racket.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_b1"][ChrSetXY layer=5 x="&sf.std_kanB_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　07　ＯＬ風１　
 *1638|
 ;旧ナンバー[vo_m s="oban0008"]
 [vo_mob s="R_obakan0008"]
-[ns]オバン感染者[nse]
-「ぐふっ……うふふぅっ……あ゛ああぁぁ！！」[pcms]
+[ns]Oban Infected[nse]
+"Gufu...uhuhuuu...aaaahhh!!"[pcms]
 
 
 *1639|
 [fc]
-感染者の顔がどんどん近づいてくる。[r]
-このままじゃやられる！[pcms]
+The face of the infected is getting closer and closer. We're going to[r]
+be done for at this rate![pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -2983,102 +2869,100 @@
 *1640|
 ;旧ナンバー[vo_m s="girlA0003"]
 [vo_mob s="R_girlA0003"]
-[ns]女の子Ａ[nse]
-「……静ッ！！」[pcms]
+[ns]Girl A[nse]
+"...Shizuka!!"[pcms]
 
 
 *1641|
 [fc]
-[ns]克己[nse]
-「あ……おい、良いところに！　助けてくれっ！[r]
-　ほら、バットあるから、コイツで何とか……」[pcms]
+[ns]Kazumi[nse]
+"Ah...hey, good timing! Help us out! Look, there's a bat here, use it[r]
+to do something..."[pcms]
 
 
 *1642|
 ;旧ナンバー[vo_m s="girlA0004"]
 [vo_mob s="R_girlA0004"]
-[ns]女の子Ａ[nse]
-「ば……バット！！」[pcms]
+[ns]Girl A[nse]
+"Ba...Bat!!"[pcms]
 
 
 *1643|
 [fc]
-やっと助かった。[pcms]
+I finally felt saved.[pcms]
 
 
 *1644|
 [fc]
-そう思ったのもつかの間、女の子は体を翻し、[r]
-建物の奥へと引っ込んで行ってしまった。[pcms]
+But just as I thought that, the girl flipped her body around and[r]
+retreated into the depths of the building.[pcms]
 
 
 *1645|
 [fc]
-[ns]克己[nse]
-「あ！　お、おい！　おおおぉおぉおおおい！！！[r]
-　バカァー！　何処行くんだ助けてくれえぇっ！！」[pcms]
+[ns]Kazumi[nse]
+"Ah! Hey! Heeeyyyy!!! Idiot-! Where are you going, help meee!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_b1"][ChrSetXY layer=5 x="&sf.std_kanB_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　07　ＯＬ風１　
 *1646|
 ;旧ナンバー[vo_m s="oban0009"]
 [vo_mob s="R_obakan0009"]
-[ns]オバン感染者[nse]
-「お゛とこ゛ぉ……せ゛っく゛すぅうぅぅ……！！」[pcms]
+[ns]Oban Infected[nse]
+"Boooy...seeeexx uuuhhh...!!"[pcms]
 
 
 *1647|
 [fc]
-[ns]克己[nse]
-「うわぁぁぁぁ！！！　も、もうダメ……ゴメン……！[r]
-　静ちゃん……丞実ッ！」[pcms]
+[ns]Kazumi[nse]
+"Uwaaaaahhh!!! It's no use...I'm sorry...! Shizuka-chan...Tsugumi!"[pcms]
 
 
 *1648|
 [fc]
-一難去ってまた一難。[r]
-映画の主人公よろしく危機を乗り越えてきたけど、もう限界だ。[r]
-あの女の子に裏切られたって気持ちが、俺の心を折ってしまった。[pcms]
+Out of one trouble and into another. I've overcome crises like a movie[r]
+hero, but I've reached my limit. The feeling of being betrayed by that[r]
+girl has broken my spirit.[pcms]
 
 
 *1649|
 [fc]
-ああ、もうダメだ……。[r]
-っつか、どうせなら若い子が良かったのに！！[pcms]
+Ah, it's no good... And to think, if it had to be this way, I would[r]
+have preferred it to be a younger girl!![pcms]
 
 
 *1650|
 [fc]
-[ns]克己[nse]
-「こんな年増に逆レイプされて死ぬなんて、[r]
-　すっげーイヤだぁぁあぁ！！！」[pcms]
+[ns]Kazumi[nse]
+"I really don't want to die being reverse-raped by an older woman like[r]
+this!!!"[pcms]
 
 
 *1651|
 ;旧ナンバー[vo_m s="oban0010"]
 [vo_mob s="R_obakan0010"]
-[ns]オバン感染者[nse]
-「い゛た゛た゛き゛ま゛ぁぁぁすううぅぅぅ゛……！！」[pcms]
+[ns]Oban Infected[nse]
+"I'm going to enjoy thisssss...!!"[pcms]
 
 
 *1652|
 ;旧ナンバー[vo_m s="girlA0005"]
 [vo_mob s="R_girlA0005"]
-[ns]女の子Ａ[nse]
-「静ッ！　はいっ！」[pcms]
+[ns]Girl A[nse]
+"Shizuka! Here!"[pcms]
 
 
 *1653|
 [fc]
-[ns]克己[nse]
-「え……！？」[pcms]
+[ns]Kazumi[nse]
+"Eh...!?"[pcms]
 
 
 *1654|
 ;旧ナンバー[vo_s s="sizuka0010"]
 [vo_s s="R_siz0010"]
-[ns]静[nse]
-「ヤァアアァア！！」[pcms]
+[ns]Shizuka[nse]
+"Yaaaahhhhh!!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -3108,23 +2992,22 @@
 *1655|
 ;旧ナンバー[vo_m s="oban0011"]
 [vo_mob s="R_obakan0011"]
-[ns]オバン感染者[nse]
-「ぶっ！！」[pcms]
+[ns]Oban Infected[nse]
+"Buh!!"[pcms]
 
 
 *1656|
 ;旧ナンバー[vo_m s="girlA0006"]
 [vo_mob s="R_girlA0006"]
-[ns]女の子Ａ[nse]
-「みんな！　もう起き上がれないようにするよ！[r]
-　行くぞおぉおおおおぉっ！！」[pcms]
+[ns]Girl A[nse]
+"Everyone! Make sure it can't get up again! Let's gooooo!!"[pcms]
 
 
 *1657|
 ;旧ナンバー[vo_m s="girlB0001"]
 [vo_mob s="R_girlB0001"]
-[ns]女の子Ｂ[nse]
-「コノヤロ！　えぃぃいっ！！」[pcms]
+[ns]Girl B[nse]
+"You bastard! Eiyy!!"[pcms]
 
 [se buf1 storage="seB008"]
 ;;//♪SE人間を殴る音２(痛そう)
@@ -3134,8 +3017,8 @@
 
 *1658|
 [fc]
-[ns]克己[nse]
-「え……ええぇ！？」[pcms]
+[ns]Kazumi[nse]
+"Eh...eeeh!?"[pcms]
 
 [se buf1 storage="seB008"]
 ;;//♪SE人間を殴る音２(痛そう)
@@ -3146,42 +3029,41 @@
 *1659|
 ;旧ナンバー[vo_m s="oban0012"]
 [vo_mob s="R_obakan0012"]
-[ns]オバン感染者[nse]
-「ぎっ……あ……あがぁぁ……」[pcms]
+[ns]Oban Infected[nse]
+"Gih...ah...aghaaa..."[pcms]
 
 [ChrSetEx layer=5 chbase="siz2_pol1_c"][ChrSetParts layer=5 chface="F2_siz09"][ChrSetXY layer=5 x="&sf.std_s_x調整*96" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 *1660|
 ;旧ナンバー[vo_s s="sizuka0011"]
 [vo_s s="R_siz0011"]
-[ns]静[nse]
-「克己さん！　大丈夫？　怪我はない！？」[pcms]
+[ns]Shizuka[nse]
+"Kazumi-san! Are you okay? Are you hurt!?"[pcms]
 
 [ChrSetEx layer=5 chbase="siz2_pol1_c"][ChrSetParts layer=5 chface="F2_siz06"][ChrSetXY layer=5 x="&sf.std_s_x調整*96" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 
 
 *1661|
 [fc]
-のし掛かっていた感染者は、[r]
-静ちゃんの友達によって引き離されて行く。[pcms]
+The infected that was on top of him is being pulled away by Shizuka-[r]
+chan's friends.[pcms]
 
 
 *1662|
 [fc]
-[ns]克己[nse]
-「あ、ありがとう……」[pcms]
+[ns]Kazumi[nse]
+"Thank you..."[pcms]
 
 
 *1663|
 [fc]
-立ち上がりながら体を見回すと、[r]
-幸い何処にも怪我はなかった。[pcms]
+As he stood up and checked his body, fortunately, there were no[r]
+injuries anywhere.[pcms]
 
 
 *1664|
 [fc]
-[ns]克己[nse]
-「大丈夫だ、おかげで助かった……。[r]
-　静ちゃんも、平気？」[pcms]
+[ns]Kazumi[nse]
+"I'm okay, thanks to you... Are you alright, Shizuka-chan?"[pcms]
 
 [ChrSetEx layer=5 chbase="siz2_pol1_c"][ChrSetParts layer=5 chface="F2_siz07"][ChrSetXY layer=5 x="&sf.std_s_x調整*96" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 
@@ -3189,23 +3071,21 @@
 *1665|
 ;旧ナンバー[vo_m s="girlA0007"]
 [vo_mob s="R_girlA0007"]
-[ns]女の子Ａ[nse]
-「安心するのはまだ早いよ！[r]
-　中に入って！　早く！　早くっ！！」[pcms]
+[ns]Girl A[nse]
+"It's too early to relax! Get inside! Quick! Quick!!"[pcms]
 
 [ChrSetEx layer=5 chbase="siz1_pol1_c"][ChrSetParts layer=5 chface="F1_siz09"][ChrSetXY layer=5 x="&sf.std_s_x調整*342" y="&sf.std_s_y調整*60"][trans_c cross time=150]
 *1666|
 ;旧ナンバー[vo_s s="sizuka0012"]
 [vo_s s="R_siz0012"]
-[ns]静[nse]
-「わかった……！[r]
-　克己さん、私も大丈夫だから！　早く中へ！」[pcms]
+[ns]Shizuka[nse]
+"Understood...! Kazumi-san, I'm fine too! Let's get inside quickly!"[pcms]
 
 
 *1667|
 [fc]
-[ns]克己[nse]
-「お、おう！」[pcms]
+[ns]Kazumi[nse]
+"O-Okay!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -3215,8 +3095,8 @@
 
 *1668|
 [fc]
-静ちゃんは、持っていたバットを投げ捨てると、[r]
-手を握って、第二体育館の中へ向かって駆け出した。[pcms]
+Shizuka-chan threw away the bat she was holding and, taking my hand,[r]
+started running towards the second gymnasium.[pcms]
 
 [se buf2 storage="seA050"]
 ;;//♪SE走り去る足音
@@ -3224,8 +3104,8 @@
 
 *1669|
 [fc]
-カランと乾いた音を立てて落ちたバットは、[r]
-打球部のあたりがクシャクシャにへこんでいた。[pcms]
+The bat made a dry clanging sound as it fell, its hitting area crushed[r]
+and dented.[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -3247,39 +3127,38 @@
 
 *1670|
 [fc]
-[ns]克己[nse]
-「弱気は……損気って良くいうじゃんな！[r]
-　何ビビってんだよ、俺ッ！！　いくぜぇっ！！」[pcms]
+[ns]Kazumi[nse]
+"They say faint heart never won fair lady! What am I scared of, damn[r]
+it!! Let's do this!!"[pcms]
 
 
 *1671|
 [fc]
-通りの方に通用口があるんなら、それでいいし、[r]
-無ければないで、道を拓くのは俺だ！[pcms]
+If there's a service entrance on the street side, that's fine, and if[r]
+not, it's up to me to blaze a trail![pcms]
 
 
 *1672|
 [fc]
-つまり――[pcms]
+In other words--[pcms]
 
 
 *1673|
 [fc]
-[ns]克己[nse]
-「俺が通った後にこそ、道が出来る！[r]
-　俺が通った所こそが、道になるんだぁっッ！！」[pcms]
+[ns]Kazumi[nse]
+"A path is made by walking! Where I pass becomes the path!!"[pcms]
 
 
 *1674|
 [fc]
-バットを握り直し、迫り来る異常者達に対して一喝する。[pcms]
+He grips the bat again and yells defiantly at the approaching[r]
+aberrants.[pcms]
 
 
 *1675|
 [fc]
-[ns]克己[nse]
-「これが我がだッ！！[r]
-　[ruby text="みはたたてなし"][ch text="御旗楯無"]御照覧あれッ！」[pcms]
+[ns]Kazumi[nse]
+"This is my resolve!! Behold my unwavering spirit!"[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c lr time=300][hide_chara_int]

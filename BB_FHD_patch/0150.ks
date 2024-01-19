@@ -13,7 +13,7 @@
 ;;//----------------------------------------------------------
 
 ;;//s:黒画面が長いのでここはコンビニ背景か夜空にする。
-;;//s:一応ここは黒画面をはめておく。[pcms]
+;;//s:For now, let's fit a black screen here.[pcms]
 
 ;;//bgm01-01
 [bgm storage="bgm01-01"]
@@ -27,38 +27,37 @@
 
 *475|
 [fc]
-ケツに火が付いたかのようにチャリを飛ばし、[r]
-向かった先は、大型量販店といつものコンビニだ。[pcms]
+I pedaled my bike as if my ass was on fire, and headed to the usual[r]
+convenience store and a large retail store.[pcms]
 
 
 *476|
 [fc]
-後一本で偉業達成ＹＥＡＡＡＡＡＡＡＡＡＡＡＨ！[r]
-……だったのにな。[pcms]
+Just one more and I would have achieved a great feat, YEAAAAAAAH![r]
+...or so I thought.[pcms]
 
 
 *477|
 [fc]
-あんな怖い思いしたせいで、[r]
-とても映画なんか見てる気持ちじゃ無くなった。[pcms]
+Because of that scary experience, I'm not in the mood to watch a movie[r]
+anymore.[pcms]
 
 
 *478|
 [fc]
-そして、気がつきゃ自宅の玄関前。[pcms]
+And before I knew it, I was in front of my home's entrance.[pcms]
 
 
 *479|
 [fc]
-で、そのドアのノブに、[r]
-コンビニの袋が下げられてるって訳だ。[pcms]
+And there, hanging on the doorknob, was a convenience store bag.[pcms]
 
 
 *480|
 [fc]
-[ns]克己[nse]
-「これも、一人暮らし初めてすぐはビビったもんだな。[r]
-　爆弾でも仕掛けられてんのか？　なんてな……」[pcms]
+[ns]Kazumi[nse]
+"This also scared me when I first started living alone. Was there a[r]
+bomb rigged or something? ...heh."[pcms]
 
 [se buf1 storage="seA058"]
 ;;//♪SEビニール袋をガサガサ
@@ -66,8 +65,8 @@
 
 *481|
 [fc]
-ここでも、誰が答えるでもなく呟きながら、[r]
-ノブから袋を取り上げ、部屋の鍵を開けた。[pcms]
+Without anyone to answer, I muttered to myself as I took the bag off[r]
+the knob and unlocked the door to my room.[pcms]
 
 [se buf1 storage="seA026"]
 ;;//♪SE玄関ドアの開く音
@@ -79,9 +78,9 @@
 
 *482|
 [fc]
-[ns]克己[nse]
-「野菜ジュースが、一つ、二つ、三つ……まだまだある。[r]
-　そして、走り書きのメモと、いつもと同じ文面、と……」[pcms]
+[ns]Kazumi[nse]
+"There's one vegetable juice, two, three... still more. And then, a[r]
+hastily written note, and the same message as always, and..."[pcms]
 
 ;;//s:ここから下はボイス収録だが、立ちキャラはない
 ;;//s:ネームチップと、カッコを『』に変更すること
@@ -91,28 +90,26 @@
 [fc]
 [vo_t s="旧tugumi0001"]
 ;mm ここ新録漏れてるらしいので過去作のボイスを加工して使用する、ナンバー被っちゃうから変えないと駄目だな
-;;//[ns]丞実[nse]
-『コーヒー牛乳とパンじゃ栄養のバランス悪くなるよ。[r]
-　こう言うと『弁当も食べてるから』[r]
-　なんて反論するんだろうけど、対して変わらないからね』[pcms]
+[ns]Tsugumi[nse]
+"Coffee milk and bread won't give you a balanced diet. You might argue[r]
+that you eat bento too, but it's not much different."[pcms]
 
 
 *484|
 [fc]
 [vo_t s="旧tugumi0002"]
-;;//[ns]丞実[nse]
-『どうせコンビニ弁当でしょ？[r]
-　確かに野菜も入ってるかも知れないけど、まだまだ不足。[r]
-　野菜ジュース入れておくね。少しは足しになるでしょ』[pcms]
+[ns]Tsugumi[nse]
+"You're probably eating convenience store bento, right? They might[r]
+contain vegetables, but it's still not enough. I've included some[r]
+vegetable juice. It should help a bit."[pcms]
 
 
 *485|
 [fc]
 [vo_t s="旧tugumi0003"]
-;;//[ns]丞実[nse]
-『最後に。ちゃんと電話に出て下さい。[r]
-　お母さんなんか、『死んでるんじゃない？』って心配するから。[r]
-　じゃあ、最後に……死なないようにね』[pcms]
+[ns]Tsugumi[nse]
+"Lastly, please answer your phone. Mom is worried you might be dead or[r]
+something. So, lastly... take care not to die."[pcms]
 
 ;;//s：台本作成後キャラチップとカッコを変更する
 ;;//m:ボイス流し込み後に作業する
@@ -120,245 +117,229 @@
 
 *486|
 [fc]
-相変わらずの文体に、相変わらずクセのある字。[pcms]
+The writing style is as usual, and so is the distinctive handwriting.[pcms]
 
 
 *487|
 [fc]
-いくら教えてやっても結局直らなかった、[r]
-;FHD	[ruby text="つぐみ"][ch text="丞実"]の字だ。[pcms]
+It's Tsugumi's handwriting that never got better no matter how much I[r]
+taught her. ;FHD[pcms]
 ;mmmm もうルビってるからいらなくね？
-丞実の字だ。[pcms]
+It's Tsugumi's handwriting.[pcms]
 
 
 *488|
 [fc]
-[ns]克己[nse]
-「わざわざ寄ってってくれたのか。[r]
-　勉強やら、部活やらで大変だろうのにな。[r]
-　あーあ、申し訳無いったらありゃしねえや」[pcms]
+[ns]Kazumi[nse]
+"Did she go out of her way to drop this off? She must be busy with[r]
+studies and club activities. Ahh, I feel terribly sorry now."[pcms]
 
 
 *489|
 [fc]
-直接感謝すればばいいんだろうけど、[r]
-アイツの事だ、口汚く罵ってくるだろう。[pcms]
+I should just thank her directly, but knowing her, she'd just curse me[r]
+out.[pcms]
 
 
 *490|
 [fc]
-そうすると、いつものごとく売り言葉に買い言葉。[r]
-ケンカになるだけだ。[pcms]
+Then as usual, an exchange of words would lead to a fight.[pcms]
 
 
 *491|
 [fc]
-お互いキライな訳じゃない。[r]
-信頼しあった肉親だからこそだ。[r]
-何を言っても関係が変わることはない。[pcms]
+We don't hate each other. It's precisely because we're siblings who[r]
+trust each other that nothing we say can change our relationship.[pcms]
 
 
 *492|
 [fc]
-そう思うからこそ、[r]
-イツも余計な事を言ってくるんだろう。[r]
-それは、俺も同じだ。[pcms]
+That's why she says unnecessary things, and I do the same.[pcms]
 
 
 *493|
 [fc]
-[ns]克己[nse]
-「直接言わなくても、[r]
-　感謝の気持ちを伝える方法はあるからな」[pcms]
+[ns]Kazumi[nse]
+"Even if I don't say it directly, there are ways to convey my[r]
+gratitude."[pcms]
 
 
 *494|
 [fc]
-自分で買ってきたものと、丞実が買ってきてくれたもの。[r]
-それぞれをテーブルの上に置きながら、[r]
-携帯に電源を入れる。[pcms]
+I place the things I bought myself and the ones Tsugumi brought for me[r]
+on the table and turn on my cell phone.[pcms]
 
 
 *495|
 [fc]
-[ns]克己[nse]
-「映画館では電源を切るのが、マナーです」[pcms]
+[ns]Kazumi[nse]
+"It's proper manners to turn off your phone at the cinema."[pcms]
 
 
 *496|
 [fc]
-そんな皮肉を、メモ用紙に向ける。[pcms]
+I direct such sarcasm towards the note.[pcms]
 
 
 *497|
 [fc]
-キャリアのロゴが表示され、[r]
-次いで携帯メーカーのロゴが表示されれる。[r]
-正直、起動するまで待ち時間が長すぎる。[pcms]
+The carrier logo appears, followed by the cell phone manufacturer's[r]
+logo. Honestly, it takes too long to start up.[pcms]
 
 
 *498|
 [fc]
-――つっても、慌てる事もないんだけどな……。[pcms]
+--But then again, there's no need to rush...[pcms]
 
 
 *499|
 [fc]
-危うくため息をつきそうになるのを堪え、[r]
-青白く光る画面に目を落とすと、[r]
-着信とメールの受信を告げるアイコンが点灯する。[pcms]
+I almost let out a sigh but held back as I looked at the screen[r]
+glowing pale blue, with icons indicating missed calls and received[r]
+emails lit up.[pcms]
 
 
 *500|
 [fc]
-[ns]克己[nse]
-「……俺、超能力者だから、[r]
-　見なくても内容は大体わかるけどな……」[pcms]
+[ns]Kazumi[nse]
+"...I'm a psychic, so I can pretty much guess what they're about[r]
+without looking..."[pcms]
 
 
 *501|
 [fc]
-内容はきっと『元気にしてますか？』から始まって、[r]
-『お盆どうするの？』に繋がるんだ。[r]
-俺にはすぐわかる。[pcms]
+The content surely starts with "Are you doing well?" and leads to[r]
+"What are your plans for Obon?" I can tell right away.[pcms]
 
 
 *501a|
 [fc]
-“すぐ”、“わかるんだ”……。[pcms]
+"I can tell... right away..."[pcms]
 
 
 *502|
 [fc]
-そんな事を考えながらも、吹き込まれた留守電を聞き、[r]
-メールの内容に目を通す。[pcms]
+While thinking such things, I listen to the voicemail that was left[r]
+and check the contents of the emails.[pcms]
 
 
 *503|
 [fc]
-留守電は『メールを送ったから見ておいて』の一言だけ。[r]
-ここからは、俺の予想が当たってるかどうかだな。[pcms]
+The voicemail is just a single line saying "I sent an email, so please[r]
+check it." Now to see if my predictions are correct.[pcms]
 
 
 *504|
 [fc]
-『ちゃんと元気でやってますか？[r]
-　すぐ近くに住んでるんだから、たまには顔を出しなさい。[r]
-　お父さんもアンタとお酒を飲みたがってますよ』[pcms]
+"Are you doing well? Since you live nearby, you should come by once in[r]
+a while. Dad wants to have a drink with you too."[pcms]
 
 
 *505|
 [fc]
-ほらな、まずは一つ正解だ。[pcms]
+See? One right already.[pcms]
 
 
 *506|
 [fc]
-『お盆の予定はどうなっていますか？[r]
-　そろそろ、岡山に行く日取りを決めたいので、[r]
-　返事をください。丞実からはもう返事が来ました』[pcms]
+"What are your plans for Obon? We should decide on a date to go to[r]
+Okayama soon, so please reply. Tsugumi has already responded."[pcms]
 
 
 *507|
 [fc]
-よし、完璧だ。[r]
-だが、まだ続きがある。[pcms]
+Perfect. But there's more.[pcms]
 
 
 *508|
 [fc]
-画面をスクロールさせると、[r]
-『返事は、メールじゃなくて電話でお願いします。[r]
-　たまには声を聞かせて下さい』[pcms]
+Scrolling down the screen, "Please reply by phone, not email. Let us[r]
+hear your voice once in a while."[pcms]
 
 
 *509|
 [fc]
-なんて書かれていた。[r]
-予想はしていたけど、いざとなると戸惑ってしまう。[pcms]
+As expected, but it's confusing when it actually happens.[pcms]
 
 
 *510|
 [fc]
-[ns]克己[nse]
-「やっぱさあ……今の状況知られたくないしなあ……。[r]
-　だから電話しにくいんだよなぁ……」[pcms]
+[ns]Kazumi[nse]
+"After all... I don't want them to know my current situation... That's[r]
+why it's hard to call..."[pcms]
 
 
 *511|
 [fc]
-丞実ならいいんだろうけどさあ……。[r]
-アイツみたく輝いていれば、[r]
-電話だって楽に出来るんだけど。[pcms]
+If it were Tsugumi, it'd be fine... If I shone like her, making phone[r]
+calls would be easy too.[pcms]
 
 
 *512|
 [fc]
-[ns]克己[nse]
-「とはいえ……」[pcms]
+[ns]Kazumi[nse]
+"Even so..."[pcms]
 
 
 *513|
 [fc]
-アイツがこの辺に住んでる以上、[r]
-親父もお袋も、立ち寄るだろうし……。[pcms]
+Since he lives around here, Dad and Mom will probably stop by too...[pcms]
 
 
 *514|
 [fc]
-っつーか……。[r]
-なんで丞実までこの辺の学園に入ったんだよ、[r]
-まるで俺監視装置じゃねーか。[pcms]
+Or rather... why did Tsugumi even enroll in a school around here? It's[r]
+like I'm under surveillance.[pcms]
 
 
 *515|
 [fc]
-[ns]克己[nse]
-「はぁぁあぁ……アイツと比較されるのもイヤだし、[r]
-　仕事してないです、なんて言うのもイヤだぁ……。[r]
-　せめて、仕事見つけてから電話しようかな……」[pcms]
+[ns]Kazumi[nse]
+"Sigh... I hate being compared to her, and I hate saying I'm not[r]
+working... Maybe I should find a job before I call them..."[pcms]
 
 
 *516|
 [fc]
-とたんに、暗く重い空気が頭にのし掛かり、[r]
-それに抵抗しようと両手で顔を覆う。[pcms]
+Suddenly, a heavy and dark atmosphere weighs down on my head, and I[r]
+cover my face with both hands to resist it.[pcms]
 
 
 *517|
 [fc]
-でも、空気の重さに耐えられず、[r]
-そのまま床にしゃがみ込んでしまう。[pcms]
+But unable to withstand the heaviness of the air, I end up crouching[r]
+down on the floor.[pcms]
 
 
 *518|
 [fc]
-きっと今の俺はスポットライトが照らし上げてるんだ。[r]
-ああ、世界の中心で――[pcms]
+I'm sure I'm in the spotlight right now. Ah, at the center of the[r]
+world--[pcms]
 
 
 *519|
 [fc]
-――何か叫んだ所で、何にも変わらないか。[pcms]
+--even if I shout something, nothing will change, right?[pcms]
 
 
 *520|
 [fc]
-[ns]克己[nse]
-「悲劇のヒロイン気取ってないで、明日の事を考えよう。[r]
-　そうだよ、電話は明日でいいんだ。仕事も探さなきゃ。[r]
-　よし、テレビでも見てさっさと寝て明日に備えよう！」[pcms]
+[ns]Kazumi[nse]
+"Instead of playing the tragic heroine, I should think about tomorrow.[r]
+That's right, I can make the call tomorrow. I need to look for a job[r]
+too. Alright, I'll watch some TV and go to bed early to prepare for[r]
+tomorrow!"[pcms]
 
 
 *521|
 [fc]
-そう決めて、テレビを点ける。[pcms]
+Having decided that, I turn on the TV.[pcms]
 
 
 *522|
 [fc]
-すると、携帯の何倍も早く、[r]
-映像と音が飛びだしてきた。[pcms]
+Then, images and sounds burst forth much faster than any mobile phone[r]
+could provide.[pcms]
 
 ;;//BGMフェードアウト
 [fadeoutbgm time=1000]
@@ -368,33 +349,34 @@
 ;旧ナンバー[vo_m s="newsA0001"]
 ;[vo_mob s="R_casterA0001a"]
 [vo_mob s="R_casterA0001b"]
-[ns]ニュースキャスターＡ[nse]
-「今日で１０回目となる東京高裁での[r]
-　『[ruby text="エ　ピ　デ　ミ　ッ　ク"][ch text="東北感染災害"]』訴訟で――」[pcms]
+[ns]News Caster A[nse]
+"Today marks the 10th hearing at the Tokyo High Court for the 'Tohoku[r]
+Infection Disaster' lawsuit--"[pcms]
 
 
 *524|
 ;旧ナンバー[vo_m s="newsA0002"]
 [vo_mob s="R_casterA0002"]
-[ns]ニュースキャスターＡ[nse]
-「感染被害遺族の弁護団は事件からもう４年が[r]
-　過ぎているというのに、遺体さえも――」[pcms]
+[ns]News Caster A[nse]
+"The legal team for the families affected by the infection argues that[r]
+even after four years since the incident, they still haven't[r]
+received--"[pcms]
 
 
 *525|
 ;旧ナンバー[vo_m s="newsA0003"]
 [vo_mob s="R_casterA0003"]
-[ns]ニュースキャスターＡ[nse]
-「すでに１０回目を迎える、この訴訟ですが、[r]
-　和解に至るには、長い時間が必要の様です」[pcms]
+[ns]News Caster A[nse]
+"This lawsuit has now reached its 10th hearing, but it seems a long[r]
+time will be necessary before any settlement is reached."[pcms]
 
 ;;//s:ここまで声を撮ろう
 
 
 *526|
 [fc]
-[ns]克己[nse]
-「ああ……あれから、四年も経っちまったんだな」[pcms]
+[ns]Kazumi[nse]
+"Ah... it's been four years since then."[pcms]
 
 ;;//bgm01-02
 [bgm storage="bgm01-02"]
@@ -405,60 +387,59 @@
 
 *527|
 [fc]
-あれは、まだ大学で学んでいた頃だ。[pcms]
+That was when I was still studying at university.[pcms]
 
 
 *528|
 [fc]
-クソ暑い夏に、地獄の門が開いて、[r]
-頭が“イカれ”ちまったヤツが山ほど現れて、[r]
-沢山の人を巻き添えにして、死んだんだ。[pcms]
+In the middle of a damn hot summer, the gates of hell opened, and tons[r]
+of people with 'screwed up heads' appeared, taking many others with[r]
+them in death.[pcms]
 
 
 *529|
 [fc]
-尤も直接的な被害を受けたわけじゃない。[pcms]
+Though I wasn't directly affected by it.[pcms]
 
 
 *530|
 [fc]
-だけど――[pcms]
+But--[pcms]
 
 
 *530a|
 [fc]
-“あの連中”に[ruby text="や"]殺られる人。[r]
-“あの連中”を[ruby text="や"]殺る人。[pcms]
+"Those people killed others."[pcms]
 
 
 *531|
 [fc]
-モニター越しに見た衝撃的な光景は、[r]
-頭に焼き付いて離れない。[pcms]
+The shocking scenes I saw through the monitor are etched in my mind[r]
+and won't leave.[pcms]
 
 
 *532|
 [fc]
-俺なんかは、まだマシだ。[r]
-東北の方から来てた奴らは本当に気の毒だった。[pcms]
+I'm still better off than some. Those who came from Tohoku really had[r]
+it rough.[pcms]
 
 
 *533|
 [fc]
-突然、大事な人達が消えちまったんだ。[pcms]
+Suddenly, they lost all their important people.[pcms]
 
 
 *534|
 [fc]
-その中の一人が言った言葉も、忘れられない。[r]
-『親が生きてるウチに親孝行しとけ』[pcms]
+I can't forget the words one of them said either. "Do your filial[r]
+duties while your parents are alive."[pcms]
 
 
 *535|
 [fc]
-使い古された言葉だけど、重みが違う。[r]
-アイツの言うとおりに、親孝行しようって誓ったんだ。[r]
-でも、あの日から大体四年が過ぎた今。[pcms]
+It's a clich phrase, but it carries a different weight. I swore to do[r]
+just as he said, to honor my parents. But now, nearly four years have[r]
+passed since that day.[pcms]
 
 ;;//BGMフェードアウト
 [fadeoutbgm time=1000]
@@ -466,7 +447,7 @@
 
 *536|
 [fc]
-……絶賛親不孝中だぜ、俺！[pcms]
+...I'm in the midst of being an unfilial child![pcms]
 
 ;;//bgm01-01
 [bgm storage="bgm01-01"]
@@ -477,36 +458,34 @@
 
 *537|
 [fc]
-[ns]克己[nse]
-「お父様、お母様が働いて稼いだお金で通わさせて頂いて。[r]
-　働いて、学費くらいは返そうって誓ったのに！」[pcms]
+[ns]Kazumi[nse]
+"Father, Mother, you worked and earned money to send me to school. I[r]
+swore to work and at least pay back my tuition!"[pcms]
 
 
 *538|
 [fc]
-[ns]克己[nse]
-「なのに、仕事がない！[r]
-　つーか、まさか仲間内で自分だけ無職になるとは！[r]
-　クソ、いっそ……死ぬか、死ぬか克己！？」[pcms]
+[ns]Kazumi[nse]
+"But there's no work! Or rather, who would've thought I'd be the only[r]
+one among my friends without a job! Damn it, should I just die,[r]
+Kazumi!?"[pcms]
 
 
 *539|
 [fc]
-…………。[r]
-……。[pcms]
+... ...[pcms]
 
 
 *540|
 [fc]
-ダメ、絶対。[r]
-死んだら、ダメ。[pcms]
+No, absolutely not. Dying is not an option.[pcms]
 
 
 *541|
 [fc]
-[ns]克己[nse]
-「色々考えてたら、寝られなくなっちゃった。[r]
-　せっかくだから、買ってきたゲームで遊ぼう……」[pcms]
+[ns]Kazumi[nse]
+"Thinking about all this has made me unable to sleep. Since I'm up[r]
+anyway, I might as well play the game I bought..."[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

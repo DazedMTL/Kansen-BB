@@ -12,28 +12,28 @@
 
 *1122|
 [fc]
-[ns]克己[nse]
-「……明日も、よろしく……ですか……？」[pcms]
+[ns]Kazumi[nse]
+"...Will you be counting on me again tomorrow...?"[pcms]
 
 
 *1123|
 [fc]
-公共の電波で、しかも国営放送という、[r]
-ある意味安心して見られる情報媒体に、[r]
-あり得ない映像が映し出された。[pcms]
+On public airwaves, and moreover on a national broadcasta medium that[r]
+one would normally watch with a sense of securityimages that should[r]
+not exist were being shown.[pcms]
 
 
 *1124|
 [fc]
-そのせいで、豆鉄砲を喰らった鳩みたいになった俺は、[r]
-目を見開いたまま、寝違えた時のように、[r]
-テレビの画面から顔を動かすことが出来なかった。[pcms]
+Because of that, I was like a pigeon that had been shot with a pellet[r]
+gun, my eyes wide open, unable to move my face away from the TV screen[r]
+as if I had slept in a bad position.[pcms]
 
 
 *1125|
 [fc]
-完全に止まったかに思えた時は、[r]
-テレビの画面がカラーバーに変わった事で再び動き出した。[pcms]
+Just when it seemed like everything had come to a complete stop, the[r]
+TV screen changed to color bars, and movement resumed.[pcms]
 
 
 *0212_modoru
@@ -45,27 +45,24 @@
 
 *1126|
 [fc]
-[ns]克己[nse]
-「マジで？　マジ？　コレ？　ねえ？[r]
-　何の悪戯だよオイ！？」[pcms]
+[ns]Kazumi[nse]
+"For real? Seriously? This? Hey? What kind of prank is this, huh!?"[pcms]
 
 
 *1127|
 [fc]
-堰き止められていた流れが解放され、[r]
-俺の体を激しく突き動かす。[pcms]
+The dammed-up flow was released, violently jolting my body.[pcms]
 
 
 *1128|
 [fc]
-目を丸くし、テレビの画面を凝視したままで、[r]
-リモコンのボタンを連打すると、[r]
-映像はめまぐるしく変化する――[pcms]
+With my eyes wide, I stared at the TV screen and frantically pressed[r]
+the remote control buttons, causing the images to change rapidly[pcms]
 
 
 *1129|
 [fc]
-筈だった。[pcms]
+Or so it should have been.[pcms]
 
 ;;//s:チャンネル変更演出
 [evcg storage="etc003a"][trans_c lr time=500]
@@ -73,17 +70,16 @@
 
 *1130|
 [fc]
-どのチャンネルも一様に、[r]
-今回の暴動について放送しているようで、[r]
-画面からは、赤色の光が飛び出してくる。[pcms]
+Every channel seemed to be broadcasting about the current riot, and[r]
+from the screen, red lights were flashing out.[pcms]
 
 
 *1131|
 ;旧ナンバー[vo_m s="alpha0001"]
 [vo_mob s="R_casterα0001"]
-[ns]ニュースキャスターα[nse]
-「新宿駅大ガード下は封鎖されています！[r]
-　こちらから、山手通り方向への通行は出来ません！」[pcms]
+[ns]News Caster Alpha[nse]
+"The area under Shinjuku Station's large guard is sealed off! You[r]
+cannot pass through here to Yamanote Street!"[pcms]
 
 ;;//s:チャンネル変更演出
 [evcg storage="etc003b"][trans_c rl time=500]
@@ -91,15 +87,15 @@
 
 *1132|
 [fc]
-見慣れた光景の中に、火の手が上がる。[pcms]
+In the midst of familiar scenes, flames rise.[pcms]
 
 
 *1133|
 ;旧ナンバー[vo_m s="beta0001"]
 [vo_mob s="R_casterβ0001"]
-[ns]ニュースキャスターβ[nse]
-「秋葉原駅前、昭和通り全て封鎖されています。[r]
-　ご通行の方は注意が必要です」[pcms]
+[ns]News Caster Beta[nse]
+"In front of Akihabara Station, Showa Street is completely blocked[r]
+off. Those passing by need to be cautious."[pcms]
 
 ;;//s:チャンネル変更演出
 [evcg storage="etc003c"][trans_c lr time=500]
@@ -107,15 +103,15 @@
 
 *1134|
 [fc]
-見慣れた場所で、人々が破壊されていく。[pcms]
+In familiar places, people are being destroyed.[pcms]
 
 
 *1135|
 ;旧ナンバー[vo_m s="gamma0001"]
 [vo_mob s="R_casterγ0001"]
-[ns]ニュースキャスターγ[nse]
-「イヤァアァア！！　ひっ、人が……誰かァアァ！！[r]
-　人が死んでるっ！　やめなさい貴方たち！！」[pcms]
+[ns]News Caster Gamma[nse]
+"Aaaaahhh!! Huh, people...someone!! People are dying! Stop it, you[r]
+guys!!"[pcms]
 
 ;;//s:チャンネル変更演出
 [evcg storage="etc003d"][trans_c rl time=500]
@@ -125,9 +121,8 @@
 ;旧ナンバー[vo_m s="nightmare0001"]
 ;mm bパターンかな[vo_mob s="R_nightmare0001"]
 [vo_mob s="R_nightmare0001b"]
-[ns]魔法少女ナイトメア[nse]
-「みんなは先に行って……追いかけるから……。[r]
-　必ず、おいつ」[pcms]
+[ns]Magical Girl Nightmare[nse]
+"Everyone go ahead...I'll chase after... I'll definitely catch up."[pcms]
 
 ;;//s:チャンネル変更演出
 [evcg storage="etc003a"][trans_c lr time=500]
@@ -135,15 +130,14 @@
 
 *1137|
 [fc]
-映し出される人々も、情報も、全てが混乱している。[pcms]
+The people shown, the information, everything is in chaos.[pcms]
 
 
 *1138|
 [fc]
-[ns]克己[nse]
-「一体どうなってんだこれ……？[r]
-　全部のテレビ局が一斉に特別企画でもやってんのか？[r]
-　ん……？」[pcms]
+[ns]Kazumi[nse]
+"What the hell is going on...? Are all the TV stations doing some kind[r]
+of special program at once? Hm...?"[pcms]
 
 ;;//s:ガヤ
 [se buf1 storage="seG009"]
@@ -152,29 +146,29 @@
 
 *1139|
 [fc]
-テレビの騒々しさに気を取られていたせいか、[r]
-この段になってやっと、外の喧騒に耳が向いた。[pcms]
+Perhaps because I was distracted by the noise from the TV, it wasn't[r]
+until this point that I finally turned my ears to the commotion[r]
+outside.[pcms]
 
 
 *1140|
 [fc]
-[ns]克己[nse]
-「ああそうか。こりゃ祭だ。[r]
-　うん、そうだよ。[r]
-　外ではきっと御神輿が通ってんだよな」[pcms]
+[ns]Kazumi[nse]
+"Ah, I see. It's a festival. Yeah, that's right. There must be a[r]
+portable shrine passing by outside."[pcms]
 
 
 *1141|
 [fc]
-テレビなんかじゃ、[r]
-満足な情報を得ることが出来そうだと、[r]
-電源を切り、窓の外を見る。[pcms]
+Feeling that I couldn't get satisfactory information from the TV, I[r]
+turned it off and looked outside the window.[pcms]
 
 
 *1142|
 [fc]
-祭じゃなくったって、沢山人がいそうだし、[r]
-今どうなってるか、聞いてみれば解るだろう。[pcms]
+Even if it's not a festival, there seem to be a lot of people out[r]
+there, and if I ask around, I should be able to find out what's[r]
+happening.[pcms]
 
 ;;//★空・朝昼d（ 黒煙の差分）
 [bg storage="BG31d"][trans_c cross time=500]
@@ -182,26 +176,26 @@
 
 *1143|
 [fc]
-祭といえば、のろしを上げるよね。[pcms]
+Speaking of festivals, they raise smoke signals, right?[pcms]
 
 
 *1144|
 [fc]
-空一面、黒いのろしが上がっているね。[pcms]
+The sky is filled with black smoke signals.[pcms]
 
 
 *1145|
 [fc]
-空一面に広がる、黒い煙。[r]
-その大本である地面へと目を下ろすと、[r]
-そこには沢山の人がふらつきながら歩いていた。[pcms]
+Looking at the sky covered with black smoke and then lowering my eyes[r]
+to the ground at its source, there were many people staggering around[r]
+as they walked.[pcms]
 
 
 *1146|
 [fc]
-[ns]克己[nse]
-「…………祭じゃねぇよ！　火事だよあれ！！！！[r]
-　おい、お前ら何の騒ぎ……」[pcms]
+[ns]Kazumi[nse]
+"...It's not a festival! That's a fire!! Hey, what's all this[r]
+commotion..."[pcms]
 
 ;;//★マンション外観（町並み・朝昼）
 [bg storage="BG12a"][trans_c cross time=500]
@@ -211,9 +205,8 @@
 
 *1147|
 [fc]
-[ns]住人[nse]
-「あ゛あ゛あ゛あ゛ァ～……あ゛ぢあ゛ぢあ゛ぢ……。[r]
-　は゛ら゛へっだァ～……」[pcms]
+[ns]Resident[nse]
+"Aaaahhh...ahhji ahhji ahhji... My stomach hurts..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -221,8 +214,8 @@
 *1148|
 ;旧ナンバー[vo_m s="girlB0006"]
 [vo_mob s="R_josiseito0001"]
-[ns]女子生徒[nse]
-「いやああああああああああああぁああぁあああああああ！！！」[pcms]
+[ns]Female Student[nse]
+"Noooooo!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x"][ChrSetXY layer=5 x="&sf.std_kan4_x調整*344" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　20　細身金髪　
@@ -230,8 +223,8 @@
 
 *1148a|
 [fc]
-[ns]異常な人[nse]
-「ヒッ、ヒヒヒッ！！！　女ァぁああ！！　女女おんなぁ！！」[pcms]
+[ns]Abnormal Person[nse]
+"Heh, hehehe!!! Women!! Women women women!!"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan_c2"][ChrSetXY layer=3 x="&sf.std_kanC_x調整*50" y=0][trans_c cross time=150]
 ;;//MOB左＠感染者　12　私服２　　
@@ -240,8 +233,8 @@
 *1149|
 ;旧ナンバー[vo_m s="hurahura0001"]
 [vo_mob s="R_fura0001"]
-[ns]ふらつく女[nse]
-「おとこぉおおおお！　おぁああああああああぁあぁ！！！」[pcms]
+[ns]Staggering Woman[nse]
+"Men ooooh! Ohhhhhhh!!"[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan_a3"][ChrSetXY layer=4 x="&sf.std_kanA_x調整*650" y=0][trans_c cross time=150]
 ;;//MOB右＠感染者　03　制服２　　
@@ -250,27 +243,26 @@
 *1150|
 ;旧ナンバー[vo_m s="rosyutu0001"]
 [vo_mob s="R_mune0001"]
-[ns]胸を露出している女[nse]
-「あっは゛ァああぁあ゛～……ち、ちく、び、コリッコリ……、[r]
-　だーれか、なめていいよぉおぉ？　あはははぁあああ」[pcms]
+[ns]A woman with her chest exposed[nse]
+"Ahhhaaa~...my nipples are so hard... anyone can lick them if they[r]
+want, ahahaha!"[pcms]
 
 
 *1151|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *1152|
 [fc]
-夏の陽気に当てられて、イカれた人が増えたのか。[r]
-それとも、俺がイカれちまったのか？[pcms]
+Has the summer weather caused more people to go mad? Or have I gone[r]
+mad?[pcms]
 
 
 *1153|
 [fc]
-どっちにしたって、[r]
-このまま覗き見してたらホントにイカれちまいそうだ。[pcms]
+Either way, if I keep peeping like this, I'm really going to lose it.[pcms]
 
 ;;//★克己の部屋・朝昼
 [bg storage="BG11a"][trans_c cross time=500]
@@ -278,290 +270,281 @@
 
 *1154|
 [fc]
-俺は、息を止めたまま――[pcms]
+I held my breath--[pcms]
 
 
 *1155|
 [fc]
-出来るだけ音を立てないように頭を部屋の中に戻し、[r]
-出来るだけ音を立てないようにして、窓を閉め、[r]
-窓の鍵と玄関の鍵を施錠してから、やっと口を開いた。[pcms]
+Trying not to make any noise, I pulled my head back into the room,[r]
+quietly closed the window, locked the window and the front door before[r]
+finally opening my mouth.[pcms]
 
 
 *1156|
 [fc]
-[ns]克己[nse]
-「ぷはぁあぁっ！！[r]
-　……何……あれ？」[pcms]
+[ns]Kazumi[nse]
+"Phewww!! ...What...is that?"[pcms]
 
 
 *1157|
 [fc]
-どうやら、テレビの番組の“アレ”は特番なんかじゃない。[r]
-外の騒がしい連中も、祭をしてる訳じゃなさそうだ。[pcms]
+Apparently, what's on TV isn't just some special program. The noisy[r]
+crowd outside doesn't seem to be having a festival either.[pcms]
 
 
 *1158|
 [fc]
-じゃあ、本当に暴動なの？[pcms]
+So is it really a riot?[pcms]
 
 
 *1159|
 [fc]
-[ns]克己[nse]
-「いやいやいやいや！！」[pcms]
+[ns]Kazumi[nse]
+"No no no no!!"[pcms]
 
 
 *1160|
 [fc]
-結論づけるにはまだ早い。[pcms]
+It's too early to conclude.[pcms]
 
 
 *1161|
 [fc]
-もう一回テレビを観てみよう。[r]
-判断するのは、それからでも遅くない。[pcms]
+Let's take another look at the TV. There's no need to rush to[r]
+conclusions.[pcms]
 
 
 *1162|
 [fc]
-落ち着きを取り戻す為にと、[r]
-腰を下ろし、コーヒー牛乳を飲もうと部屋を見回す。[pcms]
+In an effort to regain my composure, I sit down and look around the[r]
+room for some coffee milk to drink.[pcms]
 
 
 *1163|
 [fc]
-とたんに、部屋の惨状に気が付いた。[pcms]
+That's when I notice the terrible state of the room.[pcms]
 
 
 *1164|
 [fc]
-[ns]克己[nse]
-「…………きったねえ……」[pcms]
+[ns]Kazumi[nse]
+"...Gross..."[pcms]
 
 
 *1165|
 [fc]
-さっきのテレビのせいで思わず吹きだしたコーヒー牛乳が、[r]
-床一面に広がっていた。[pcms]
+The coffee milk I had inadvertently spit out while watching TV earlier[r]
+had spread all over the floor.[pcms]
 
 
 *1166|
 [fc]
-無様な状態を目の当たりにして、[r]
-荒々しく跳ねていた心臓も、昂ぶっていた気持ちも、[r]
-次第に落ち着きを取り戻していく。[pcms]
+Seeing the mess I've made, my heart, which had been pounding wildly,[r]
+and my agitated feelings gradually begin to calm down.[pcms]
 
 
 *1167|
 [fc]
-自分のやった事とはいえ、なんだか情けない。[pcms]
+Even though it was my own doing, it feels somewhat pathetic.[pcms]
 
 
 *1168|
 [fc]
-でも、きちんと処理しないと、[r]
-この暑さで色々大変な事になってしまう。[pcms]
+But if I don't clean it up properly, with this heat, things could get[r]
+really bad.[pcms]
 
 
 *1169|
 [fc]
-[ns]克己[nse]
-「ティッシュ、ティッシュ……。[r]
-　あーあ、ひっでーなコレ。[r]
-　ついでだから掃除もしようかなあ……」[pcms]
+[ns]Kazumi[nse]
+"Tissues, tissues... Ah, this is disgusting. Maybe I should clean up[r]
+while I'm at it..."[pcms]
 
 
 *1170|
 [fc]
-騒ぎから離れ、[r]
-地面に飛び散った薄茶色の液体を見つめていると、[r]
-そこはかとない哀しさが襲う。[pcms]
+As I distance myself from the commotion and stare at the light brown[r]
+liquid splattered on the ground, a sense of sadness washes over me.[pcms]
 
 
 *1171|
 [fc]
-[ns]克己[nse]
-「あーあ……いっそ俺も、あの祭騒ぎに混ざろうかな。[r]
-　なんかチチ出してた姉ちゃんもいたもんなあ。楽しそうだし。[r]
-　……俺も混ざったらきっと面白……くねえよ！」[pcms]
+[ns]Kazumi[nse]
+"Ah, maybe I should just join in that festival-like chaos. There was[r]
+even a chick flashing her tits. It looked fun. ...But if I joined in,[r]
+it definitely wouldn't be interesting!"[pcms]
 
 
 *1172|
 [fc]
-そうだよ、あいつら何なんだよ！[r]
-意味わかんねーよ！[pcms]
+That's right, what the hell is up with those people! It makes no[r]
+sense![pcms]
 
 
 *1173|
 [fc]
-こう言うときはテレビ……と言いたいけど、[r]
-あんなおかしな事したりしてる訳で……。[pcms]
+I'd like to say this is a time for TV... but after what happened[r]
+earlier...[pcms]
 
 
 *1174|
 [fc]
-とはいえ他に情報源があるわけでもないし、[r]
-もしかしたら、“アレ”自体、[r]
-俺が観た夢だったかも知れないし。[pcms]
+Still, I don't have any other source of information, and maybe, just[r]
+maybe, "that" itself was a dream I had.[pcms]
 
 
 *1175|
 [fc]
-うーん、なんでこんな事になってんだろ。[r]
-うーん……。[pcms]
+Hmm, why is this happening? Hmm...[pcms]
 
 
 *1176|
 [fc]
-…………。[r]
-……。[pcms]
+...[pcms]
 
 
 *1177|
 [fc]
-理解不能の事態に巻き込まれ、[r]
-頭の中の混乱を収める事が出来ず、[r]
-気持ちはどんどん苛立っていく。[pcms]
+Caught up in an incomprehensible situation, I can't settle the chaos[r]
+in my mind, and my irritation only grows.[pcms]
 
 
 *1178|
 [fc]
-幾ら考えた所で、答えなんて出るはず無い。[r]
-大体、答えが出るんなら悩む必要なんて無いからな！[pcms]
+No matter how much I think about it, there's no way an answer will[r]
+come. After all, if there were an answer, there'd be no need to worry![pcms]
 
 
 *1179|
 [fc]
-[ns]克己[nse]
-「あーもー！　訳わかんね！[r]
-　いいよもう、ヘンな特番でもいいよ！[r]
-　テレビテレビ！」[pcms]
+[ns]Kazumi[nse]
+"Ah, screw it! It makes no sense! Fine then, even if it's some weird[r]
+special program! TV, TV!"[pcms]
 
 
 *1180|
 [fc]
-怒り任せに、勢いよくリモコンのボタンを押し、[r]
-一度消したテレビの電源を再び点ける。[pcms]
+In a fit of anger, I forcefully press the remote control button and[r]
+turn the TV back on.[pcms]
 
 [evcg storage="etc003a"][trans_c cross time=500]
 
 ;;//m:切り替え足りないからカット
 ;;//ついさっき、消す直前はアニメだった筈なのに、
-;;//今度は真面目な声で、深刻そうな内容の話をしていた。[pcms]
+;;//This time, with a serious tone, they were discussing something[r]
+that seemed quite grave.[pcms]
 
 
 *1181|
 ;旧ナンバー[vo_m s="caster0001"]
 [vo_mob s="R_joseicaster0001"]
-[ns]女性キャスター[nse]
-「それでは、今回発生している騒動は、[r]
-　四年前のウィルスが関係していると言うことでしょうか？」[pcms]
+[ns]Female caster[nse]
+"So, is the disturbance that's occurring now related to the virus from[r]
+four years ago?"[pcms]
 
 
 *1182|
 [fc]
-四年前のウィルス……？[pcms]
+The virus from four years ago...?[pcms]
 
 
 *1183|
 ;旧ナンバー[vo_m s="seihu0001"]
 [vo_mob s="R_koho0001"]
-[ns]政府広報女性[nse]
-「現時点では断言する事は出来ません。[r]
-　……ですが、極めて類似していると言わざるを得ません」[pcms]
+[ns]Government Public Relations Woman[nse]
+"We cannot say for certain at this point. ...However, we must admit[r]
+that it is extremely similar."[pcms]
 
 
 *1184|
 ;旧ナンバー[vo_m s="caster0002"]
 [vo_mob s="R_joseicaster0002"]
-[ns]女性キャスター[nse]
-「類似……ですか？」[pcms]
+[ns]Female Announcer[nse]
+"Similar... you say?"[pcms]
 
 
 *1185|
 ;旧ナンバー[vo_m s="seihu0002"]
 [vo_mob s="R_koho0002"]
-[ns]政府広報女性[nse]
-「はい。四年前に驚異となったウィルスは、[r]
-　現在ではワクチン接種により、万一感染してしまったとしても[r]
-　発症する可能性は限りなくゼロです」[pcms]
+[ns]Government Public Relations Woman[nse]
+"Yes. The virus that posed a threat four years ago can now be[r]
+controlled with vaccinations. Even if someone were to be infected, the[r]
+likelihood of developing symptoms is virtually zero."[pcms]
 
 
 *1186|
 ;旧ナンバー[vo_m s="seihu0003"]
 [vo_mob s="R_koho0003"]
-[ns]政府広報女性[nse]
-「もちろん、感染し、発症してしまった方は、[r]
-　“適切な手段を以って”、治療に当たっております」[pcms]
+[ns]Government Public Relations Woman[nse]
+"Of course, for those who have been infected and developed symptoms,[r]
+we are treating them with appropriate measures."[pcms]
 
 
 *1187|
 ;旧ナンバー[vo_m s="seihu0004"]
 [vo_mob s="R_koho0004"]
-[ns]政府広報女性[nse]
-「このような状況から、我々はUNknown-LV4による被害と、[r]
-　断言することはせず、多角的に調査を進めています。[r]
-　以上の事から、類似していると表現しました」[pcms]
+[ns]Government Public Relations Woman[nse]
+"Given these circumstances, we cannot definitively claim that the[r]
+damage is caused by UNknown-LV4 and are conducting a multifaceted[r]
+investigation. That is why we expressed that it is similar."[pcms]
 
 
 *1188|
 ;旧ナンバー[vo_m s="caster0003"]
 [vo_mob s="R_joseicaster0003"]
-[ns]女性キャスター[nse]
-「多角的調査ですか？」[pcms]
+[ns]Female Announcer[nse]
+"A multifaceted investigation?"[pcms]
 
 
 *1189|
 ;旧ナンバー[vo_m s="seihu0005"]
 [vo_mob s="R_koho0005"]
-[ns]政府広報女性[nse]
-「はい。今回の騒動は、当時の状況を模倣した、[r]
-　集団テロの可能性も捨てきれないと言うことです」[pcms]
+[ns]Government Public Relations Woman[nse]
+"Yes. The current disturbance could be an imitation of the situation[r]
+back then, a possibility of mass terrorism that we cannot dismiss."[pcms]
 
 
 *1190|
 ;旧ナンバー[vo_m s="caster0004"]
 [vo_mob s="R_joseicaster0004"]
-[ns]女性キャスター[nse]
-「集団テロ？　暴徒達は感染者ではないと？[r]
-　我々一般人からみれば、今回の騒動は、[r]
-　感染者によるものとしか思えませんが……」[pcms]
+[ns]Female Announcer[nse]
+"Mass terrorism? So the rioters are not infected? From our perspective[r]
+as ordinary citizens, this disturbance seems to be caused by infected[r]
+individuals..."[pcms]
 
 
 *1191|
 ;旧ナンバー[vo_m s="seihu0006"]
 [vo_mob s="R_koho0006"]
-[ns]政府広報女性[nse]
-「こちらも、現時点での断言は出来ません。[r]
-　……調査は継続して行います。[r]
-;FHD　また、警察による取り締まりをを強化しています」[pcms]
-　また、警察による取り締まりを強化しています」[pcms]
+[ns]Government Public Relations Woman[nse]
+"We cannot make definitive statements at this time. ...The[r]
+investigation will continue. ;FHD Additionally, police enforcement has[r]
+been strengthened."[pcms]
 
 
 *1192|
 ;旧ナンバー[vo_m s="caster0005"]
 [vo_mob s="R_joseicaster0005"]
-[ns]女性キャスター[nse]
-「なるほど、では、私たちが今すべきことは何でしょう？」[pcms]
+[ns]Female Announcer[nse]
+"I see. So what should we do now?"[pcms]
 
 
 *1193|
 ;旧ナンバー[vo_m s="seihu0007"]
 [vo_mob s="R_koho0007"]
-[ns]政府広報女性[nse]
-「いずれにせよ、優先すべきは自分の命です。[r]
-　仮に今暴れている人々が『感染者』だった場合でも、[r]
-　集団テロだとしても。今できることは――」[pcms]
+[ns]Government Public Relations Woman[nse]
+"In any case, our priority should be our own lives. Whether the people[r]
+currently rioting are 'infected' or it's a case of mass terrorism.[r]
+What we can do now is--"[pcms]
 
 
 *1194|
 ;旧ナンバー[vo_m s="seihu0008"]
 [vo_mob s="R_koho0008"]
-[ns]政府広報女性[nse]
-「戸締まりを厳重にすること。[r]
-　そして出来るだけ家から出ないこと。[r]
-　出来るだけ『彼ら』に関わらないでください」[pcms]
+[ns]Government Public Relations Woman[nse]
+"Ensure our doors are securely locked. And try not to leave our homes[r]
+as much as possible. Please avoid any involvement with 'them' as much[r]
+as you can."[pcms]
 
 ;;//★克己の部屋・朝昼
 [bg storage="BG11a"][trans_c cross time=500]
@@ -569,283 +552,272 @@
 
 *1195|
 [fc]
-[ns]克己[nse]
-「出来るだけ家から出ない、ねえ。[r]
-　得意っちゃ得意だけどさあ……」[pcms]
+[ns]Kazumi[nse]
+"Try not to leave home, huh? I'm pretty good at that but..."[pcms]
 
 
 *1196|
 [fc]
-ふとテレビから目を外せばこの間買ってきたゲームが、[r]
-封も開けずにおいてある。[pcms]
+If I take my eyes off the TV for a moment, there's the game I bought[r]
+recently, still unopened.[pcms]
 
 
 *1197|
 [fc]
-買っただけでまだ手を付けてないのも沢山有るし、[r]
-暴動みたいなのが収まるまで、ゲームでもしていよう。[pcms]
+I have plenty of games I bought but haven't touched yet. Maybe I'll[r]
+play games until this riot-like situation calms down.[pcms]
 
 
 *1198|
 [fc]
-[ns]克己[nse]
-「よし決めた。[r]
-　面倒な事に巻き込まれたらたまんねーもんな」[pcms]
+[ns]Kazumi[nse]
+"Alright, decision made. Getting involved in troublesome matters would[r]
+be a real pain."[pcms]
 
 
 *1199|
 [fc]
-俺は早速コントローラーの真ん中にある起動ボタンを押して、[r]
-テレビの入力系統を切り替えようと、[r]
-リモコンをテレビに向けた。[pcms]
+I immediately press the power button in the center of the controller[r]
+and aim the remote at the TV to switch the input system.[pcms]
 
 
 *1200|
 [fc]
-すると、それまで冷静な表情で話を進めていたゲストの女性が、[r]
-真っ青な顔をして、スタジオから出て行くところだった。[pcms]
+Then, the female guest who had been speaking calmly until now suddenly[r]
+turned pale and rushed out of the studio.[pcms]
 
 
 *1201|
 [fc]
-――出て行くというより、逃げるみたいに。[pcms]
+--It was more like she was fleeing than just leaving.[pcms]
 
 
 *1202|
 [fc]
-それと入れ替わりでスタジオに入ってきた男性が、[r]
-女性キャスターに何かを耳打ちをし、紙を手渡した。[pcms]
+As she left, a man entered the studio, whispered something to the[r]
+female announcer, and handed her a piece of paper.[pcms]
 
 
 *1203|
 [fc]
-女性キャスターは、渡された紙に目を落とした。[pcms]
+The female announcer glanced down at the paper she was given.[pcms]
 
 
 *1204|
 [fc]
-その直後。[pcms]
+Immediately after.[pcms]
 
 
 *1205|
 [fc]
-冷静に進行していた筈の女性キャスターが、[r]
-突然声を張り上げた。[pcms]
+The female announcer, who was supposed to be calm, suddenly raised her[r]
+voice.[pcms]
 
 
 *1206|
 ;旧ナンバー[vo_m s="caster0006"]
 [vo_mob s="R_joseicaster0006"]
-[ns]女性キャスター[nse]
-「何よこれ！　さっきの話はなんだったの！？」[pcms]
+[ns]Female Announcer[nse]
+"What is this?! What was all that talk just now?!"[pcms]
 
 
 *1207|
 ;旧ナンバー[vo_m s="caster0007"]
 [vo_mob s="R_joseicaster0007"]
-[ns]女性キャスター[nse]
-「……し、失礼しました……速報です！」[pcms]
+[ns]Female Announcer[nse]
+"...Excuse me...we have breaking news!"[pcms]
 
 
 *1208|
 [fc]
-[ns]克己[nse]
-「あら？　何この慌てっぷり。[r]
-　録画しときゃよかったな、後でネタに出来たのによー」[pcms]
+[ns]Kazumi[nse]
+"Huh? What's with this panic? I should've recorded it; it would've[r]
+made for a good laugh later."[pcms]
 
 
 *1209|
 [fc]
-緊張の走るスタジオと、女性キャスターの声に、[r]
-俺の心には落ち着きが戻りだした。[pcms]
+As tension filled the studio and the female announcer's voice grew[r]
+louder, a sense of calm began to return to me.[pcms]
 
 
 *1210|
 ;旧ナンバー[vo_m s="caster0008"]
 [vo_mob s="R_joseicaster0008"]
-[ns]女性キャスター[nse]
-「政府は、今回の暴動の原因を――[r]
-　UNknow-LV4によるものと発表しました！」[pcms]
+[ns]Female caster[nse]
+"The government has announced that the cause of the current riot is[r]
+due to UNknow-LV4!"[pcms]
 
 
 *1211|
 ;旧ナンバー[vo_m s="caster0009"]
 [vo_mob s="R_joseicaster0009"]
-[ns]女性キャスター[nse]
-「今、室内にいらっしゃる方は、決して外に出ないでください！[r]
-　また、お近くの方に伝えて下さい！[r]
-　感染の疑いのある方には、近づかないでください！」[pcms]
+[ns]Female Announcer[nse]
+"If you are indoors right now, please do not go outside! Also, please[r]
+inform those nearby! Do not approach anyone suspected of being[r]
+infected!"[pcms]
 
 
 *1212|
 ;旧ナンバー[vo_m s="caster0010"]
 [vo_mob s="R_joseicaster0010"]
-[ns]女性キャスター[nse]
-「先ほどの情報に誤りが有りましたこと、お詫びします。[r]
-　繰り返します。感染者には絶対に近づかないで下さい！」[pcms]
+[ns]Female Announcer[nse]
+"We apologize for the earlier misinformation. I repeat, do not[r]
+approach any infected individuals!"[pcms]
 
 
 *1213|
 ;旧ナンバー[vo_m s="caster0011"]
 [vo_mob s="R_joseicaster0011"]
-[ns]女性キャスター[nse]
-「感染者は増え続けています！[r]
-　ワクチンを接種している方も、過度な安心は禁物です。[r]
-　適切な対処が終わるまで、家から出ないように――」[pcms]
+[ns]Female Announcer[nse]
+"The number of infected is increasing! Even if you have been[r]
+vaccinated, do not be overly reassured. Please stay indoors until[r]
+appropriate measures have been taken--"[pcms]
 
 
 *1214|
 [fc]
-せっかく落ち着きだした心は、、[r]
-次第に大きくなる女性キャスターの声に合わせて再び揺れ動く。[pcms]
+Just as my heart had begun to settle down, it started to flutter again[r]
+in sync with the growing urgency in the female announcer's voice.[pcms]
 
 
 *1215|
 [fc]
-[ns]克己[nse]
-「っつーか！　丞実は大丈夫なのかよ！？[r]
-　巻き込まれてなきゃいいけど……！[r]
-　大丈夫だよな？　学園だもんな！？」[pcms]
+[ns]Kazumi[nse]
+"Damn it! Is Tsugumi okay?! I hope she hasn't gotten caught up in[r]
+this...! She's safe, right? It's a school, after all!?"[pcms]
 
 
 *1216|
 [fc]
-ゲームなんてやってる場合じゃないと、[r]
-ズボンのポケットから携帯を取り出し、[r]
-登録してある番号を押す。[pcms]
+I shouldn't be playing games at a time like this. I take out my cell[r]
+phone from my pants pocket and press the registered number.[pcms]
 
 ;;//s:無音
 
 
 *1217|
 [fc]
-呼び出し音がする前の無音が、動揺と焦りを増幅させる。[pcms]
+The silence before the ringing amplifies my agitation and impatience.[pcms]
 
 
 *1218|
 [fc]
-焦っても仕方の無いことだけど、[r]
-今日に限って無音の時間が長すぎる。[pcms]
+It's pointless to be in a hurry, but today, of all days, the silence[r]
+feels too long.[pcms]
 
 
 *1219|
 [fc]
-[ns]克己[nse]
-「こういうの、しょっちゅうだもんな……。[r]
-　やめてほしいよな！　クソっ！」[pcms]
+[ns]Kazumi[nse]
+"This happens all too often... I wish it would stop! Damn it!"[pcms]
 
 
 *1220|
 [fc]
-携帯に向けて悪態をつきながら、[r]
-一度通話を終了し、リダイヤル。[r]
-だけど、またしても応答は無かった。[pcms]
+While cursing at my cell phone, I end the call and redial. But again,[r]
+there is no response.[pcms]
 
 
 *1221|
 [fc]
-[ns]克己[nse]
-「……なんだよ、なんだよ……。[r]
-　クソ、お袋は……！？」[pcms]
+[ns]Kazumi[nse]
+"...What the hell, what the hell... Damn it, what about Mom...!?"[pcms]
 
 
 *1222|
 [fc]
-焦りながらも、今度はお袋の番号を選択する。[pcms]
+In my panic, I select my mother's number next.[pcms]
 
 
 *1223|
 [fc]
-すると、小さなホワイトノイズの後、[r]
-小さな接触ノイズと、女性の声が聞こえだした。[pcms]
+Then, after a small burst of white noise, I begin to hear a woman's[r]
+voice mixed with small static noises.[pcms]
 
 
 *1224|
 [fc]
-[ns]克己[nse]
-「お、おふく……」[pcms]
+[ns]Kazumi[nse]
+"Mo... Mom..."[pcms]
 
 
 *1225|
 [fc]
 [vo_mob s="R_denwa0001"]
-[ns]電話の声[nse]
-「現在、通話困難な状況が続いております。[r]
-　ご迷惑をおかけして申し訳ございませんが、[r]
-　暫く時間をおいてから、再度お掛け直しください」[pcms]
+[ns]Voice on the Phone[nse]
+"We are currently experiencing difficulties with calls. We apologize[r]
+for any inconvenience and ask that you please try calling again[r]
+later."[pcms]
 
 
 *1226|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *1227|
 [fc]
-やっと繋がったと思えば、冷徹なナレーションだった。[pcms]
+Just when I thought I had finally connected, it was a cold narration.[pcms]
 
 
 *1228|
 [fc]
-機械の様に冷静なナレーションの声はむしろ、[r]
-焦燥感を煽り立て、何度もリダイヤルを選択してしまう。[pcms]
+The voice of the narration, as calm as a machine, only fueled my sense[r]
+of urgency, making me choose redial several times.[pcms]
 
 
 *1229|
 [fc]
-だけど携帯はもう無音のまま。[pcms]
+But the cell phone remained silent.[pcms]
 
 
 *1230|
 [fc]
-『暫く時間をおいてから、再度お掛け直しください』[r]
-というアナウンスすら聞こえなくなってしまった。[pcms]
+"Please try calling again later"  even that announcement was no[r]
+longer audible.[pcms]
 
 
 *1231|
 [fc]
-[ns]克己[nse]
-「これ、やっぱ……。[r]
-　ヤベー状況なんじゃ……」[pcms]
+[ns]Kazumi[nse]
+"This is really... a bad situation, isn't it...?"[pcms]
 
 
 *1232|
 [fc]
-こんなにまで電話が繋がらなかったことなんて、[r]
-一度も無かった。[pcms]
+I've never experienced a time when calls wouldn't connect like this[r]
+before.[pcms]
 
 
 *1233|
 [fc]
-テレビで言っていた、集団テロ……。[r]
-そいつらが何かしたのか！？[pcms]
+The mass terrorism mentioned on TV... Did they do something?![pcms]
 
 
 *1234|
 [fc]
-そんな事を想いながらも、[r]
-何度目かのリダイアルを選択する。[r]
-だけど結果は同じで無音のまま。[pcms]
+While thinking such things, I select redial for who knows how many[r]
+times. But the result is the same; silence.[pcms]
 
 
 *1235|
 [fc]
-[ns]克己[nse]
-「…………クソ……クソッ！！[r]
-　俺、一体どうしたら……」[pcms]
+[ns]Kazumi[nse]
+"...Damn... DAMN IT!! What am I supposed to do..."[pcms]
 
 
 *1236|
 [fc]
-苛立ち任せに携帯を床に放り投げると、[r]
-放物線を描き、テーブルに吸い込まれ――[pcms]
+In frustration, I throw my cell phone onto the floor. It arcs through[r]
+the air and lands on the table--[pcms]
 
 
 *1237|
 [fc]
-――綺麗に並べておいた、[r]
-丞実が差し入れてくれたサプリの列に飛び込んだ。[pcms]
+--right into the neatly arranged row of supplements that Tsugumi had[r]
+brought me.[pcms]
 
 ;;//s:ガシャン
 [se buf1 storage="seB092"]
@@ -854,49 +826,45 @@
 
 *1238|
 [fc]
-薄っぺらいプラスチックが安っぽい音を跳ね上げ、[r]
-そのウチの一つが床に落ちて転がる。[pcms]
+The thin plastic makes a cheap sound as it bounces, and one of them[r]
+falls to the floor and rolls away.[pcms]
 
 
 *1239|
 [fc]
-それを合図に俺は、頭を掻きむしり叫ぶ。[pcms]
+Taking that as a cue, I scream out loud while clawing at my head.[pcms]
 
 
 *1240|
 [fc]
-[ns]克己[nse]
-「あ゛あ゛あ゛あ゛あ゛ぁぁあぁ！！！[r]
-　どうすっかなぁあぁああぁ！！！[r]
-　どうしようかなああああぁぁあぁあ！！」[pcms]
+[ns]Kazumi[nse]
+"Aaaaahhhhh!!! What should I doooo? What am I supposed to dooo?!"[pcms]
 
 
 *1241|
 [fc]
-『どうすっかな』[r]
-なんて叫びながらも、頭の中はフル回転。[pcms]
+Even as I shout "What should I do," my mind is working at full speed.[pcms]
 
 
 *1242|
 [fc]
-――やることがあるだろう？[pcms]
+--There's something I can do, right?[pcms]
 
 
 *1243|
 [fc]
-わかってるんだ。[r]
-俺が、今、何をするべきなのか。[pcms]
+I know it. I know what I need to do right now.[pcms]
 
 
 *1244|
 [fc]
-――でも、どうしたらいい？[pcms]
+--But how? What should I do?[pcms]
 
 
 *1245|
 [fc]
-テーブルから落ちた白いケースをじっと見つめると、[r]
-丞実の台詞が頭の中で渦を巻く。[pcms]
+As I stare at the white case that fell from the table, Tsugumi's words[r]
+swirl in my mind.[pcms]
 
 ;レイヤの枚数変更
 ;[eval exp="f.maxlayer = 9"][layers_num_add]
@@ -909,35 +877,34 @@
 
 *1246|
 [fc]
-『諦めないで頑張ってるんなら、あたし達は見捨てない。[r]
-　――ううん、ずっと見捨てないよ』[pcms]
+"If you're trying hard and not giving up, we won't abandon you. --No,[r]
+we'll never abandon you."[pcms]
 
 
 *1247|
 [fc]
-――丞実は、良い子だ。[pcms]
+--Tsugumi is such a good girl.[pcms]
 
 
 *1248|
 [fc]
-『だから、兄ちゃんもあたし達を“見捨てない”で。[r]
-　ずっと、ずっと家族なんだから』[pcms]
+"So, big brother, don't you abandon us either. We're always, always a[r]
+family."[pcms]
 
 
 *1249|
 [fc]
-――そうだよ。俺達は家族なんだよ。[pcms]
+--That's right. We are a family.[pcms]
 
 
 *1250|
 [fc]
-それに――[r]
-静ちゃんも、丞実と一緒に震えてるかも知れないじゃないか。[pcms]
+And-- Shizuka might be trembling together with Tsugumi right now.[pcms]
 
 
 *1251|
 [fc]
-――俺を好きだと言ってくれた、幼なじみが……。[pcms]
+--The childhood friend who told me she loved me...[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -947,86 +914,81 @@
 
 *1252|
 [fc]
-[ns]克己[nse]
-「あ゛あ゛あ゛あ゛あ゛ぁぁあぁ！！！[r]
-　克己ィィイィ！！　どうすんだよ！　克己よおぉ！！」[pcms]
+[ns]Kazumi[nse]
+"Aaaaahhhhh!!! Kazumi! What are you going to do! Kazumi!"[pcms]
 
 
 *1253|
 [fc]
-俺や親父やお袋は、自分で何とでも出来るんだ。[r]
-だけど、丞実はまだ若い。[r]
-何かあったとき、一人で対処できんのか？[pcms]
+I, my father, and my mother can handle ourselves. But Tsugumi is still[r]
+young. Can she deal with something happening on her own?[pcms]
 
 
 *1254|
 [fc]
-口は悪いけど、なんだかんだで可愛い妹じゃん！[r]
-たった一人の妹じゃんよ！[pcms]
+She might talk tough, but she's my cute little sister, isn't she? My[r]
+one and only little sister![pcms]
 
 
 *1255|
 [fc]
-それに、俺なんかの事を慕ってくれてる、[r]
-静ちゃんも一緒なんだろ！？[pcms]
+And Shizuka, who looks up to someone like me, is with her, right?![pcms]
 
 
 *1256|
 [fc]
-クソ……。[pcms]
+Damn...[pcms]
 
 
 *1257|
 [fc]
-[ns]克己[nse]
-「俺、男じゃんよ！　仕事は無くしたけど、[r]
-　男気までは無くしてねえぞ！」[pcms]
+[ns]Kazumi[nse]
+"I'm a man, aren't I! I may have lost my job, but I haven't lost my[r]
+manliness!"[pcms]
 
 
 *1258|
 [fc]
-たった一人の妹を……。[r]
-俺みたいなのを慕ってくれる幼なじみを救いに行かないで、[r]
-何が兄貴だ？　何が男だ！？[pcms]
+To not go and save my one and only little sister... To not go and save[r]
+the childhood friend who admires me... What kind of brother would I[r]
+be? What kind of man would I be?![pcms]
 
 
 *1259|
 [fc]
-[ns]克己[nse]
-「ヘタレてる場合じゃねえええぇぇぇぇえぇ！！」[pcms]
+[ns]Kazumi[nse]
+"This is no time to be a coward!!"[pcms]
 
 
 *1260|
 [fc]
-押し入れに仕舞ってある野球道具を引っ張りだしながら、[r]
-自らを鼓舞するため、大声を上げる。[pcms]
+While pulling out the baseball equipment stored in the closet, I raise[r]
+my voice to motivate myself.[pcms]
 
 
 *1261|
 [fc]
-ユニフォーム、バット、シューズ、グローブ。[r]
-全てがこの時を待っていたかのようにピカピカだ。[pcms]
+The uniform, bat, shoes, glove. Everything shines as if it had been[r]
+waiting for this moment.[pcms]
 
 
 *1262|
 [fc]
-こんな事の為に手入れしてた訳じゃない。[r]
-だけど、今使わないでどうする？[pcms]
+I didn't maintain them for this kind of situation. But if not now,[r]
+then when?[pcms]
 
 
 *1263|
 [fc]
-それらを身に纏い、スポーツバッグの中には、[r]
-必要そうなものを手当たり次第に詰め込んで、[r]
-鏡の前に立つ。[pcms]
+Dressed in all that gear, I stuff whatever seems necessary into the[r]
+sports bag and stand in front of the mirror.[pcms]
 
 
 *1264|
 [fc]
-[ns]克己[nse]
-「……っつーか、やっぱ俺にこれしかねえよな！[r]
-　似合うわ野球スタイル！[r]
-　いくぜ、相棒……行くぞ、克己ィィィ！！！」[pcms]
+[ns]Kazumi[nse]
+"...Anyway, this is all I've got! The baseball style suits me! Let's[r]
+go, partner... Let's go, Kazumi!!!"[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -1034,8 +996,7 @@
 
 *1265|
 [fc]
-…………。[r]
-……。[pcms]
+...[pcms]
 
 ;;//s:鍵を開ける音
 
@@ -1049,16 +1010,14 @@
 
 *1266|
 [fc]
-[ns]克己[nse]
-「ガスの元栓、ＯＫ。窓の鍵もＯＫ。[r]
-　クソ、コンセント抜き忘れてたな。[r]
-　……よし、これでＯＫかァ？」[pcms]
+[ns]Kazumi[nse]
+"Gas main, OK. Window locks, OK. Damn, forgot to unplug the[r]
+appliances. ...Alright, is that everything?"[pcms]
 
 
 *1267|
 [fc]
-うっかりしていた。[r]
-指差し点検しないまま出かけちまう所だったぜ。[pcms]
+I was being careless. I almost left without doing a point check.[pcms]
 
 ;;//条件分岐
 ;;//g_clearが成立しているかどうか
@@ -1073,22 +1032,22 @@
 
 *1268|
 [fc]
-他にもまだやることがある！[pcms]
+There's still more to do![pcms]
 
 
 *1269|
 [fc]
-今は電話が繋がらなくても、[r]
-メールを送っとけば届くかも知れない。[pcms]
+Even if calls aren't getting through right now, sending an email might[r]
+work.[pcms]
 
 
 *1270|
 [fc]
-内容は、っと……。[pcms]
+The content should be... um...[pcms]
 
 ;	[link target=*mail]無事ならメールをくれ[endlink]
 ;	[link target=*hero]助けに行くから待ってろ[endlink]
-;	[s]
+[pcms]
 
 
 *SEL01|無事ならメールをくれ／助けに行くから待ってろ
@@ -1113,31 +1072,30 @@
 
 *1271|
 [fc]
-丞実も、慌ててるかもしれない。[r]
-そんな時に俺まで慌てたメールを送ったら逆効果だ。[pcms]
+Tsugumi might be panicking too. Sending a frantic email now would only[r]
+make things worse.[pcms]
 
 
 *1272|
 [fc]
-それに、バカ長いメールを送ったところで、[r]
-よむ時間が無いかも知れない。[pcms]
+And if I send a super long email, there might not be time to read it.[pcms]
 
 
 *1273|
 [fc]
-だとしたら、簡単に――[pcms]
+So simply--[pcms]
 
 
 *1274|
 [fc]
-『丞実へ、俺は無事だ。お前も無事ならメールを返してくれ』[pcms]
+"To Tsugumi, I'm safe. If you're safe too, please reply to this[r]
+email."[pcms]
 
 
 *1275|
 [fc]
-[ns]克己[nse]
-「これでオッケーだ。[r]
-　我ながら、シンプルなメールだぜ！」[pcms]
+[ns]Kazumi[nse]
+"This should be OK. Gotta say, it's a pretty simple email for me!"[pcms]
 
 ;;//◎_ラベル 0253_Aへ合流
 [jump target=*0212_gouryu]
@@ -1148,24 +1106,25 @@
 
 *1276|
 [fc]
-こう言うときこそ、希望を与えるべきだ。[pcms]
+In times like these, it's important to give hope.[pcms]
 
 
 *1277|
 [fc]
-[ns]克己[nse]
-「俺が必ず助けにいくから、待ってろ、丞実ッ！」[pcms]
+[ns]Kazumi[nse]
+"I will definitely come to save you, so wait for me, Tsugumi!"[pcms]
 
 
 *1278|
 [fc]
-自分がヒーローになったつもりで気合いを入れながら[r]
-文章を打ち込み、同時に内容を叫んだ。[pcms]
+Feeling like a hero, I put spirit into my words as I type the message[r]
+and shout its content at the same time.[pcms]
 
 
 *1279|
 [fc]
-『必ず助けに行く。絶対にだ！　だから、諦めるな丞実』[pcms]
+"I will definitely come to save you. Absolutely! So don't give up,[r]
+Tsugumi."[pcms]
 
 [eval exp="f.l_hero = 1"]
 
@@ -1178,100 +1137,93 @@
 
 *1280|
 [fc]
-[ns]克己[nse]
-「よし……これで完璧だ……」[pcms]
+[ns]Kazumi[nse]
+"Alright... this is perfect..."[pcms]
 
 
 *1281|
 [fc]
-あとは、指差し点検だ。[r]
-これを忘れて出かけると、[r]
-奥歯にモノが引っかかった感じになるからな。[pcms]
+Next is the pointing and checking. If I forget to do this before[r]
+leaving, it feels like something is stuck in my molars.[pcms]
 
 
 *1282|
 [fc]
-最後にもう一度部屋の中を指差しながら見回すと、[r]
-丁度部屋の真ん中にあるテーブルの上の、[r]
-乱雑に置かれた就職情報誌に目が止まる。[pcms]
+As I look around the room one last time, pointing at things, my eyes[r]
+land on the job hunting magazines messily placed on the table in the[r]
+center of the room.[pcms]
 
 
 *1283|
 [fc]
-[ns]克己[nse]
-「……」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *1284|
 [fc]
-一歩、テーブルに踏み込みながら、[r]
-スポーツバッグのチャックを開く。[pcms]
+Stepping towards the table, I unzip my sports bag.[pcms]
 
 
 *1285|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *1286|
 [fc]
-更にもう一歩、テーブルに向けて足を踏み込み、[r]
-右手を伸ばす――[pcms]
+Taking another step towards the table, I reach out with my right[r]
+hand--[pcms]
 
 
 *1287|
 [fc]
-右手を伸ばしたまま立ち止まり、[r]
-天井を見つめた後、すぐに床に目を落とす。[pcms]
+Stopping with my right hand still extended, I look up at the ceiling[r]
+and then quickly drop my gaze to the floor.[pcms]
 
 
 *1288|
 [fc]
-[ns]克己[nse]
-「…………おいおい、何してんだよ俺……」[pcms]
+[ns]Kazumi[nse]
+"...Hey, hey, what am I doing..."[pcms]
 
 
 *1289|
 [fc]
-そのままの姿勢で、ほんの少しの間目をキツく閉じる。[pcms]
+With that same posture, I close my eyes tightly for just a moment.[pcms]
 
 
 *1290|
 [fc]
-…………。[r]
-……。[pcms]
+... ...[pcms]
 
 
 *1291|
 [fc]
-ほんの少し、身動きせずに立ち止まる。[pcms]
+I stand still without moving for just a little while.[pcms]
 
 
 *1292|
 [fc]
-…………。[r]
-……。[pcms]
+... ...[pcms]
 
 
 *1293|
 [fc]
-外の騒ぎの音が、大きくなっている。[r]
-もう、時間はない。[pcms]
+The noise from outside is getting louder. There's no more time.[pcms]
 
 
 *1294|
 [fc]
-再び頭を水平に戻しながら、[r]
-突き出した手を、ゆっくりと下ろした。[pcms]
+As I bring my head back to level, I slowly lower my outstretched hand.[pcms]
 
 
 *1295|
 [fc]
-[ns]克己[nse]
-「もう、いらねーよ……。[r]
-　今から無の付く職業から勇者にジョブチェンジだ！[r]
-　就職決定！！！　いっくぜぇぇぇぇ！！！」[pcms]
+[ns]Kazumi[nse]
+"I don't need this anymore... From a jobless state to a hero, it's[r]
+time for a job change! Employment decided!!! Let's gooooo!!!"[pcms]
 
 ;;//s:下の条件分岐を削除し、*0212_zapへ飛ぶ
 
@@ -1319,7 +1271,7 @@
 ;	[link target=*aspect_sel_SEL01 single=true left="&f.aspect1_x" top="&f.aspect1_y" width=320 height=180 layer=0 border=0][endlink]
 ;	[link target=*aspect_sel_SEL02 single=true left="&f.aspect2_x" top="&f.aspect2_y" width=320 height=180 layer=1 border=0][endlink]
 ;	[link target=*aspect_sel_SEL03 single=true left="&f.aspect3_x" top="&f.aspect3_y" width=320 height=180 layer=2 border=0][endlink]
-;	[s]
+;[pcms]
 
 ;	;mm 暗転入れとかないとロード時に前の背景でるんだっけ？　どっかマクロでバックレイミスってる気もするけど
 ;	[black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -1333,7 +1285,7 @@
 ;	;	;ボタン込み
 ;	;	[zap_set1]
 ;	;	[zap_set2]
-;	;	[s]
+; ;[pcms]
 ;
 ;	ボタン選択肢ですが仮で通常選択肢表示
 ;	[sel01 text='静'   target=*aspect_sel_SEL01]

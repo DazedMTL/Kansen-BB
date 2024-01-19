@@ -20,30 +20,28 @@
 
 *7071|
 [fc]
-本間先生は、ふと溜息をつきながら微笑んだ。[pcms]
+Dr. Honma let out a sigh and smiled faintly.[pcms]
 
 
 *7072|
 ;旧ナンバー[vo_h s="honma0025"]
 [vo_h s="R_hon0095"]
-[ns]本間[nse]
-「待って。何か欲しいものある？[r]
-　といっても、飲み物とか、[r]
-　簡単な医薬品くらいしか渡せないけど」[pcms]
+[ns]Honma[nse]
+"Wait. Is there anything you want? I can only offer drinks or simple[r]
+medicines, though."[pcms]
 
 
 *7073|
 [fc]
-[ns]克己[nse]
-「それで十分！[r]
-　そうだな、それから……あったらでいいんだけどさ、[r]
-　コーヒー牛乳ってある？」[pcms]
+[ns]Kazumi[nse]
+"That's plenty! Let's see... Oh, if you have it, do you have coffee[r]
+milk?"[pcms]
 
 
 *7074|
 [fc]
-本間先生は申し訳なさそうに笑うと、[r]
-手をひらひらと振りながら部屋の奥へと歩いて行った。[pcms]
+Dr. Honma smiled apologetically, waved her hand lightly, and walked[r]
+towards the back of the room.[pcms]
 
 ;;//m:コピペここまで
 
@@ -53,27 +51,28 @@
 ;;//★空・朝昼A
 [bg storage="BG31a"][trans_c cross time=500]
 
-;;//m:ひとまず上階から様子を軽く見にいったとか説明いるのだろうか？[pcms]
+Should I explain that I briefly checked the situation from the upper[r]
+floor?[pcms]
 
 ;;//m:下記追加しておく
 
 
 *7074a|
 [fc]
-コーヒー牛乳で活力を充填した俺は、[r]
-ひとまず上階から周囲の様子を見る事にした。[pcms]
+Recharged with coffee milk, I decided to take a quick look at the[r]
+surroundings from the upper floor.[pcms]
 
 
 *7075|
 [fc]
-足を折った子の話だと、[r]
-丞実とはぐれたのは２階の非常階段近くらしい。[pcms]
+According to the kid with the broken leg, Tsugumi got separated near[r]
+the emergency stairs on the second floor.[pcms]
 
 
 *7076|
 [fc]
-俺は、合宿所の一番南側に移動すると、[r]
-同じ高さの２階から窓を開けて、その辺りを見渡してみた。[pcms]
+I moved to the southernmost part of the lodge and opened a window on[r]
+the second floor at the same height to survey the area.[pcms]
 
 ;;//★グラウンド・朝昼
 [bg storage="BG20a"][trans_c cross time=500]
@@ -87,14 +86,14 @@
 
 *7077|
 [fc]
-外には、結構な数の感染者がうろついている。[r]
-冷静に上から眺めていると、かなり怖い絵になっていた。[pcms]
+Outside, a considerable number of infected were wandering around. It[r]
+was quite a scary sight when viewed calmly from above.[pcms]
 
 
 *7078|
 [fc]
-[ns]克己[nse]
-「くそっ……」[pcms]
+[ns]Kazumi[nse]
+"Damn it..."[pcms]
 
 ;;//★汎用背景C・朝昼
 [bg storage="BG29a"][trans_c cross time=500]
@@ -102,84 +101,82 @@
 
 *7079|
 [fc]
-南の非常階段の辺りは何とか見えるが、[r]
-そこに丞実の姿は無い。[pcms]
+I could somewhat see the area around the southern emergency stairs,[r]
+but Tsugumi was nowhere to be found.[pcms]
 
 
 *7080|
 [fc]
-教室の中の様子を確認したいところだったけれど、[r]
-距離もあるし角度的にも見にくい位置で、[r]
-窓も太陽の反射で良くわからなかった。[pcms]
+I wanted to check inside the classrooms, but they were too far away[r]
+and at a difficult angle to see clearly, and the windows were hard to[r]
+make out due to the reflection of the sun.[pcms]
 
 
 *7081|
 [fc]
-俺は、その非常階段を追うようにしながら、[r]
-視線を少しずつ上にあげていく。[pcms]
+I followed the emergency stairs with my eyes, gradually lifting my[r]
+gaze upwards.[pcms]
 
 
 *7082|
 [fc]
-丞実が逃げるなら、下じゃなくて上だろう。[pcms]
+If Tsugumi were to run away, she would go up, not down.[pcms]
 
 
 *7083|
 [fc]
-するとそこには、感染したらしい女の子に、[r]
-男が組み付かれて暴れている姿があった。[pcms]
+Then I saw a girl who seemed to be infected, struggling as a man[r]
+grappled with her.[pcms]
 
 
 *7084|
 [fc]
-先生だろうか……必死に抵抗しているが、[r]
-組み付かれてしまってはどうにも……。[pcms]
+Was it a teacher...? He was desperately resisting, but once grappled,[r]
+there was little he could do...[pcms]
 
 
 *7085|
 [fc]
-[ns]克己[nse]
-「あっ！」[pcms]
+[ns]Kazumi[nse]
+"Ah!"[pcms]
 
 
 *7086|
 [fc]
-その男性が女の子と揉み合いながら、[r]
-階段の手すりから、するっと滑るように落ちていった。[pcms]
+While struggling with the girl, the man slipped from the handrail of[r]
+the stairs and fell down.[pcms]
 
 
 *7087|
 [fc]
-滞空時間は、ほんの１秒ほど。[pcms]
+The time he was airborne was only about a second.[pcms]
 
 
 *7088|
 [fc]
-落下して、地面に打ち付けられた男性は、[r]
-そのままぴくりとも動かなかった。[pcms]
+The man who fell and hit the ground didn't move an inch afterward.[pcms]
 
 
 *7089|
 [fc]
-そこに、感染者たちが集まってくる。[pcms]
+The infected began to gather around him.[pcms]
 
 
 *7090|
 [fc]
-[ns]克己[nse]
-「ぐっ……」[pcms]
+[ns]Katsumi[nse]
+"Guh..."[pcms]
 
 
 *7091|
 [fc]
-俺は、生唾を飲み込みながら、[r]
-いつのまにか流れていた冷や汗をぬぐい取る。[pcms]
+I swallowed my saliva and wiped away the cold sweat that had formed[r]
+without me realizing it.[pcms]
 
 
 *7092|
 [fc]
-こんなところに丞実がいるのか？[r]
-本当に……？[pcms]
+Is Tsugumi really down there...?[pcms]
 
 ;;//m:以下どこにいるのかいまいち把握できぬ。テキスト要修正か。背景どれ貼れば
 
@@ -187,19 +184,20 @@
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 ;;//気を取り直して教室を確認していると、
-;;//正面の見やすい窓の近くに、誰かが姿を現した。[pcms]
+;;//Should I check for someone visible near the clear windows in[r]
+front?[pcms]
 
 
 *7093|
 [fc]
-気を取り直して見えやすい位置の教室の窓を確認していると、[r]
-その一つに誰かが姿を現した。[pcms]
+Regaining my composure, I checked the windows of the classrooms that[r]
+were easy to see, and someone appeared in one of them.[pcms]
 
 
 *7094|
 [fc]
-ジャージ姿の女の子が、驚いた様子で、[r]
-こちらを見つめ、立ち止まった。[pcms]
+A girl in a jersey looked surprised as she stared at me and stopped in[r]
+her tracks.[pcms]
 
 ;;//★学園教室・朝昼
 [bg storage="BG30a"][trans_c cross time=500]
@@ -208,49 +206,46 @@
 
 *7095|
 [fc]
-[ns]克己[nse]
-「え……？　つっ、丞実っ！？」[pcms]
+[ns]Kazumi[nse]
+"Eh...? Tsu-Tsugumi!?"[pcms]
 
 
 *7096|
 [fc]
-丞実の姿を確認した瞬間、思考回路が一瞬ショートして、[r]
-自制心を失わせた。[pcms]
+The moment I confirmed Tsugumi's figure, my thought process short-[r]
+circuited, and I lost my self-control.[pcms]
 
 
 *7097|
 [fc]
-俺は、周りに感染者がいるのも忘れ、[r]
-勢いよく窓を開けると、少し離れた位置の丞実に向かい、[r]
-大声で叫んでいた。[pcms]
+I forgot about the infected around me and flung open the window with[r]
+force, shouting loudly towards Tsugumi who was a little distance away.[pcms]
 
 
 *7098|
 [fc]
-[ns]克己[nse]
-「おい丞実ぃいっ！！　大丈夫かっ！？[r]
-　おおぉおおぃ！！！　おおおぉおぃいい！！！」[pcms]
+[ns]Kazumi[nse]
+"Hey Tsugumi!! Are you okay!? Heyyyyyy!! Heeeyyyyy!!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug05"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
 
 *7099|
 [fc]
-口元に手を当て叫ぶと、窓ガラスの奥に見える丞実は、[r]
-小さな体を大きく振って、宙にバツ印を描き、[r]
-何度も何度も、窓の下を指さした。[pcms]
+As I shouted with my hand over my mouth, Tsugumi behind the window[r]
+glass gestured wildly with her small body, drawing an X in the air and[r]
+repeatedly pointing down below the window.[pcms]
 
 
 *7100|
 [fc]
-[ns]克己[nse]
-「なに！？　下……あ！！」[pcms]
+[ns]Kazumi[nse]
+"What!? Below... Ah!!"[pcms]
 
 
 *7101|
 [fc]
-丞実の動きにハッとした俺は、[r]
-窓の下に目を落とす。[pcms]
+Alerted by Tsugumi's movements, I looked down below the window.[pcms]
 
 ;;//★グラウンド・朝昼
 [bg storage="BG20a"][trans_c cross time=300]
@@ -264,51 +259,50 @@
 
 *7102|
 [fc]
-[ns]感染者男Ａ[nse]
-「あばばば！　あぶぶぶうああぁあっ！！」[pcms]
+[ns]Infected Man A[nse]
+"Abababa! Abububuuaaah!!"[pcms]
 
 
 *7103|
 [fc]
-[ns]感染者男Ｂ[nse]
-「おっ……おおぉおお、お、おお、おおぉぉおぉっ！！[r]
-　おお、おりてこいぃぃいやぁああぁ！！！」[pcms]
+[ns]Infected Man B[nse]
+"Ohh...ohhhhh, oh, ohh, ohhhhhhh!! Come down hereeeeee!!"[pcms]
 
 
 *7104|
 [fc]
-[ns]感染者男Ｃ[nse]
-「んぎぃあああぁ！！！！」[pcms]
+[ns]Infected Man C[nse]
+"Ngyiiaaaah!!!!"[pcms]
 
 
 *7105|
 [fc]
-[ns]克己[nse]
-「キャ――――――――！？」[pcms]
+[ns]Kazumi[nse]
+"Kyaaaa--------!?"[pcms]
 
 
 *7106|
 [fc]
-当然のことのように、そこには感染者が沢山集まって、[r]
-俺の方を見上げていた。[pcms]
+As expected, many infected had gathered below and were looking up at[r]
+me.[pcms]
 
 
 *7107|
 [fc]
-俺は大慌てで首を引っ込めると、[r]
-開いたときと同じくらい勢いよく窓ガラスを閉じた。[pcms]
+In a panic, I pulled my head back in and closed the window glass as[r]
+forcefully as I had opened it.[pcms]
 
 
 *7108|
 [fc]
-[ns]克己[nse]
-「あぁぁ……どうしたもんかな」[pcms]
+[ns]Katsumi[nse]
+"Ahhh... What should I do now?"[pcms]
 
 
 *7109|
 [fc]
-息を荒くしたまま、窓ガラスにそっと顔を近づけ、[r]
-丞実の方を見る。[pcms]
+Still breathing heavily, I cautiously brought my face close to the[r]
+window glass and looked towards Tsugumi.[pcms]
 
 ;;//★学園教室・朝昼
 [bg storage="BG30a"][trans_c cross time=500]
@@ -317,8 +311,8 @@
 
 *7110|
 [fc]
-[ns]克己[nse]
-「ん……？」[pcms]
+[ns]Kazumi[nse]
+"Hmm...?"[pcms]
 
 [move layer=5 time=300 path='&@"(${&sf.move調整*150},${&sf.move調整*7},255)"'][wm]
 [move layer=5 time=300 path='&@"(${&sf.move調整*300},${&sf.move調整*7},255)"'][wm]
@@ -329,48 +323,48 @@
 
 *7111|
 [fc]
-窓ガラス越しの丞実は、体を大きく振り動かしている。[pcms]
+Tsugumi, seen through the window glass, was shaking her body[r]
+vigorously.[pcms]
 
 
 *7112|
 [fc]
-[ns]克己[nse]
-「ンンン！？」[pcms]
+[ns]Kazumi[nse]
+"Nnn!?"[pcms]
 
 
 *7113|
 [fc]
-階下には感染者がウヨウヨいて、俺達を狙っている。[pcms]
+Below, the infected were swarming, targeting us.[pcms]
 
 
 *7114|
 [fc]
-そんな中で丞実は、[r]
-素人がデタラメにダンスしてるみたいな滑稽な動きを、[r]
-何度も何度も繰り返している。[pcms]
+In the midst of this, Tsugumi kept repeating a comical movement, like[r]
+an amateur dancing nonsensically, over and over again.[pcms]
 
 
 *7115|
 [fc]
-[ns]克己[nse]
-「ンン～～～！？」[pcms]
+[ns]Kazumi[nse]
+"Nnn~~~!?"[pcms]
 
 
 *7116|
 [fc]
-思わず吹きだしてしまいそうになるのを堪え、[r]
-丞実の動きに目を集中させる。[pcms]
+I had to suppress the urge to burst out laughing and focused on[r]
+Tsugumi's movements.[pcms]
 
 
 *7117|
 [fc]
-丞実は、人差し指で俺と地面を交互に指さした後、[r]
-あざといくらい大きく首を捻る。[pcms]
+Tsugumi alternated pointing at me and the ground with her index[r]
+finger, then twisted her neck exaggeratedly.[pcms]
 
 
 *7118|
 [fc]
-その動きに合わせ、俺も大きく首を捻る。[pcms]
+Following her movements, I also twisted my neck greatly.[pcms]
 
 [move layer=5 time=300 path='&@"(${&sf.move調整*150},${&sf.move調整*7},255)"'][wm]
 [move layer=5 time=300 path='&@"(${&sf.move調整*300},${&sf.move調整*7},255)"'][wm]
@@ -381,148 +375,142 @@
 
 *7119|
 [fc]
-すると、丞実はもう一度同じ動きを、[r]
-顔を真っ赤にしながら繰り返した。[pcms]
+Then, Tsugumi repeated the same movements again, her face turning red.[pcms]
 
 
 *7120|
 [fc]
-[ns]克己[nse]
-「あ！　あれってもしかしてジェスチャーか！？[r]
-　でもアイツ、何してんだかさっぱりわかんねえよ！！」[pcms]
+[ns]Kazumi[nse]
+"Ah! Is that a gesture!? But I have no idea what she's doing!!"[pcms]
 
 
 *7121|
 [fc]
-まてまて、キレてても仕方ない。[r]
-もう一度冷静になって、よく見てみるんだ。[pcms]
+Calm down, getting angry won't help. Let's take another calm look at[r]
+this.[pcms]
 
 
 *7122|
 [fc]
-すると、丞実はやはり地面を指さした後、俺を指さし、[r]
-そして、首を捻る。[pcms]
+Again, Tsugumi pointed at the ground, then at me, and twisted her[r]
+neck.[pcms]
 
 
 *7123|
 [fc]
-[ns]克己[nse]
-「ん～……あれは、ここ？　俺？　何故ホワイ？[r]
-　あ～……俺が、なんでここにいるかって事か？[r]
-　ちと強引だが、きっとそうだろ」[pcms]
+[ns]Kazumi[nse]
+"Hmm... Is that here? Me? Why? Ah... Is she asking why I'm here? It's[r]
+a bit of a stretch, but it must be it."[pcms]
 
 
 *7124|
 [fc]
-さて、どうやって返したモンかな……。[r]
-うーん、お前を助けに来た、って叫ぶだけでいいんだけどなあ……。[r]
-まあ、指刺すだけでわかるかな。[pcms]
+Now, how should I respond... Well, I could just shout that I came to[r]
+save her... Maybe she'll understand if I just point.[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug07"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
 
 *7125|
 [fc]
-そう決めた俺は、大きく口を開き、[r]
-お・ま・え、という形を作りながら、指を差し替えした。[pcms]
+Having decided, I opened my mouth wide and formed the words 'you',[r]
+while pointing my finger.[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug10"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
 
 *7126|
 [fc]
-瞬間、丞実は体の動きを止め、ちらっと目を床に落とした。[pcms]
+The moment I did, Tsugumi stopped moving and glanced down at the[r]
+floor.[pcms]
 
 
 *7127|
 [fc]
-よしよし、きっと伝わったんだ。[r]
-さて、次はどう返してくるか丞実ッ！[pcms]
+Good, good, she must have understood. Now, how will Tsugumi respond![pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug09"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
 
 *7128|
 [fc]
-すると今度は、体を動かさない状態で、[r]
-俺のしたように口を大きく開き、叫ぶようなそぶりをし始めた。[pcms]
+This time, without moving her body, she opened her mouth wide like I[r]
+did and began to gesture as if shouting.[pcms]
 
 
 *7129|
 [fc]
-丞実の口の動きは『ど・う・す・る・？』と読み取れる。[pcms]
+Tsugumi's mouth movements could be read as "What. To. Do.?"[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug05"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
 
 *7130|
 [fc]
-[ns]克己[nse]
-「どうするつってもなぁ……行くしかねえよなあ……」[pcms]
+[ns]Kazumi[nse]
+"What to do, you ask... There's nothing to do but go..."[pcms]
 
 
 *7131|
 [fc]
-次第にやりとりに慣れてきた俺は、[r]
-今度は体の動きも織り交ぜ、口を動かす事にした。[pcms]
+Getting used to the exchange, I decided to incorporate body movements[r]
+along with mouthing words.[pcms]
 
 
 *7132|
 [fc]
-まず、指で丞実を指刺す。[pcms]
+First, I pointed at Tsugumi with my finger.[pcms]
 
 
 *7133|
 [fc]
-次に、自分の胸を指刺す。[pcms]
+Next, I pointed at my own chest.[pcms]
 
 
 *7134|
 [fc]
-最後に、丞実に手を向け、親指を突き立てながら、[r]
-口を開く。[pcms]
+Finally, I turned my hand towards Tsugumi and thrust my thumb up while[r]
+opening my mouth.[pcms]
 
 
 *7135|
 [fc]
-[ns]克己[nse]
-「お・れ・に・ま・か・せ・ろ」[pcms]
+[ns]Kazumi[nse]
+"Leave. It. To. Me."[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug14"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
 
 *7136|
 [fc]
-すると丞実はすぐに理解したのか、顔の前に手を垂直に立て、[r]
-首と共に左右に大きく振った。[pcms]
+Immediately, Tsugumi seemed to understand and stood her hand[r]
+vertically in front of her face, shaking her head and hand left and[r]
+right significantly.[pcms]
 
 
 *7137|
 [fc]
-さすが俺達は血の繋がった兄妹だ。[r]
-相手の言いたいことが伝わる。[r]
-これぞ以心伝心ってやつか。[pcms]
+We really are siblings connected by blood. We understand what the[r]
+other wants to say. This must be what they call telepathy.[pcms]
 
 
 *7138|
 [fc]
-っつーかアイツ……。[r]
-何あれ、無理無理無理って事？[r]
-わかってねえな……俺の勇者っぷり、見せてやンぜ？[pcms]
+But that girl... What's that? Impossible, impossible? She doesn't[r]
+understand... Time to show her my heroics![pcms]
 
 
 *7139|
 [fc]
-もう一度念を押す為、俺はバットを構え、[r]
-力一杯素振りをした後、ホームラン予告よろしく、[r]
-丞実の方に、バットの先端を突きつけた。[pcms]
+To emphasize my point once more, I took a stance with the bat and[r]
+swung it with all my might before pointing the tip towards Tsugumi as[r]
+if predicting a home run.[pcms]
 
 
 *7140|
 [fc]
-[ns]克己[nse]
-「任せとけって、丞実。[r]
-　俺ァ、打率３割のスーパーバッターなんだぜ？」[pcms]
+[ns]Kazumi[nse]
+"Leave it to me, Tsugumi. I'm a super batter with a .300 average."[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug05"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
@@ -531,84 +519,81 @@
 
 *7141|
 [fc]
-すぐに丞実の体が動き、[r]
-首を振りながら、指を二本立てて引っ込め、直後に五本、[r]
-俺へと突きつけた直後、こめかみの横で指をクルクルと回した。[pcms]
+Immediately, Tsugumi moved, shaking her head while retracting two[r]
+fingers and then thrusting five fingers towards me before twirling[r]
+them beside her temple.[pcms]
 
 
 *7142|
 [fc]
-[ns]克己[nse]
-「ンまー！　失礼しちゃうッ！　二割五分って事！？[r]
-　しかもアレ、俺の事バカにしてんな！？[r]
-　クルクルパーァ！？　くそッ！　あのクソガキ！！」[pcms]
+[ns]Kazumi[nse]
+"Nma-! How rude! Two-fifty average!? And that gesture, is she making[r]
+fun of me!? Spinning around!? Damn it! That brat!!"[pcms]
 
 
 *7143|
 [fc]
-バカって言うヤツがバカなんだ！[pcms]
+The one who calls others stupid is the stupid one![pcms]
 
 
 *7144|
 [fc]
-[ns]克己[nse]
-「バカって言うなン馬鹿！　もー死ねや！！」[pcms]
+[ns]Kazumi[nse]
+"Don't call me stupid, you idiot! Just die already!!"[pcms]
 
 
 *7145|
 [fc]
-俺も負けじとこめかみの横で指をクルクル回し、[r]
-最後に、親指を地面に向けて、首の前を横一文字に動かした。[pcms]
+I too spun my finger beside my temple without losing out and then[r]
+moved my thumb towards the ground and swept it horizontally in front[r]
+of my neck.[pcms]
 
 
 *7146|
 [fc]
-[ns]克己[nse]
-「ふふっ……どうだ悔しいか？　悔しいかぁ？[r]
-　はははっ！　あ、さっさと行かないと。[r]
-　待ってろ丞実ッ！！」[pcms]
+[ns]Kazumi[nse]
+"Heh heh... How's that? Frustrating? Frustrating? Hahaha! Oh, I better[r]
+get going. Hang on Tsugumi!!"[pcms]
 
 
 *7147|
 [fc]
-もう一度バットで丞実を刺し、口を開く。[pcms]
+Once again, I pointed at Tsugumi with the bat and opened my mouth.[pcms]
 
 
 *7148|
 [fc]
-[ns]克己[nse]
-「そ・こ・で・ま・っ・て・ろ・！[r]
-　う・ご・く・な・よ・！」[pcms]
+[ns]Kazumi[nse]
+"Stay right there! Don't move!"[pcms]
 
 
 *7149|
 [fc]
-それに対して、丞実はまたしてもこめかみの横で指を回し、[r]
-バ・カ・！　と口を動かした。[pcms]
+In response, Tsugumi once again twirled her finger beside her temple[r]
+and mouthed the word 'Idiot!'[pcms]
 
 
 *7150|
 [fc]
-[ns]克己[nse]
-「きぃぃいっ！！　なんて口の悪いヤツだ！！」[pcms]
+[ns]Kazumi[nse]
+"Grrr!! What a foul-mouthed brat!!"[pcms]
 
 
 *7151|
 [fc]
-だけど、まあ、無事で良かった……。[pcms]
+But, well, thank goodness she's safe...[pcms]
 
 
 *7152|
 [fc]
-[ns]克己[nse]
-「よし！　待ってろよ丞実！[r]
-　必ず俺が助け出したやるから！」[pcms]
+[ns]Kazumi[nse]
+"Alright! Wait for me, Tsugumi! I'll definitely come to save you!"[pcms]
 
 
 *7153|
 [fc]
-走り出す前にもう一度丞実に、親指を立て、[r]
-まっすぐに腕を突きつけた。[pcms]
+Before running off, I once again pointed at Tsugumi with my thumb up,[r]
+thrusting my arm straight out.[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug10"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 [wait time=1000]
@@ -617,9 +602,8 @@
 
 *7154|
 [fc]
-丞実はまた、目を床に落とし、[r]
-直後、はにかんだような笑いを浮かべ、[r]
-手を振り替えしていた。[pcms]
+Tsugumi then looked down at the floor, and shortly after, a shy smile[r]
+appeared on her face as she waved her hand back and forth.[pcms]
 
 ;;//BGMフェードアウト
 [fadeoutbgm time=1000]

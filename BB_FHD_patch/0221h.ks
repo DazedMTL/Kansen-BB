@@ -1,5 +1,5 @@
 *0221H_TOP
-[SceneSet t="楽園Ⅰ"]
+[SceneSet t="楽園"]
 
 ;;//--------------------------
 ;;//回想なのか通常プレイなのかの分岐判断
@@ -24,24 +24,23 @@
 ;;//★空・朝昼A
 [bg storage="BG31a"][trans_c cross time=500]
 
-;[ns]感染少女アキラＢ[nse]
-;[ns]感染少女ハルキＢ[nse]
+[ns]Infected Girl Akira B[nse]
+[ns]Infected Girl Haruki B[nse]
 ;mmmm 末尾のBはバイノーラル台本用につけてるやつか消さないと、。
 
 *1677|
 ;旧ナンバー[vo_ms="akira0001"]
 [マイク 位置９][vo_mob s="R_akira0001"]
-[ns]感染少女アキラ[nse]
-「あついよ……おまんこ、あついよぉ……ねえ、[r]
-　おじさん、おまんこにいれて……かきまわしてぇ……」[pcms]
+[ns]Infected Girl Akira[nse]
+"It's so hot... my pussy, it's so hot... hey, mister, put it in my[r]
+pussy... stir it up..."[pcms]
 
 
 *1678|
 ;旧ナンバー[vo_m s="haruki0001"]
 [マイク 位置９][vo_mob s="R_haruki0001"]
-[ns]感染少女ハルキ[nse]
-「あたしも、あたしも～！　あッはははッ！！[r]
-　せっくすしようよおぉおっ！！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Me too, me too~! Ahahaha!! Let's have sex!!"[pcms]
 
 ;;//★大橋の住宅街・朝昼
 ;;//[bg storage="BG09a"]
@@ -68,38 +67,37 @@
 
 *1679|
 [fc]
-沢山の感染者が円になって迫り、[r]
-逃げ道は次第に塞がれつつある。[pcms]
+A horde of infected surrounds in a circle, gradually closing off any[r]
+escape.[pcms]
 
 
 *1680|
 [fc]
-前後左右全て、涎を垂らし目を光らせる感染者に取り囲まれ、[r]
-足がすくみ、体を動かす事が出来なくなっていく。[pcms]
+Surrounded by infected on all sides, drooling and eyes gleaming, my[r]
+legs freeze, and I can no longer move my body.[pcms]
 
 
 *1681|
 [fc]
-飢えた狼の群れの中で震える羊って、こんな気分なのかな。[pcms]
+I wonder if this is how a sheep trembling among a pack of hungry[r]
+wolves feels.[pcms]
 
 
 *1682|
 [fc]
-…………。[r]
-……。[pcms]
+... ...[pcms]
 
 
 *1683|
 [fc]
-いや、そんな事を考えている余裕なんてないんだ。[pcms]
+No, I don't have the luxury to think about such things.[pcms]
 
 
 *1684|
 [fc]
-[ns]克己[nse]
-「くっ……くそおおっ！！[r]
-　こうなりゃ……戦略的撤退だ！[r]
-　こんな奴らに突っ込むなんて自殺行為だぜ！！」[pcms]
+[ns]Kazumi[nse]
+"Damn it... damn it all!! This calls for... a strategic retreat![r]
+Charging into these guys would be suicide!!"[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c lr time=301][hide_chara_int]
@@ -108,33 +106,32 @@
 *1685|
 ;旧ナンバー[vo_m s="youen0000"]
 [vo_mob s="R_youen0001"]
-[ns]妖艶な感染者[nse]
-「ふふ……わたしたちとあそばないの？[r]
-　ふふっ……うふふっ……」[pcms]
+[ns]Bewitching Infected[nse]
+"Hehe... won't you play with us? Hehe... ufufu..."[pcms]
 
 
 *1686|
 [fc]
-[ns]克己[nse]
-「え……？」[pcms]
+[ns]Kazumi[nse]
+"Eh...?"[pcms]
 
 
 *1687|
 [fc]
-逃げ出す為振り返ると、[r]
-そこには目と鼻の先に妖艶な女の人が鼻息も荒く、[r]
-俺の顔を覗き込んでいた。[pcms]
+As I turn to flee, right before my eyes, there's a bewitching woman[r]
+breathing heavily, peering into my face.[pcms]
 
 
 *1688|
 [fc]
-[ns]克己[nse]
-「うわぁぁああぁあっ！！！」[pcms]
+[ns]Kazumi[nse]
+"Uwaaaahhhhh!!!"[pcms]
 
 
 *1689|
 [fc]
-突然の事に驚き、思わず相手を突き飛ばしてしまう。[pcms]
+Surprised by the sudden event, I inadvertently push the other person[r]
+away.[pcms]
 
 [se buf1 storage="seB010"]
 ;;//♪SE打撃音
@@ -152,8 +149,8 @@
 *1690|
 ;旧ナンバー[vo_m s="youen0001"]
 [vo_mob s="R_youen0002"]
-[ns]妖艶な感染者[nse]
-「あ……あ……ああぁぁ……」[pcms]
+[ns]Bewitching Infected[nse]
+"Ah... ah... ahhh..."[pcms]
 
 ;;//★大橋の住宅街・朝昼
 [bg storage="BG09a"][trans_c lr time=301]
@@ -161,37 +158,37 @@
 
 *1691|
 [fc]
-豊満な胸に手があたり、感染者は切なげな声をあげ、[r]
-身もだえしながら地面に突っ伏した。[pcms]
+My hand hits her ample breasts, and the infected lets out a pained[r]
+moan, writhing on the ground.[pcms]
 
 
 *1692|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *1693|
 [fc]
-こんな状況じゃない所でこの人と出逢っていたら、[r]
-その場で押し倒していただろう。[pcms]
+If it weren't for this situation, I would have pinned her down right[r]
+then and there.[pcms]
 
 
 *1694|
 [fc]
-[ns]克己[nse]
-「だけど、今はそんな場合じゃないんだ！」[pcms]
+[ns]Kazumi[nse]
+"But now's not the time for that!"[pcms]
 
 
 *1695|
 [fc]
-道を塞ぐ感染者達を突き飛ばしながら、[r]
-民家の塀によじ登り、難を逃れた――[pcms]
+Pushing through the infected blocking the way, I climb over the fence[r]
+of a private house and escape the danger--[pcms]
 
 
 *1696|
 [fc]
-筈だった。[pcms]
+Or so I thought.[pcms]
 
 [se buf1 storage="seB014"]
 ;;//♪SE人間が倒れる音
@@ -210,8 +207,8 @@
 
 *1697|
 [fc]
-[ns]克己[nse]
-「ぐっ……う……うううっ……うわっ！？」[pcms]
+[ns]Kazumi[nse]
+"Guh... ugh... uuuuh... uwaah!?"[pcms]
 
 ;;//m:イベントトリミングあればここから
 
@@ -219,195 +216,185 @@
 *1698|
 ;旧ナンバー[vo_ms="akira0002"]
 [マイク 位置２][vo_mob s="R_akira0002"]
-[ns]感染少女アキラ[nse]
-「あ～、ねえ、おじさんあそぼうよ！[r]
-　ね？　ねえぇぇ？　あそぼう！」[pcms]
+[ns]Infected Girl Akira[nse]
+"Aww, hey mister, let's play! Hey? Heyyy? Let's play!"[pcms]
 
 
 *1699|
 ;旧ナンバー[vo_m s="haruki0002"]
 [マイク 位置８][vo_mob s="R_haruki0002"]
-[ns]感染少女ハルキ[nse]
-「おっさ～ん！　あたしも、あそびたいよ～！[r]
-　きゃはははッ！！　ね、アキラぁ……。[r]
-　つかまえときなよ！　きゃはははっ！！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Mister~! I want to play too~! Kyahahaha!! Hey, Akira... Catch him![r]
+Kyahahaha!!"[pcms]
 
 
 *1700|
 ;旧ナンバー[vo_ms="akira0003"]
 [マイク 位置２][vo_mob s="R_akira0003"]
-[ns]感染少女アキラ[nse]
-「うんっ！　おじさ～ん！　あははっ！　あっそぼ！？[r]
-　わたしのおまんちょで、あそぼうよおっ！」[pcms]
+[ns]Infected Girl Akira[nse]
+"Yeah! Mister~! Ahaha! Let's play!? Let's play with my pussy!"[pcms]
 
 
 *1701|
 ;旧ナンバー[vo_m s="haruki0003"]
 [マイク 位置８][vo_mob s="R_haruki0003"]
-[ns]感染少女ハルキ[nse]
-「ば～か……あたしが、さきだっての！[r]
-　ね～？　おっさーん……あたしのほうが、いいよねえ？」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Stupid... I'm first! Right~? Mister... I'm better, aren't I?"[pcms]
 
 
 *1702|
 [fc]
-塀から飛び降りて、[r]
-着地に失敗した俺を待ち構えていたのは、[r]
-観客の笑いじゃなくて、感染者の好奇の叫びだった。[pcms]
+Jumping down from the fence and failing to land properly, what awaited[r]
+me wasn't the laughter of an audience but the curious cries of the[r]
+infected.[pcms]
 
 
 *1703|
 [fc]
-[ns]克己[nse]
-「うっ……ううっ！！　は、離せっ！！[r]
-　やめろおおっ！！　俺に触るなあぁっ！！！」[pcms]
+[ns]Kazumi[nse]
+"Ugh... ughh!! Let go!! Stop it!! Don't touch me!!"[pcms]
 
 
 *1704|
 ;旧ナンバー[vo_m s="mama0002"]
 [マイク 位置９][vo_mob s="R_kanMAS0001"]
-[ns]感染者ママ[nse]
-「あら……アキラちゃん、ハルキちゃん……？[r]
-　いいの、みつけたね……いきのいい、チンポぉ……」[pcms]
+[ns]Infected Mama[nse]
+"Oh... Akira-chan, Haruki-chan...? You found a good one... a lively[r]
+dick..."[pcms]
 
 
 *1705|
 [fc]
-[ns]克己[nse]
-「うっ……うわぁっ！！[r]
-　ひっ、人の事魚みたいに言うんじゃねえよ！[r]
-　来るなっ！　こっち来るなぁぁっ！！」[pcms]
+[ns]Kazumi[nse]
+"Ugh... uwaah!! Don't talk about people like they're fish! Don't come[r]
+here! Stay away from me!!"[pcms]
 
 
 *1706|
 [fc]
-背後から伸びる細い腕は、俺の何倍も若い女の子のものだ。[r]
-なのに、いくら体をよじってみても、[r]
-一向に振り払うことが出来ない。[pcms]
+The slender arms reaching from behind belong to a girl much younger[r]
+than me. Yet no matter how much I twist my body, I can't shake her[r]
+off.[pcms]
 
 
 *1707|
 [fc]
-そんな状態の俺を嘲笑う様に、[r]
-二人の女の子が舌なめずりしながら、顔を近づける。[pcms]
+As if mocking my state, two girls lick their lips and bring their[r]
+faces closer.[pcms]
 
 
 *1708|
 [fc]
-[ns]克己[nse]
-「ううっ……くっ……くそっ！　くそおぉおっ！！」[pcms]
+[ns]Kazumi[nse]
+"Ugh... damn it... damn it all!!"[pcms]
 
 
 *1709|
 [fc]
-この段になって、初めて自分のうかつさを呪った。[pcms]
+It's only now that I curse my own carelessness.[pcms]
 
 
 *1710|
 [fc]
-わかっていた筈なのに、[r]
-感染者に対する警戒心を忘れていた事に対して。[pcms]
+I should have known better than to forget my vigilance against the[r]
+infected.[pcms]
 
 
 *1711|
 ;旧ナンバー[vo_ms="akira0004"]
 [マイク 位置２][vo_mob s="R_akira0004"]
-[ns]感染少女アキラ[nse]
-「ねね！　パパは？　パパもいっしょにあそばないの？」[pcms]
+[ns]Infected Girl Akira[nse]
+"Hey hey! Where's Papa? Isn't Papa going to play with us too?"[pcms]
 
 
 *1712|
 ;旧ナンバー[vo_m s="haruki0004"]
 [マイク 位置８][vo_mob s="R_haruki0004"]
-[ns]感染少女ハルキ[nse]
-「そうそう！　チンチンはおおいほうがいいもんねぇ！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"That's right! The more dicks the better!"[pcms]
 
 
 *1713|
 [fc]
-パパ……？　こいつら、親子なのか……？[r]
-親子でこんな会話するなんて、狂ってる……。[pcms]
+Papa...? Are these girls family? To have such a conversation as a[r]
+family, it's madness...[pcms]
 
 
 *1714|
 ;旧ナンバー[vo_m s="mama0003"]
 [マイク 位置９][vo_mob s="R_kanMAS0002"]
-[ns]感染者ママ[nse]
-「……パパァ？　ああ……あれは、もうダメね……。[r]
-　つかいものに、ならないもの……あんなの、いらないわ……。[r]
-　だから、そのチンポ……いいところにきたわぁ……ふふっ」[pcms]
+[ns]Infected Mama[nse]
+"...Papa? Ahh... that one's no good anymore... He's useless now... we[r]
+don't need something like that... So, that dick... came at just the[r]
+right time... hehe"[pcms]
 
 
 *1715|
 [fc]
-自分の旦那を、あんなのいらないだとか……。[r]
-なんて事を言ってるんだ、この女は？[pcms]
+To talk about her own husband like that... What is this woman saying?[pcms]
 
 
 *1716|
 [fc]
-男として、許せない。[pcms]
+As a man, I can't forgive this.[pcms]
 
 
 *1717|
 [fc]
-怒りに震える拳を握りしめ、[r]
-ふらふらと立つ感染者を睨み付けた。[pcms]
+I clenched my fists, trembling with anger, and glared at the[r]
+staggering infected.[pcms]
 
 
 *1718|
 [fc]
-[ns]克己[nse]
-「クソッ……！　この……え！？」[pcms]
+[ns]Kazumi[nse]
+"Damn it...! This...eh!?"[pcms]
 
 
 *1719|
 [fc]
-怒りの対象である感染者の赤黒い口元に、思わず目を向ける。[pcms]
+My eyes were inadvertently drawn to the reddish-black mouth of the[r]
+infected, the object of my anger.[pcms]
 
 
 *1720|
 [fc]
-一瞬だけだったけど、[r]
-何だか、爪のようなものが見えた気がする。[pcms]
+It was only for a moment, but I thought I saw something like claws.[pcms]
 
 
 *1721|
 [fc]
-まさか、あれは……。[r]
-まさか……。[pcms]
+No way, that can't be... No way...[pcms]
 
 
 *1722|
 ;旧ナンバー[vo_m s="mama0004"]
 [マイク 位置９][vo_mob s="R_kanMAS0003"]
-[ns]感染者ママ[nse]
-「そうだ、アキラ……ハルキ？[r]
-　ママが、いいことおしえてあげようかぁ……。[r]
-　ふふっ……うふふっ……」[pcms]
+[ns]Infected Mama[nse]
+"That's right, Akira...Haruki? Mama will teach you something nice...[r]
+hehe...ufufu..."[pcms]
 
 
 *1723|
 ;旧ナンバー[vo_m s="haruki0005"]
 [マイク 位置８][vo_mob s="R_haruki0005"]
-[ns]感染少女ハルキ[nse]
-「なあに？　ママぁ？　あ～……わかったぁ……。[r]
-　さっき、パパとやってたことだよね……」[pcms]
+[ns]Infected Girl Haruki[nse]
+"What is it? Mama? Ah~...I get it... It's what you were doing with[r]
+Papa earlier, right...?"[pcms]
 
 
 *1724|
 ;旧ナンバー[vo_ms="akira0005"]
 [マイク 位置２][vo_mob s="R_akira0005"]
-[ns]感染少女アキラ[nse]
-「わあぁ……きもちいいよね、アレ！！[r]
-　おじさ～ん！　あそぼうよぉ！！[r]
-　わたし、とくいだよおおっ！！　せっくす！！」[pcms]
+[ns]Infected Girl Akira[nse]
+"Wow...that feels good, doesn't it?! Mister! Let's play!! I'm really[r]
+good at it!! Sex!!"[pcms]
 
 
 *1725|
 [fc]
-[ns]克己[nse]
-「うわぁああぁあぁあぁっ！！」[pcms]
+[ns]Kazumi[nse]
+"Uwaaaahhhhh!!"[pcms]
 
 ;;//回想ここから
 
@@ -444,99 +431,93 @@
 
 *1726|
 [fc]
-一番小さな女の子が俺を引きたおし、地面に寝転がし、[r]
-一番はしゃいでいる女の子と、[r]
-一番年上の女が俺の股間を眺めて、ニヤけていた。[pcms]
+The smallest girl pulled me down and made me lie on the ground, while[r]
+the most excited girl and the oldest woman looked at my crotch and[r]
+smirked.[pcms]
 
 
 *1727|
 [fc]
-しかも、あろう事か目の前には、自分の息子がぶら下がり、[r]
-三人の女の子は、俺の顔をほぼ真上から見下ろしている。[pcms]
+And to make matters worse, my own son was dangling in front of me, as[r]
+the three girls looked down at my face from almost directly above.[pcms]
 
 
 *1728|
 [fc]
-つまり、俺は……ちんぐり返しの恰好にさせられていた。[pcms]
+In other words, I was... being put in a legs-up position.[pcms]
 
 
 *1729|
 ;旧ナンバー[vo_ms="akira0006"]
 [マイク 位置３][vo_mob s="R_akira0006"]
-[ns]感染少女アキラ[nse]
-「うわぁ……おしりのあな、ヒクヒクうごいてるぅ……」[pcms]
+[ns]Infected Girl Akira[nse]
+"Wow...the butt hole is twitching..."[pcms]
 
 
 *1730|
 ;旧ナンバー[vo_m s="haruki0006"]
 [マイク 位置７][vo_mob s="R_haruki0006"]
-[ns]感染少女ハルキ[nse]
-「きゃはっ！　ほんとだぁ！　アキラのオマンコみたい！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Kyaha! It's true! It's like Akira's pussy!"[pcms]
 
 
 *1731|
 ;旧ナンバー[vo_ms="akira0007"]
 [マイク 位置３][vo_mob s="R_akira0007"]
-[ns]感染少女アキラ[nse]
-「やっ……やぁあ……おねえちゃん、[r]
-　そんなこと、いわないでよ……はずかしいよぉ……」[pcms]
+[ns]Infected Girl Akira[nse]
+"No...noo...Onee-san, don't say things like that...it's[r]
+embarrassing..."[pcms]
 
 
 *1732|
 ;旧ナンバー[vo_m s="mama0005"]
 [マイク 位置１][vo_mob s="R_kanMAS0004"]
-[ns]感染者ママ[nse]
-「ほらぁ……ケンカしないの。[r]
-　じゃあ、ママがいろいろ、おしえてあげるね……。[r]
-　ほら……ヒクヒクしてるおしり、さわってみて？」[pcms]
+[ns]Infected Mama[nse]
+"Now, now...no fighting. Then, Mama will teach you various things...[r]
+Look, touch the twitching butt, why don't you?"[pcms]
 
 
 *1733|
 [fc]
-[ns]克己[nse]
-「え……え！　おい、止めろッ！[r]
-　俺はそんな趣味はねぇぞっ！！　おぃいいっ！！」[pcms]
+[ns]Kazumi[nse]
+"Eh...eh! Hey, stop it! I'm not into that kind of thing!! Oiiii!!"[pcms]
 
 
 *1734|
 ;旧ナンバー[vo_ms="akira0008"]
 [マイク 位置３][vo_mob s="R_akira0008"]
-[ns]感染少女アキラ[nse]
-「うん……なんどやっても、ドキドキするね……。[r]
-　さいしょは、かたーいんだぁ……しってる？　おねえちゃん」[pcms]
+[ns]Infected Girl Akira[nse]
+"Yeah...it's always so thrilling, no matter how many times we do it...[r]
+Did you know that at first it's hard? Onee-san"[pcms]
 
 
 *1735|
 ;旧ナンバー[vo_m s="haruki0007"]
 [マイク 位置７][vo_mob s="R_haruki0007"]
-[ns]感染少女ハルキ[nse]
-「……し、しってるわよ！[r]
-　も、もっとぬらさないと、いたいんじゃないの……？[r]
-　アキラ……」[pcms]
+[ns]Infected Girl Haruki[nse]
+"...I know that! If it's not wet enough, won't it hurt...? Akira..."[pcms]
 
 
 *1736|
 ;旧ナンバー[vo_ms="akira0009"]
 [マイク 位置３][vo_mob s="R_akira0009"]
-[ns]感染少女アキラ[nse]
-「そうだね、えへへ……あのね、おねえちゃん。[r]
-　おしりのあなに、ベロをいれるとよろこぶんだぁ……。[r]
-　んんっ……れるっ……んうううッ……」[pcms]
+[ns]Infected Girl Akira[nse]
+"That's right, ehehe...you know, Onee-san. If you put your tongue in[r]
+the butt hole, it feels good... Mmm...leru...nuuuu..."[pcms]
 
 
 *1737|
 [fc]
-[ns]克己[nse]
-「んっ……おうっ……！？　うっ……や、やめ……」[pcms]
+[ns]Kazumi[nse]
+"Nngh...ohh...!? Ugh...stop..."[pcms]
 
 
 *1738|
 ;旧ナンバー[vo_ms="akira0010"]
 [マイク 位置３][vo_mob s="R_akira0010"]
-[ns]感染少女アキラ[nse]
-「んっ……んんっ……んっ！　れるっ……ぷあっっ！！[r]
-　はぁっ……はぁっ……んぶっ……れるっ！[r]
-　んっ……じゅるうっ！　んううっ……んっ……」[pcms]
+[ns]Infected Girl Akira[nse]
+"Nngh...nnngh...nngh! Leru...puahhh!! Hahh...hahh...nbufu...leru![r]
+Ngh...juruu! Nuuuugh...nngh..."[pcms]
 
 ;mmmm これ止めなくてもいいんでは？
 [bgv_mob s="R_akira0010"]
@@ -544,115 +525,108 @@
 
 *1739|
 [fc]
-[ns]克己[nse]
-「ふっ……あ……お……おぉおっ……あ、あぁっ！」[pcms]
+[ns]Kazumi[nse]
+"Fuhh...ahh...ohh...ahh!"[pcms]
 
 
 *1740|
 [fc]
-尻の穴を舐められるなんて経験は今まで無かった。[r]
-それも、こんな子に。[pcms]
+I had never experienced having my ass licked before. And certainly not[r]
+by such a child.[pcms]
 
 
 *1741|
 [fc]
-そんな子がピンク色の舌を窄め、[r]
-俺の汚らしい部分を熱心に這い回し、突き入れている。[pcms]
+The child narrowed her pink tongue and eagerly crawled around and[r]
+thrust into my filthy part.[pcms]
 
 
 *1742|
 [fc]
-初めての経験、背徳的な行為――[r]
-そして単純に、肛門から与えられる強烈な刺激に、[r]
-全身に寒気に似た感覚が走る。[pcms]
+The first-time experience, the immoral act--and simply the intense[r]
+stimulation given from the anus sent a chill-like sensation throughout[r]
+my body.[pcms]
 
 
 *1743|
 ;旧ナンバー[vo_ms="akira0011"]
 [マイク 位置３][vo_mob s="R_akira0011"]
-[ns]感染少女アキラ[nse]
-「んんっ……ぷふぅ……ふふっ……これね、[r]
-　まえに、かれしに、してあげたの。そしたらぁ～、[r]
-　なきながら、しゃせいしてたんだよぉ～」[pcms]
+[ns]Infected Girl Akira[nse]
+"Nnngh...puffu...hehe...this, you see, I did it for my boyfriend[r]
+before. And then~ he was crying while he ejaculated."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_mob s="akira0010"]
 
 
 *1744|
 ;旧ナンバー[vo_m s="haruki0008"]
 [マイク 位置７][vo_mob s="R_haruki0008"]
-[ns]感染少女ハルキ[nse]
-「えっ……そ、そうなんだ……ふううぅ……あぁ……。[r]
-　お、オッサンのちんちん、すっごい……」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Eh...really? Fuuuu...ahh... The old man's dick is amazing..."[pcms]
 
 
 *1745|
 ;旧ナンバー[vo_m s="mama0006"]
 [マイク 位置１][vo_mob s="R_kanMAS0005"]
-[ns]感染者ママ[nse]
-「ふふ……アキラも、やるじゃない……。[r]
-　さすが、わたしの、こ……。[r]
-　いけないこ……ふふっ……ハルキもまけてられないわね」[pcms]
+[ns]Infected Mama[nse]
+"Hehe...Akira is doing well too... As expected of my chi... Naughty[r]
+child...hehe...Haruki can't lose either."[pcms]
 
 
 *1746|
 [fc]
-[ns]克己[nse]
-「んぅうっ……ふっ……あ……ひうっ！」[pcms]
+[ns]Kazumi[nse]
+"Nnghh...fuhh...ahh...hiuh!"[pcms]
 
 
 *1747|
 ;旧ナンバー[vo_m s="haruki0009"]
 [マイク 位置７][vo_mob s="R_haruki0009"]
-[ns]感染少女ハルキ[nse]
-「え……で、でも……うぅうん……そ、それより、[r]
-　なに、このオッサン……ヘンなこえ、だして！[r]
-　みっともない……やだあ……」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Eh...but...uhhhn...more than that, what's with this old man...making[r]
+weird noises! It's shameful...I hate it..."[pcms]
 
 
 *1748|
 [fc]
-うぅ……最高なのか……最悪なのか……。[r]
-こんな事を望んでいたわけじゃないけど……。[r]
-体は反応してしまう。[pcms]
+Ugh...whether this is the best or the worst... I didn't wish for this[r]
+to happen. But my body reacts.[pcms]
 
 
 *1749|
 [fc]
-ヌルヌルのベロが肛門に突き立てられ、[r]
-体の中を這い回されると、背筋にゾクゾクとした感覚が走り、[r]
-ペニスの先がじわりと熱くなる。[pcms]
+The slimy tongue thrust into my anus crawls inside me, sending shivers[r]
+up my spine and making the tip of my penis grow hot.[pcms]
 
 
 *1750|
 [fc]
-単にペニスを扱くのとは、全然違って、[r]
-内側から気持ち良くなる感じだった。[pcms]
+It was a different feeling from simply jerking off the penis; it felt[r]
+good from the inside out.[pcms]
 
 
 *1751|
 [fc]
-だけど、そんな事を言っている余裕はない。[r]
-このままだと、遅かれ早かれ殺されてしまう。[pcms]
+But there's no time to talk about such things. If this continues,[r]
+sooner or later I'll be killed.[pcms]
 
 
 *1752|
 [fc]
-いくら感染者とはいえ、[r]
-女の子達を殴るのに抵抗を感じ、躊躇してしまった。[pcms]
+Even though they are infected, I felt resistance and hesitated to hit[r]
+the girls.[pcms]
 
 
 *1753|
 [fc]
-それが、間違いだった――[pcms]
+That was a mistake--[pcms]
 
 
 *1754|
 ;旧ナンバー[vo_m s="mama0007"]
 [マイク 位置１][vo_mob s="R_kanMAS0006"]
-[ns]感染者ママ[nse]
-「ふふっ……アキラ……それだけじゃ、ダメよぉ……。[r]
-　もっと、いろいろ……シてあげなきゃぁ……。[r]
-　ふふっ……あー……あむっ……」[pcms]
+[ns]Infected Mama[nse]
+"Hehe...Akira...that alone isn't enough. You have to do more various[r]
+things for him... Hehe...ah-..amuu..."[pcms]
 
 ;;//s:差分金玉をくわえるママ
 [evcg storage="mob_H003b"][trans_c cross time=500]
@@ -660,168 +634,159 @@
 
 *1755|
 [fc]
-[ns]克己[nse]
-「ふっ……おっ……あ……あぁっ……」[pcms]
+[ns]Kazumi[nse]
+"Fuhh...ohh...ahh..."[pcms]
 
 
 *1756|
 ;旧ナンバー[vo_m s="mama0008"]
 [マイク 位置１][vo_mob s="R_kanMAS0007"]
-[ns]感染者ママ[nse]
-「うふっ……んんっ……れろっ……べろぉっ……。[r]
-　ちゅっ……んっ……ぷあぁ……タマタマが、きゅうってする。[r]
-　パパもこれ、すきだったのよ、ハルキ……アキラぁ……」[pcms]
+[ns]Infected Mama[nse]
+"Ufufu...nnnghh...lerroo...belooohh.... Chu..nngh..puahh.. The balls[r]
+are tightening up. Papa liked this too, Haruki...Akira..."[pcms]
 
 
 *1757|
 ;旧ナンバー[vo_ms="akira0012"]
 [マイク 位置３][vo_mob s="R_akira0012"]
-[ns]感染少女アキラ[nse]
-「んむっ……んっ、んっ……んんっ……ぷうっ……。[r]
-　そうなんだぁ～……れろっ……パパと、[r]
-　もっとあそびたかったなぁ～……んむうっ……」[pcms]
+[ns]Infected Girl Akira[nse]
+"Nmm...nn, nn...nnn...puu... That's right~...lerro...I wanted to play[r]
+more with Papa~...nmuu..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_mob s="akira0010"]
 
 
 *1758|
 ;旧ナンバー[vo_m s="haruki0010"]
 [マイク 位置７][vo_mob s="R_haruki0010"]
-[ns]感染少女ハルキ[nse]
-「はぁ……あぁ……ふうっ……す、すご……。[r]
-　おしりのあなも、ちんちんも、ドロドロになってる……。[r]
-　エッチぃ……」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Haa...ahh...fuu...amazing... Both my butt hole and dick are getting[r]
+all gooey... It's so lewd..."[pcms]
 
 
 *1759|
 [fc]
-尻の穴に加え、金玉まで舐められて、[r]
-俺の腰は完全に砕けそうになり、[r]
-ガクガクと痙攣を始めてしまっていた。[pcms]
+In addition to my ass, my balls were being licked, and my hips were[r]
+about to shatter completely, starting to tremble and convulse.[pcms]
 
 
 *1760|
 [fc]
-[ns]克己[nse]
-「はっ……あ……あぁ……くあぁあっ」[pcms]
+[ns]Kazumi[nse]
+"Hah...ah...ahh...kuuahhh!"[pcms]
 
 
 *1761|
 ;旧ナンバー[vo_m s="mama0009"]
 [マイク 位置１][vo_mob s="R_kanMAS0008"]
-[ns]感染者ママ[nse]
-「んむううぅっ……うぅぅっ！　ふうっ……！[r]
-　ちゅっ……れろっ……タマタマ、おいしいぃぃ……。[r]
-　フクロのつけねも、なめてあげる……ふうっ……」[pcms]
+[ns]Infected Mama[nse]
+"Nmuuuhh...uuuhh! Fuuh...! Chu...lerro...The balls taste so good...[r]
+I'll even lick the base of the sack for you...fuuh..."[pcms]
 
 
 *1762|
 ;旧ナンバー[vo_ms="akira0013"]
 [マイク 位置３][vo_mob s="R_akira0013"]
-[ns]感染少女アキラ[nse]
-「ぷっ……あはぁっ……！　あれぇ……。[r]
-　おしりのあな、やわらかくなってきたぁ……。[r]
-　かんじてきたんだね……ふふっ……」[pcms]
+[ns]Infected Girl Akira[nse]
+"Puuh...ahaha...! Ohh... The butt hole is getting softer... You're[r]
+starting to feel it, aren't you...fufu..."[pcms]
 
 
 *1763|
 ;旧ナンバー[vo_m s="mama0010"]
 [マイク 位置１][vo_mob s="R_kanMAS0009"]
-[ns]感染者ママ[nse]
-「れろっ……んぶっ……タマタマも、うえにあがってるわ……。[r]
-　しゃせいする、じゅんびね……。[r]
-　ふふっ……おとこって、みーんな、そう……わかりやすい……」[pcms]
+[ns]Infected Mama[nse]
+"Lerro...nmbu...The balls are rising up too... You're getting ready to[r]
+ejaculate... Fufu...men are all so easy to read..."[pcms]
 
 
 *1764|
 ;旧ナンバー[vo_ms="akira0014"]
 [マイク 位置３][vo_mob s="R_akira0014"]
-[ns]感染少女アキラ[nse]
-「あはは……やっぱりそうなんだね……。[r]
-　せいえき、びゅるうっって、でるんだね……」[pcms]
+[ns]Infected Girl Akira[nse]
+"Ahaha...I guess that's how it is, huh? The semen will spurt out,[r]
+right?"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_mob s="akira0010"]
 
 
 *1765|
 ;旧ナンバー[vo_m s="haruki0011"]
 [マイク 位置７][vo_mob s="R_haruki0011"]
-[ns]感染少女ハルキ[nse]
-「あっ……ははは……しゃ、しゃせい……。[r]
-　こんなに、まじかで……ちんちんからでるの、[r]
-　みれる……ごくっ……」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Ah...hahaha...ejaculation... To see it coming out from a dick up[r]
+close like this...gulp..."[pcms]
 
 
 *1766|
 [fc]
-三人ともペニスに視線を集中させながら、楽しそうに笑っている。[pcms]
+All three girls are laughing joyfully while focusing their gaze on the[r]
+penis.[pcms]
 
 
 *1767|
 [fc]
-[ns]克己[nse]
-「くっううううぅっ……」[pcms]
+[ns]Kazumi[nse]
+"Kuuuuuuuh..."[pcms]
 
 
 *1768|
 [fc]
-酷く屈辱的な状況に置かれて、[r]
-俺は情けないうめき声を上げることしか出来ない。[pcms]
+Placed in a terribly humiliating situation, all I can do is let out a[r]
+pathetic moan.[pcms]
 
 
 *1769|
 [fc]
-そんな中、俺は異変を感じだした。[pcms]
+In the midst of it all, I began to feel a change.[pcms]
 
 
 *1770|
 [fc]
-まるで頭の中が溶けて液体になってしまうような感覚と、[r]
-ぬるま湯に浸けられた様な、心地よい感覚を。[pcms]
+It was as if my brain was melting into liquid, and I felt a pleasant[r]
+sensation as if I were soaked in lukewarm water.[pcms]
 
 
 *1771|
 [fc]
-[ns]克己[nse]
-「はっ……あ……あぁあっ！　くうっ……うううっ！！」[pcms]
+[ns]Kazumi[nse]
+"Hah...ah...ahhh! Kuuu...uuuuh!!"[pcms]
 
 
 *1772|
 ;旧ナンバー[vo_m s="mama0011"]
 [マイク 位置１][vo_mob s="R_kanMAS0010"]
-[ns]感染者ママ[nse]
-「ふふっ……チンポから、よだれがいーっぱいでてる……。[r]
-　れろっ……あむっ……パパも、ほかのおとこも、[r]
-　みーんなそう……」[pcms]
+[ns]Infected Mama[nse]
+"Fufu...There's so much drool coming from the dick...[r]
+Lerro...amu...Papa and other men, they're all the same..."[pcms]
 
 
 *1773|
 ;旧ナンバー[vo_m s="mama0012"]
 [マイク 位置１][vo_mob s="R_kanMAS0011"]
-[ns]感染者ママ[nse]
-「せいえきが、すぐそこまであがってきてるのよ、アキラ……。[r]
-　もうすこしで、みれるわよ……しゃせい……ふふっ！[r]
-　れろっ！」[pcms]
+[ns]Infected Mama[nse]
+"The semen is almost there, Akira... Just a little more and you'll see[r]
+it...ejaculation...fufu! Lerro!"[pcms]
 
 
 *1774|
 ;旧ナンバー[vo_ms="akira0015"]
 [マイク 位置３][vo_mob s="R_akira0015"]
-[ns]感染少女アキラ[nse]
-「そうだね、ママ！　ビューって、だしちゃえっ！[r]
-　れろっ……れろっ！　んぶっ！　んっ……んんっ！！！」[pcms]
+[ns]Infected Girl Akira[nse]
+"That's right, Mama! Let it spurt out! Lerro...lerro! Nmbu![r]
+Nn...nnn!!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_mob s="akira0010"]
 
 
 *1775|
 [fc]
-[ns]克己[nse]
-「くっ……くぅうおぉおおぉっ！！[r]
-　ああぁああぁっ！！！」[pcms]
+[ns]Kazumi[nse]
+"Ku...kuuuooohhh!! Ahhhhhhh!!!"[pcms]
 
 
 *1776|
 [fc]
-二人の女の子の熱い口とヌルヌルの唾液が下半身を蕩けさせ、[r]
-同じく溶けた頭は、アッサリと我慢の限界を超えさせた。[pcms]
+The hot mouths of the two girls and their slippery saliva melted my[r]
+lower half, and my melted brain easily surpassed the limits of[r]
+endurance.[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -834,52 +799,47 @@
 
 *1777|
 [fc]
-[ns]克己[nse]
-「くあっ……あああぁあぁぁああぁっ！！！！」[pcms]
+[ns]Kazumi[nse]
+"Kuaaah...ahhhhhhhhhhhh!!!!!"[pcms]
 
 
 *1778|
 ;旧ナンバー[vo_m s="mama0013"]
 [マイク 位置１][vo_mob s="R_kanMAS0012"]
-[ns]感染者ママ[nse]
-「ぷっ……ふううっ！！　あっ……あははっ！！[r]
-　せいえき！　あはぁあっ！　くっさい、せいえきぃっ！」[pcms]
+[ns]Infected Mama[nse]
+"Puuh...fuuh!! Ah...ahaha!! Semen! Ahhaaah! Stinky semen!"[pcms]
 
 
 *1779|
 ;旧ナンバー[vo_ms="akira0016"]
 [マイク 位置３][vo_mob s="R_akira0016"]
-[ns]感染少女アキラ[nse]
-「わああぁあ！　しゃせいしたぁあっ！　あははっ！[r]
-　でもぉ、このていどでイッちゃうなんて、[r]
-　なさけないっ！　あっはははっ！！」[pcms]
+[ns]Infected Girl Akira[nse]
+"Waaaah! He ejaculated! Ahaha! But to cum from just this much is so[r]
+pathetic! Ahahaha!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_mob s="akira0010"]
 
 
 *1780|
 ;旧ナンバー[vo_m s="haruki0012"]
 [マイク 位置７][vo_mob s="R_haruki0012"]
-[ns]感染少女ハルキ[nse]
-「す、すごい……こんなになるんだ……。[r]
-　あぁ……マンコ、あっつくなっちゃった……。[r]
-　ふうっ……うぅふぅう……ちんちん……あぁ……」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Wow, it's amazing how it gets like this... Ahh...my pussy is getting[r]
+hot... Fuuh...oofuuu...dick...ahh..."[pcms]
 
 
 *1781|
 ;旧ナンバー[vo_m s="mama0014"]
 [マイク 位置１][vo_mob s="R_kanMAS0013"]
-[ns]感染者ママ[nse]
-「あらぁ……ハルキちゃん……。[r]
-　さみしいの？　それなら、ほらぁ……。[r]
-　チンポ、なめてみたら……？　おいしいから……ね？」[pcms]
+[ns]Infected Mama[nse]
+"Oh my, Haruki-chan... Are you feeling lonely? Then, here you go...[r]
+Why don't you try licking the dick? It's delicious, you know?"[pcms]
 
 
 ;	*1782|
 ;	;旧ナンバー[vo_ms="akira0017"]
 ;	[マイク 位置３][vo_mob s="R_akira0017"]
-;	[ns]感染少女アキラ[nse]
-;	「う……うん……んんううぅ……あぁ……ちんちん……。[r]
-;	　ふぅ……あ……あむ……」[pcms]
+[ns]Infected Girl Akira[nse]
+"Uh...yeah...nnnuuuu...ahh...dick. Fuu...ah...amu..."[pcms]
 ;mmmm 欠番にされてるらしい。なんでだ？　↑のママの台詞みると、これハルキの話者名ミスってことか。
 
 
@@ -899,69 +859,66 @@
 
 *1783|
 [fc]
-[ns]克己[nse]
-「ふっ……はっ……あ！　はあぁあっ！！！」[pcms]
+[ns]Kazumi[nse]
+"Fuhh...hahh..ah! Haaaahhh!!!"[pcms]
 
 
 *1784|
 [fc]
-亀頭に小さな熱い唇が触れ、[r]
-裏筋にはおずおずと伸ばされた舌が添えられる。[pcms]
+A small hot pair of lips touched the glans, and a hesitant tongue was[r]
+laid along the frenulum.[pcms]
 
 
 *1785|
 [fc]
-たったそれだけの事なのに、[r]
-射精した直後の敏感なペニスは派手に反応して、[r]
-尿道に残っていた精液を勢いよく噴き出させた。[pcms]
+Even though it was just that, the sensitive penis right after[r]
+ejaculation reacted dramatically, forcefully spurting out the semen[r]
+that remained in the urethra.[pcms]
 
 
 *1786|
 ;旧ナンバー[vo_m s="haruki0013"]
 [マイク 位置７][vo_mob s="R_haruki0013"]
-[ns]感染少女ハルキ[nse]
-「ふっ……ふああぁっ！！　あっ！　ああっ！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Fuhh...fuuaaah!! Ah! Aaah!"[pcms]
 
 
 *1787|
 ;旧ナンバー[vo_ms="akira0018"]
 [マイク 位置３][vo_mob s="R_akira0018"]
-[ns]感染少女アキラ[nse]
-「あはぁ……すっごい！　おねえちゃん、テクニシャン！[r]
-　でもね、もっと……ぜんたいをペロペロしてあげたほうが、[r]
-　よろこぶよぉ～？」[pcms]
+[ns]Infected Girl Akira[nse]
+"Ahhaa...amazing! Big sister is a technician! But you know, it would[r]
+make him happier if you licked his whole body more~?"[pcms]
 
 
 *1788|
 ;旧ナンバー[vo_m s="mama0015"]
 [マイク 位置１][vo_mob s="R_kanMAS0014"]
-[ns]感染者ママ[nse]
-「そうねぇ……くちびるで、チンポをしごいてあげるのも、[r]
-　いいわよ……ほらぁ……やってみて、ハルキ？」[pcms]
+[ns]Infected Mama[nse]
+"That's right... Using your lips to jerk off the dick is also good.[r]
+Here you go, try it, Haruki?"[pcms]
 
 
 *1789|
 ;旧ナンバー[vo_m s="haruki0014"]
 [マイク 位置７][vo_mob s="R_haruki0014"]
-[ns]感染少女ハルキ[nse]
-「う、うん……はぁ……あ……あむ……んんっ……。[r]
-　しょっぱい……ぬるぬる、する……パンパンでツルツルで……。[r]
-　あぁ……お、おいしい……れろっ……ぺろっ！！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Yes, yes..haa..ah..amu..nnn. Salty and slimy, swollen and smooth.[r]
+Ahh..it's delicious..lerro..pero!!"[pcms]
 
 
 *1790|
 [fc]
-[ns]克己[nse]
-「うっ！　はっ！　ああああああああぁっ！！」[pcms]
+[ns]Kazumi[nse]
+"Ugh! Hah! Aaaaaaaaaaah!!"[pcms]
 
 
 *1791|
 ;旧ナンバー[vo_ms="akira0019"]
 [マイク 位置３][vo_mob s="R_akira0019"]
-[ns]感染少女アキラ[nse]
-「ああぁ……おねえちゃん、けっこうじょうずじゃない……。[r]
-　しょじょのくせにぃ……あはぁ……わたしも、[r]
-　まけないぞぉ……あはぁ……れろっ！」[pcms]
+[ns]Infected Girl Akira[nse]
+"Aaahh..big sister is quite skilled. Despite being a virgin..ahaha..I[r]
+won't lose either..ahaha..lerro!"[pcms]
 
 [evcg storage="mob_H003e"][trans_c cross time=500]
 
@@ -969,63 +926,59 @@
 *1792|
 ;旧ナンバー[vo_m s="mama0016"]
 [マイク 位置１][vo_mob s="R_kanMAS0015"]
-[ns]感染者ママ[nse]
-「ふふっ……わたしも、まけてられないわぁ……。[r]
-　メインディッシュのまえに、ハルキも、[r]
-　はつせいえき……のんでみたらぁ？　ふふっ……あむっ！」[pcms]
+[ns]Infected Mama[nse]
+"Fufu..I can't lose either. Before the main dish, Haruki, why don't[r]
+you try drinking your first semen? Fufu..amu!"[pcms]
 
 
 *1793|
 ;旧ナンバー[vo_m s="haruki0015"]
 [マイク 位置７][vo_mob s="R_haruki0015"]
-[ns]感染少女ハルキ[nse]
-「うん……うん……はぁっ……はふっ……れろっ！[r]
-　ちゅっ……ちゅうううっ！　れろぉっ！[r]
-　じゅるるるっ！！！　うふううっ！！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Yes..yes..haa..hafu..lerro! Chu..chuuuu! Lerroo! Jurururu!!![r]
+Oofuuu!!"[pcms]
 
 
 *1794|
 [fc]
-[ns]克己[nse]
-「おっ……おおおっ！　うぅううっ！！！　はっ！　あぁあぁ！」[pcms]
+[ns]Kazumi[nse]
+"Ohh..oooooh! Uuuuuuh!!! Hah! Aaaaah!"[pcms]
 
 
 *1795|
 [fc]
-射精したばかりのペニスは赤い唇の中に飲み込まれ、[r]
-尻の穴も金玉も、全部がべとべとになるまで舐められ、[r]
-ふやけだしている。[pcms]
+The penis, just after ejaculation, was swallowed by red lips, and both[r]
+the ass and balls were licked until they were sticky and soggy.[pcms]
 
 
 *1796|
 [fc]
-三人の女から責められるなんて、どれだけ幸せなんだろう。[r]
-そんな風に考えた事もあった。[pcms]
+Being tormented by three women was something I once thought would be[r]
+blissful.[pcms]
 
 
 *1797|
 [fc]
-こんな事、普通じゃできっこない。[r]
-それが初めての体験っていうんだから、[r]
-俺はきっと、幸せなんだろう。[pcms]
+Such a thing, it's not something you can normally do. And to think[r]
+it's my first experience, I must be pretty lucky.[pcms]
 
 
 *1798|
 [fc]
-――相手が感染者じゃなかったら、の話だ。[pcms]
+--That is, if my partner wasn't infected.[pcms]
 
 
 *1799|
 [fc]
-今、俺は感染者に囲まれて責め立てられている。[r]
-それは、死を意味する。[pcms]
+Right now, I'm being tormented by infected individuals. It signifies[r]
+death.[pcms]
 
 
 *1800|
 [fc]
-それが何度も頭の中に浮かんでくる。[r]
-だけど体はもう、快楽の渦の中に引き込まれてしまい、[r]
-抗うことなく、ただうめき声を上げていた。[pcms]
+That thought keeps surfacing in my mind. But my body has already been[r]
+sucked into the whirlpool of pleasure, helplessly moaning without[r]
+resistance.[pcms]
 
 [evcg storage="mob_H003d"][trans_c cross time=500]
 
@@ -1033,35 +986,32 @@
 *1801|
 ;旧ナンバー[vo_m s="mama0017"]
 [マイク 位置１][vo_mob s="R_kanMAS0016"]
-[ns]感染者ママ[nse]
-「タマタマが、またあがってきたわ……。[r]
-　ふふっ……まだまだげんきねぇ……。[r]
-　もうでそう？　でそうなのぉ？　ふふっ……」[pcms]
+[ns]Infected Mama[nse]
+"The balls, they're rising again... Fufu... still so energetic... Are[r]
+you going to cum? Are you about to cum? Fufu..."[pcms]
 
 
 *1802|
 ;旧ナンバー[vo_ms="akira0020"]
 [マイク 位置３][vo_mob s="R_akira0020"]
-[ns]感染少女アキラ[nse]
-「おしりのあな、きゅうきゅうしてきたぁ……。[r]
-　お、オマンコがイクときと、いっしょだね！[r]
-　んううぅっ！！　んぶっ……んんっ！　んんっ！」[pcms]
+[ns]Infected Girl Akira[nse]
+"Aaahh..my butt hole is tightening... Oh, it's just like when pussy[r]
+cums! Nguuuh!! Nbuu...nnn! Nnn!"[pcms]
 
 
 *1803|
 ;旧ナンバー[vo_m s="haruki0016"]
 [マイク 位置７][vo_mob s="R_haruki0016"]
-[ns]感染少女ハルキ[nse]
-「ぷあっ……はっ！　はぁ……はああっ！！[r]
-　れろっ……んぶっ……！　んんぅううぅっ！[r]
-　あっ……ああぁっ！　チンポ……チンポぉぉっ！！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Puaah...hah! Haa...haaaah!! Lero...nbuu...! Nnuuuuh! Ahh...ahaaah![r]
+Dick...dick!!"[pcms]
 
 
 *1804|
 [fc]
-[ns]克己[nse]
-「あ！　ああぁああっ！！！　くぉおああぁああぁあっ！！[r]
-　だっ……ダメだぁあっ！　また、出るううぅうっ！！」[pcms]
+[ns]Kazumi[nse]
+"Ah! Aaaaahhh!!! Kuoohaaaahhh!!! Noo...I can't! I'm going to cum[r]
+again!!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 [sysbt_meswin clear]
@@ -1076,10 +1026,9 @@
 *1805|
 ;旧ナンバー[vo_m s="mama0018"]
 [マイク 位置１][vo_mob s="R_kanMAS0017"]
-[ns]感染者ママ[nse]
-「あっ……ああぁあっ！！　でたぁっ！[r]
-　また、せいえきぃいっ！　あっはぁあぁっ！！[r]
-　アツいぃいっ！　ふぁあぁああぁ……！」[pcms]
+[ns]Infected Mama[nse]
+"Ah...ahaaahh!! It's out! More semen! Ahhaaahh!! It's hot![r]
+Fwaaahhh...!"[pcms]
 
 
 [bgvstop mob]
@@ -1087,78 +1036,73 @@
 *1806|
 ;旧ナンバー[vo_ms="akira0021"]
 [マイク 位置３][vo_mob s="R_akira0021"]
-[ns]感染少女アキラ[nse]
-「やっ……やああぁっ！　おしりのあな、キュウウッって！[r]
-　ベロ、ちぎられちゃううっ！　せいえき、いっぱいっ！[r]
-　はぁああっ！！　はあぁぁっ！！！」[pcms]
+[ns]Infected Girl Akira[nse]
+"No...yaaahh! My butt hole is clenching! My tongue, it's going to be[r]
+torn off! So much semen! Haaahh!! Haaahhh!!"[pcms]
 
 
 *1807|
 ;旧ナンバー[vo_m s="haruki0017"]
 [マイク 位置７][vo_mob s="R_haruki0017"]
-[ns]感染少女ハルキ[nse]
-「うっ……んあああぁっ！！　んぐっ……んっ……！！[r]
-　のどっ！　のどに、せいえきがあたるぅうっ！！[r]
-　ああぁああぁあ――――ッ！！！！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Ugh...nuuuaaahh!! Nguh...nn...!! My throat! Semen is hitting my[r]
+throat!! Aaaahhaaah----!!!"[pcms]
 
 
 *1808|
 [fc]
-[ns]克己[nse]
-「あ……あぁ……ああぁぁ……」[pcms]
+[ns]Kazumi[nse]
+"Ah...ahh...ahhaa..."[pcms]
 
 
 *1809|
 [fc]
-二度目の射精が、あっけなく訪れた。[pcms]
+The second ejaculation came all too easily.[pcms]
 
 
 *1810|
 [fc]
-初体験が、三箇所同時責めなんて、[r]
-我慢出来る筈なんか、ない。[pcms]
+My first experience being simultaneously pleasured in three places,[r]
+there's no way I could hold back.[pcms]
 
 
 *1811|
 [fc]
-何より、体に感じる異変が射精中枢を破壊し、[r]
-制御を失わせていく。[pcms]
+Above all, the strange sensation I feel in my body is destroying my[r]
+ejaculatory control, making me lose it.[pcms]
 
 
 *1812|
 [fc]
-フワフワする。[r]
-まるで、熱が出たかのように。[pcms]
+I feel light-headed. As if I've come down with a fever.[pcms]
 
 
 *1813|
 [fc]
-全身が熱い。[r]
-特に下腹部と、ペニスの先が猛烈に。[pcms]
+My whole body is hot. Especially my lower abdomen and the tip of my[r]
+penis, intensely so.[pcms]
 
 
 *1814|
 [fc]
-[ns]克己[nse]
-「……あぁ……」[pcms]
+[ns]Kazumi[nse]
+"...Ah..."[pcms]
 
 
 *1815|
 [fc]
-まだまだ、出し足りない。[r]
-だけどそんな事して、体は持つのか？[pcms]
+I'm still not satisfied. But can my body handle doing this much?[pcms]
 
 
 *1816|
 [fc]
-……まあ、いいか？[r]
-いや……いいわけないだろ！！[pcms]
+...Well, does it matter? No...of course it matters!![pcms]
 
 
 *1817|
 [fc]
-混乱し、思考がループし出した俺に、[r]
-三人の女が更に体を密着させてくる。[pcms]
+Confused, my thoughts start to loop as the three women press their[r]
+bodies even closer to me.[pcms]
 
 [evcg storage="mob_H003h"][trans_c cross time=500]
 
@@ -1166,103 +1110,98 @@
 *1818|
 ;旧ナンバー[vo_m s="mama0019"]
 [マイク 位置１][vo_mob s="R_kanMAS0018"]
-[ns]感染者ママ[nse]
-「ふふ……つぎは……ハルキ？[r]
-　あなたの、しょじょマンコで、ちんちんをたべてあげて……？[r]
-　いたいのは、さいしょだけ……あとは、きもちいいから」[pcms]
+[ns]Infected Mama[nse]
+"Fufu...next is...Haruki? Use your virgin pussy to eat up this dick,[r]
+okay? The pain is only at the beginning...after that, it feels good."[pcms]
 
 
 *1819|
 ;旧ナンバー[vo_ms="akira0022"]
 [マイク 位置３][vo_mob s="R_akira0022"]
-[ns]感染少女アキラ[nse]
-「うんうん、わたしもいたかったけど、すぐきもちよくなったよ！[r]
-　そんでぇ……やみつきになっちゃうんだ……。[r]
-　クリトリスも、うちがわからおしだされるみたいで……ふふっ」[pcms]
+[ns]Infected Girl Akira[nse]
+"Yeah yeah, it hurt for me too at first, but it quickly felt good! And[r]
+then...you get addicted to it... Your clitoris feels like it's being[r]
+pushed out from the inside...fufu"[pcms]
 
 
 *1820|
 ;旧ナンバー[vo_m s="mama0020"]
 [マイク 位置１][vo_mob s="R_kanMAS0019"]
-[ns]感染者ママ[nse]
-「そう……それにね、なかだしされるとね、ピュピュッって、[r]
-　あたって……すごくきもちいいの。ふふふ……なかだしされて、[r]
-　はじめて……いちにんまえの、おんな……だからね……」[pcms]
+[ns]Infected Mama[nse]
+"That's right...and you know, when you get creampied, it spurts and[r]
+hits you inside...it feels so good. Fufufu...being creampied for the[r]
+first time makes you a grown woman..."[pcms]
 
 
 *1821|
 ;旧ナンバー[vo_m s="haruki0018"]
 [マイク 位置７][vo_mob s="R_haruki0018"]
-[ns]感染少女ハルキ[nse]
-「ほ、ほんとう……？　でも、こわい……。[r]
-　わたし、こわいよ……」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Is that true...? But I'm scared... I'm really scared..."[pcms]
 
 
 *1822|
 ;旧ナンバー[vo_ms="akira0023"]
 [マイク 位置３][vo_mob s="R_akira0023"]
-[ns]感染少女アキラ[nse]
-「ううん、だいじょうぶだよ、おねえちゃん。[r]
-　いたいのも、こわいのも、さいしょだけ。[r]
-　あとは、しんじゃうくらいきもちいからぁ……ね？」[pcms]
+[ns]Infected Girl Akira[nse]
+"No no, it's okay, big sister. The pain and fear are only at the[r]
+beginning. After that, it feels so good you might die...right?"[pcms]
 
 
 *1823|
 ;旧ナンバー[vo_m s="mama0021"]
 [マイク 位置１][vo_mob s="R_kanMAS0020"]
-[ns]感染者ママ[nse]
-「ほら……あとは、わたしたちにまかせて……。[r]
-　このチンポで、ためしてみなさい……。[r]
-　ほら、うえに……のって……」[pcms]
+[ns]Infected Mama[nse]
+"Look...just leave the rest to us... Try this dick out... Come on, get[r]
+on top..."[pcms]
 
 
 *1824|
 [fc]
-一番小さな子と、お母さんっぽい女の人が、[r]
-俺の体をそっと押し倒す。[pcms]
+The smallest girl and the motherly woman gently pushed me down.[pcms]
 
 
 *1825|
 [fc]
-[ns]克己[nse]
-「あぁ……あ……」[pcms]
+[ns]Kazumi[nse]
+"Ah...ah..."[pcms]
 
 
 *1826|
 [fc]
-こいつらは、俺の事なんかまるで考えてない。[r]
-頭の中にあるのは、セックスの事だけだ。[pcms]
+These girls aren't considering me at all. The only thing on their[r]
+minds is sex.[pcms]
 
 
 *1827|
 [fc]
-そして、俺も次第にその奇妙な感覚に包まれていく。[pcms]
+And gradually, I too am enveloped by that strange sensation.[pcms]
 
 
 *1828|
 ;旧ナンバー[vo_m s="haruki0019"]
 [マイク 位置１][vo_mob s="R_haruki0019"]
-[ns]感染少女ハルキ[nse]
-「は、はずかしい……ママァ……アキラ……。[r]
-　あんまり、みないで……ね……んぅうっ……」[pcms]
+[ns]Infected Girl Haruki[nse]
+"It's embarrassing...Mama...Akira... Don't look too[r]
+much...please...nnuuuh..."[pcms]
 
 
 *1829|
 [fc]
-[ns]克己[nse]
-「はっ……あぁぁ……」[pcms]
+[ns]Kazumi[nse]
+"Hah...aaaah..."[pcms]
 
 
 *1830|
 [fc]
-虚ろになり出した視界の中。[pcms]
+In my hazy vision.[pcms]
 
 
 *1831|
 [fc]
-丞実や静ちゃんと同じような年齢の子が、[r]
-二度も射精したのに、ビンビンのままのペニスの先端に、[r]
-膣を押し当て、しゃがみ込んだ。[pcms]
+A girl about the same age as Tsugumi and Shizuka-chan squats down,[r]
+pressing her vagina against the tip of my penis that's still hard[r]
+after ejaculating twice.[pcms]
 
 ;FHD
 [sysbt_meswin clear]
@@ -1274,7 +1213,8 @@
 ;;//　スカートをまくり、膝にパンツを引っかけてる姉。
 ;;//　開脚騎乗位。
 ;;//　克己の体の上に、尻をこちらに向ける感じで腹ばいになり
-;;//　結合部に舌を這わせる妹とママ。二人とも股間に指。[pcms]
+;;// Tsugumi and Mama run their tongues over the joined parts. Both[r]
+have fingers on their genitals.[pcms]
 
 ;;//s:差分：未挿入
 [evcg storage="mob_H004e"][trans_c cross time=500]
@@ -1283,244 +1223,231 @@
 *1832|
 ;旧ナンバー[vo_ms="akira0024"]
 [マイク 位置７][vo_mob s="R_akira0024"]
-[ns]感染少女アキラ[nse]
-「んんぅう……かっちかちだぁ……。[r]
-　でも、まだまだ、おおきくしないとね……。[r]
-　おねえちゃんのに、いっかいで、いれてあげてね……」[pcms]
+[ns]Infected Girl Akira[nse]
+"Nnnuuu...it's so hard... But we need to make it even bigger... Give[r]
+it to big sister in one go..."[pcms]
 
 
 *1833|
 ;旧ナンバー[vo_m s="mama0022"]
 [マイク 位置３][vo_mob s="R_kanMAS0021"]
-[ns]感染者ママ[nse]
-「そうよ……ハルキちゃんは……これが、はじめてなの……。[r]
-　だから、こわいおもい、させないでね………ふふっ……。[r]
-　ほら、チンポ、さわってあげるから、ね……」[pcms]
+[ns]Infected Mama[nse]
+"That's right...Haruki-chan is doing this for the first time... So[r]
+don't make her scared, okay? Fufu... Here, touch the dick, see..."[pcms]
 
 [se_HLoop buf2 storage="se_sex02"]
 
 
 *1834|
 [fc]
-二人の細い指がペニスや裏筋をまさぐり、[r]
-空へと擦り上げる。[pcms]
+The slender fingers of both women caress the penis and its underside,[r]
+rubbing upwards towards the sky.[pcms]
 
 
 *1835|
 [fc]
-すると滲み出した精液が茎を伝い、[r]
-親子達の唾液に混ざり、溜まりを作っていった。[pcms]
+The semen that oozed out runs down the shaft, mixing with the saliva[r]
+of mother and daughter, creating a pool.[pcms]
 
 
 *1836|
 [fc]
-[ns]克己[nse]
-「あぁ……あ……くあぁ……」[pcms]
+[ns]Kazumi[nse]
+"Ahh...ah...kuuah..."[pcms]
 
 
 *1837|
 ;旧ナンバー[vo_m s="haruki0020"]
 [マイク 位置１][vo_mob s="R_haruki0020"]
-[ns]感染少女ハルキ[nse]
-「あ……あぁ……ち、ちんちんが……わたしのマンコ、[r]
-　こすって……あぁ……く、クリトリスが、こすれる！！[r]
-　あぁ……ああ……あ、あふれる……エッチなしるが……」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Ah...ahh...the, the dick is...rubbing against my pussy...ahh...my[r]
+clit is being rubbed!! Ahh...ahh...it's overflowing...naughty[r]
+juices..."[pcms]
 
 
 *1838|
 ;旧ナンバー[vo_m s="mama0023"]
 [マイク 位置３][vo_mob s="R_kanMAS0022"]
-[ns]感染者ママ[nse]
-「ふふっ……ぴちゃぴちゃ、おとがしてる……。[r]
-　ハルキのこしも、いやらしいうごきしてるわ……。[r]
-　でも、まだかたいわね……ふあぁ……」[pcms]
+[ns]Infected Mama[nse]
+"Fufu...it's making squishy sounds... Haruki's hips are moving so[r]
+lewdly... But it's still so hard...fuaah..."[pcms]
 
 
 *1839|
 ;旧ナンバー[vo_ms="akira0025"]
 [マイク 位置７][vo_mob s="R_akira0025"]
-[ns]感染少女アキラ[nse]
-「んんんっ……オチンチンに、おねえちゃんの、えっちなしる、[r]
-　ながれてくるね……れろっ……チュッ！」[pcms]
+[ns]Infected Girl Akira[nse]
+"Nnnuuu...the naughty juices are flowing down the dick, big[r]
+sister...lerro...chu!"[pcms]
 
 
 *1840|
 ;旧ナンバー[vo_m s="haruki0021"]
 [マイク 位置１][vo_mob s="R_haruki0021"]
-[ns]感染少女ハルキ[nse]
-「ひっ！？　あ！　や、や、やめて……やめてアキラッ！[r]
-　そんなの……ああぁあっ！！！　なめちゃダメぇぇっ！！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Hik!? Ah! No, no, stop...stop Akira! You can't...ahhh!! Don't lick[r]
+it!!"[pcms]
 
 
 *1841|
 ;旧ナンバー[vo_ms="akira0026"]
 [マイク 位置７][vo_mob s="R_akira0026"]
-[ns]感染少女アキラ[nse]
-「んぁ……れろっ……ぷふっ……んんっ……。[r]
-　だめだよ、おねえちゃん……ちゃんと、きもちよくしてないと、[r]
-　いれたとき、いたいから、ね？」[pcms]
+[ns]Infected Girl Akira[nse]
+"Nah...lerro...pff...nnn... You can't, big sister...you have to feel[r]
+good, otherwise it'll hurt when it goes in, right?"[pcms]
 
 
 *1842|
 ;旧ナンバー[vo_m s="mama0024"]
 [マイク 位置３][vo_mob s="R_kanMAS0023"]
-[ns]感染者ママ[nse]
-「そう……んっ……そうよぉ……あぁ……。[r]
-　あなたたち、すっごく、いやらしい……。[r]
-　あぁ……わたしも、はやく、ほしい……チンポ、ほしいぃ」[pcms]
+[ns]Infected Mama[nse]
+"That's right...nnn...that's so lewd... Ahh...I also want it soon...I[r]
+want the dick..."[pcms]
 
 
 *1843|
 ;旧ナンバー[vo_ms="akira0027"]
 [マイク 位置７][vo_mob s="R_akira0027"]
-[ns]感染少女アキラ[nse]
-「んんんっ……わたしもほしいよぉ……でも、さいしょは、[r]
-　おねえちゃんでしょ……んんっ……だめぇ……がまん、[r]
-　できなくなるぅう……おまんこ、いじっちゃうぅ」[pcms]
+[ns]Infected Girl Akira[nse]
+"Nnnuuu...I want it too...but first it's big sister's turn, right?[r]
+Nnnn...I can't wait...my pussy is getting fidgety."[pcms]
 
 
 *1844|
 [fc]
-二人の女の子は、ペニスに舌を這わせながら、[r]
-ピンク色にぷっくりと腫れた股間の盛り上がりに、[r]
-白い手のひらを添えて、ゆっくりと円を描くように動かし出す。[pcms]
+The two girls run their tongues over the penis while slowly moving[r]
+their white palms in circles over the swollen pink rise of their[r]
+crotches.[pcms]
 
 
 *1845|
 ;旧ナンバー[vo_m s="mama0025"]
 [マイク 位置１][vo_mob s="R_kanMAS0024"]
-[ns]感染者ママ[nse]
-「はあぁ……んぁ……も、もう……。[r]
-　あふれちゃってる……オマンコ、あつい……はぁあ……」[pcms]
+[ns]Infected Mama[nse]
+"Haaah...nah...it's already overflowing...my pussy is hot...haaah..."[pcms]
 
 
 *1846|
 ;旧ナンバー[vo_ms="akira0028"]
 [マイク 位置３][vo_mob s="R_akira0028"]
-[ns]感染少女アキラ[nse]
-「わたしも、オマンコ……うずうずするよ……。[r]
-　おなかのなかも、あつくて、なんか……あふれて……あぁ……。[r]
-　クリトリスも、すっごくかたくて……ひぁあっ！」[pcms]
+[ns]Infected Girl Akira[nse]
+"My pussy too...it's throbbing... Inside my belly is hot and something[r]
+is overflowing...ahh... My clit is so hard too...hiaah!"[pcms]
 
 
 *1847|
 [fc]
-二人の自慰は、お互いに影響し合い勢いを増し、[r]
-俺のペニスを舐る行為も加熱していった。[pcms]
+Their mutual masturbation influenced each other, gaining momentum, and[r]
+the act of licking my penis also heated up.[pcms]
 
 
 *1848|
 [fc]
-[ns]克己[nse]
-「あ……あああぁっ……く……ううっ！[r]
-　す、すげえ……ああぁッ……」[pcms]
+[ns]Kazumi[nse]
+"Ah...aaaahh...kuu...uuuh! It's amazing...ahhh!"[pcms]
 
 
 *1849|
 [fc]
-二人の溶岩みたいに熱い舌や唇が、ペニスの上を這い回り、[r]
-上に乗っている少女との結合部をついばんでいく。[pcms]
+The two girls' lava-hot tongues and lips crawl over the penis,[r]
+nibbling at the joined part with the girl on top.[pcms]
 
 
 *1850|
 [fc]
-そのとたん、上に跨がる少女の膣は、[r]
-派手な音と共に愛液を噴き出させた。[pcms]
+At that moment, the girl straddling on top sprayed love juice with a[r]
+loud noise from her vagina.[pcms]
 
 
 *1851|
 ;旧ナンバー[vo_m s="haruki0022"]
 [マイク 位置１][vo_mob s="R_haruki0022"]
-[ns]感染少女ハルキ[nse]
-「はっ……あ……！！　ああぁっ！　やっ！　やあぁあぁ！！[r]
-　だめっ……だめ！　チンチンあたる！　やだっ！　あぁっ！[r]
-　こわい……こわいよおぉっ！　チンチンはいるっ！　ダメぇ！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Hah...ah!! Ahhh! No! Nooo!! Stop it...stop! The dick is touching! No![r]
+Ahh! I'm scared...I'm so scared! The dick is going in! Nooo!"[pcms]
 
 
 *1852|
 [fc]
-少女は俺の上で白い足をふるふると揺らし、[r]
-膣口と亀頭が何度も何度もキスをする。[pcms]
+The girl on top of me shakes her white legs tremblingly as the vaginal[r]
+opening and the glans kiss each other over and over again.[pcms]
 
 
 *1853|
 [fc]
-それに対して必死で抵抗する少女に、母親が囁いた。[pcms]
+In response to the desperately resisting girl, her mother whispered.[pcms]
 
 
 *1854|
 ;旧ナンバー[vo_m s="mama0026"]
 [マイク 位置３][vo_mob s="R_kanMAS0025"]
-[ns]感染者ママ[nse]
-「こわくないわよ……ふふっ……。[r]
-　ほらぁ……もう、グッショグショじゃない……。[r]
-　いれてみよう……？　ね？」[pcms]
+[ns]Infected Mama[nse]
+"Don't be scared...fufu... Look, it's already soaking wet. Shall we[r]
+try putting it in? Hm?"[pcms]
 
 
 *1855|
 ;旧ナンバー[vo_ms="akira0029"]
 [マイク 位置７][vo_mob s="R_akira0029"]
-[ns]感染少女アキラ[nse]
-「そうだよぉ……おねえちゃんの、クリトリス……。[r]
-　かわから、かおをだして……ぴくんっていってるよ？[r]
-　ほら……いれちゃえぇ……あはははっ！」[pcms]
+[ns]Infected Girl Akira[nse]
+"That's right...big sister's clit is peeking out from its hood,[r]
+twitching, see? Come on, put it in...ahaha!"[pcms]
 
 
 *1856|
 [fc]
-[ns]克己[nse]
-「はっ……あ……ああっ！　だ、ダメだっ！[r]
-　それ以上は……ううぅっ！　うわぁあぁっ！！」[pcms]
+[ns]Kazumi[nse]
+"Hah...ah...ahh! No, I can't! Not any more than this...uuuh![r]
+Uwaaaah!!"[pcms]
 
 
 *1857|
 ;旧ナンバー[vo_m s="haruki0023"]
 [マイク 位置１][vo_mob s="R_haruki0023"]
-[ns]感染少女ハルキ[nse]
-「やっ！　やだぁあぁっ！　おしちゃだめ！　こわいっ！[r]
-　こわいよおぉっ！！　オマンコに、はいっちゃう！[r]
-　やっ……あ……あああぁっ……ああっ！！！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"No! Nooo! Don't push! I'm scared! I'm so scared!! It's going inside[r]
+my pussy! Noo...ah...ahhhhh...ahhh!!"[pcms]
 
 
 *1858|
 [fc]
-一番小さな子と母親が、俺の上に跨がって嫌がる少女の体を押し、[r]
-胎内へペニスを挿入させようと嗤い出した。[pcms]
+The smallest girl and her mother straddle on top of me, laughing as[r]
+they push down on the reluctant girl, trying to insert the penis into[r]
+her womb.[pcms]
 
 
 *1859|
 [fc]
-この連中の感覚は理解が出来ない。[r]
-嫌がる娘を抑えつけ、強引に破瓜を失わせようなんて。[pcms]
+I can't understand these people's senses. To hold down a resisting[r]
+daughter and forcibly take her virginity.[pcms]
 
 
 *1860|
 [fc]
-最も、その処女の子も既に感染しているらしく、[r]
-口では抵抗しているものの、[r]
-瞳の奥では好奇心の炎が赤く燃えていた。[pcms]
+However, that virgin girl seems to be already infected, and although[r]
+she resists with her mouth, a flame of curiosity burns red in the[r]
+depths of her eyes.[pcms]
 
 
 *1861|
 [fc]
-[ns]克己[nse]
-「ダメだっ！　そんなの、手遅れになっちまうっ！！[r]
-　うううっ……くあぁあっ！！　やめろおぉぉっ！！」[pcms]
+[ns]Kazumi[nse]
+"No! That's too late now!! Uuuuh...kuuuaaah!! Stop it!!"[pcms]
 
 
 *1862|
 [fc]
-鈍く光る六つの赤い目が、一斉に俺に向けられる。[r]
-その中の二つが歪んだ口元を引き連れ、ズイと近づいた。[pcms]
+Six dull red eyes all turn towards me at once. Two of them bring their[r]
+twisted mouths closer with a swoop.[pcms]
 
 
 *1863|
 ;旧ナンバー[vo_ms="akira0030"]
 [マイク 位置７][vo_mob s="R_akira0030"]
-[ns]感染少女アキラ[nse]
-「ねぇ……おじさん、うるさいぃいっ！　これ、くわえてなよ！[r]
-　あいえきで、べっとべとの、おじさんのこうぶつだよ！[r]
-　ほらぁあっ！！　しずかに、なあれっ！　あっはははっ！」[pcms]
+[ns]Infected Girl Akira[nse]
+"Hey mister, you're being noisy! Here, bite on this! It's your[r]
+favorite thing soaked with love juice! Here you go!! Be quiet now![r]
+Ahahaha!"[pcms]
 
 [se buf1 storage="seB025"]
 ;;//♪SE骨が折れる
@@ -1539,44 +1466,41 @@
 
 *1864|
 [fc]
-[ns]克己[nse]
-「ぶっ……んぐっ……ぐぶうううっ！！！」[pcms]
+[ns]Kazumi[nse]
+"Buhh...nguhh...gubuuuu!!"[pcms]
 
 
 *1865|
 [fc]
-小さな女の子の小さな手によって、[r]
-クシャクシャに丸められた、汁気たっぷりの下着が、[r]
-俺の口にねじ込まれた。[pcms]
+A small girl's tiny hands crumple up the juice-soaked underwear and[r]
+twist it into my mouth.[pcms]
 
 
 *1866|
 [fc]
-小さな女の子の、思いも寄らぬ腕力によって、[r]
-何本かの歯が、折られながら。[pcms]
+With the unexpected strength of the small girl's arms, some of my[r]
+teeth are broken in the process.[pcms]
 
 
 *1867|
 [fc]
-[ns]克己[nse]
-「あ……ああがぁあぁああっ！！」[pcms]
+[ns]Kazumi[nse]
+"Ah...aaghaaaahhh!!"[pcms]
 
 
 *1868|
 ;旧ナンバー[vo_m s="mama0027"]
 [マイク 位置３][vo_mob s="R_kanMAS0026"]
-[ns]感染者ママ[nse]
-「ほらぁ……ハルキッ！　そろそろ……イッてみなさい！？[r]
-　うふふっ……ふふっ！！」[pcms]
+[ns]Infected Mama[nse]
+"Look Haruki! It's about time you came!? Ufufu...fufu!!"[pcms]
 
 
 *1869|
 ;旧ナンバー[vo_m s="haruki0024"]
 [マイク 位置１][vo_mob s="R_haruki0024"]
-[ns]感染少女ハルキ[nse]
-「あ……ああぁあっ……さ、さけ……さけるっ！[r]
-　オマンコ、さけ……あ、あがああぁあっ！！！！[r]
-　あぁ――ッ！　はっ、はいっちゃったぁああっ！！！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Ah...aaahhh...it's tearing! My pussy is tearing apart! Ah,[r]
+agaaahhh!!! Ahh--! It went in!!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1593,131 +1517,125 @@
 
 *1870|
 [fc]
-[ns]克己[nse]
-「んむうぅうううぅッ！　んぐううあうううあううっ！！」[pcms]
+[ns]Kazumi[nse]
+"Nmuuuuuuuuh! Nguuuaauuuauuuuh!!"[pcms]
 
 
 *1871|
 [fc]
-ブツリと音を立て、少女の体の中にペニスが埋まり、[r]
-そのとたん、結合部分から真っ赤な血が滲み出した。[pcms]
+With a blunt sound, the penis buried itself inside the girl's body,[r]
+and at that moment, bright red blood seeped from the joined area.[pcms]
 
 
 *1872|
 [fc]
-しっ、しまったァっ！！！[r]
-感染者に、ゴム無しでツッ込んじまった！！[pcms]
+Damn it!! I've gone and stuck it in an infected girl without a[r]
+condom!![pcms]
 
 
 *1873|
 [fc]
-これじゃ、俺……。[r]
-童貞喪失直後、死亡確定じゃないかァッ！！！[pcms]
+This means I'm done for. Right after losing my virginity, I'm as good[r]
+as dead!![pcms]
 
 
 *1874|
 ;旧ナンバー[vo_m s="haruki0025"]
 [マイク 位置１][vo_mob s="R_haruki0025"]
-[ns]感染少女ハルキ[nse]
-「は……はあぁあ――ッ……はあぁ――ッ……。[r]
-　し、しょじょ、なくした……これ……あぁ！　おまんこ、[r]
-　イッパイになって！　ああぁあっ！！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Ha...haaaah--! Haaah--! I've lost my virginity...this is it. Ahh! My[r]
+pussy is full! Aaahhh!!"[pcms]
 
 
 *1875|
 ;旧ナンバー[vo_m s="haruki0026"]
 [マイク 位置１][vo_mob s="R_haruki0026"]
-[ns]感染少女ハルキ[nse]
-「こんな……あ……！　あああぁあっ！　おなかのなか、[r]
-　すごいいぃっ！！　ギチギチだよっ！　やああっっ！[r]
-　おっ、オマンコ、さけちゃううっ！！　でも、きもちいいぃっ」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Like this...ah! Aaaahhh! Inside my belly feels amazing!! It's so[r]
+tight! Nooo! My pussy is going to tear apart! But it feels so good!"[pcms]
 
 
 *1876|
 ;旧ナンバー[vo_m s="mama0028"]
 [マイク 位置３][vo_mob s="R_kanMAS0027"]
-[ns]感染者ママ[nse]
-「きもちいいでしょ……？　ね？　ふふっ……、[r]
-　ほら、こしが、かってにうごいちゃうでしょ……？[r]
-　ふふっ……うふふふっ……」[pcms]
+[ns]Infected Mama[nse]
+"Feels good, doesn't it...? Right? Fufu... Look, your hips are moving[r]
+on their own, aren't they...? Fufu...ufufufu..."[pcms]
 
 
 *1877|
 ;旧ナンバー[vo_ms="akira0031"]
 [マイク 位置７][vo_mob s="R_akira0031"]
-[ns]感染少女アキラ[nse]
-「そうだよ、そうだよ……おじさんも、きもちいでしょ？[r]
-　もっと、おねえちゃんのオマンコつついてあげて？　ね？[r]
-　ほら、オチンチン、なめてあげるからぁ……」[pcms]
+[ns]Infected Girl Akira[nse]
+"That's right, that's right... You feel good too, don't you, mister?[r]
+Please poke my pussy more? Okay? Look, I'll lick your cock..."[pcms]
 
 
 *1878|
 [fc]
-[ns]克己[nse]
-「んぐうううぅうぅうっ！！」[pcms]
+[ns]Kazumi[nse]
+"Nguuuuuuuuh!"[pcms]
 
 
 *1879|
 ;旧ナンバー[vo_m s="mama0029"]
 [マイク 位置３][vo_mob s="R_kanMAS0028"]
-[ns]感染者ママ[nse]
-「なによぉ……うるさいわね……。[r]
-　ほら？　なさけないこえ、だしてないで……。[r]
-　こし、ふりなさいよ！　ほらぁっ！」[pcms]
+[ns]Infected Mama[nse]
+"What's the matter... You're so noisy... Look? Don't make such a[r]
+pitiful voice... Shake your hips! Come on!"[pcms]
 
 
 *1880|
 ;旧ナンバー[vo_m s="haruki0027"]
 [マイク 位置１][vo_mob s="R_haruki0027"]
-[ns]感染少女ハルキ[nse]
-「ひっ……あ……あはぁあっ……んっ……！　ああぁあっ！！[r]
-　やぁあっ……あ、あたまの、なか、とける……ああ……。[r]
-　ふわふわ……あああ……ああぁぁ……からだ、とける……」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Hic...ah...ahhaaaah...nnh...! Aaahhh!! Yah...ah, my head's[r]
+melting...ahh... It's fluffy...ahhh...my body's melting..."[pcms]
 
 [evcg storage="mob_H004h"][trans_c cross time=500]
 
 
 *1881|
 [fc]
-くううぅうっ……き、キツいっ！[r]
-お、オマンコってこんなにキツかったのか！？[pcms]
+It's so tight! Was pussy always this tight!?[pcms]
 
 
 *1882|
 [fc]
-全体を均一に締め付けてくる感覚と、溢れかえった愛液に塗れた、[r]
-何百本もの細かな襞がペニス全体を柔らかく撫で付ける。[pcms]
+The sensation of being uniformly squeezed, and the hundreds of fine[r]
+folds soaked in overflowing love juices softly caress the entire[r]
+penis.[pcms]
 
 
 *1883|
 [fc]
-オナニーするのより締め付けは弱いけど、[r]
-柔らかいゴムに全体が押しつぶされる様な感覚は、[r]
-全身に電気を流すように、震えさせる。[pcms]
+Although the tightness is weaker than when masturbating, the sensation[r]
+of being crushed by a soft rubber electrifies my whole body, making it[r]
+tremble.[pcms]
 
 
 *1884|
 [fc]
-[ns]克己[nse]
-「むぐううぅッ……ううううっ！！」[pcms]
+[ns]Kazumi[nse]
+"Mguuuuuuh...uuuuuh!!"[pcms]
 
 
 *1885|
 [fc]
-ドロドロに溶けた蜜壺に血が通い、[r]
-少女の胎内はその心臓の動きに合わせ脈打つ。[r]
-それに同期して、俺のペニスもピクリと跳ねる。[pcms]
+The honey pot melted into a sludge, blood flowed through it, and the[r]
+girl's womb pulsed in time with her heartbeat. In sync with that, my[r]
+penis also twitched.[pcms]
 
 
 *1886|
 [fc]
-まるで、二人は一つになったような錯覚に陥ってしまう。[pcms]
+It was as if the two of us had become one.[pcms]
 
 
 *1887|
 [fc]
-体全部が熱くて、[r]
-それこそ、ドロドロに溶け合う様にすら思えた。[pcms]
+My entire body was hot, and it felt as though we were melting into[r]
+each other.[pcms]
 
 [evcg storage="mob_H004i"][trans_c cross time=500]
 
@@ -1725,81 +1643,77 @@
 *1888|
 ;旧ナンバー[vo_m s="haruki0028"]
 [マイク 位置１][vo_mob s="R_haruki0028"]
-[ns]感染少女ハルキ[nse]
-「ふあぁぁ……やあぁあ……おまんこ、とけちゃうよぉ……。[r]
-　やだぁあぁ……からだ、ういちゃう……。[r]
-　あたま、チカチカして……ああぁぁぁ……」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Fuaaah...yaaah...my pussy's melting... Nooo...my body's floating[r]
+away... My head's getting dizzy...ahhhhh..."[pcms]
 
 
 *1889|
 ;旧ナンバー[vo_m s="mama0030"]
 [マイク 位置３][vo_mob s="R_kanMAS0029"]
-[ns]感染者ママ[nse]
-「あらあぁ……イッちゃうのかしら……？[r]
-　はじめてで、イッちゃうなんて、エッチなこね……」[pcms]
+[ns]Infected Mama[nse]
+"Oh my... Are you going to cum? To cum on your first time, what a[r]
+naughty child..."[pcms]
 
 
 *1890|
 ;旧ナンバー[vo_ms="akira0032"]
 [マイク 位置７][vo_mob s="R_akira0032"]
-[ns]感染少女アキラ[nse]
-「あはぁ……おじさんも、イッちゃいそうだよ？[r]
-　がまん、しなくていいよお？　つぎは、わたしだからぁ！[r]
-　ほらぁ！　ね？　イッちゃえぇっ！！」[pcms]
+[ns]Infected Girl Akira[nse]
+"Ahaa... Mister, you're about to cum too, right? You don't have to[r]
+hold back. Next, it's my turn! Come on! Right? Cum!"[pcms]
 
 
 *1891|
 ;旧ナンバー[vo_m s="mama0031"]
 [マイク 位置３][vo_mob s="R_kanMAS0030"]
-[ns]感染者ママ[nse]
-「ほらぁ……ハルキも、もっと、こしをふりなさい！？[r]
-　おなかの、うらがわと……あかちゃんのへやの、[r]
-　いりぐちが……きもちいの……ごりごり、してみて？」[pcms]
+[ns]Infected Mama[nse]
+"Come on... Haruki, shake your hips more!? The back of your stomach[r]
+and the entrance to the baby room feel good... Try grinding it?"[pcms]
 
 
 *1892|
 ;旧ナンバー[vo_m s="haruki0029"]
 [マイク 位置１][vo_mob s="R_haruki0029"]
-[ns]感染少女ハルキ[nse]
-「わあぁあぁ……おっ、おさない！　や、やあぁっ！！[r]
-　ゴリゴリするううっ！！　やだああっ！！　おなか、ヘンっ！[r]
-　やだ、やだ、やだああぁ！！！　こわいぃいっ！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Waaaah...it's so young! No, nooo!! It's grinding! Nooo!! My stomach[r]
+feels weird! No, no, noooo!!! It's scary!"[pcms]
 
 
 *1893|
 [fc]
-[ns]克己[nse]
-「んんむううぅぅうぅうぅっ！！　んうううぅぅぅぅ！！」[pcms]
+[ns]Kazumi[nse]
+"Nnnmuuuuuuuuh!! Nguuuuuuh!!"[pcms]
 
 
 *1894|
 [fc]
-少女のキツい膣や、小さな手、そして、熱い口。[r]
-淫らな女達が、体中を使って俺を悦ばせようとしている。[pcms]
+The tight vagina of the girl, her small hands, and her hot mouth. The[r]
+lewd women are using their entire bodies to please me.[pcms]
 
 
 *1895|
 [fc]
-それに応えなきゃならない。[pcms]
+I have to respond to them.[pcms]
 
 
 *1896|
 [fc]
-何故か、そんな気持ちになりだしていた俺は、[r]
-血の滲む少女の膣に、腰を強く叩き付け始めた。[r]
-彼女達のがんばりに、俺も応えなきゃならないんだ。[pcms]
+For some reason, I started feeling that way and began to thrust my[r]
+hips strongly into the bleeding vagina of the girl. I have to respond[r]
+to their efforts.[pcms]
 
 
 *1897|
 [fc]
-[ns]克己[nse]
-「んうううううっ！　んぎいいいいっ！！」[pcms]
+[ns]Kazumi[nse]
+"Nuuuuuuuh! Ngiiiiiih!!"[pcms]
 
 
 *1898|
 [fc]
-口の中に、血の臭いが広がって行く。[r]
-だけどそんな事はもう気にならない程の快楽が全身を包む。[pcms]
+The taste of blood spreads in my mouth. But the pleasure enveloping my[r]
+whole body makes me forget about such things.[pcms]
 
 [evcg storage="mob_H004h"][trans_c cross time=500]
 
@@ -1809,81 +1723,74 @@
 *1899|
 ;旧ナンバー[vo_m s="haruki0030"]
 [マイク 位置１][vo_mob s="R_haruki0030"]
-[ns]感染少女ハルキ[nse]
-「はっ……はっ、はっ、あ……あは……あ……ああぁっ！！[r]
-　やだ……あああぁあっ！！　ヤバイよぉっ！[r]
-　わっ、わたし、しぬ……しんじゃうううっ！！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Hah...hah, hah, ah...aha...ahh!! No...ahhhh!! It's dangerous! Wah,[r]
+I'm dying...I'm dying!!"[pcms]
 
 
 *1900|
 ;旧ナンバー[vo_ms="akira0033"]
 [マイク 位置７][vo_mob s="R_akira0033"]
-[ns]感染少女アキラ[nse]
-「だいじょうぶ！　おねえちゃん、しなないよおっ！[r]
-　だから、あばれないで……もっと、おなかにしゅうちゅうして！[r]
-　ね？　ほら……オマンコのおくに、しゅうちゅうするんだよ！」[pcms]
+[ns]Infected Girl Akira[nse]
+"It's okay! Big sis won't die! So don't thrash about...focus more on[r]
+your stomach! Okay? Look...concentrate deep inside your pussy!"[pcms]
 
 
 *1901|
 ;旧ナンバー[vo_m s="mama0032"]
 [マイク 位置３][vo_mob s="R_kanMAS0031"]
-[ns]感染者ママ[nse]
-「そうよ……ハルキなら、できるわ！　ほら……、[r]
-　オマンコのなかに、いっぱい、ちがながれてるっておもうの！[r]
-　オマンコのなかの、チンポにしゅうちゅうして！」[pcms]
+[ns]Infected Mama[nse]
+"That's right... Haruki can do it! Look... imagine lots of blood[r]
+flowing inside your pussy! Concentrate on the cock inside your pussy!"[pcms]
 
 
 *1902|
 ;旧ナンバー[vo_m s="haruki0031"]
 [マイク 位置１][vo_mob s="R_haruki0031"]
-[ns]感染少女ハルキ[nse]
-「はっ……あああぁっ！　や……ああ……ああああぁっ！[r]
-　あ、あた、あたる！　あたるっ！　や……コツコツいって！[r]
-　クリトリス、はじけ……やあぁあぁっ！！　イッ……い……」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Hah...ahhhh! Ya...ahh...ahhhhh! It's hitting! It's hitting! Ya...keep[r]
+tapping! My clitoris is bursting...yaaaahhh!! Cumming...I'm..."[pcms]
 
 
 *1903|
 [fc]
-[ns]克己[nse]
-「はあっ……んぐううっ……んううううっ！　ぐうううっ！！」[pcms]
+[ns]Kazumi[nse]
+"Haaah...nguuuuh...nuuuuuuh! Guuuuuh!!"[pcms]
 
 
 *1904|
 [fc]
-二人の体温は夏の太陽の下、止まる事なく上がり、[r]
-膣の締め付けも益々強くなる。[pcms]
+Their body temperatures rise under the summer sun without stopping,[r]
+and the tightness of the vagina becomes even stronger.[pcms]
 
 
 *1905|
 ;旧ナンバー[vo_m s="mama0033"]
 [マイク 位置３][vo_mob s="R_kanMAS0032"]
-[ns]感染者ママ[nse]
-「ああ……あわだってる……すごい……。[r]
-　よっぽど、きもちいいのね……ふふっ……いりぐち、[r]
-　すごくうごいて……パクパクしてる……ふふっ……」[pcms]
+[ns]Infected Mama[nse]
+"Ah...it's frothing up...amazing... You must feel really[r]
+good...fufu...the entrance is moving so much...puckering up...fufu..."[pcms]
 
 
 *1906|
 ;旧ナンバー[vo_ms="akira0034"]
 [マイク 位置７][vo_mob s="R_akira0034"]
-[ns]感染少女アキラ[nse]
-「はぁ……ああ……わたしも、イッちゃいそ……。[r]
-　おねえちゃあん……クリトリス、はれつしちゃいそうだね……。[r]
-　さわっちゃえ……えいっ！！」[pcms]
+[ns]Infected Girl Akira[nse]
+"Haa...ahh...I'm going to cum too... Big sis...your clitoris looks[r]
+like it's going to burst. Touch it...ei!!"[pcms]
 
 
 *1907|
 ;旧ナンバー[vo_m s="haruki0032"]
 [マイク 位置１][vo_mob s="R_haruki0032"]
-[ns]感染少女ハルキ[nse]
-「ひっ……いや……あ、あ……イクうううううぅうっ！！！[r]
-　イクううぅうぅぅ――――――！！！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Hic...no...ahh...I'm cummingggggg!! Cumminggggg------!!!"[pcms]
 
 
 *1908|
 [fc]
-[ns]克己[nse]
-「ぐっ……むぐうううぅうぅぅうっ！！！」[pcms]
+[ns]Kazumi[nse]
+"Guhh...mguuuuuuuuh!!!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -1897,19 +1804,17 @@
 *1909|
 ;旧ナンバー[vo_m s="haruki0033"]
 [マイク 位置１][vo_mob s="R_haruki0033"]
-[ns]感染少女ハルキ[nse]
-「やあぁあぁあっ！！　おなか、あついいいいぃぃっ！！[r]
-　や、ま、またイク！！　イクぅうぅぅうっ！！[r]
-　なかだし、きもちぃいいいぃいいっっ！！」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Yaaaahhh!! My stomach is so hot!! No, I'm cumming again!![r]
+Cummingggg!! Cumming inside feels so goooood!!!"[pcms]
 
 
 *1910|
 ;旧ナンバー[vo_m s="mama0034"]
 [マイク 位置３][vo_mob s="R_kanMAS0033"]
-[ns]感染者ママ[nse]
-「あ、あああぁ……せいえき、あふれちゃってる……！[r]
-　ああぁあッ！　もったいない……ああぁ……。[r]
-　せいえき……せいえきぃいぃ！」[pcms]
+[ns]Infected Mama[nse]
+"Ah, ahhh...the semen is overflowing...! Ahhh! What a waste...ahhh...[r]
+Semen...semen!!"[pcms]
 
 [se_HLoop buf2 storage="se_sex02"]
 
@@ -1917,15 +1822,14 @@
 *1911|
 ;旧ナンバー[vo_ms="akira0035"]
 [マイク 位置７][vo_mob s="R_akira0035"]
-[ns]感染少女アキラ[nse]
-「ふううぅっ……せいえき……いっぱい……！[r]
-　ドロドロのせいえきぃいっ！　おいしいぃっ……ああぁっ！」[pcms]
+[ns]Infected Girl Akira[nse]
+"Fuuuuhh...so much semen...! Thick semen! It tastes so good...ahhh!"[pcms]
 
 
 *1912|
 [fc]
-[ns]克己[nse]
-「はぁ……ああ……むぐううぅっ……ううぅぅっ……」[pcms]
+[ns]Kazumi[nse]
+"Haa...ahh...mguuuuuhh...uuuuhh..."[pcms]
 
 [evcg storage="mob_H004k"][trans_c cross time=500]
 
@@ -1933,58 +1837,55 @@
 *1913|
 ;旧ナンバー[vo_m s="haruki0034"]
 [マイク 位置１][vo_mob s="R_haruki0034"]
-[ns]感染少女ハルキ[nse]
-「はぁあぁ……あああ……すっごい……しぬかとおもった……。[r]
-　ねえ、オッサンのチンチン、まだかたいよ……。[r]
-　ふうっ……ああ……も、もういっかい……」[pcms]
+[ns]Infected Girl Haruki[nse]
+"Haaaahh...amazing...I thought I was going to die... Hey, mister's[r]
+cock is still hard. Wheww...ahh...one more time..."[pcms]
 
 
 *1914|
 ;旧ナンバー[vo_ms="akira0036"]
 [マイク 位置７][vo_mob s="R_akira0036"]
-[ns]感染少女アキラ[nse]
-「だめだよぉ！　おねえちゃん！　つぎは、わたし！」[pcms]
+[ns]Infected Girl Akira[nse]
+"No way! It's my turn next, big sis!"[pcms]
 
 
 *1915|
 ;旧ナンバー[vo_m s="mama0035"]
 [マイク 位置３][vo_mob s="R_kanMAS0034"]
-[ns]感染者ママ[nse]
-「だめっ……わたしよ！」[pcms]
+[ns]Infected Mama[nse]
+"No way...it's my turn!"[pcms]
 
 
 *1916|
 [fc]
-[ns]克己[nse]
-「……あぁ……あ……あがぁ……」[pcms]
+[ns]Kazumi[nse]
+"...ah...ah...agaa..."[pcms]
 
 
 *1917|
 [fc]
-おんな三人がおれを奪い合うって、すげえな。[pcms]
+Three women fighting over me, that's pretty amazing.[pcms]
 
 
 *1918|
 [fc]
-おれって、モテるんだな……。[r]
-歯、おれちまったけど……。[pcms]
+I guess I'm pretty popular... Even though I chipped a tooth...[pcms]
 
 
 *1919|
 [fc]
-んん……でも、あんまりいたくない。[pcms]
+Hmm...but it doesn't hurt that much.[pcms]
 
 
 *1920|
 [fc]
-ペニスが、ヌルヌルしたのにつつまれてて、きもちいい……。[r]
-なんか、することが……。[pcms]
+My penis is enveloped in something slippery, it feels good... There's[r]
+something I need to do...[pcms]
 
 
 *1921|
 [fc]
-つぐみ……。[r]
-しずかちゃん。[pcms]
+Tsugumi... Shizuka-chan.[pcms]
 
 [stop_se buf1]
 [stop_seHLoop buf2]
@@ -1992,12 +1893,12 @@
 
 *1922|
 [fc]
-ああ……でも、このままうごきたくないな……。[pcms]
+Ah...but I don't want to move right now...[pcms]
 
 
 *1923|
 [fc]
-このままねてりゃ、気持ちいいんだもんなぁ……。[pcms]
+If I just stay asleep like this, it feels so good...[pcms]
 
 ;;//回想ここまで
 

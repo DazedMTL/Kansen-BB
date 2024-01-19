@@ -28,20 +28,20 @@
 
 *1041|
 [fc]
-画面が変わると、音声が無い状態で、[r]
-白く柔らかそうなものだけが、大写しになった。[pcms]
+When the screen changed, there was no sound, and only something white[r]
+and soft-looking was shown in close-up.[pcms]
 
 
 *1042|
 [fc]
-[ns]克己[nse]
-「なんだよ……褒めたとたん、これか……」[pcms]
+[ns]Kazumi[nse]
+"What the... Just when I praised it, this happens..."[pcms]
 
 
 *1043|
 [fc]
-さすがの国営放送も混乱してしまっている様だ。[r]
-落ち着いているのはスタジオだけかと、溜息をつく。[pcms]
+Even the national broadcaster seems to be in confusion. I sigh,[r]
+wondering if the studio is the only place that's calm.[pcms]
 
 ;;//BGMフェードアウト
 [fadeoutbgm time=1000]
@@ -49,21 +49,19 @@
 
 *1044|
 [fc]
-直後。[r]
-カメラは揺れながら一気に引いて、[r]
-全体が映し出された。[pcms]
+Immediately after, the camera shakes and zooms out quickly, showing[r]
+the whole scene.[pcms]
 
 
 *1045|
 [fc]
-[ns]克己[nse]
-「ん……？」[pcms]
+[ns]Kazumi[nse]
+"Hm...?"[pcms]
 
 
 *1046|
 [fc]
-結果として俺は、口の中の液体をも、[r]
-全て吐き出す事になってしまう。[pcms]
+As a result, I end up spitting out all the liquid in my mouth.[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -89,27 +87,27 @@
 
 *1047|
 [fc]
-画面のブレが完全に収まると、[r]
-そこにあるのは、元気な顔でピースサインを作りながら、[r]
-白い尻をこちらに向けて腰を振る、若い女の姿だった。[pcms]
+Once the shaking of the screen completely stops, there appears a young[r]
+woman shaking her white butt at the camera and making a peace sign[r]
+with a cheerful face.[pcms]
 
 
 *1048|
 ;旧ナンバー[vo_m s="sasakawa0001"]
 [マイク 位置１][vo_mob s="R_sasagawa0001"]
-[ns]笹川アナ[nse]
-「は～い！！　おはよう！　ダブルぴ～すのささがわでっす！！」[pcms]
+[ns]Ana Sasagawa[nse]
+"Haaai!! Good morning! It's Sasagawa with the double peace!!"[pcms]
 
 
 *1049|
 [fc]
-[ns]克己[nse]
-「ブッ！？」[pcms]
+[ns]Kazumi[nse]
+"Pfft!?"[pcms]
 
 
 *1050|
 [fc]
-下になっている若そうな男は、自分の状況に混乱している。[pcms]
+The young man underneath is confused by his situation.[pcms]
 
 ;;//se_sex02.ogg(LOOP)
 [se_HLoop buf2 storage="se_sex02"]
@@ -118,84 +116,82 @@
 *1051|
 ;旧ナンバー[vo_m s="sasakawa0002"]
 [マイク 位置１][vo_mob s="R_sasagawa0002"]
-[ns]笹川アナ[nse]
-「わ、わたしは、いま……ながた町から、ぜんこくのみなさんに、[r]
-　あさいちばんの……な、なま……しぼりを、[r]
-　おとどけしようと、お、おもいます……！」[pcms]
+[ns]Sasagawa Ana[nse]
+"I-I'm... right now... from Nagata town, I plan to deliver... the[r]
+first... fresh... squeeze of the morning to everyone in the[r]
+country...!"[pcms]
 
 
 *1052|
 [fc]
 [vo_mob s="R_casterB0003"]
-;[ns]ニュースキャスターＢ[nse]
-[ns]ニュースキャスターε[nse]
-「笹川さん！？　画面切り替えて！[r]
-　止めてください、映像を止めて！[r]
-　え……ちょっと……！　何を……うわぁあぁっ！！」[pcms]
+[ns]News Caster B[nse]
+[ns]News Caster Epsilon[nse]
+"Sasagawa-san!? Switch the screen! Please stop, stop the footage! E...[r]
+wait...! What are you... uwaahhh!!"[pcms]
 
 
 *1053|
 [fc]
-[ns]感染したＡＤ[nse]
-「あ゛っ……あ、あ゛はは゛ぁぁぁっ！！[r]
-　あぁぁ～……」[pcms]
+[ns]Infected AD[nse]
+"Ahh... ah, ahahahaahh!! Aaahh~..."[pcms]
 
 
 *1054|
 [fc]
 [vo_mob s="R_casterB0004"]
-;[ns]ニュースキャスターＢ[nse]
-;「お、おい！　ぎゃあああああああああああああああぁ！！」[pcms]
-[ns]ニュースキャスターε[nse]
-「いや……いやあああああああああああああああぁ！！」[pcms]
+[ns]News Caster B[nse]
+"Hey! Gyaaaahhhhhhhhhhhhhhh!!"[pcms]
+[ns]News Caster Epsilon[nse]
+"No... nooooooo!!"[pcms]
 
 
 *1055|
 [fc]
-[ns]克己[nse]
-「え……？　何、何が起きてんだよ！？」[pcms]
+[ns]Kazumi[nse]
+"Eh...? What, what's happening!?"[pcms]
 
 
 *1056|
 [fc]
-これって、ＡＶ？[r]
-国営放送が、ＡＶ流しちゃった放送事故？[pcms]
+Is this an AV? Did the national broadcaster accidentally broadcast an[r]
+AV due to a broadcasting accident?[pcms]
 
 
 *1057|
 [fc]
-そんな事ないな、確かスタジオが呼んだら切り替わった映像だ。[r]
-ってことは、これは国営放送のモノだよな？[pcms]
+No, that can't be it. The footage switched when the studio called for[r]
+it. So this has to be from the national broadcaster, right?[pcms]
 
 
 *1058|
 [fc]
-それで、音声が混線して？[r]
-ニュースキャスターが叫んで、止まった……。[pcms]
+And then, there was audio interference? The news caster screamed and[r]
+it stopped...[pcms]
 
 
 *1059|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *1060|
 [fc]
-そして、画面はＡＶのまま。[r]
-いや、これは……永田町からの生放送……！？[pcms]
+And yet, the screen stays on the AV. No, this is... a live broadcast[r]
+from Nagatacho...!?[pcms]
 
 
 *1061|
 [fc]
-[ns]ＡＤ[nse]
-「さ、笹川さん……くあああああっ！」[pcms]
+[ns]AD[nse]
+"S-Sasagawa-san... kuaaaaahhh!"[pcms]
 
 
 *1062|
 [fc]
-下になっている男は、苦しそうな顔を浮かべながらも、[r]
-カクカクと腰を振っている。[pcms]
+The man underneath is shaking his hips jerkily while making a pained[r]
+expression.[pcms]
 
 ;;//■イベントCG　mob_H002
 [evcg storage="mob_H002b"][trans_c cross time=500]
@@ -204,87 +200,80 @@
 *1063|
 ;旧ナンバー[vo_m s="sasakawa0003"]
 [マイク 位置１][vo_mob s="R_sasagawa0003"]
-[ns]笹川アナ[nse]
-「きょう、は……かわりばえ、のない、ニュースにかわって、[r]
-　わ、わたしが……ぎゃ、ぎゃくレイプを、[r]
-　たいけん、レポートします！　あはっ……あ、あはははっ！！」[pcms]
+[ns]Ana Sasagawa[nse]
+"Today, instead of the same old news, I will... experience and report[r]
+on... reverse rape! Ahah... ahahaha!!"[pcms]
 
 
 *1064|
 [fc]
-逆レイプの、体験レポート……？？[pcms]
+Experience report on reverse rape...??[pcms]
 
 
 *1065|
 [fc]
-[ns]克己[nse]
-「お……？　え……？」[pcms]
+[ns]Kazumi[nse]
+"Oh...? Eh...?"[pcms]
 
 
 *1066|
 [fc]
-またしても俺は混乱して、[r]
-目は画面に釘付けになってしまった。[pcms]
+Once again I'm confused, my eyes glued to the screen.[pcms]
 
 
 *1067|
 ;旧ナンバー[vo_m s="sasakawa0004"]
 [マイク 位置１][vo_mob s="R_sasagawa0004"]
-[ns]笹川アナ[nse]
-「あ、アシスタントは……う、ウチのＡＤで～す……。[r]
-　ふっ……ふふうぅっ……この、こ、なら、[r]
-　エッチしても、いいかな……っておもってたんですよ～？」[pcms]
+[ns]Sasagawa Ana[nse]
+"My assistant is... our AD~... Huhu... huhuuu... I was thinking maybe[r]
+it's okay to have sex with him... you know?"[pcms]
 
 
 *1068|
 [fc]
-[ns]ＡＤ[nse]
-「助けてぇ……誰かぁ……」[pcms]
+[ns]AD[nse]
+"Help me... someone..."[pcms]
 
 
 *1069|
 [fc]
-見れば、女子アナの目は不気味なほどに赤く、[r]
-死んだ魚の様に、ドロリと濁っていた。[pcms]
+If you look, the eyes of the female announcer are eerily red and[r]
+muddied like those of a dead fish.[pcms]
 
 
 *1070|
 ;旧ナンバー[vo_m s="sasakawa0005"]
 [マイク 位置１][vo_mob s="R_sasagawa0005"]
-[ns]笹川アナ[nse]
-「あはぁ……んはああっ！　ぎんもぢいいいっ！[r]
-　こ、このこ、は……かおに、にあわず、チンポでっかくて……！[r]
-　あっ……あはぁああぁっ！　あたま、しびれるぅうっ！！」[pcms]
+[ns]Ana Sasagawa[nse]
+"Ahah... nhahaa! It feels so good! This guy... despite his face, has a[r]
+big dick...! Ahh... ahahaaa! My head's going numb!!"[pcms]
 
 
 *1071|
 [fc]
-[ns]ＡＤ[nse]
-「やっ……やめてくれえっ！　笹川さんっ！[r]
-　はっ、離れてっ！　おっ……オンエア中……くあぁあっ！！」[pcms]
+[ns]AD[nse]
+"Stop... please stop! Sasagawa-san! Ha, get off! Oh... We're on air...[r]
+kuaaahh!!"[pcms]
 
 
 *1072|
 [fc]
-男は悲痛な叫びを上げながらも、[r]
-ペニスをビンビンに起き上がらせ、[r]
-女子アナの中に収めていた。[pcms]
+The man cries out in agony but still manages to get his rock-hard[r]
+penis inside the female announcer.[pcms]
 
 
 *1073|
 ;旧ナンバー[vo_m s="sasakawa0006"]
 [マイク 位置２][vo_mob s="R_sasagawa0006"]
-[ns]笹川アナ[nse]
-「あっはぁぁ……オンエア……が、なぁに～？[r]
-　だ、だったら……も、もっと、ほんきで、[r]
-　わたしのなかを、かきまわしてよぉ……あ、あはぁあァ……」[pcms]
+[ns]Sasagawa Ana[nse]
+"Ahahaah... On air... what's that~? If that's the case... then stir me[r]
+up more seriously inside... ah, ahahaa..."[pcms]
 
 
 *1074|
 [fc]
-[ns]ＡＤ[nse]
-「くっ……うあぁあぁっ！！[r]
-　しっ、締めないで笹川さんっ！　だっ、出しちゃう！」[pcms]
+[ns]AD[nse]
+"Guh... uwaahhh!! Don't tighten up, Sasagawa-san! I'm going to cum!"[pcms]
 
 ;;//■イベントCG　mob_H002
 [evcg storage="mob_H002a"][trans_c cross time=500]
@@ -293,74 +282,73 @@
 *1075|
 ;旧ナンバー[vo_m s="sasakawa0007"]
 [マイク 位置２][vo_mob s="R_sasagawa0007"]
-[ns]笹川アナ[nse]
-「うふふっ……な、なにを、だしちゃうの？[r]
-　おしっこ？　それとも、なに……？[r]
-　わたしのなかに、しゃせいしようっていうの！？　ねえ！」[pcms]
+[ns]Ana Sasagawa[nse]
+"Ufufu... What are you going to let out? Pee? Or something else...?[r]
+Are you saying you want to ejaculate inside me!? Huh?"[pcms]
 
 
 *1076|
 [fc]
-[ns]ＡＤ[nse]
-「くううっうっ……や、やめて……さ、笹川……さんんっ！[r]
-　誰か、助けっ……ああぁあっ！！」[pcms]
+[ns]AD[nse]
+"Kuuuuhh... stop... Sasagawa-san! Someone help... aahhh!!"[pcms]
 
 
 *1077|
 [fc]
-どうやら、下の男は怪我をしているのか、[r]
-腰以外を満足に動かす事が出来ないらしい。[pcms]
+It seems that the man below might be injured, as he can't move[r]
+anything satisfactorily other than his hips.[pcms]
 
 
 *1078|
 [fc]
-あちこち服が破れ、[r]
-相当手ひどく襲われた後だと言うのが伺われる。[pcms]
+His clothes are torn here and there, indicating that he has been[r]
+attacked quite severely.[pcms]
 
 
 *1079|
 [fc]
-なのに、誰も助けに来る事者はなかった。[r]
-助けに行かないでのはなく、行く気が無いようにも見えた。[pcms]
+Nobody came to help. It wasn't that they didn't want to help; they[r]
+seemed to have no intention of doing so.[pcms]
 
 
 *1080|
 [fc]
-下になっている男以外は皆一様に、正気を失ってしまったのか。[r]
-あるいは、元々そういう世界の映像なのか。[pcms]
+Everyone except the man lying down seems to have lost their sanity, or[r]
+perhaps this is the imagery of a world that was always like this.[pcms]
 
 
 *1081|
 [fc]
-テレビのモニタの奥の世界は、[r]
-俺の住んでいる世界と何か違うのかもしれない。[pcms]
+The world inside the TV monitor might be different from the world I[r]
+live in.[pcms]
 
 
 *1082|
 [fc]
-その異世界の光景から目を離すことも、[r]
-耳を塞ぐことも出来ない。[pcms]
+I can't look away from the scene of that other world, nor can I cover[r]
+my ears.[pcms]
 
 
 *1083|
 ;旧ナンバー[vo_m s="sasakawa0008"]
 [マイク 位置２][vo_mob s="R_sasagawa0008"]
-[ns]笹川アナ[nse]
-「な～まいき……ふふっ……そうだぁ……キミみたいな、[r]
-　なまいきなこは～……おしおきしましょうね……。[r]
-　そうねぇ……アナル？　アナルぜめが、いいかしら？　ふふっ」[pcms]
+[ns]Sasagawa Ana[nse]
+"You're so cheeky... fufu... that's right... A cheeky boy like you[r]
+needs to be punished... Let's see... how about anal? Would anal[r]
+punishment be good? Fufu"[pcms]
 
 
 *1084|
 [fc]
-[ns]ＡＤ[nse]
-「もうやめてぇっ！　お尻は、ああっ、ああああっ！」[pcms]
+[ns]AD[nse]
+"Please stop! Not my butt, ahh, ahhhh!"[pcms]
 
 
 *1085|
 [fc]
-女子アナはバウンドするくらい激しく腰を振りながらも、[r]
-何のためらいもなく、男の尻の穴に人差し指と中指をねじ込んだ。[pcms]
+While swinging her hips vigorously enough to bounce, the female[r]
+announcer twisted her index and middle fingers into the man's anal[r]
+hole without any hesitation.[pcms]
 
 ;;//■イベントCG　mob_H002
 [evcg storage="mob_H002c"][trans_c cross time=500]
@@ -369,59 +357,57 @@
 *1086|
 ;旧ナンバー[vo_m s="sasakawa0009"]
 [マイク 位置８][vo_mob s="R_sasagawa0009"]
-[ns]笹川アナ[nse]
-「こ、こうやって……せ、せめてあげると、[r]
-　んむあぐうぐあああっ！　ずんごいいいいいいっ！[r]
-　マンコのなかで、チンポが……あ、ああがああぁぁっ！！」[pcms]
+[ns]Sasagawa Ana[nse]
+"Like this... I'll torment you, and then, nnguahguuaah! It feels so[r]
+gooood! Inside my pussy, the dick is... ah, ahhgaaah!!"[pcms]
 
 
 *1087|
 [fc]
-[ns]ＡＤ[nse]
-「ひっ……ひぐぁあぁっ！！」[pcms]
+[ns]AD[nse]
+"Hii... higuuaah!!"[pcms]
 
 
 *1088|
 [fc]
-男は、素っ頓狂な声を上げながら体を捩って抵抗しようとする。[r]
-だが、女子アナの行為を否定するような言葉はなかった。[pcms]
+The man twists his body and cries out absurdly as he tries to resist.[r]
+However, there were no words to deny the actions of the female[r]
+announcer.[pcms]
 
 
 *1089|
 ;旧ナンバー[vo_m s="sasakawa0010"]
 [マイク 位置８][vo_mob s="R_sasagawa0010"]
-[ns]笹川アナ[nse]
-「ふううっ……あ、あぁ……いやらしい……おと……。[r]
-　マンコがぬれたときみたいに、ゆびをくわえて……、エッチな[r]
-　おとさせて……きみのおしりは、なんていやらしいの！？」[pcms]
+[ns]Sasagawa Ana[nse]
+"Hoooh... ah, aah... how lewd... the sound... Like when my pussy gets[r]
+wet, suck on my fingers... making such a naughty sound... your butt is[r]
+so lewd, isn't it!?"[pcms]
 
 
 *1090|
 [fc]
-[ns]ＡＤ[nse]
-「ひいいいぐあああああっ！」[pcms]
+[ns]AD[nse]
+"Hiiiiiguuaaaaah!"[pcms]
 
 
 *1091|
 ;旧ナンバー[vo_m s="sasakawa0011"]
 [マイク 位置１][vo_mob s="R_sasagawa0011"]
-[ns]笹川アナ[nse]
-「ひっ……あ、おおあぁあっ！！[r]
-　チンポがさっきよりもずっとかたくなって……！[r]
-　な、なさけない、おとこに……ゆうこう、ですよぉ」[pcms]
+[ns]Ana Sasagawa[nse]
+"Hii... ah, oohaaah!! The dick has become much harder than before![r]
+You're such a pitiful man... so effective."[pcms]
 
 
 *1092|
 [fc]
-女子アナは狂ったように身体を前後させて、[r]
-男のペニスを胎内に擦りつけ、快楽をむさぼり尽くしている。[pcms]
+The female announcer moves her body back and forth like crazy, rubbing[r]
+the man's penis inside her womb and indulging in pleasure.[pcms]
 
 
 *1093|
 [fc]
-むしろ――[r]
-男の身体を犯すというシチュエーションに、[r]
-酔っているかの様だった。[pcms]
+Rather, she seemed intoxicated by the situation of violating the man's[r]
+body.[pcms]
 
 ;;//■イベントCG　mob_H002
 [evcg storage="mob_H002d"][trans_c cross time=500]
@@ -430,8 +416,8 @@
 *1094|
 ;旧ナンバー[vo_m s="sasakawa0012"]
 [マイク 位置１][vo_mob s="R_sasagawa0012"]
-[ns]笹川アナ[nse]
-「あ、はあぁぁっ！！　んあぁあっ！　おっ……おおおっっ！」[pcms]
+[ns]Ana Sasagawa[nse]
+"Ah, haaahh!! Naaahh! Ohh... oooohhh!"[pcms]
 [bgv_mob s="R_sasagawa0012" charastop]
 
 ;;//s:ループＡ
@@ -439,30 +425,29 @@
 
 *1095|
 [fc]
-女子アナの荒々しい吐息をマイクが拾い、[r]
-テレビのスピーカーが、臨場感たっぷりに出力する。[pcms]
+The female announcer's rough breaths are picked up by the microphone,[r]
+and the TV speakers output them with plenty of presence.[pcms]
 
 
 *1096|
 ;旧ナンバー[vo_m s="sasakawa0013"]
 [マイク 位置１][vo_mob s="R_sasagawa0013"]
-[ns]笹川アナ[nse]
-「ふっ……ふうぅうぅっ！！　わかい、こ、さいっこぉおっ！！[r]
-　あは……あはは！　ぜんこくの、じょせいのみなさぁぁん！！[r]
-　れ、レイプって、さいっこうぅですよおぉおっ！！　あははっ」[pcms]
+[ns]Sasagawa Ana[nse]
+"Huh... hooohhh!! Young boy, you're the best!! Ahah... ahaha! Ladies[r]
+all over the country!! Rape is just the best!! Ahahaha"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_mob s="sasakawa0012"]
 
 
 *1097|
 [fc]
-とても国営放送のアナウンサーのものとは思えない言葉の陰で、[r]
-何発もの銃声や争っている声や悲鳴が入り乱れる。[pcms]
+Amidst words that one would hardly believe came from a national[r]
+broadcaster's announcer, gunshots, voices of conflict, and screams[r]
+intermingle.[pcms]
 
 
 *1098|
 [fc]
-まるで、戦争だ。[r]
-戦場からのレポートのようだ。[pcms]
+It's like a war. Like a report from a battlefield.[pcms]
 
 ;;//s:ここから下は二穴攻めの場合に使う
 
@@ -473,75 +458,70 @@
 
 *1099|
 [fc]
-[ns]ＡＤ[nse]
-「もうやめて、くあっ、んぐいいいいいっ！」[pcms]
+[ns]AD[nse]
+"Please stop, kuaaah, nnguiiiiiiiii!"[pcms]
 
 
 *1100|
 ;旧ナンバー[vo_m s="sasakawa0016"]
 [マイク 位置１][vo_mob s="R_sasagawa0014"]
-[ns]笹川アナ[nse]
-「なっ、なによ、だ、だらし、ないっ！！[r]
-　なさけない、こえ、ださないのっ……！！[r]
-　ふふっ……で、でも、かわいい……かわいいぃ……！」[pcms]
+[ns]Sasagawa Ana[nse]
+"What's wrong, you're so sloppy!! Don't make such a pitiful noise...!![r]
+Fufu... but, you're cute... so cute...!"[pcms]
 
 
 *1101|
 [fc]
-二人の汗が混じり合って弾け飛び、[r]
-真夏の朝なんだということを思い出させた。[pcms]
+Their sweat mixes and bursts forth, reminding one of a summer morning.[pcms]
 
 
 *1102|
 ;旧ナンバー[vo_m s="sasakawa0017"]
 [マイク 位置２][vo_mob s="R_sasagawa0015"]
-[ns]笹川アナ[nse]
-「ほらぁぁ……ぼーっとしてないでぇっ！！[r]
-　も、もっと……チンポつきあげてぇぇっ！！！[r]
-　ふっ……ほ、ほらぁっ！　せいえき、こねてあげるっ！」[pcms]
+[ns]Ana Sasagawa[nse]
+"Come on... don't space out!! Push your dick up more!! Huh... look![r]
+I'll mix your semen for you!"[pcms]
 
 
 *1103|
 [fc]
-女子アナは男のことを罵倒しつつ、[r]
-愛液塗れの睾丸を弄び、引っ張って反応を見ていた。[pcms]
+The female announcer taunts the man while playing with his semen-[r]
+covered testicles and pulling them to see his reaction.[pcms]
 
 
 *1104|
 [fc]
-[ns]ＡＤ[nse]
-「千切れるぅぅぅぅぅっ！」[pcms]
+[ns]AD[nse]
+"It's going to tear off!!"[pcms]
 
 
 *1105|
 ;旧ナンバー[vo_m s="sasakawa0019"]
 [マイク 位置２][vo_mob s="R_sasagawa0016"]
-[ns]笹川アナ[nse]
-「しちょうしゃの、みなさん……！？　キンタマはぁ……つぶして[r]
-　しまわないくらいに……ひぁあぁッ！[r]
-　ちゅ、ちゅうい……してくださいねぇっ！」[pcms]
+[ns]Sasagawa Ana[nse]
+"Ladies and gentlemen of the audience...!? Be careful not to crush the[r]
+balls... just enough not to... hiaaahh! Pay attention, please!"[pcms]
 
 
 *1106|
 [fc]
-[ns]ＡＤ[nse]
-「ぎっ……ぎいぃいいああぁぁぁぁっ！　ああぁあっ！！」[pcms]
+[ns]AD[nse]
+"Gii... giiiiiaaaaahhh! Aaahh!!"[pcms]
 
 
 *1107|
 ;旧ナンバー[vo_m s="sasakawa0020"]
 [マイク 位置２][vo_mob s="R_sasagawa0017"]
-[ns]笹川アナ[nse]
-「ほら、こうして……すこーしたたくと、いいですよぉ！[r]
-　あっ……あははっ！！　キュウウッてうごいた！[r]
-　あっははははっ！　はははあぁあっ！！」[pcms]
+[ns]Sasagawa Ana[nse]
+"Look, if you squeeze it like this... it feels good! Ahh... ahaha!! It[r]
+twitched! Ahahahaaha! Hahahaahh!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_mob s="sasakawa0012"]
 
 
 *1108|
 [fc]
-引っ張っていた男の玉を、もう片手をグーにして[r]
-潰すように叩きつける。[pcms]
+She slaps the man's balls she had been pulling with her other hand[r]
+clenched into a fist as if to crush them.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -555,23 +535,22 @@
 
 *1109|
 [fc]
-[ns]ＡＤ[nse]
-「ぎゃあああああああああぁあぁああぁっ！！！」[pcms]
+[ns]AD[nse]
+"Gyaaaaaaaahhhhhhhhh!!!"[pcms]
 
 
 *1110|
 [fc]
-その瞬間、男のチンポが喜びの声をあげるように[r]
-一際強く女子アナのあそこを突いていった。[pcms]
+In that moment, the man's dick thrusts into the female announcer's[r]
+pussy even more strongly as if crying out in joy.[pcms]
 
 
 *1111|
 ;旧ナンバー[vo_m s="sasakawa0021"]
 [マイク 位置２][vo_mob s="R_sasagawa0018"]
-[ns]笹川アナ[nse]
-「はっ……はっ！！　はあっ！！　ああぁっ！！！！[r]
-　すっ……すごい！　すごいいぃっ！！　すごいはんのぉぉぅっ！[r]
-　もっと、もっとついてぇぇぇぇっ！　んひぁあぁああぁっ！！！」[pcms]
+[ns]Ana Sasagawa[nse]
+"Hah... hah!! Haaah!! Aaahh!!!! It's amazing! So amazing!! Such an[r]
+amazing feeling! More, push it moreeeeee! Nhihaaaahhh!!!"[pcms]
 
 ;;//s:ここから下は二穴攻めの場合に使う
 
@@ -582,10 +561,8 @@
 
 *1112|
 [fc]
-[ns]ＡＤ[nse]
-「ごっ……ご、ごめんなさいっ！[r]
-　笹川さんごめんなさいぃいいっ！！[r]
-　うぅああああああああああぁああっ！！」[pcms]
+[ns]AD[nse]
+"I'm sorry... I'm sorry, Sasagawa-san! Uuaaaaaaaaahhhhh!!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -599,23 +576,27 @@
 *1113|
 ;旧ナンバー[vo_m s="sasakawa0023"]
 [マイク 位置２][vo_mob s="R_sasagawa0019"]
-[ns]笹川アナ[nse]
-「あ！　ああぁあああぁあぁあぁっ！！！！！[r]
-　ひぁああぁぁあああぁあああぁっ！！[r]
-　しゃせいっ！　ああぁあぁっ！　マンコに、なかだしぃっ！！」[pcms]
+[ns]Ana Sasagawa[nse]
+"Ah! Aaaahhhh!!! The dick is ejaculating inside my pussy!!"[pcms]
 
 
 *1114|
 [fc]
-限界まで突き入れられている女子アナは、[r]
-口からよだれを[ruby text="こぼ"][ch text="溢"]し、歓喜の声を上げた。[pcms]
+The female announcer at her limit drools from her mouth and raises a[r]
+voice of ecstasy.[pcms]
 
 
 *1115|
 [fc]
-[ns]ＡＤ[nse]
-「は……ああぁぁ……ごめんなさい……笹川さん……ああぁ……。[r]
-　お、おれ……あ、あぁ……だめっ！　ま、またでるぅうっ！！」[pcms]
+[ns]Kazumi Senoo - Male
+Shizuka Senju - Female
+Tsugumi Senoo - Female
+Naoko Honma - Female
+Natsu Hyuuga - Female
+Miki Kondou - Female
+Margarita Vasquez Homura - Female[nse]
+"Ha... ahhh... I'm sorry... Sasagawa-san... ahh... I can't... I'm[r]
+going to cum again!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -632,39 +613,37 @@
 *1116|
 ;旧ナンバー[vo_m s="sasakawa0024"]
 [マイク 位置１][vo_mob s="R_sasagawa0020"]
-[ns]笹川アナ[nse]
-「あっ……ああぁぁぁぁあぁああぁあっ！！[r]
-　んああぁあぁあぁ――――ッ！！！」[pcms]
+[ns]Sasagawa Ana[nse]
+"Ah... aaaaahhhh!! Naaahhhh----!!"[pcms]
 
 
 *1117|
 [fc]
-[ns]ＡＤ[nse]
-「はあぁあっ……あああぁ……あ、あぐぅぅ……ううっ……」[pcms]
+[ns]AD[nse]
+"Haaahh... ahhh... aguuu... uuh..."[pcms]
 
 
 *1118|
 [fc]
-よほど溜め込んでいたのか、あるいはよほど気持ち良かったのか。[r]
-男の吐き出した精液が、アナウンサーのマンコの隙間から、[r]
-泡だって押し出されていく。[pcms]
+Whether he had been holding back for too long or it felt too good, the[r]
+man's ejaculated semen frothed as it was pushed out from the gaps of[r]
+the announcer's pussy.[pcms]
 
 
 *1119|
 ;旧ナンバー[vo_m s="sasakawa0025"]
 [マイク 位置８][vo_mob s="R_sasagawa0021"]
-[ns]笹川アナ[nse]
-「あは……あ……ああぁ……ぎゃ、ぎゃくレイプ……、[r]
-　どきどきしたぁっ！　あはぁ……こ、こうふんしすぎて、[r]
-　わたし……ば、ばかになりそ……あ、あぁあぁ……！！」[pcms]
+[ns]Ana Sasagawa[nse]
+"Aha... ah... ahhh... gyaku rape was so thrilling! Ahah... I got so[r]
+excited that I almost became stupid... ah, ahhh...!!"[pcms]
 
 
 *1120|
 ;旧ナンバー[vo_m s="sasakawa0026"]
 [マイク 位置８][vo_mob s="R_sasagawa0022"]
-[ns]笹川アナ[nse]
-「だ、だめぇぇっ！！　みられて……わたし、ばかになるうっ！[r]
-　み、みてぇっ！！　ばかになった、わたしをみてぇっ！！」[pcms]
+[ns]Sasagawa Ana[nse]
+"No, noooo!! Being seen... I'm going to look so stupid! Look, look at[r]
+me!! Look at me becoming stupid!!"[pcms]
 
 ;;//■イベントCG　mob_H002
 [evcg storage="mob_H002f"][trans_c cross time=500]
@@ -674,10 +653,9 @@
 *1121|
 ;旧ナンバー[vo_m s="sasakawa0027"]
 [マイク 位置１][vo_mob s="R_sasagawa0023"]
-[ns]笹川アナ[nse]
-「それでは、みな、さんっ！！[r]
-　あ、あへがお……ダブルぴーすっ！！　あしたも、よろしくね！[r]
-　あ……ああぁあっ！！　やぁあっ！　イクうぅうぅうっ！！！」[pcms]
+[ns]Sasagawa Ana[nse]
+"And so, everyone!! Ah, ahegao... double peace!! I'm looking forward[r]
+to tomorrow too! Ah... aaaaahhh!! Yaaah! I'm cumminggggg!!"[pcms]
 
 ;;//s:ここから下は二穴攻めの場合に使う
 

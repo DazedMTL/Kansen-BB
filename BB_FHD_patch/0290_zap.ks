@@ -27,34 +27,34 @@
 *2993|
 ;旧ナンバー[vo_t s="tugumi0121"]
 [vo_t s="R_tug0123"]
-[ns]丞実[nse]
-「はあ……はっ……はぁ……」[pcms]
+[ns]Tsugumi[nse]
+"Haa...hah...haa..."[pcms]
 
 
 *2994|
 [fc]
-ヘンなヤツらが沢山追いかけてきて、[r]
-リナとはぐれて、一人になっちゃって……。[pcms]
+A bunch of weird guys started chasing after us, I got separated from[r]
+Rina, and ended up all alone...[pcms]
 
 
 *2995|
 [fc]
-学園の中を無我夢中で走って、[r]
-気が付いたら教室の中に逃げ込んで……。[pcms]
+I ran through the school like a madwoman, and before I knew it, I had[r]
+taken refuge inside a classroom...[pcms]
 
 
 *2996|
 [fc]
-掃除用具のロッカーから取り出したモップで、[r]
-引き戸につっかえ棒をした。[pcms]
+I took a mop out of the cleaning equipment locker and used it to jam[r]
+the sliding door shut.[pcms]
 
 
 *2997|
 ;旧ナンバー[vo_t s="tugumi0122"]
 [vo_t s="R_tug0124"]
-[ns]丞実[nse]
-「ああ、これで一安心、かな……。[r]
-　それにしても、何よアイツら……」[pcms]
+[ns]Tsugumi[nse]
+"Ah, I think I can relax a bit now... But what's with those guys[r]
+anyway..."[pcms]
 
 ;;//s:SE　ドンドンと壁を叩く
 [se buf1 storage="seB095"]
@@ -66,30 +66,27 @@
 *2998|
 ;旧ナンバー[vo_t s="tugumi0123"]
 [vo_t s="R_tug0125"]
-[ns]丞実[nse]
-「きゃっ！！」[pcms]
+[ns]Tsugumi[nse]
+"Kyaa!!"[pcms]
 
 
 *2999|
 [fc]
-[ns]感染者男Ｃ[nse]
-「お、お゛ぁ……こ゛こ゛かぁぁ？[r]
-　か゛くれて゛ないでぇ……でて、こいぃぃ」[pcms]
+[ns]Infected Man C[nse]
+"O-oh...is it here? Don't hide...come out..."[pcms]
 
 
 *3000|
 [fc]
-[ns]感染者男Ｄ[nse]
-「ははは！　おいオマンコ！　でてこいよおおっ！！[r]
-　おれが、おまえのオマンコでオマンコしてやっから！[r]
-　ひゃははははっ！！」[pcms]
+[ns]Infected Man D[nse]
+"Hahaha! Hey pussy! Come out!! I'm gonna fuck your pussy with my[r]
+pussy! Hyahahaha!!"[pcms]
 
 
 *3001|
 [fc]
-[ns]感染者男Ｅ[nse]
-「ぶっ……ふぁ゛ァ……あ、ああ～……。[r]
-　マンコのにおいがするぜぇ～……」[pcms]
+[ns]Infected Man E[nse]
+"Buh...fah...ah, ahh~... I can smell pussy here~..."[pcms]
 
 ;;//s:SE　ドンドンと壁を叩く
 [se buf1 storage="seB095"]
@@ -101,35 +98,35 @@
 *3002|
 ;旧ナンバー[vo_t s="tugumi0124"]
 [vo_t s="R_tug0126"]
-[ns]丞実[nse]
-「わぁっ……」[pcms]
+[ns]Tsugumi[nse]
+"Wahh..."[pcms]
 
 
 *3003|
 [fc]
-しつっこいな……ずっと追いかけてきたの？[pcms]
+They're so persistent... Have they been chasing me this whole time?[pcms]
 
 
 *3004|
 ;旧ナンバー[vo_t s="tugumi0125"]
 [vo_t s="R_tug0127"]
-[ns]丞実[nse]
-「あんな人達にモテても仕方ないっての……。[r]
-　もお～……なんでこんな事になってるの……」[pcms]
+[ns]Tsugumi[nse]
+"Being popular with those kinds of people is the last thing I need...[r]
+Ugh... Why is this happening..."[pcms]
 
 
 *3005|
 [fc]
-あたしは、小さな声で悪態をつきながら、[r]
-教壇の中に体を隠し、彼らが諦めるのを待とうとした。[pcms]
+While muttering curses under my breath, I hid my body inside the[r]
+podium, waiting for them to give up.[pcms]
 
 
 *3006|
 ;旧ナンバー[vo_m s="girlB0006"]
 [vo_mob s="R_girlB0004"]
-;[ns]女の子Ｂ[nse]
+[ns]Girl B[nse]
 [ns]？？？[nse]
-「いやああああああああああああぁああぁあああああああ！！！」[pcms]
+"Noooooo!!!"[pcms]
 
 ;;//後ほど　？？？　に
 
@@ -137,28 +134,27 @@
 *3007|
 ;旧ナンバー[vo_t s="tugumi0126"]
 [vo_t s="R_tug0128"]
-[ns]丞実[nse]
-「ひっ……何？」[pcms]
+[ns]Tsugumi[nse]
+"Huh...what?"[pcms]
 
 
 *3008|
 [fc]
-[ns]感染者男Ｄ[nse]
-「おい！　あっちにべつのまんこいるぜ？[r]
-　あっちいってみるか！？　オイ！！」[pcms]
+[ns]Infected Man D[nse]
+"Hey! There's another pussy over there? Should we go check it out?[r]
+Hey!!"[pcms]
 
 
 *3009|
 [fc]
-[ns]感染者男Ｅ[nse]
-「あ゛ぁ……い゛って、みっか゛ァ……」[pcms]
+[ns]Infected Man E[nse]
+"Ah...let's go check it out..."[pcms]
 
 
 *3010|
 [fc]
-[ns]感染者男Ｃ[nse]
-「へ、へへぇ……ま、また゛くっからな……。[r]
-　まってろ……よっ！」[pcms]
+[ns]Infected Man C[nse]
+"Heh, hehe...I'll be back... Wait for me...yo!"[pcms]
 
 ;;//s:SE　壁をイッパツ　ドン
 [se buf1 storage="seB095"]
@@ -170,378 +166,359 @@
 *3011|
 ;旧ナンバー[vo_t s="tugumi0127"]
 [vo_t s="R_tug0129"]
-[ns]丞実[nse]
-「きゃあっ！！」[pcms]
+[ns]Tsugumi[nse]
+"Kyaa!!"[pcms]
 
 
 *3012|
 [fc]
-…………。[r]
-……。[pcms]
+... ...[pcms]
 
 
 *3013|
 [fc]
-どうやら、最後は悔し紛れだったみたい。[r]
-それっきり、男の声は聞こえなくなった。[r]
-きっと、悲鳴のした方に向かったんだろう。[pcms]
+It seems that was just a bluff in frustration. After that, I didn't[r]
+hear the men's voices anymore. They must have gone towards the[r]
+direction of the scream.[pcms]
 
 
 *3014|
 ;旧ナンバー[vo_t s="tugumi0128"]
 [vo_t s="R_tug0130"]
-[ns]丞実[nse]
-「はぁ……久々にドキドキしちゃったよ……。[r]
-　怖かったなあ……あ……リナ、大丈夫かな……」[pcms]
+[ns]Tsugumi[nse]
+"Haa...that was the most heart-pounding moment in a while... It was[r]
+scary... I wonder if Rina is okay..."[pcms]
 
 
 *3015|
 [fc]
-あの時、リナに呼ばれてなかったら、[r]
-あたしはどうなっていたんだろう。[r]
-あの子のおかげで、助かったんだ。[pcms]
+If Rina hadn't called for me at that time, I wonder what would have[r]
+happened to me. It's thanks to her that I was saved.[pcms]
 
 
 *3016|
 [fc]
-そのリナと合流した直後、[r]
-あの男達が現れて、あたし達の間に割って入ってきた。[pcms]
+Right after I met up with Rina, those men appeared and forced their[r]
+way between us.[pcms]
 
 
 *3017|
 [fc]
-そして、リナは非常階段の方へ、[r]
-あたしは、校舎の奥の方へと、[r]
-それぞれ逆方向に逃げざるを得ない状況にされてしまった。[pcms]
+Then, Rina ran towards the emergency stairs, and I had no choice but[r]
+to run towards the back of the school building, in opposite[r]
+directions.[pcms]
 
 
 *3018|
 ;旧ナンバー[vo_t s="tugumi0129"]
 [vo_t s="R_tug0131"]
-[ns]丞実[nse]
-「それにしても、ズボン持って行かれちゃった……。[r]
-　お気に入りだったのに……ちぇ」[pcms]
+[ns]Tsugumi[nse]
+"Even so, they took my pants... They were my favorite ones too...che."[pcms]
 
 
 *3019|
 [fc]
-あの連中が抱きついてきた時、振り払おうとして、[r]
-ジャージのズボンを脱がされてしまった。[pcms]
+When those guys clung to me, I tried to shake them off and ended up[r]
+getting my jersey pants pulled down.[pcms]
 
 
 *3020|
 [fc]
-だけど、あそこで四の五の言ってる訳にはいかなかったから、[r]
-仕方が無い。[pcms]
+But there was no time to fuss about it then, so it couldn't be helped.[pcms]
 
 
 *3021|
 [fc]
-それにしても、少し大きいのを着ていて本当に良かった。[r]
-サイズピッタリのだったら、[r]
-靴に引っかかって危なかったかもしれない。[pcms]
+I'm really glad I was wearing a slightly bigger size. If they had been[r]
+just the right size, they might have caught on my shoes and that could[r]
+have been dangerous.[pcms]
 
 
 *3022|
 [fc]
-このサイズのジャージを選んだ過去のあたしに感謝しなきゃ。[pcms]
+I have to thank my past self for choosing this size of jersey.[pcms]
 
 
 *3023|
 ;旧ナンバー[vo_t s="tugumi0130"]
 [vo_t s="R_tug0132"]
-[ns]丞実[nse]
-「……これってどういうことなの……。[r]
-　事故だらけ、学園の中はヘンなヤツがたっくさん。[r]
-　女の子もヘンになってたみたいだし……」[pcms]
+[ns]Tsugumi[nse]
+"...What's going on here... Accidents everywhere, lots of weird guys[r]
+inside the school. Even the girls seemed to have gone weird..."[pcms]
 
 
 *3024|
 [fc]
-何かがおかしい。[r]
-漫画やアニメなんかでよくある設定の、[r]
-洗脳兵器が使われたとか……。[pcms]
+Something is wrong. It's like one of those settings you often see in[r]
+manga or anime, like some kind of brainwashing weapon being used...[pcms]
 
 
 *3025|
 ;旧ナンバー[vo_t s="tugumi0131"]
 [vo_t s="R_tug0133"]
-[ns]丞実[nse]
-「んなワケないよねえ……。[r]
-　うーん、朝見た人達もヘンだったし……。[r]
-　街全体がヘンに……まさか、何かの呪いとか……？」[pcms]
+[ns]Tsugumi[nse]
+"That can't be it, right? Hmm, the people I saw this morning were[r]
+weird too... The whole town has gone weird...could it be some kind of[r]
+curse...?"[pcms]
 
 
 *3026|
 [fc]
-…………。[r]
-……。[pcms]
+... ...[pcms]
 
 
 *3027|
 [fc]
-ダメダメ。[r]
-こんな事言ってたら、兄ちゃんみたいだよ。[pcms]
+No good. If I keep talking like this, I'll sound just like my brother.[pcms]
 
 
 *3028|
 [fc]
-いっつも、夢みたいな事言ったり、[r]
-つかみ所のない話ばっかりして。[pcms]
+He's always talking about dreamy stuff and making elusive[r]
+conversations.[pcms]
 
 
 *3029|
 ;旧ナンバー[vo_t s="tugumi0132"]
 [vo_t s="R_tug0134"]
-[ns]丞実[nse]
-「兄ちゃんか……大丈夫かなあ……。[r]
-　連絡つくかな？」[pcms]
+[ns]Tsugumi[nse]
+"Speaking of brother...I wonder if he's okay... Can I get in touch[r]
+with him?"[pcms]
 
 
 *3030|
 [fc]
-おかしな事になっているのは、[r]
-この学園の中だけかもしれない。[pcms]
+The strange happenings might be confined just to this school.[pcms]
 
 
 *3031|
 [fc]
-兄ちゃんの家の方は、[r]
-まだ全然平気かも知れないもんね。[pcms]
+It's possible that everything is still perfectly fine where my[r]
+brother's house is.[pcms]
 
 
 *3032|
 [fc]
-今の所、ここは安全だと思う。[pcms]
+For now, I think this place is safe.[pcms]
 
 
 *3033|
 [fc]
-携帯も持ってきているし連絡するなら、[r]
-今しかなさそう。[pcms]
+I have my phone with me, so if I'm going to contact him, now's the[r]
+only chance.[pcms]
 
 
 *3034|
 ;旧ナンバー[vo_t s="tugumi0133"]
 [vo_t s="R_tug0135"]
-[ns]丞実[nse]
-「よし……」[pcms]
+[ns]Tsugumi[nse]
+"Alright..."[pcms]
 
 
 *3035|
 [fc]
-スポーツバッグの中から携帯を取りだし、[r]
-メールチェックすると、小さなディスプレイには、[r]
-『新着メールあり』と表示された。[pcms]
+She took out her phone from her sports bag, checked her mail, and the[r]
+small display showed, "New mail received."[pcms]
 
 
 *3036|
 ;旧ナンバー[vo_t s="tugumi0134"]
 [vo_t s="R_tug0136"]
-[ns]丞実[nse]
-「お……来た来た……」[pcms]
+[ns]Tsugumi[nse]
+"Oh... here it comes..."[pcms]
 
 
 *3037|
 [fc]
-『新着メールあり』の表示が連続し、[r]
-携帯の上の方にあるＬＥＤランプが、[r]
-赤や緑に変化した。[pcms]
+The "New mail received" notification kept popping up, and the LED[r]
+light at the top of the phone flickered between red and green.[pcms]
 
 
 *3038|
 [fc]
-一通目のメールは、お母さんから。[r]
-『こちらは無事です丞実は大丈夫？』[pcms]
+The first message was from Mom. "We're safe here. Are you okay,[r]
+Tsugumi?"[pcms]
 
 
 *3039|
 ;旧ナンバー[vo_t s="tugumi0135"]
 [vo_t s="R_tug0137"]
-[ns]丞実[nse]
-「……句読点入れなきゃ読みにくいよって、[r]
-　何度も言ったのに。でも、大丈夫っぽい」[pcms]
+[ns]Tsugumi[nse]
+"...I've told her so many times to use punctuation to make it easier[r]
+to read. But it seems like she's okay."[pcms]
 
 
 *3040|
 [fc]
-お母さんらしいメールの文面に安堵した反面、[r]
-この騒動は学園の中だけじゃないって事が、[r]
-容易に想像できた。[pcms]
+While relieved by the typical message from her mother, Tsugumi easily[r]
+imagined that the chaos wasn't just within the school.[pcms]
 
 
 *3041|
 [fc]
-そして、二通目を開く。[pcms]
+Then, she opened the second message.[pcms]
 
 
 *3042|
 ;旧ナンバー[vo_t s="tugumi0136"]
 [vo_t s="R_tug0138"]
-[ns]丞実[nse]
-「兄ちゃんからだ！」[pcms]
+[ns]Tsugumi[nse]
+"It's from big brother!"[pcms]
 
 
 *3043|
 [fc]
-『必ず助けに行く。絶対にだ！　だから、諦めるな丞実』[pcms]
+"I will definitely come to save you. Absolutely! So don't give up,[r]
+Tsugumi."[pcms]
 
 
 *3044|
 [fc]
-そこには、凄く勇ましい文章が書かれていた。[pcms]
+It was a very brave message.[pcms]
 
 
 *3045|
 ;旧ナンバー[vo_t s="tugumi0137"]
 [vo_t s="R_tug0139"]
-[ns]丞実[nse]
-「……兄ちゃん……」[pcms]
+[ns]Tsugumi[nse]
+"...Big brother..."[pcms]
 
 
 *3046|
 [fc]
-兄ちゃんがどんな顔をしてこのメールを打ったのか、[r]
-容易に想像が付いた。[pcms]
+She could easily imagine the expression on her brother's face as he[r]
+typed this email.[pcms]
 
 
 *3047|
 [fc]
-きっと、物語のヒーローにでもなったつもりで、[r]
-鼻息を荒くして打ち込んでいたんだろう。[r]
-そして、文面と同じ事を叫んでいたハズだ。[pcms]
+He must have been typing furiously, thinking he was like a hero in a[r]
+story, and probably shouting the same thing as he wrote.[pcms]
 
 
 *3048|
 [fc]
-気持ちはありがたい。[r]
-今のあたしには、凄く嬉しい文章だ。[pcms]
+The sentiment was appreciated. Right now, it was a very welcome[r]
+message for her.[pcms]
 
 
 *3049|
 [fc]
-だけど……。[r]
-どうやって、ココまで来るつもりなんだろう。[pcms]
+But... How does he plan to get here?[pcms]
 
 
 *3050|
 [fc]
-ここに来る途中ヘンなヤツらがいるかも知れない。[r]
-どうするつもりなんだろう。[pcms]
+There might be weird guys on the way here. What is he going to do?[pcms]
 
 
 *3051|
 ;旧ナンバー[vo_t s="tugumi0138"]
 [vo_t s="R_tug0140"]
-[ns]丞実[nse]
-「そもそも、助けが必要なのは兄ちゃんの方なんじゃ……。[r]
-　一人で悲鳴あげてそう……」[pcms]
+[ns]Tsugumi[nse]
+"Actually, maybe big brother is the one who needs help... He's[r]
+probably screaming alone..."[pcms]
 
 
 *3052|
 [fc]
-いっきなりヘンな人達に囲まれて、脅されたりしたら、[r]
-あたしだって、どうかしてしまうかもしれない。[pcms]
+If suddenly surrounded by strange people and threatened, even I might[r]
+lose it.[pcms]
 
 
 *3053|
 [fc]
-同じ状況に、兄ちゃんがいたとしたら……。[pcms]
+If big brother were in the same situation...[pcms]
 
 
 *3054|
 ;旧ナンバー[vo_t s="tugumi0139"]
 [vo_t s="R_tug0141"]
-[ns]丞実[nse]
-「兄ちゃんもおかしくなっちゃってたりして。[r]
-　それで、こんなメール……いやいや、[r]
-　そんな事ないよね、うん！　……電話してみよ」[pcms]
+[ns]Tsugumi[nse]
+"Maybe big brother has also gone weird. That's why he sent such a[r]
+message... No, no, that can't be right, yeah! ...I'll try calling."[pcms]
 
 
 *3055|
 [fc]
-あたしの考えてた事が、[r]
-本当になっていたらどうしよう。[pcms]
+What if what I'm thinking actually happens?[pcms]
 
 
 *3056|
 [fc]
-そんな不安を払拭しようと、[r]
-兄ちゃんの携帯に電話をしてみる。[pcms]
+To dispel such fears, she tried calling her brother's cell phone.[pcms]
 
 
 *3057|
 [fc]
-『おかけになった番号は、大変混み合っています。[r]
-　しばらくたってから、再度お掛け直しください』[pcms]
+"The number you have dialed is currently busy. Please try again[r]
+later."[pcms]
 
 
 *3058|
 ;旧ナンバー[vo_t s="tugumi0140"]
 [vo_t s="R_tug0142"]
-[ns]丞実[nse]
-「え……？　何？　今のアナウンス……」[pcms]
+[ns]Tsugumi[nse]
+"Eh...? What? What was that announcement...?"[pcms]
 
 
 *3059|
 [fc]
-番号を間違えたかな？[r]
-でも、登録してある番号だから、[r]
-間違えようなんて無いんだけどな。[pcms]
+Did I dial the wrong number? But it's a registered number, so there's[r]
+no way I could have made a mistake.[pcms]
 
 
 *3060|
 ;旧ナンバー[vo_t s="tugumi0141"]
 [vo_t s="R_tug0143"]
-[ns]丞実[nse]
-「あ……」[pcms]
+[ns]Tsugumi[nse]
+"Ah..."[pcms]
 
 
 *3061|
 [fc]
-兄ちゃんの携帯、未払いで止まっちゃってるかもしれない。[r]
-他の人に掛けてみよう。[pcms]
+Maybe big brother's cell phone service has been suspended due to non-[r]
+payment. I should try calling someone else.[pcms]
 
 
 *3062|
 ;旧ナンバー[vo_t s="tugumi0142"]
 [vo_t s="R_tug0144"]
-[ns]丞実[nse]
-「リナや、静は繋がるかな……」[pcms]
+[ns]Tsugumi[nse]
+"I wonder if I can reach Rina or Shizuka..."[pcms]
 
 
 *3063|
 [fc]
-あの二人が何処にいるかも知りたいし、[r]
-今は、誰でもいいから声を聞きたい。[pcms]
+I want to know where those two are, and right now, I just want to hear[r]
+anyone's voice.[pcms]
 
 
 *3064|
 [fc]
-『おかけになった番号は、大変混み合っています。[r]
-　しばらくたってから、再度お掛け直しください』[pcms]
+"The number you have dialed is currently busy. Please try again[r]
+later."[pcms]
 
 
 *3065|
 [fc]
-今度は、落ち着いて、確認してからダイヤルをした。[r]
-だけど、携帯のスピーカーから流れる声は、[r]
-兄ちゃんの時と同じだった。[pcms]
+This time, she calmly checked before dialing. But the voice coming[r]
+from the cell phone speaker was the same as before.[pcms]
 
 
 *3066|
 ;旧ナンバー[vo_t s="tugumi0143"]
 [vo_t s="R_tug0145"]
-[ns]丞実[nse]
-「大丈夫かな、みんな……」[pcms]
+[ns]Tsugumi[nse]
+"I hope everyone is okay..."[pcms]
 
 
 *3067|
 ;旧ナンバー[vo_m s="girlB0006"]
 [vo_mob s="R_girlB0005"]
-;[ns]女の子Ｂ[nse]
+[ns]Girl B[nse]
 [ns]？？？[nse]
-「いやああああああああああああぁああぁあああああああ！！！」[pcms]
+"Noooooo!!!"[pcms]
 
 ;;//後ほど　？？？　に
 
@@ -549,138 +526,133 @@
 *3068|
 ;旧ナンバー[vo_t s="tugumi0144"]
 [vo_t s="R_tug0146"]
-[ns]丞実[nse]
-「きゃ……ま、また……」[pcms]
+[ns]Tsugumi[nse]
+"Kyah... not again..."[pcms]
 
 
 *3069|
 [fc]
-悲鳴の声は遠くなっていく。[r]
-だけど悲壮感はさっきより何倍も強くなっている気がする。[r]
-それに、廊下を歩く足音が次第に増えてきている。[pcms]
+The screams faded into the distance. But the sense of desperation felt[r]
+many times stronger than before. And the sound of footsteps in the[r]
+hallway seemed to be increasing.[pcms]
 
 
 *3070|
 [fc]
-今の所、ここは安全だけど……、[r]
-いざあの人達がはいってきたら、逃げ場はない。[r]
-まさに、袋のネズミだ。[pcms]
+For now, this place is safe, but if those people come in, there will[r]
+be no escape. It's like being a rat in a bag.[pcms]
 
 
 *3071|
 [fc]
-しかも、今外に出て行くのは危険だ。[r]
-人の心配をしている余裕なんて無いんだ。[pcms]
+Besides, going outside now is dangerous. There's no room to worry[r]
+about others.[pcms]
 
 
 *3072|
 ;旧ナンバー[vo_t s="tugumi0145"]
 [vo_t s="R_tug0147"]
-[ns]丞実[nse]
-「しばらくは、ここに隠れて……。[r]
-　あの連中がいなくなってから逃げよう」[pcms]
+[ns]Tsugumi[nse]
+"I'll hide here for a while... I'll escape once those people are[r]
+gone."[pcms]
 
 
 *3073|
 [fc]
-だけど、彼らがずーっと廊下に居座っていたらどうしよう。[r]
-お腹も減ってきたし……バッグの中にお弁当入れてあったかな。[pcms]
+But what if they keep staying in the hallway? I'm getting hungry...[r]
+Did I put a lunch box in my bag?[pcms]
 
 
 *3074|
 [fc]
-バッグを開き、中の荷物を取り出してみる。[pcms]
+She opened her bag and took out the contents.[pcms]
 
 
 *3075|
 [fc]
-持ってきた時と中見は変わらず、[r]
-水着、タオル、着替えや下着、それに水筒とお弁当が入ってる。[pcms]
+a swimsuit, a towel, a change of clothes and underwear, as well as a[r]
+water bottle and a lunch box.[pcms]
 
 
 *3076|
 [fc]
-投げ出さずに持ってきて正解だった。[r]
-偉いぞ、あたし。[pcms]
+It was a good decision to bring it with her. Good job, me.[pcms]
 
 
 *3077|
 [fc]
-食べ物も、飲み物も、[r]
-これだけあれば、明日の朝まではがんばれる。[pcms]
+With food and drink like this, I can hold out until tomorrow morning.[pcms]
 
 
 *3078|
 [fc]
-もちろん、その前にあの人達も家に帰るだろうけど。[pcms]
+Of course, those people will probably go home before then.[pcms]
 
 
 *3079|
 [fc]
-……いや、帰るのかな……？[r]
-目的も分かんないし……。[pcms]
+...But will they go home...? I don't even know what they want...[pcms]
 
 
 *3080|
 [fc]
-一体何の集団なんだろう。[r]
-異常者の群れか、まさか暴動……とか……？[pcms]
+I wonder what kind of group they are. A horde of lunatics, or could it[r]
+be a riot...?[pcms]
 
 
 *3081|
 [fc]
-不安な気持ちを抑え、教室の窓から外を眺める。[pcms]
+Suppressing her anxiety, she looked outside from the classroom window.[pcms]
 
 
 *3082|
 ;旧ナンバー[vo_t s="tugumi0146"]
 [vo_t s="R_tug0148"]
-[ns]丞実[nse]
-「うわ……増えてる……」[pcms]
+[ns]Tsugumi[nse]
+"Wow... there are more of them..."[pcms]
 
 
 *3083|
 [fc]
-この教室に逃げ込む前より変な人数が増え、[r]
-校庭の色んな所をふらふら歩いている。[pcms]
+The number of strange people had increased since before she took[r]
+refuge in this classroom, wandering aimlessly around various parts of[r]
+the schoolyard.[pcms]
 
 
 *3084|
 ;旧ナンバー[vo_t s="tugumi0147"]
 [vo_t s="R_tug0149"]
-[ns]丞実[nse]
-「どうしようかな……いずれココにも入ってきちゃうかな……。[r]
-　合宿所の方は、大丈夫かなあ……」[pcms]
+[ns]Tsugumi[nse]
+"What should I do... I wonder if they'll eventually come in here[r]
+too... Is the lodge safe, I wonder..."[pcms]
 
 
 *3085|
 [fc]
-ふと、中庭を挟んで向かい側にある合宿所に目を向けた。[pcms]
+She glanced at the lodge across the courtyard.[pcms]
 
 
 *3086|
 [fc]
-窓の奥で、何かが動いた気がする。[r]
-そこは、あたし達が泊まる予定だった部屋だ。[pcms]
+She thought she saw something move behind one of the windows. That was[r]
+the room they were supposed to stay in.[pcms]
 
 
 *3087|
 [fc]
-あのヘンな人達か、それとも静達か。[r]
-いずれにせよ、あそこに行けば誰かがいる。[r]
-それに、シャワーもトイレも、食べ物だって一杯ある。[pcms]
+Whether it's those weird people or Shizuka and the others, someone is[r]
+there. Plus, there are showers, toilets, and plenty of food.[pcms]
 
 
 *3088|
 [fc]
-廊下をうろついてる人達がいなくなったら、[r]
-合宿所に向かおう。[pcms]
+If the people wandering the hallways leave, I'll head to the lodge.[pcms]
 
 
 *3089|
 [fc]
-もちろん、危険度はココと変わらないかも知れないから、[r]
-気をつけないとならないけど……。[pcms]
+Of course, it might be just as dangerous as here, so I'll have to be[r]
+careful...[pcms]
 
 ;;//s:SE　壁をイッパツ　ドン
 [se buf1 storage="seB095"]
@@ -692,74 +664,75 @@
 *3090|
 ;旧ナンバー[vo_t s="tugumi0148"]
 [vo_t s="R_tug0150"]
-[ns]丞実[nse]
-「ひっ！！　もうやだっ！」[pcms]
+[ns]Tsugumi[nse]
+"Eek!! I can't take this anymore!"[pcms]
 
 
 *3091|
 [fc]
-うっかりしていた。[r]
-廊下にはあの人達がいるんだった！[pcms]
+She had been careless. She remembered that those people were in the[r]
+hallway![pcms]
 
 
 *3092|
 [fc]
-口を押さえて大慌てで教壇の下に潜り込み、[r]
-息を潜める。[pcms]
+In a panic, she pressed her mouth shut and dove under the teacher's[r]
+desk, holding her breath.[pcms]
 
 
 *3093|
 ;旧ナンバー[vo_t s="tugumi0149"]
 [vo_t s="R_tug0151"]
-[ns]丞実[nse]
-「…………」[pcms]
+[ns]Tsugumi[nse]
+"..."[pcms]
 
 
 *3094|
 [fc]
-壁の音はそれっきり聞こえなくなって、[r]
-特に誰かが入ってきそうな感じはなかった。[pcms]
+The sounds from the wall ceased, and there was no particular sense[r]
+that anyone was about to enter.[pcms]
 
 
 *3095|
 [fc]
-一難去ってまた一難、それがまた去った。[r]
-あの人達が居なくなるまで、一切気を抜くことは出来ない。[pcms]
+One crisis after another had passed. She couldn't let her guard down[r]
+until those people were gone.[pcms]
 
 
 *3096|
 [fc]
-……その前に……。[pcms]
+...But before that...[pcms]
 
 
 *3097|
 ;旧ナンバー[vo_t s="tugumi0150"]
 [vo_t s="R_tug0152"]
-[ns]丞実[nse]
-「パンツ丸見え……水着に着替えよ……」[pcms]
+[ns]Tsugumi[nse]
+"My panties are totally visible... I should change into my[r]
+swimsuit..."[pcms]
 
 
 *3098|
 [fc]
-ジャージのズボンを持って行かれたんだもの、当然よね。[pcms]
+It's only natural since her jersey pants were taken away.[pcms]
 
 
 *3099|
 ;旧ナンバー[vo_t s="tugumi0151"]
 [vo_t s="R_tug0153"]
-[ns]丞実[nse]
-「あーあ……誰かに見られて無くて良かった……」[pcms]
+[ns]Tsugumi[nse]
+"Ah-ah... thank goodness no one saw me..."[pcms]
 
 
 *3100|
 [fc]
-バッグの中から水着を取りだし、[r]
-下着をガードするように重ね履きをすると、[r]
-ゆっくりと息を吸い込みながら、天井を見上げた。[pcms]
+She took out her swimsuit from the bag and layered it over her[r]
+underwear as if guarding it, then slowly took a deep breath and looked[r]
+up at the ceiling.[pcms]
 
 ;	[link target=*gassyukujo]ここにいても仕方ない。合宿所に行ってみよう[endlink]
 ;	[link target=*taiki]うかつにココから出ない方がよさそう……[endlink]
-;	[s]
+[pcms]
 
 
 *SEL07|ここにいても仕方ない。合宿所に行ってみよう／うかつにココから出ない方がよさそう……
@@ -786,62 +759,59 @@
 
 *3101|
 [fc]
-天井を見つめ、目を閉じながら思案する。[pcms]
+Staring at the ceiling, she closed her eyes and pondered.[pcms]
 
 
 *3102|
 [fc]
-…………。[r]
-……。[pcms]
+...[pcms]
 
 
 *3103|
 ;旧ナンバー[vo_t s="tugumi0152"]
 [vo_t s="R_tug0154"]
-[ns]丞実[nse]
-「そうだよ……ここに閉じこもっていたら、危ないよ。[r]
-　あの人達が一斉に入ってきたら、押しつぶされちゃう……」[pcms]
+[ns]Tsugumi[nse]
+"That's right... It's dangerous to stay holed up here. If those people[r]
+all rush in at once, I'll be crushed..."[pcms]
 
 
 *3104|
 [fc]
-じゃあ、どうしたらいい？[pcms]
+So what should I do?[pcms]
 
 
 *3105|
 [fc]
-ゆっくり息を吐き出しながら、目を開き辺りを見回す。[pcms]
+She slowly exhaled and opened her eyes to look around.[pcms]
 
 
 *3106|
 [fc]
-当然、何も変わる事の無い教室が視界に入ってくるだけ。[pcms]
+As expected, nothing had changed in the classroom that came into view.[pcms]
 
 
 *3107|
 [fc]
-ここから外に出る方法、何か無いかな……。[pcms]
+I wonder if there's any way to get out of here...[pcms]
 
 
 *3108|
 ;旧ナンバー[vo_t s="tugumi0153"]
 [vo_t s="R_tug0155"]
-[ns]丞実[nse]
-「あ……そうだ、カーテン！」[pcms]
+[ns]Tsugumi[nse]
+"Ah... that's right, the curtains!"[pcms]
 
 
 *3109|
 [fc]
-カーテンを結び合わせてロープにして、[r]
-高い部屋から下に降りるって話を、[r]
-テレビなんかで見た事がある。[pcms]
+Tying curtains together to make a rope and climbing down from a high[r]
+place is something she had seen on TV.[pcms]
 
 
 *3110|
 [fc]
-幸いにして、ここは二階。[r]
-万が一カーテンが切れて落っこちちゃっても、[r]
-それほど酷いダメージにはならないと思う。[pcms]
+Luckily, this is the second floor. Even if the curtains tear and she[r]
+falls, she doesn't think it will cause too much damage.[pcms]
 
 ;;//s:SE　壁をイッパツ　ドン
 [se buf1 storage="seB095"]
@@ -853,13 +823,13 @@
 *3111|
 ;旧ナンバー[vo_t s="tugumi0154"]
 [vo_t s="R_tug0156"]
-[ns]丞実[nse]
-「……あとは、あの人達が離れていってくれれば……」[pcms]
+[ns]Tsugumi[nse]
+"...Now if only those people would go away..."[pcms]
 
 
 *3112|
 [fc]
-その時まで、じっとしていよう。[pcms]
+Until then, I'll just stay put.[pcms]
 
 ;;//s:SE　腹がなる
 
@@ -867,19 +837,18 @@
 *3113|
 ;旧ナンバー[vo_t s="tugumi0155"]
 [vo_t s="R_tug0157"]
-[ns]丞実[nse]
-「あ……ウゥ」[pcms]
+[ns]Tsugumi[nse]
+"Ah... Ugh."[pcms]
 
 
 *3114|
 [fc]
-そうだよ、ご飯食べそびれちゃってたんだ。[pcms]
+That's right, I missed out on eating.[pcms]
 
 
 *3115|
 [fc]
-どうせ今すぐ出る事は出来ないんだ。[r]
-腹ごしらえしておこうっと……。[pcms]
+I can't get out right now anyway. I should eat something to prepare...[pcms]
 
 ;;//ザップ戻り効果
 ;[zapend_random]
@@ -891,110 +860,105 @@
 *taiki
 
 ;;//２.可能な限り教室で粘る
-;;//うかつにココから出ない方がよさそう……[pcms]
+;;//It seems better not to carelessly leave from here...[pcms]
 
 
 *3116|
 [fc]
-天井を見つめ、目を閉じながら思案する。[pcms]
+She stared at the ceiling, closing her eyes as she pondered.[pcms]
 
 
 *3117|
 [fc]
-…………。[r]
-……。[pcms]
+... ...[pcms]
 
 
 *3118|
 [fc]
-ダメだ、ドキドキが止まらない。[r]
-こう言うとき、兄ちゃんならどうするかな。[pcms]
+I can't stop my heart from pounding. What would my brother do in this[r]
+situation?[pcms]
 
 
 *3119|
 [fc]
-あたしは、何気なくバッグの中から携帯を取りだし、[r]
-兄ちゃんが送ってきたメールを開いて、[r]
-もう一度読んでみた。[pcms]
+I casually took out my phone from my bag and opened the email my[r]
+brother had sent, reading it once more.[pcms]
 
 
 *3120|
 [fc]
-『必ず助けに行く。絶対にだ！　だから、諦めるな丞実』[pcms]
+"I will definitely come to save you. Absolutely! So don't give up,[r]
+Tsugumi."[pcms]
 
 
 *3121|
 ;旧ナンバー[vo_t s="tugumi0156"]
 [vo_t s="R_tug0158"]
-[ns]丞実[nse]
-「ほんと、バカっぽい……。[r]
-　でも、すごく勇気づけられる……」[pcms]
+[ns]Tsugumi[nse]
+"It's really silly... But it's so encouraging..."[pcms]
 
 
 *3122|
 [fc]
-バカっぽいけど、兄ちゃんはあたしを心配してくれているんだ。[r]
-そう思うと、なんだか元気が湧いてくる。[pcms]
+It's silly, but my brother is worried about me. Thinking that makes me[r]
+feel energized.[pcms]
 
 
 *3123|
 [fc]
-助けに来てくれるかな。[pcms]
+I wonder if he'll really come to save me.[pcms]
 
 
 *3124|
 ;旧ナンバー[vo_t s="tugumi0157"]
 [vo_t s="R_tug0159"]
-[ns]丞実[nse]
-「……いやいやいや……幾ら何でも来る訳がないよ。[r]
-　来たら本当にバカ……だけど兄ちゃん、本格的バカだもんな」[pcms]
+[ns]Tsugumi[nse]
+"...No, no, no... There's no way he could really come. If he did, he'd[r]
+be a real idiot... but then again, my brother is a serious idiot."[pcms]
 
 
 *3125|
 [fc]
-そういう意味では、本当にココまで来かねない。[r]
-だけど……。[pcms]
+In that sense, it's not impossible for him to actually come here.[r]
+But...[pcms]
 
 
 *3126|
 ;旧ナンバー[vo_t s="tugumi0158"]
 [vo_t s="R_tug0160"]
-[ns]丞実[nse]
-「本当に来たとして、あたしを見つけられるのかな。[r]
-　目印もないのに……」[pcms]
+[ns]Tsugumi[nse]
+"Even if he really did come, I wonder if he could find me. Without any[r]
+sort of sign..."[pcms]
 
 
 *3127|
 [fc]
-あたしは、もう一回携帯のディスプレイに目を落とし、[r]
-文面を読み上げた。[pcms]
+I looked down at my phone's display again and read the message aloud.[pcms]
 
 
 *3128|
 ;旧ナンバー[vo_t s="tugumi0159"]
 [vo_t s="R_tug0161"]
-[ns]丞実[nse]
-「必ず助けに行く。絶対にだ……だから、諦めるな丞実……。[r]
-　……諦めないよ。[r]
-　兄ちゃんが来てくれるかもしれないんだもん」[pcms]
+[ns]Tsugumi[nse]
+"'I will definitely come to save you. Absolutely! So don't give up,[r]
+Tsugumi... I won't give up. My brother might come for me after all.'[pcms]
 
 
 *3129|
 [fc]
-あのバカ兄ちゃんの事だ。[r]
-きっと大騒ぎしながら、学園に入ってくる。[pcms]
+Knowing my foolish brother, he'll probably make a big fuss as he[r]
+enters the school.[pcms]
 
 
 *3130|
 [fc]
-その声がするまで、ここでじっとしていよう。[pcms]
+Until I hear his voice, I'll just stay put here.[pcms]
 
 
 *3131|
 [fc]
-もし兄ちゃんがこなくても、[r]
-夜になればあの人達も諦めて家に帰るかもしれない。[r]
-その時まで、じっとしていよう。[pcms]
+Even if my brother doesn't come, those people might give up and go[r]
+home at night. Until then, I'll just stay put.[pcms]
 
 ;;//s:SE　腹がなる
 
@@ -1002,19 +966,18 @@
 *3132|
 ;旧ナンバー[vo_t s="tugumi0160"]
 [vo_t s="R_tug0162"]
-[ns]丞実[nse]
-「あ……」[pcms]
+[ns]Tsugumi[nse]
+"Ah..."[pcms]
 
 
 *3133|
 [fc]
-そうだよ、ご飯食べそびれちゃってたんだ。[pcms]
+That's right, I missed out on eating.[pcms]
 
 
 *3134|
 [fc]
-どうせ今すぐ出る事は出来ないんだ。[r]
-腹ごしらえしておこうっと……。[pcms]
+I can't get out right now anyway. I should eat something to prepare...[pcms]
 
 ;;//ザップ戻り効果
 ;[zapend_random]

@@ -9,7 +9,7 @@
 ;;//☆概要：裏門へ向かう一同。
 ;;//　　　しかし、感染者に捕まり
 ;;//　　　逆レイプ2連発の克己
-;;//・テキスト容量：30～40k前後（短くてもOK）
+;;//・テキスト容量：3040k前後（短くてもOK）
 ;;//----------------------------------------------------------
 
 ;;//メモ　前ファイルからBGM01-08継続、背景BG20aを使用していた
@@ -17,14 +17,14 @@
 
 *6498|
 [fc]
-[ns]克己[nse]
-「俺が先導する！　ついてきてくれ！！」[pcms]
+[ns]Kazumi[nse]
+"I'll lead the way! Follow me!!"[pcms]
 
 
 *6499|
 [fc]
-美樹ちゃんを背負う本間先生の[r]
-露払いをするように先頭をひた走る。[pcms]
+As Honma-sensei carries Miki-chan on her back, I sprint ahead to clear[r]
+the path.[pcms]
 
 [se buf1 storage="seA052"]
 [bg storage="BG20a"][trans_c lr time=301]
@@ -32,64 +32,62 @@
 
 *6500|
 [fc]
-中庭を抜けてグラウンドに出ると、[r]
-まずはテニスコートが広がっていた。[pcms]
+Once we get through the courtyard and onto the grounds, the first[r]
+thing that spreads out before us is the tennis courts.[pcms]
 
 
 *6501|
 [fc]
-[ns]克己[nse]
-「広っれー……ホントに都内の学園かよ、ここ……」[pcms]
+[ns]Kazumi[nse]
+"It's so spacious... Can this really be a school in Tokyo...?"[pcms]
 
 
 *6502|
 [fc]
-テニスコ－トの先にはソフトボールのグラウンドがあり、[r]
-その向こうに４００メートルトラック、ラクロスのフィールド、[r]
-サッカーコートなどが並んでいた。[pcms]
+Beyond the tennis courts, there's a softball field, and further on, a[r]
+400-meter track, a lacrosse field, and soccer courts lined up.[pcms]
 
 
 *6503|
 [fc]
-俺たちが目指している裏門は、更にその先だ。[pcms]
+The back gate we're aiming for is even further ahead.[pcms]
 
 
 *6504|
 [fc]
-地図で見ている分には実感できなかったが、[r]
-こんなに広いとは思わなかった。[pcms]
+It didn't feel real when looking at the map, but I hadn't expected it[r]
+to be this vast.[pcms]
 
 
 *6505|
 [fc]
-もちろん、この学園に慣れている二人はそんなことわかっている。[r]
-面食らっているのは俺一人だ。[pcms]
+Of course, the two who are accustomed to this school know this. I'm[r]
+the only one who's taken aback.[pcms]
 
 ;;//メモ　遠距離っぽいので表示しない
 
 
 *6506|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛～、ふ゛ぁぁぁ～、は゛ら゛、へ゛った゛～」[pcms]
+[ns]Infected Person A[nse]
+"Aaah~, buuuaaah~, my stomach, it hurts~"[pcms]
 
 
 *6507|
 [fc]
-軽くグラウンドを見渡してみると、[r]
-少なからず感染者の姿が見て取れる。[pcms]
+A quick scan of the grounds reveals quite a few infected people.[pcms]
 
 
 *6508|
 [fc]
-この学園の生徒にはとても見えない、[r]
-外から入ってきたと思しき感染者もかなりいる。[pcms]
+There are many infected who clearly don't look like students of this[r]
+school; they must have come from outside.[pcms]
 
 
 *6509|
 [fc]
-[ns]克己[nse]
-「スケボーでもあれば、少しは楽に走れたのになっ！」[pcms]
+[ns]Kazumi[nse]
+"If only we had a skateboard, it would've been a bit easier to run."[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -104,14 +102,13 @@
 
 *6510|
 [fc]
-俺は行く手に突っ立っている感染者の頭めがけ、[r]
-バットを振り回す。[pcms]
+I swing my bat at the head of an infected person standing in our way.[pcms]
 
 
 *6511|
 [fc]
-避けていくよりもみんなも体力的に楽だし、[r]
-一人でうろついている感染者は、たいした脅威じゃない。[pcms]
+It's easier on everyone's stamina to knock them down rather than avoid[r]
+them, and a lone wandering infected isn't much of a threat.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan5_x"][ChrSetXY layer=5 x="&sf.std_kan5_x調整*344" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　21　細身茶髪　
@@ -119,14 +116,14 @@
 
 *6512|
 [fc]
-[ns]感染者Ｂ[nse]
-「お゛、お゛ん゛な～、は゛し゛って゛くる゛～」[pcms]
+[ns]Infected Person B[nse]
+"Ohh, a girl~, she's running over here~"[pcms]
 
 
 *6513|
 [fc]
-[ns]克己[nse]
-「あっちに行ってろっ！」[pcms]
+[ns]Kazumi[nse]
+"Get lost!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -143,14 +140,14 @@
 
 *6514|
 [fc]
-感染者を思いきり蹴っ飛ばし、[r]
-地面に転がすと、その横を一気に駆け抜けていく。[pcms]
+I kick an infected person with all my might, sending them tumbling to[r]
+the ground, and then dash past them.[pcms]
 
 
 *6515|
 [fc]
-血まみれになっていない感染者なら、[r]
-蹴りでも十分にいけそうな気がした。[pcms]
+If an infected person isn't covered in blood, a kick seems to be[r]
+enough to handle them.[pcms]
 
 [ChrSetEx layer=5 chbase="hon2_hak_a"][ChrSetParts layer=5 chface="F2_hon10"][ChrSetXY layer=5 x="&sf.std_h_x調整*0" y="&sf.std_h_y調整*-90"][trans_c cross time=150]
 
@@ -158,14 +155,14 @@
 *6516|
 ;旧ナンバー[vo_h s="honma0129"]
 [vo_h s="R_hon0083"]
-[ns]本間[nse]
-「はぁっ、はぁっ、くうっ……」[pcms]
+[ns]Honma[nse]
+"Haah, haah, kuh..."[pcms]
 
 
 *6517|
 [fc]
-[ns]克己[nse]
-「裏門までもう少しです、頑張ってください！」[pcms]
+[ns]Kazumi[nse]
+"We're almost at the back gate, please hang in there!"[pcms]
 
 [ChrSetEx layer=5 chbase="hon2_hak_a"][ChrSetParts layer=5 chface="F2_hon06"][ChrSetXY layer=5 x="&sf.std_h_x調整*0" y="&sf.std_h_y調整*-90"][trans_c cross time=150]
 
@@ -173,28 +170,28 @@
 *6518|
 ;旧ナンバー[vo_h s="honma0130"]
 [vo_h s="R_hon0084"]
-[ns]本間[nse]
-「わ、私のことはいいから、自分のことに集中して」[pcms]
+[ns]Honma[nse]
+"Never mind me, just focus on yourself."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *6519|
 [fc]
-門の周りにはたくさんの感染者が集まり、[r]
-何の意味があるのかうろうろと、歩き回っている。[pcms]
+Around the gate, many infected people are gathered, wandering around[r]
+aimlessly without any apparent purpose.[pcms]
 
 
 *6520|
 [fc]
-でも、倒して門を抜けて行かなくちゃ、[r]
-俺たちに未来はない。[pcms]
+But we have no future unless we take them down and get through that[r]
+gate.[pcms]
 
 
 *6521|
 [fc]
-[ns]克己[nse]
-「行くぞっ!　静ちゃん！」[pcms]
+[ns]Kazumi[nse]
+"Let's go! Shizuka-chan!"[pcms]
 
 [ChrSetEx layer=5 chbase="siz2_pol1_b"][ChrSetParts layer=5 chface="F2_siz09"][ChrSetXY layer=5 x="&sf.std_s_x調整*96" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 
@@ -202,16 +199,16 @@
 *6522|
 ;旧ナンバー[vo_s s="sizuka0335"]
 [vo_s s="R_siz0179"]
-[ns]静[nse]
-「はいっ！」[pcms]
+[ns]Shizuka[nse]
+"Yes!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *6523|
 [fc]
-[ns]克己[nse]
-「おぉおおぉぉぉぉぉぉぉっ！」[pcms]
+[ns]Kazumi[nse]
+"Oooooohhhhhhhhhhh!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -226,14 +223,14 @@
 
 *6524|
 [fc]
-バットを思いっきり振りかぶると、[r]
-横なぎに感染者を蹴散らす。[pcms]
+As I swing my bat with all my might, I scatter the infected with a[r]
+sideways blow.[pcms]
 
 
 *6525|
 [fc]
-[ns]感染者Ｃ[nse]
-「う゛は゛～、な゛んた゛こ゛れ～」[pcms]
+[ns]Infected Person C[nse]
+"Uvhaa~, what is this~"[pcms]
 
 [ChrSetEx layer=5 chbase="siz2_pol1_b"][ChrSetParts layer=5 chface="F2_siz09"][ChrSetXY layer=5 x="&sf.std_s_x調整*96" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 
@@ -241,8 +238,8 @@
 *6526|
 ;旧ナンバー[vo_s s="sizuka0336"]
 [vo_s s="R_siz0180"]
-[ns]静[nse]
-「どいてくださいっ！」[pcms]
+[ns]Shizuka[nse]
+"Please move aside!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -257,53 +254,52 @@
 
 *6527|
 [fc]
-静ちゃんも俺と倣ってバットを繰り出し、[r]
-感染者を押し退けている。[pcms]
+Shizuka-chan follows my lead and swings her bat, pushing back the[r]
+infected.[pcms]
 
 
 *6528|
 [fc]
-相手が人間だから躊躇するかと思ったけれど、[r]
-上手く突き飛ばすようにしているみたいだ。[pcms]
+I thought she might hesitate because they're human, but she seems to[r]
+be managing to push them away effectively.[pcms]
 
 
 *6529|
 [fc]
-[ns]克己[nse]
-「本間先生が通る道を作るんだ！」[pcms]
+[ns]Kazumi[nse]
+"We need to clear a path for Honma-sensei!"[pcms]
 
 
 *6530|
 ;旧ナンバー[vo_s s="sizuka0337"]
 [vo_s s="R_siz0181"]
-[ns]静[nse]
-「わかりましたっ！」[pcms]
+[ns]Shizuka[nse]
+"Understood!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *6531|
 [fc]
-俺たちがエモノを振り回す度に飛び散る血しぶき。[pcms]
+With every swing of our weapons, blood splatters everywhere.[pcms]
 
 
 *6532|
 [fc]
-一発で地面に転がるやつもいれば、[r]
-頭から血を吹き出しながら、[r]
-ニヤニヤと笑っている奴もいた。[pcms]
+Some fall to the ground with a single hit, while others laugh with[r]
+blood spurting from their heads.[pcms]
 
 
 *6533|
 [fc]
-というか、ほとんどの奴が、[r]
-殴られて嬉しそうにしているのが気になる。[pcms]
+In fact, most of them seem almost happy to be hit, which is[r]
+disturbing.[pcms]
 
 
 *6534|
 [fc]
-そういうやつは、一度や二度打ち倒しても[r]
-すぐに起き上がってくるから面倒だった。[pcms]
+Those types are troublesome because they get back up again after being[r]
+knocked down once or twice.[pcms]
 
 [ChrSetEx layer=5 chbase="siz1_pol1_b"][ChrSetParts layer=5 chface="F1_siz12"][ChrSetXY layer=5 x="&sf.std_s_x調整*342" y="&sf.std_s_y調整*60"][trans_c cross time=150]
 
@@ -311,20 +307,20 @@
 *6535|
 ;旧ナンバー[vo_s s="sizuka0338"]
 [vo_s s="R_siz0182"]
-[ns]静[nse]
-「どうして笑っているんですか！」[pcms]
+[ns]Shizuka[nse]
+"Why are they laughing?!"[pcms]
 
 
 *6536|
 [fc]
-[ns]感染者Ｄ[nse]
-「あ゛は゛は゛～、お゛ん゛なの゛こ゛～」[pcms]
+[ns]Infected D[nse]
+"Ahaha~, a girl's place~"[pcms]
 
 
 *6537|
 [fc]
-[ns]克己[nse]
-「気味が悪いけど、相手にするなよ！」[pcms]
+[ns]Kazumi[nse]
+"It's creepy, but don't pay them any mind!"[pcms]
 
 [ChrSetEx layer=5 chbase="siz1_pol1_b"][ChrSetParts layer=5 chface="F1_siz09"][ChrSetXY layer=5 x="&sf.std_s_x調整*342" y="&sf.std_s_y調整*60"][trans_c cross time=150]
 
@@ -332,27 +328,27 @@
 *6538|
 ;旧ナンバー[vo_s s="sizuka0339"]
 [vo_s s="R_siz0183"]
-[ns]静[nse]
-「はいっ！」[pcms]
+[ns]Shizuka[nse]
+"Yes!"[pcms]
 
 [ChrSetEx layer=5 chbase="siz1_pol1_b"][ChrSetParts layer=5 chface="F1_siz08"][ChrSetXY layer=5 x="&sf.std_s_x調整*342" y="&sf.std_s_y調整*60"][trans_c cross time=150]
 
 
 *6539|
 [fc]
-思ったよりも数が多い。[pcms]
+There are more of them than I thought.[pcms]
 
 
 *6540|
 [fc]
-しかもこの後、門を超えた先の奴まで[r]
-相手にしなくちゃいけないんだから、結構きついはずだ。[pcms]
+Moreover, after this, we have to deal with those beyond the gate, so[r]
+it's going to be quite tough.[pcms]
 
 
 *6541|
 [fc]
-[ns]克己[nse]
-「静ちゃん、そろそろ門の向こうに！」[pcms]
+[ns]Kazumi[nse]
+"Shizuka-chan, it's about time to head beyond the gate!"[pcms]
 
 [ChrSetEx layer=5 chbase="siz1_pol1_b"][ChrSetParts layer=5 chface="F1_siz09"][ChrSetXY layer=5 x="&sf.std_s_x調整*342" y="&sf.std_s_y調整*60"][trans_c cross time=150]
 
@@ -360,8 +356,8 @@
 *6542|
 ;旧ナンバー[vo_s s="sizuka0340"]
 [vo_s s="R_siz0184"]
-[ns]静[nse]
-「先に行きます！」[pcms]
+[ns]Shizuka[nse]
+"I'll go ahead!"[pcms]
 
 [move layer=5 time=500 path='&@"(${&sf.move調整*600},${&sf.move調整*60},0)"'][wm]
 ;[chara_int][trans_c cross time=1000]
@@ -369,15 +365,14 @@
 
 *6543|
 [fc]
-ある程度やつらを排除して通り道が出来ると、[r]
-本間先生のサポートをするため、[r]
-まず静ちゃんに門の向こうへ行ってもらった。[pcms]
+Once we've eliminated enough of them to clear a path, Shizuka-chan[r]
+goes beyond the gate first to support Honma-sensei.[pcms]
 
 
 *6544|
 [fc]
-[ns]克己[nse]
-「本間先生！」[pcms]
+[ns]Kazumi[nse]
+"Honma-sensei!"[pcms]
 
 [ChrSetEx layer=5 chbase="hon2_hak_a"][ChrSetParts layer=5 chface="F2_hon08"][ChrSetXY layer=5 x="&sf.std_h_x調整*0" y="&sf.std_h_y調整*-90"][trans_c cross time=150]
 
@@ -385,25 +380,26 @@
 *6545|
 ;旧ナンバー[vo_h s="honma0131"]
 [vo_h s="R_hon0085"]
-[ns]本間[nse]
-「わかっているわ！」[pcms]
+[ns]Honma[nse]
+"I know!"[pcms]
 
 
 *6546|
 [fc]
-これだけの距離をおんぶで走ってきた本間先生は、[r]
-疲労の色を見せながら、門の側まで走ってくる。[pcms]
+Honma-sensei, having run this distance piggyback, shows signs of[r]
+fatigue as she runs up to the gate.[pcms]
 
 
 *6547|
 [fc]
-瞬間的に使える体力は、まだいくらか残っていると信じたい。[pcms]
+I want to believe that there's still some strength left for immediate[r]
+use.[pcms]
 
 
 *6548|
 [fc]
-俺が後ろから押しながら、静ちゃんが引っ張り上げていくが、[r]
-本間先生に登ってもらわなければ、時間がかかってしまう。[pcms]
+While I push from behind, Shizuka-chan pulls her up, but it will take[r]
+time unless Honma-sensei climbs up herself.[pcms]
 
 ;;//メモ　静は向こう側(？)にいるみたいなので表示せず
 
@@ -411,8 +407,8 @@
 *6549|
 ;旧ナンバー[vo_s s="sizuka0341"]
 [vo_s s="R_siz0185"]
-[ns]静[nse]
-「本間先生、登ってください！」[pcms]
+[ns]Shizuka[nse]
+"Honma-sensei, please climb up!"[pcms]
 
 [ChrSetEx layer=5 chbase="hon2_hak_a"][ChrSetParts layer=5 chface="F2_hon08"][ChrSetXY layer=5 x="&sf.std_h_x調整*0" y="&sf.std_h_y調整*-90"][trans_c cross time=150]
 
@@ -420,105 +416,105 @@
 *6550|
 ;旧ナンバー[vo_h s="honma0132"]
 [vo_h s="R_hon0086"]
-[ns]本間[nse]
-「行くわよ！」[pcms]
+[ns]Honma[nse]
+"Here I go!"[pcms]
 
 [bg storage="BG31a"][trans_c cross time=500]
 
 
 *6551|
 [fc]
-本間先生が門に手を駆け寄ったところで[r]
-俺が下から押し上げにかかる。[pcms]
+As Honma-sensei reaches out to the gate, I start pushing up from[r]
+below.[pcms]
 
 
 *6552|
 ;旧ナンバー[vo_s s="sizuka0342"]
 [vo_s s="R_siz0186"]
-[ns]静[nse]
-「うーんっ！」[pcms]
+[ns]Shizuka[nse]
+"Ugh!"[pcms]
 
 
 *6553|
 [fc]
-上からは、静ちゃんが思い切り引っ張り上げている、[r]
-力んだ声が聞こえてきていた。[pcms]
+From above, I could hear Shizuka-chan's strained voice as she pulls up[r]
+with all her might.[pcms]
 
 
 *6554|
 [fc]
-ここで時間を取ってしまうと、[r]
-また感染者が集まりはじめてしまう。[pcms]
+If we take too much time here, more infected will start to gather[r]
+again.[pcms]
 
 
 *6555|
 [fc]
-[ns]克己[nse]
-「おおおぉぉぉおぉぉぉっ！」[pcms]
+[ns]Kazumi[nse]
+"Ooooohhhhhhh!"[pcms]
 
 
 *6556|
 [fc]
-肩に乗せるようにして本間先生のお尻を押すと、[r]
-静ちゃんが抱き留めるようにして、向こう側に引っ張ってくれた。[pcms]
+As I push Honma-sensei's butt up onto my shoulder, Shizuka-chan holds[r]
+her and pulls her over to the other side.[pcms]
 
 
 *6557|
 [fc]
-なんとか門を[ruby text="また"]跨いだ本間先生は、[r]
-静ちゃんと一緒に落ちるように、門の向こうに着地する。[pcms]
+Somehow, Honma-sensei manages to get over the gate and lands on the[r]
+other side with Shizuka-chan as if falling.[pcms]
 
 [bg storage="BG20a"][trans_c cross time=500]
 
 
 *6558|
 [fc]
-[ns]克己[nse]
-「よしっ！」[pcms]
+[ns]Kazumi[nse]
+"Alright!"[pcms]
 
 
 *6559|
 ;旧ナンバー[vo_s s="sizuka0343"]
 [vo_s s="R_siz0187"]
-[ns]静[nse]
-「克己さん！」[pcms]
+[ns]Shizuka[nse]
+"Kazumi-san!"[pcms]
 
 
 *6560|
 [fc]
-次は俺の番だ。[r]
-俺は一人で身軽なんだから、時間を取っていられない。[pcms]
+Next is my turn. Since I'm alone and more agile, I can't afford to[r]
+waste time.[pcms]
 
 
 *6561|
 [fc]
-門の上に手をかけると、俺は鉄棒をするように身体を持ち上げ、[r]
-足をかけて向こう側へ身を乗り出す。[pcms]
+I place my hands on top of the gate and lift my body like doing a[r]
+horizontal bar exercise, swinging my legs over to the other side.[pcms]
 
 [旧quake_bg xy m]
 
 
 *6562|
 [fc]
-不意にグッと後ろから俺のズボンを引っ張る力が働いて、[r]
-門の上でバランスを崩しそうになる。[pcms]
+Suddenly, a force pulls at my pants from behind, almost causing me to[r]
+lose balance on top of the gate.[pcms]
 
 
 *6563|
 [fc]
-誰かに……後ろから引っ張られているんだ。[pcms]
+I'm being pulled... from behind by someone.[pcms]
 
 
 *6564|
 [fc]
-[ns]克己[nse]
-「このっ！」[pcms]
+[ns]Kazumi[nse]
+"You...!"[pcms]
 
 
 *6565|
 [fc]
-俺は門に跨がったままバットを振りかぶると、[r]
-身体を捻って一撃をお見舞いする。[pcms]
+While straddling the gate, I swing my bat with a twist of my body,[r]
+delivering a blow.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -535,19 +531,18 @@
 
 *6566|
 [fc]
-だけど、俺が打ち据えたのは……、[r]
-頭から血を吹き出す、よく知っている……顔。[pcms]
+But what I hit... was a familiar face... spewing blood from its head.[pcms]
 
 
 *6567|
 [fc]
-狂気にとらわれた、丞実の苦悶の表情だった。[pcms]
+It was Tsugumi's face, contorted in agony and seized by madness.[pcms]
 
 
 *6568|
 [fc]
-[ns]克己[nse]
-「つ、丞実っ！」[pcms]
+[ns]Kazumi[nse]
+"Tsugumi!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_kan"][ChrSetParts layer=5 chface="F1_tug20"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
@@ -555,26 +550,26 @@
 *6569|
 ;旧ナンバー[vo_t s="tugumi0508"]
 [vo_t s="R_tug0326"]
-[ns]丞実[nse]
-「あ゛、あ゛、あ゛あ゛ぁぁぁぁっ……」[pcms]
+[ns]Tsugumi[nse]
+"Ah, ah, ah ahhhhhh...!"[pcms]
 
 
 *6570|
 [fc]
-驚いて固まった俺の身体は、次の瞬間、[r]
-無意識のうち、丞実に向かって手を伸ばしていた。[pcms]
+In shock, my body froze for a moment before unconsciously reaching out[r]
+towards Tsugumi.[pcms]
 
 
 *6571|
 [fc]
-丞実を助けなきゃ……！！[pcms]
+I have to save Tsugumi...!![pcms]
 
 
 *6572|
 ;旧ナンバー[vo_s s="sizuka0344"]
 [vo_s s="R_siz0188"]
-[ns]静[nse]
-「克己さんっ！」[pcms]
+[ns]Shizuka[nse]
+"Kazumi-san!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -587,60 +582,60 @@
 
 *6573|
 [fc]
-[ns]克己[nse]
-「っ！！」[pcms]
+[ns]Kazumi[nse]
+"!!"[pcms]
 
 
 *6574|
 [fc]
-違う、これはもう丞実じゃない！[pcms]
+No, this is no longer Tsugumi![pcms]
 
 [ChrSetEx layer=5 chbase="tug2_kan"][ChrSetParts layer=5 chface="F2_tug20"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-120"][trans_c cross time=150]
 
 
 *6575|
 [fc]
-慌てて引っ込めようとする手を、[r]
-丞実がしがみつくように握ってきた。[pcms]
+In a panic, I try to retract my hand, but Tsugumi grips it as if[r]
+clinging on.[pcms]
 
 
 *6576|
 [fc]
-[ns]克己[nse]
-「くそっ、放してくれっ！」[pcms]
+[ns]Kazumi[nse]
+"Damn it, let go of me!"[pcms]
 
 
 *6577|
 [fc]
-[ns]感染者Ｄ[nse]
-「あ゛～、ま゛って゛く゛れ゛～」[pcms]
+[ns]Infected D[nse]
+"Ahh~, wait for me~"[pcms]
 
 
 *6578|
 [fc]
-丞実の手をふりほどこうとしているうちに、[r]
-次々に感染者たちが足にすがりついてくる。[pcms]
+While I'm trying to shake off Tsugumi's hand, one after another, the[r]
+infected start clinging to my legs.[pcms]
 
 
 *6579|
 [fc]
-[ns]克己[nse]
-「くっ！　離せっ！」[pcms]
+[ns]Kazumi[nse]
+"Damn it, let go!"[pcms]
 
 
 *6580|
 ;旧ナンバー[vo_s s="sizuka0345"]
 [vo_s s="R_siz0189"]
-[ns]静[nse]
-「丞実ちゃん！　手を離してっ！」[pcms]
+[ns]Shizuka[nse]
+"Tsugumi-chan! Let go of his hand!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_kan"][ChrSetParts layer=5 chface="F2_tug21"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-120"][trans_c cross time=150]
 
 
 *6581|
 [fc]
-[ns]克己[nse]
-「あっ！」[pcms]
+[ns]Kazumi[nse]
+"Ah!"[pcms]
 
 [stopbgm]
 [bg storage="BG31a"][trans_c wipe time=500]
@@ -648,12 +643,12 @@
 
 *6582|
 [fc]
-そして、俺の身体は門の上から傾いて……。[pcms]
+And then, my body started to tilt over the gate...[pcms]
 
 
 *6583|
 [fc]
-よりにもよって……グラウンド側に、落ちていた。[pcms]
+Of all places... I fell towards the side of the ground.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -673,41 +668,42 @@
 *6584|
 ;旧ナンバー[vo_s s="sizuka0346"]
 [vo_s s="R_siz0190"]
-[ns]静[nse]
-「克己さんっ！」[pcms]
+[ns]Shizuka[nse]
+"Kazumi-san!"[pcms]
 
 
 *6585|
 [fc]
-[ns]克己[nse]
-「うわっ、うわあぁぁぁぁっ！」[pcms]
+[ns]Kazumi[nse]
+"Whoa, whoaaaaa!"[pcms]
 
 
 *6586|
 ;旧ナンバー[vo_s s="sizuka0347"]
 [vo_s s="R_siz0191"]
-[ns]静[nse]
-「克己さーんっっ！！」[pcms]
+[ns]Shizuka[nse]
+"Kazumi-saaan!!"[pcms]
 
 
 *6587|
 ;旧ナンバー[vo_h s="honma0133"]
 [vo_h s="R_hon0087"]
-[ns]本間[nse]
-「無理よ！」[pcms]
+[ns]Honma[nse]
+"It's no use!"[pcms]
 
 
 *6588|
 ;旧ナンバー[vo_s s="sizuka0348"]
 [vo_s s="R_siz0192"]
-[ns]静[nse]
-「いやっ！　克己さーんっ！」[pcms]
+[ns]Shizuka[nse]
+"No! Kazumi-saaan!"[pcms]
 
 
 *6589|
 [fc]
-遠くから静ちゃんの悲鳴と本間先生の声が聞こえるが……、[r]
-それもすぐに、感染者の声にかき消されてしまった。[pcms]
+From afar, I can hear Shizuka-chan's screams and Honma-sensei's[r]
+voice... but soon, even that is drowned out by the voices of the[r]
+infected.[pcms]
 
 [jump storage="2041H.ks" target=*2041H_TOP]
 

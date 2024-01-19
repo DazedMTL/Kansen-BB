@@ -17,85 +17,80 @@
 
 *4762|
 [fc]
-俺達はテニスコートを抜け、[r]
-都内の学園にしちゃ無駄に広いグラウンドの前に立つ。[pcms]
+We pass through the tennis courts and stand before the unnecessarily[r]
+vast grounds of an urban academy.[pcms]
 
 
 *4763|
 [fc]
-ソフトボールのフィールドに、４００メートルのトラックに、[r]
-ラクロスとサッカーのコート。[r]
-……その奥に、やっと裏門が見える。[pcms]
+Softball fields, a 400-meter track, lacrosse and soccer courts...[r]
+Finally, the back gate comes into view beyond them.[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug12"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4764|
 ;旧ナンバー[vo_t s="tugumi0253"]
 [vo_t s="R_tug0238"]
-[ns]丞実[nse]
-「兄ちゃん！　まだ増えてくるよ……！[r]
-　早くしないと裏門の方から出られなくなるよ！！[r]
-　ボーッとしてたらダメっ！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother! They're still coming...! If we don't hurry, we won't be[r]
+able to get out through the back gate!! Don't just stand there, we[r]
+have to move!"[pcms]
 
 
 *4765|
 [fc]
-そして、行く手を阻むかのごとく現れる感染者の群れ。[r]
-一呼吸する事に人数が増えているようにも見える。[pcms]
+And then, as if to block our path, a horde of infected appears. It[r]
+seems like their numbers increase with every breath we take.[pcms]
 
 
 *4766|
 [fc]
-とはいえ……。[r]
-こんな所で感染者に囲まれて死ぬのはゴメンだ。[r]
-ちょっとばかり広いから何だってんだ。[pcms]
+But still... I refuse to die surrounded by infected in a place like[r]
+this. So what if it's a bit spacious?[pcms]
 
 
 *4767|
 [fc]
-感染者どもを蹴散らして、駆け抜けて、[r]
-裏門から外に出るだけだろ！[pcms]
+We just have to scatter these infected, run through, and get out from[r]
+the back gate![pcms]
 
 
 *4768|
 [fc]
-[ns]克己[nse]
-「……スケボーでもありゃ楽だったかも知れねえけどな……」[pcms]
+[ns]Kazumi[nse]
+"...Would've been easier with a skateboard or something..."[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug09"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4769|
 ;旧ナンバー[vo_t s="tugumi0254"]
 [vo_t s="R_tug0239"]
-[ns]丞実[nse]
-「え！？　何？　なんか言った！？」[pcms]
+[ns]Tsugumi[nse]
+"Eh!? What? Did you say something!?"[pcms]
 
 
 *4770|
 [fc]
-[ns]克己[nse]
-「何でも無い！　それより、もう目と鼻の先じゃねえか！[r]
-　怯んでる暇はねえぞ！！　行くぞ丞実！[r]
-　ションベン漏らすんじゃねーぞ！！」[pcms]
+[ns]Kazumi[nse]
+"Nothing! More importantly, we're almost there! No time to be scared!![r]
+Let's go Tsugumi! Don't piss yourself!!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug08"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4771|
 ;旧ナンバー[vo_t s="tugumi0255"]
 [vo_t s="R_tug0240"]
-[ns]丞実[nse]
-「それはあたしの台詞！[r]
-　漏らさないでね！　じゃあ、いっくぞー！！」[pcms]
+[ns]Tsugumi[nse]
+"That's my line! Make sure you don't wet yourself! Okay, let's go!!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug06"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 
 
 *4772|
 [fc]
-丞実は元気を取り戻したか、俺の軽口に応戦してくる。[pcms]
+Regaining her spirits, Tsugumi retorts to my teasing.[pcms]
 
 
 *4773|
 [fc]
-これならもう大丈夫だ。[r]
-あの連中を突っ切ることが出来れば、俺達の勝ちだ！！[pcms]
+We'll be fine now. If we can break through them, we win!![pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x="&sf.std_kan1_x調整*340" y=0]
 ;;//MOB中＠感染者　17　金髪筋肉　
@@ -107,14 +102,14 @@
 
 *4773a|
 [fc]
-[ns]感染者男Ａ[nse]
-「おっ、おっ、おっ……おおお、おおおおぉっ！！」[pcms]
+[ns]Infected Man A[nse]
+"Ohh, ohh, ohh...ohhh, ohhhhhhh!!"[pcms]
 
 
 *4774|
 [fc]
-[ns]克己[nse]
-「クソッタレ、どけバカ！」[pcms]
+[ns]Kazumi[nse]
+"Damn it, get out of the way, idiot!"[pcms]
 
 [se buf1 storage="seB008"]
 ;;//♪SE人間を殴る音２(痛そう)
@@ -124,25 +119,25 @@
 
 *4775|
 [fc]
-[ns]感染者男Ａ[nse]
-「あ゛がっ……ァ……」[pcms]
+[ns]Infected Man A[nse]
+"Aggh...ah..."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 
 *4776|
 [fc]
-[ns]感染者男Ｂ[nse]
-「みっ、みずぎっ！　お、おなかにこすりつけたいっ！[r]
-　ふともも……おっぱい！　ぜんぶしゃせいぃいぃっ！！」[pcms]
+[ns]Infected Man B[nse]
+"Swi-swimsuit! I want to rub it on my stomach! Thighs...breasts! I[r]
+want to ejaculate on all of it!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="tug2_jar1_c"][ChrSetParts layer=5 chface="F2_tug08"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4777|
 ;旧ナンバー[vo_t s="tugumi0256"]
 [vo_t s="R_tug0241"]
-[ns]丞実[nse]
-「キモいって！　死んでろバカ！！」[pcms]
+[ns]Tsugumi[nse]
+"Gross! Die already, idiot!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 [ChrSetEx layer=4 chbase="mob_kan2_x"][ChrSetXY layer=4 x="&sf.std_kan2_x調整*605" y=0]
@@ -158,24 +153,22 @@
 
 *4778|
 [fc]
-[ns]感染者男Ｂ[nse]
-「あっ、み、みずぎ、ちゃん……」[pcms]
+[ns]Infected Man B[nse]
+"Ah, sw-swimsuit-chan..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 
 *4779|
 [fc]
-[ns]感染者男Ｃ[nse]
-「おっほぁあぁあぁ！！　けっ、けつ！[r]
-　けつ、ほらせろハゲェ！！！」[pcms]
+[ns]Infected Man C[nse]
+"Ohhhaaaaah!! Ass! Show me your ass, baldy!!"[pcms]
 
 
 *4780|
 [fc]
-[ns]克己[nse]
-「うるっせぇ！　ハゲとか言ってんじゃねえよ！[r]
-　それに、俺ァ男に興味ねえよ！！」[pcms]
+[ns]Kazumi[nse]
+"Shut up! Don't call me bald! And I'm not interested in guys!!"[pcms]
 
 [se buf1 storage="seB008"]
 ;;//♪SE人間を殴る音２(痛そう)
@@ -189,40 +182,39 @@
 *4781|
 ;旧ナンバー[vo_m s="kansenA0012"]
 [vo_mob s="R_kanA0010"]
-[ns]感染者女Ａ[nse]
-「あは……わかハゲ……さ、さわらせてぇ……。[r]
-　かわいい……んううぅん……」[pcms]
+[ns]Infected Woman A[nse]
+"Aha...baldy...let me touch... So cute...nnngh..."[pcms]
 
 
 *4782|
 [fc]
-[ns]克己[nse]
-「どいつもこいつも……ハゲハゲ言いやがって……ううっ……」[pcms]
+[ns]Kazumi[nse]
+"Every single one of you...going on about bald this, bald[r]
+that...ugh..."[pcms]
 
 
 *4783|
 [fc]
-くそっ……男相手ならぶん殴ってる所だけど……。[pcms]
+Damn it... If it were a guy, I'd have punched him by now...[pcms]
 
 
 *4784|
 [fc]
-幾ら感染者とはいえ、相手が女だと躊躇ってしまう。[pcms]
+No matter how infected they are, I hesitate when it comes to women.[pcms]
 
 
 *4785|
 [fc]
-だめだ、こんな奴らにバカにされるなんて……。[r]
-なんだか、涙が出てきそうだ……。[pcms]
+I can't stand being ridiculed by these people... I feel like I'm about[r]
+to cry...[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug08"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4786|
 ;旧ナンバー[vo_t s="tugumi0257"]
 [vo_t s="R_tug0242"]
-[ns]丞実[nse]
-「兄ちゃんはハゲじゃない！[r]
-　ちょっと髪の毛を休息させてるだけなの！[r]
-　兄ちゃん！　何ボサッとしてんの！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother isn't bald! He's just giving his hair a little rest! Big[r]
+brother! What are you spacing out for!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_a5"][ChrSetXY layer=5 x="&sf.std_kanA_x調整*350" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　05　ギャル風１
@@ -233,48 +225,48 @@
 *4787|
 ;旧ナンバー[vo_m s="kansenA0013"]
 [vo_mob s="R_kanA0011"]
-[ns]感染者女Ａ[nse]
-「あっ……は、ハゲ……アタシのハゲ……」[pcms]
+[ns]Infected Woman A[nse]
+"Ah...ba-baldy...my baldy..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *4788|
 [fc]
-丞実の叫び声と共に、女の感染者が地面に倒れ込む。[pcms]
+With Tsugumi's shout, the female infected falls to the ground.[pcms]
 
 
 *4789|
 [fc]
-倒れた感染者が伸ばした手は、[r]
-俺の体へまっすぐに向けられていた。[pcms]
+The hand of the fallen infected stretches out straight towards my[r]
+body.[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug09"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4790|
 ;旧ナンバー[vo_t s="tugumi0258"]
 [vo_t s="R_tug0243"]
-[ns]丞実[nse]
-「危ないって言ってるでしょ！」[pcms]
+[ns]Tsugumi[nse]
+"I told you it's dangerous!"[pcms]
 
 
 *4791|
 [fc]
-もう少しでこの感染者に引っかかれたり、[r]
-組み付かれて、一巻の終わりになるところだった。[pcms]
+I was almost caught or grappled by this infected, which would have[r]
+been the end of it.[pcms]
 
 
 *4792|
 [fc]
-[ns]克己[nse]
-「はっ……わ、ワリィ……助かった！」[pcms]
+[ns]Kazumi[nse]
+"Ah...s-sorry...thanks for saving me!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug08"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4793|
 ;旧ナンバー[vo_t s="tugumi0259"]
 [vo_t s="R_tug0244"]
-[ns]丞実[nse]
-「もうっ！　キリがないから早く裏門に行こう！[r]
-　はぁあっ！！　やぁあっ！」[pcms]
+[ns]Tsugumi[nse]
+"Geez! There's no end to this, let's hurry to the back gate! Haahh!![r]
+Yaaahh!"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan1_x"][ChrSetXY layer=3 x="&sf.std_kan_x調整*0" y=0]
 ;;//MOB左＠感染者　17　金髪筋肉　
@@ -291,8 +283,8 @@
 
 *4794|
 [fc]
-[ns]感染者男Ｄ[nse]
-「ぐぶっ……あ、み、みずぎ、ああ……」[pcms]
+[ns]Infected Man D[nse]
+"Gubh...sw-swimsuit, ahh..."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -304,8 +296,8 @@
 
 *4795|
 [fc]
-[ns]感染者男Ａ[nse]
-「あ……ああぁ……あ……」[pcms]
+[ns]Infected Man A[nse]
+"Ah...ahhh...ah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -313,55 +305,53 @@
 *4796|
 ;旧ナンバー[vo_m s="kansenA0014"]
 [vo_mob s="R_kanA0012"]
-[ns]感染者女Ａ[nse]
-「きゃあっ……あっ、あははっ！　た、たおれちゃったぁ！[r]
-　あっはははっ！！」[pcms]
+[ns]Infected Woman A[nse]
+"Kyaaah...ahh, ahaha! I-I fell down! Ahahaha!!"[pcms]
 
 
 *4797|
 [fc]
-丞実の跳び蹴りで吹き飛ばされた大柄な男の感染者が、[r]
-周りを巻き込みながら倒れて、道を作り出した。[pcms]
+A large male infected blown away by Tsugumi's flying kick falls and[r]
+creates a path by dragging others down with him.[pcms]
 
 
 *4798|
 [fc]
-[ns]克己[nse]
-「す、すっげえ……やるじゃん、丞実……」[pcms]
+[ns]Kazumi[nse]
+"Wow...that was amazing...you did good, Tsugumi..."[pcms]
 
 [chara_int][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug09"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *4799|
 ;旧ナンバー[vo_t s="tugumi0260"]
 [vo_t s="R_tug0245"]
-[ns]丞実[nse]
-「ほらっ、言ってないで早くっ！[r]
-　今がチャンスでしょっ！」[pcms]
+[ns]Tsugumi[nse]
+"Come on, don't just stand there, now's our chance!"[pcms]
 
 
 *4800|
 [fc]
-[ns]克己[nse]
-「お、おうっ！」[pcms]
+[ns]Kazumi[nse]
+"Yeah, right!"[pcms]
 
 
 *4801|
 [fc]
-丞実の言うとおりだ。[r]
-コイツらを相手にしていたらキリがない。[pcms]
+Tsugumi is right. There's no end to this if we keep dealing with these[r]
+guys.[pcms]
 
 
 *4802|
 [fc]
-せっかく道が出来たんだ、進むなら今しか無い！[pcms]
+We've finally made a path, now is the only chance to move forward![pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *4803|
 [fc]
-全身に力を込め、バットを握り直しながら、[r]
-裏門を睨み付け、走り出した。[pcms]
+Gathering strength in my whole body, I regrip the bat and glare at the[r]
+back gate as I start running.[pcms]
 
 [se buf1 storage="seA052"]
 ;;//♪SE複数人の走る足音
@@ -376,86 +366,84 @@
 
 *4804|
 [fc]
-[ns]克己[nse]
-「おい、なんでまた増えてんだよ！[r]
-　あいつらどこから生えてくるんだ……ちきしょ！」[pcms]
+[ns]Kazumi[nse]
+"Hey, why are there even more of them?! Where do these guys keep[r]
+coming from...damn it!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug09"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *4805|
 ;旧ナンバー[vo_t s="tugumi0261"]
 [vo_t s="R_tug0246"]
-[ns]丞実[nse]
-「生えてくるんじゃないよ……。[r]
-　それだけウィルスが蔓延しちゃってるって事でしょ！[r]
-　しかも、ものすんごい勢いで！！」[pcms]
+[ns]Tsugumi[nse]
+"They're not just coming out of nowhere... It just means the virus is[r]
+spreading that much, and at an incredible rate!!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug06"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
 
 *4806|
 [fc]
-なんで俺らが向かう先って、いつもいつもこうなんだよ！[pcms]
+Why is it that wherever we go, it always turns out like this![pcms]
 
 
 *4807|
 [fc]
-なんて心の中で叫んだ所で、[r]
-感染者達が去ってくれる訳じゃない。[pcms]
+Shouting in my heart doesn't make the infected go away.[pcms]
 
 
 *4808|
 [fc]
-かといって、さっきみたいに戦って道を切り開くってのも、[r]
-ちょっと無理そうな人数がいる。[pcms]
+But trying to fight and make a path like before seems impossible with[r]
+this number of people.[pcms]
 
 
 *4809|
 [fc]
-[ns]克己[nse]
-「おいおい！　ココまで来て引き返すって訳にもいかないし、[r]
-　どうしたらいいんだよ！」[pcms]
+[ns]Kazumi[nse]
+"Hey, hey! We can't just turn back after coming this far, what should[r]
+we do?!"[pcms]
 
 
 *4810|
 ;旧ナンバー[vo_t s="tugumi0262"]
 [vo_t s="R_tug0247"]
-[ns]丞実[nse]
-「このまま突っ込んでいっても、[r]
-　あの人数じゃ勝ち目はないし……」[pcms]
+[ns]Tsugumi[nse]
+"Even if we charge in as we are, with that number of people there's no[r]
+chance of winning..."[pcms]
 
 
 *4811|
 [fc]
-まさに前門の虎後門の狼って状況だ。[r]
-こうなったら、強行突破するしかないか！？[pcms]
+It's truly a situation of 'tigers at the front gate, wolves at the[r]
+back gate'. Have we got no choice but to break through forcefully!?[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug08"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *4812|
 ;旧ナンバー[vo_t s="tugumi0263"]
 [vo_t s="R_tug0248"]
-[ns]丞実[nse]
-「兄ちゃん、あれどう！？[r]
-　木を登って、壁を乗り越えて外に出るの！」[pcms]
+[ns]Tsugumi[nse]
+"Brother, how about that?! Climbing the tree and getting over the wall[r]
+to get outside!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *4813|
 [fc]
-丞実が慌てながら指さす先には、[r]
-壁ギリギリに生えた広葉樹の木が立っていた。[pcms]
+At the end of Tsugumi's frantic pointing, there stood a broadleaf tree[r]
+growing right up against the wall.[pcms]
 
 
 *4814|
 [fc]
-[ns]克己[nse]
-「……やるしかねえよな……」[pcms]
+[ns]Kazumi[nse]
+"...We've got no other choice..."[pcms]
 
 
 *4815|
 [fc]
-俺と丞実は、顔を向き合わせてから、[r]
-木の下まで、全力で駆け出した。[pcms]
+Tsugumi and I face each other before sprinting at full speed to the[r]
+base of the tree.[pcms]
 
 [se buf1 storage="seA052"]
 ;;//♪SE複数人の走る足音
@@ -470,62 +458,57 @@
 
 *4816|
 [fc]
-[ns]克己[nse]
-「くっそー！　危なかった……。[r]
-　あいつら、なんで手伸ばしてくるんだ、[r]
-　ホラー映画そのまんまじゃねえかよ！！」[pcms]
+[ns]Kazumi[nse]
+"Damn it-! That was close... Why do they keep reaching out their[r]
+hands, it's just like a horror movie!!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug09"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4817|
 ;旧ナンバー[vo_t s="tugumi0264"]
 [vo_t s="R_tug0249"]
-[ns]丞実[nse]
-「ぼやいてないで逃げようよ！」[pcms]
+[ns]Tsugumi[nse]
+"Stop complaining and let's run!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *4818|
 [fc]
-感染者達の動きは遅い。[r]
-だけど、どいつもこいつもみんな、[r]
-俺達の方に確実に迫ってくる。[pcms]
+The infected move slowly. But each and every one of them is definitely[r]
+advancing towards us.[pcms]
 
 
 *4819|
 [fc]
-こうしている間にも、もう目と鼻の先まで迫って来ている。[pcms]
+While we're doing this, they're already getting close enough to touch.[pcms]
 
 
 *4820|
 [fc]
-[ns]克己[nse]
-「あ、ああ！　ほら、先にいけ丞実！！[r]
-　登り切るまで、俺が守ってやるっ！！」[pcms]
+[ns]Kazumi[nse]
+"Ah, ah! Go ahead Tsugumi!! I'll protect you until you climb up!!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug09"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4821|
 ;旧ナンバー[vo_t s="tugumi0265"]
 [vo_t s="R_tug0250"]
-[ns]丞実[nse]
-「わかった！」[pcms]
+[ns]Tsugumi[nse]
+"Got it!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug06"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4822|
 ;旧ナンバー[vo_t s="tugumi0266"]
 [vo_t s="R_tug0251"]
-[ns]丞実[nse]
-「兄ちゃん……気をつけてね。[r]
-　危なくなったら、逃げていいよ。[r]
-　あたしは、一人でも大丈夫だからね……」[pcms]
+[ns]Tsugumi[nse]
+"Brother...be careful. If it gets dangerous, it's okay to run. I can[r]
+manage on my own..."[pcms]
 
 
 *4823|
 [fc]
-[ns]克己[nse]
-「……だから何度も言わせんなって！[r]
-　お前の事は、俺が死んでも守ってやる！[r]
-　だから、さっさと昇れって！」[pcms]
+[ns]Kazumi[nse]
+"...Stop making me repeat myself! I'll protect you even if it kills[r]
+me! So hurry up and climb!"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan1_x"][ChrSetXY layer=3 x="&sf.std_kan_x調整*0" y=0]
 ;;//MOB左＠感染者　17　金髪筋肉　
@@ -537,16 +520,14 @@
 
 *4823a|
 [fc]
-[ns]感染者男Ａ[nse]
-「あっは゛は゛は゛あああ！！[r]
-　け、けつ！　かわいいけつぅうっ！[r]
-　なめさせろおっ！！」[pcms]
+[ns]Infected Man A[nse]
+"Ahhahahaah!! Ke-ke-cute ass! Let me lick it!!"[pcms]
 
 
 *4824|
 [fc]
-[ns]克己[nse]
-「可愛いケツだろ！　だけどお前には触らせねえぞ！」[pcms]
+[ns]Kazumi[nse]
+"Cute ass, huh! But you're not getting a touch!"[pcms]
 
 ;;//s:ＳＥ　ぶん
 [se buf1 storage="seB040"]
@@ -560,25 +541,24 @@
 
 *4825|
 [fc]
-[ns]感染者男Ａ[nse]
-「うがぁっ！　あっ……あ……」[pcms]
+[ns]Infected Man A[nse]
+"Ugah! Ah...ah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 
 *4826|
 [fc]
-[ns]感染者男Ｂ[nse]
-「おぉおっ！　みずぎのすきまから、[r]
-　お、オマンコみえそうだっ！　はぁあっ！！　あぁっ！」[pcms]
+[ns]Infected Man B[nse]
+"Oooh! From the gap in the swimsuit, I can almost see pussy! Haaah!![r]
+Ahh!"[pcms]
 
 
 *4827|
 [fc]
-[ns]克己[nse]
-「馬鹿野郎！　そんなの見ていいのは、[r]
-　丞実の結婚相手だけだ！　テメーみたいなのは、[r]
-　バットでも見とけ！」[pcms]
+[ns]Kazumi[nse]
+"Idiot! The only one who gets to see that is Tsugumi's future spouse![r]
+You should just look at my bat!"[pcms]
 
 ;;//s:ＳＥ　ぶん
 [se buf1 storage="seB040"]
@@ -592,42 +572,38 @@
 
 *4828|
 [fc]
-フルスイングしたバットが、男のこめかみに食い込み、[r]
-直後、首が真横に折れた。[pcms]
+The bat swung full force bites into the man's temple, and immediately[r]
+after, his neck snaps sideways.[pcms]
 
 
 *4829|
 [fc]
-[ns]克己[nse]
-「はあっ……はぁっ……どうよ、俺のバッティングは！[r]
-　利くだろ！？　これ以上痛い思いしたくなかったら、[r]
-　起きて来るんじゃねえ……」[pcms]
+[ns]Kazumi[nse]
+"Hah...hah...how about that, my batting skills! Effective, right!? If[r]
+you don't want to feel more pain, don't get up..."[pcms]
 
 
 *4830|
 [fc]
-[ns]感染者男Ｂ[nse]
-「ぐ……ぐばぁあっ！！　あ……あはぁぁあ！！[r]
-　おいハゲェ！！　ブッころすぞぉおぉ！！」[pcms]
+[ns]Infected Man B[nse]
+"Gu...gubaaah!! Ah...ahhaaah!! Hey Baldy!! I'm gonna kill you!!"[pcms]
 
 
 *4831|
 [fc]
-完全にキマった筈だし、首がヘンな方を向くくらい、[r]
-思いっきり振り抜いた。[pcms]
+I swung with all my might, sure that it would be a decisive hit, and[r]
+his neck turned in a weird direction.[pcms]
 
 
 *4832|
 [fc]
-それなのに、男は倒れるどころか怒りの形相を浮かべて、[r]
-俺につかみかかろうとしている。[pcms]
+Yet instead of falling, the man is furiously trying to grab me.[pcms]
 
 
 *4833|
 [fc]
-[ns]克己[nse]
-「おい、ハゲって言うなよ！　あと、大人しく死んでろ！[r]
-　クソッタレェっ！！」[pcms]
+[ns]Kazumi[nse]
+"Hey, don't call me bald! And just die quietly! You scumbag!!"[pcms]
 
 ;;//s:ＳＥ　ぶん
 [se buf1 storage="seB040"]
@@ -641,16 +617,15 @@
 
 *4834|
 [fc]
-[ns]感染者男Ｂ[nse]
-「あぎっ……こ、このやろ……！[r]
-　ぶっころす！　ぜったい、ころしてやるううっ！！」[pcms]
+[ns]Infected Man B[nse]
+"Agih...you bastard...! I'll kill you! Definitely going to kill[r]
+youuu!!"[pcms]
 
 
 *4835|
 [fc]
-[ns]克己[nse]
-「……なんだよ、なんで死なないんだよッ！！[r]
-　クソが！　死ねっ！　くたばれッ！！」[pcms]
+[ns]Kazumi[nse]
+"...What the hell, why won't you die!! Damn it! Die! Drop dead!!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -676,29 +651,27 @@
 
 *4836|
 [fc]
-[ns]克己[nse]
-「あ……ああぁあっ！！！[r]
-　ほっ、方天画戟が折れたァああぁあ！！」[pcms]
+[ns]Kazumi[nse]
+"Ah...aaaahhh!!! The halberd broke!!"[pcms]
 
 
 *4837|
 [fc]
-やたらに振り回し、感染者の頭に何度も叩き付けられたバットが、[r]
-真ん中から折れて宙を舞う。[pcms]
+The bat that was wildly swung around and repeatedly smashed into the[r]
+heads of the infected snaps in half and flies through the air.[pcms]
 
 
 *4838|
 [fc]
-[ns]感染者男Ｂ[nse]
-「いっ、いぁ゛ぁあ……あ゛あ゛……」[pcms]
+[ns]Infected Man B[nse]
+"Iyaaah...aah..."[pcms]
 
 
 *4839|
 [fc]
-[ns]克己[nse]
-「おい……おいおい！！　どうすんだよ！！[r]
-　つっ、丞実！！　そろそろいいか！？[r]
-　くそっ！　こっちくんな！！」[pcms]
+[ns]Kazumi[nse]
+"Hey...hey hey!! What do we do now!! Tsu-Tsugumi!! Are you almost[r]
+there!? Damn it! Don't come this way!!"[pcms]
 
 ;;//s:ＳＥ　ぶん
 [se buf1 storage="seB040"]
@@ -709,8 +682,8 @@
 
 *4840|
 [fc]
-[ns]感染者男Ｂ[nse]
-「がっ……」[pcms]
+[ns]Infected Man B[nse]
+"Gah..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -720,46 +693,45 @@
 
 *4841|
 [fc]
-半分に折れて、柄だけになったバットを感染者に投げつけ、[r]
-丞実が昇った木に飛びついた。[pcms]
+Throwing the bat, now broken in half and reduced to just the handle,[r]
+at the infected, Tsugumi leaped onto the tree she had climbed.[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug09"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4842|
 ;旧ナンバー[vo_t s="tugumi0267"]
 [vo_t s="R_tug0252"]
-[ns]丞実[nse]
-「兄ちゃん！　慌てなくていいから！[r]
-　落ち着いて……落ち着いて登ってきてッ！！[r]
-　ほら、あと少し……手を伸ばして！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother! Don't panic! Just calm down... calm down and climb up!![r]
+Look, just a little more... stretch out your hand!"[pcms]
 
 
 *4843|
 [fc]
-丞実が差し出した手に、もう少しで俺の手が触れる。[pcms]
+My hand was just about to touch Tsugumi's outstretched hand.[pcms]
 
 
 *4844|
 [fc]
-あと少しで、この壁を乗り越えられる。[pcms]
+Just a little more and I can get over this wall.[pcms]
 
 
 *4845|
 [fc]
-あと少しなんだ！！[pcms]
+Just a little more!![pcms]
 
 
 *4846|
 [fc]
-[ns]克己[nse]
-「お、おう！　うわっ！？」[pcms]
+[ns]Kazumi[nse]
+"Yeah, okay! Whoa!?"[pcms]
 
 [旧quake_bg xy m]
 
 
 *4847|
 [fc]
-丞実の指先に、俺の指先が引っかかりそうになった直前。[r]
-突然足首を掴まれ、引っ張られる。[pcms]
+Right before my fingertips could catch Tsugumi's, I was suddenly[r]
+grabbed by the ankle and pulled.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x="&sf.std_kan1_x調整*340" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　17　金髪筋肉　
@@ -767,105 +739,104 @@
 
 *4847a|
 [fc]
-[ns]感染者男Ｂ[nse]
-「おいぃぃい！！！　クソハゲがぁぁ！！！[r]
-　ちょ、ちょーしコイてんじゃ、ねえぞおおっ！？」[pcms]
+[ns]Infected Man B[nse]
+"Heyyyyy!!! You damn baldy!!! Don't you dare ignore meee!!?"[pcms]
 
 
 *4848|
 [fc]
-男の手は、どうやら俺の体そのものじゃなくて、[r]
-靴を握りしめている。[pcms]
+The man's hand was apparently not holding onto my body itself, but[r]
+gripping my shoe.[pcms]
 
 
 *4849|
 [fc]
-これなら、靴だけ脱げば逃げられる！[pcms]
+If it's just the shoe, I can slip out and escape![pcms]
 
 
 *4850|
 [fc]
-[ns]克己[nse]
-「うっ……うわあぁあっ！！　クソッ！　離せ！！[r]
-　離しやがれっ！！　くっ、靴が欲しいんなら、[r]
-　くれてやるッ！　そらっ！　もってけドロボー！！」[pcms]
+[ns]Kazumi[nse]
+"Ugh... uwaahhh!! Damn it! Let go!! Let go of me!! If it's the shoe[r]
+you want, you can have it! Here! Take it, you thief!"[pcms]
 
 
 *4851|
 [fc]
-木にぶら下がりながら、掴まれた靴に逆の足を擦りつけ、[r]
-男の体ごと引き離した。[pcms]
+Hanging from the tree, I rubbed my other foot against the grabbed shoe[r]
+and pushed the man away with his own body.[pcms]
 
 
 *4852|
 [fc]
-[ns]感染者男Ｂ[nse]
-「あ……あが……！？」[pcms]
+[ns]Infected Man B[nse]
+"Ah... agah...!?"[pcms]
 
 [旧quake_bg xy m]
 
 
 *4853|
 [fc]
-よほど強く引っ張っていたせいか、[r]
-支えを失った男は、勢い余って尻餅をついた。[pcms]
+Perhaps because he was pulling so hard, the man lost his support and[r]
+fell on his butt with too much momentum.[pcms]
 
 
 *4854|
 [fc]
-これでようやく、この学園から外に出ることが出来る。[pcms]
+Now at last, I can get out of this school.[pcms]
 
 
 *4855|
 [fc]
-[ns]克己[nse]
-「丞実っ！　手、手を貸してくれっ！！」[pcms]
+[ns]Kazumi[nse]
+"Tsugumi! Give me a hand!!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug08"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4856|
 ;旧ナンバー[vo_t s="tugumi0268"]
 [vo_t s="R_tug0253"]
-[ns]丞実[nse]
-「兄ちゃん！　ほらっ！！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother! Here!!"[pcms]
 
 
 *4857|
 [fc]
-丞実の手が、もう一度俺に向けて伸ばされる。[pcms]
+Tsugumi's hand is stretched out towards me once again.[pcms]
 
 
 *4858|
 [fc]
-[ns]克己[nse]
-「うぉおっ！　いくぞぉおっ！！」[pcms]
+[ns]Kazumi[nse]
+"Uooh! Here I go!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *4859|
 [fc]
-俺もそれに応え、今度こそ失敗しないようにしっかり握り、[r]
-全身をバネにして、丞実のいる壁の上へと飛んだ。[pcms]
+I respond in kind, making sure to grip firmly so as not to fail this[r]
+time, and using my whole body as a spring, I leap up to the wall where[r]
+Tsugumi is.[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug13"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4860|
 ;旧ナンバー[vo_t s="tugumi0269"]
 [vo_t s="R_tug0254"]
-[ns]丞実[nse]
-「兄ちゃんっ！！！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother!!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *4861|
 [fc]
-丞実も、精一杯の力を振り絞って俺の体を引き寄せ、[r]
-俺の体はやっと、壁の上に着地した。[pcms]
+Tsugumi also pulls with all her might to bring me closer, and finally,[r]
+my body lands on top of the wall.[pcms]
 
 
 *4862|
 [fc]
-――だけど、この壁には忍び返しがあるのを忘れていた！[pcms]
+--But I had forgotten that there were anti-climb spikes on this wall![pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -881,28 +852,27 @@
 
 *4863|
 [fc]
-着地予定の場所にも、鋭く尖る忍び返しが光る。[r]
-当然、その中の一つの突起が、俺の足に突き刺さった。[pcms]
+The landing spot was gleaming with sharp spikes, and naturally, one of[r]
+them pierced through my foot.[pcms]
 
 
 *4864|
 [fc]
-[ns]克己[nse]
-「ぐっ……ううぁあああっ！！！」[pcms]
+[ns]Kazumi[nse]
+"Guh... ughaaaah!!!"[pcms]
 
 
 *4865|
 ;旧ナンバー[vo_t s="tugumi0270"]
 [vo_t s="R_tug0255"]
-[ns]丞実[nse]
-「にっ、兄ちゃん！　きゃああああああぁっ！！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother! Kyaaaahhhhh!!"[pcms]
 
 
 *4866|
 [fc]
-鈍い痛さが、ふくらはぎを襲い、バランスを崩した俺は、[r]
-丞実を巻き込みながら、[r]
-壁を通り越して向かいの通りへとつんのめってしまった。[pcms]
+A dull pain struck my calf, and losing my balance, I tumbled over the[r]
+wall with Tsugumi, spilling into the street on the other side.[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -920,16 +890,14 @@
 *4867|
 ;旧ナンバー[vo_t s="tugumi0271"]
 [vo_t s="R_tug0256"]
-[ns]丞実[nse]
-「いったぁぁ……ううっ……げほっ……。[r]
-　に、兄ちゃん、大丈夫だった……？」[pcms]
+[ns]Tsugumi[nse]
+"Owwww... ugh... cough... Big brother, are you okay...?"[pcms]
 
 
 *4868|
 [fc]
-[ns]克己[nse]
-「ああ、な、なんとかな……イテテ……。[r]
-　お前こそ、大丈夫……」[pcms]
+[ns]Kazumi[nse]
+"Yeah, somehow... ouch... Are you okay...?"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug12"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 
@@ -937,47 +905,47 @@
 *4868a|
 [fc]
 [ns]？？？[nse]
-「おい、動くな！」[pcms]
+"Hey, don't move!"[pcms]
 
 ;;//自衛官Ａ 後ほど　？？？　に
 ;mmmm なんだ？もとの名前消えてた。元からか
 
 *4869|
 [fc]
-[ns]克己[nse]
-「は？　うわ、冷たい！」[pcms]
+[ns]Kazumi[nse]
+"Huh? Wow, that's cold!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *4870|
 [fc]
-着地に失敗し、悶絶する俺と丞実の背後から、[r]
-野太い声が聞こえ、直後、細い筒状のものが、[r]
-首に押し当てられた。[pcms]
+From behind me and Tsugumi, who were writhing in pain from the failed[r]
+landing, a gruff voice sounded, and immediately after, something thin[r]
+and cylindrical was pressed against my neck.[pcms]
 
 
 *4871|
 [fc]
-また感染者だったら、もうおしまいだ。[r]
-俺も丞実も、体を打ち付けて今すぐ動く事は出来なそうだ。[pcms]
+If it's another infected, we're finished. Both Tsugumi and I have[r]
+taken a beating and can't move right now.[pcms]
 
 
 *4872|
 [fc]
-せっかくココまで来たってのに、最後の最後でツイてねえ。[r]
-だけど、まだ希望はすてちゃいない。[r]
-何とかして、自衛隊の基地まで行くんだ。[pcms]
+We've come this far only to be out of luck at the very end. But I[r]
+haven't given up hope yet. Somehow, we have to make it to the Self-[r]
+Defense Force base.[pcms]
 
 
 *4873|
 [fc]
-俺は、意を決して声の主の方へと振り返った。[pcms]
+Determined, I turned towards the source of the voice.[pcms]
 
 
 *4874|
 [fc]
-すると、そこには――[pcms]
+And there was--[pcms]
 
 [ChrSetEx layer=5 chbase="mob_sdf2_x"][ChrSetXY layer=5 x="&sf.std_sdf_x調整*340" y="&sf.std_sdf_y調整*0"][trans_c cross time=150]
 ;;//MOB中＠自衛隊　23　自衛隊構え
@@ -985,22 +953,21 @@
 
 *4875|
 [fc]
-――銃を押し付ける自衛官の姿があった。[pcms]
+--a Self-Defense Force officer holding a gun to us.[pcms]
 
 
 *4876|
 [fc]
-[ns]克己[nse]
-「へ……！？　う、うわあぁああっ！！！[r]
-　やっ、やめて撃たないでそういうの嫌ァ！！」[pcms]
+[ns]Kazumi[nse]
+"Heh...!? Whoaahhh!!! No, no don't shoot! I really hate that sort of[r]
+thing!!"[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug13"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *4877|
 ;旧ナンバー[vo_t s="tugumi0272"]
 [vo_t s="R_tug0257"]
-[ns]丞実[nse]
-「きゃあぁあぁあ！！　うっ、撃たないでくださいッ！[r]
-　あたしたち怪しい者じゃ無いから！」[pcms]
+[ns]Tsugumi[nse]
+"Kyaaahhhh!! Please don't shoot! We're not suspicious people!"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_sdf2_x"][ChrSetXY layer=3 x="&sf.std_sdf_x調整*43" y="&sf.std_sdf_y調整*0"]
 ;;//MOB左＠自衛隊　22　自衛隊　　
@@ -1012,15 +979,15 @@
 
 *4878|
 [fc]
-俺達兄妹は驚きのあまり目を丸くして、あたりを見回すと、[r]
-沢山の自衛隊の隊員が取り囲んでいた。[pcms]
+My sister and I were so surprised that our eyes went wide, and when we[r]
+looked around, we were surrounded by many Self-Defense Force members.[pcms]
 
 
 *4879|
 [fc]
-[ns]自衛官Ａ[nse]
-「民間人、確保！　銃を下ろせ！[r]
-　この人達は、まだ大丈夫……」[pcms]
+[ns]Self-Defense Officer A[nse]
+"Civilians secured! Lower your weapons! These people are still[r]
+okay..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1032,31 +999,31 @@
 
 *4880|
 [fc]
-[ns]克己[nse]
-「ぎゃ」[pcms]
+[ns]Kazumi[nse]
+"Gyah"[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug13"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 *4881|
 ;旧ナンバー[vo_t s="tugumi0273"]
 [vo_t s="R_tug0258"]
-[ns]丞実[nse]
-「きゃあぁあっ！！　もういやだぁあっ！[r]
-　なに今の爆発！　もーいやだぁー！」[pcms]
+[ns]Tsugumi[nse]
+"Kyaaahhh!! No more, I can't take it! What was that explosion just[r]
+now? No more, I can't-!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *4882|
 [fc]
-爆音がした方向では、自衛隊の人達の雄叫びと、[r]
-気味の悪い叫び声、そして銃の音が連続して鳴り響き、[r]
-すぐに静かになった。[pcms]
+In the direction of the loud noise, the Self-Defense Force members'[r]
+shouts of valor, eerie screams, and the sound of gunfire echoed[r]
+continuously before quickly falling silent.[pcms]
 
 
 *4883|
 [fc]
-直後、何人かの隊員がこちらに向けて手を振ると、[r]
-俺達に声を掛けてくれた人が、同じように手を振り返した。[pcms]
+Immediately after, several members waved at us, and the person who had[r]
+called out to us waved back in the same manner.[pcms]
 
 [ChrSetEx layer=3 chbase="mob_sdf1_x"][ChrSetXY layer=3 x="&sf.std_sdf_x調整*43" y="&sf.std_sdf_y調整*0"]
 ;;//MOB左＠自衛隊　22　自衛隊　　
@@ -1068,82 +1035,78 @@
 
 *4884|
 [fc]
-[ns]自衛官Ａ[nse]
-「落ち着いて、安心してください。[r]
-　あれは、我々の“制圧行動”です。[r]
-　あちらは、もう安全です！　おい、この人達を連れて行け！」[pcms]
+[ns]Self-Defense Officer A[nse]
+"Calm down, please be at ease. That was our 'containment action.' It's[r]
+safe over there now! Hey, take these people with you!"[pcms]
 
 
 *4885|
 [fc]
-[ns]自衛官Ｂ[nse]
-「わかりました！　どうぞ、こちらに！」[pcms]
+[ns]Self-Defense Officer B[nse]
+"Understood! Please, this way!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *4886|
 [fc]
-どうやら今の爆発で、俺達が向かおうとした先……。[r]
-病院の方の安全が確保されたらしい。[pcms]
+It seems that the explosion just now secured the safety of the place[r]
+we were trying to reach... the hospital.[pcms]
 
 
 *4887|
 [fc]
-俺達は沢山の隊員に護衛され、[r]
-その病院へ向かう事になった。[pcms]
+We were escorted by many members and headed towards that hospital.[pcms]
 
 
 *4888|
 [fc]
-[ns]克己[nse]
-「なあ、丞実……俺達運が良いな……、[r]
-　助かったぞ、オイ……」[pcms]
+[ns]Kazumi[nse]
+"Hey, Tsugumi... we're lucky, aren't we... We're saved, hey..."[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug07"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *4889|
 ;旧ナンバー[vo_t s="tugumi0274"]
 [vo_t s="R_tug0259"]
-[ns]丞実[nse]
-「うん……よかったぁ……。[r]
-　安心したら、お漏らししそうになっちゃったよ……」[pcms]
+[ns]Tsugumi[nse]
+"Yeah... thank goodness... I almost peed myself when I felt[r]
+relieved..."[pcms]
 
 
 *4890|
 [fc]
-[ns]克己[nse]
-「バカ、ここで漏らしたら隊員さんに笑われるぞ」[pcms]
+[ns]Kazumi[nse]
+"Idiot, if you pee here you'll make the officers laugh."[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug03"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *4891|
 ;旧ナンバー[vo_t s="tugumi0275"]
 [vo_t s="R_tug0260"]
-[ns]丞実[nse]
-「そんな事いって、兄ちゃん、もう漏らしてるんじゃ無いの？[r]
-　へへへ……漏らしてたとしても、カッコ良いよ兄ちゃん……。[r]
-　ありがと……助けてくれて……」[pcms]
+[ns]Tsugumi[nse]
+"You say that, but aren't you the one who's already peed, brother?[r]
+Hehehe... Even if you did pee, you're still cool, brother... Thank[r]
+you... for saving me..."[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug01"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 
 
 *4892|
 [fc]
-俺達の間に、ようやくいつもの軽口が戻ってきた。[r]
-それと共に、丞実の顔に笑顔も戻った。[pcms]
+The usual banter finally returned between us. And with it, Tsugumi's[r]
+smile came back as well.[pcms]
 
 
 *4893|
 [fc]
-[ns]克己[nse]
-「バカヤロ……漏らしてねえって」[pcms]
+[ns]Kazumi[nse]
+"Idiot... I didn't pee."[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug01"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 
 
 *4894|
 [fc]
-丞実を守り切った。[r]
-俺が、コイツを守ったんだ。[pcms]
+I protected Tsugumi to the end. I was the one who protected her.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_sdf1_x"][ChrSetXY layer=5 x="&sf.std_sdf_x調整*340" y="&sf.std_sdf_y調整*0"][trans_c cross time=150]
 ;;//MOB中＠自衛隊　22　自衛隊　　
@@ -1151,72 +1114,67 @@
 
 *4894a|
 [fc]
-[ns]自衛官Ｂ[nse]
-「あの、すみません」[pcms]
+[ns]Self-Defense Officer B[nse]
+"Excuse me."[pcms]
 
 
 *4895|
 [fc]
-丞実を救い出した嬉しさに浸る俺に、[r]
-隊員の一人が声を掛けてきた。[pcms]
+As I was soaking in the joy of having rescued Tsugumi, one of the[r]
+officers called out to me.[pcms]
 
 
 *4896|
 [fc]
-色の付いたゴーグルに遮られ、[r]
-その表情を掴むことは出来なかったけど、[r]
-なんだか、深刻そうな声出ある事は確かだった。[pcms]
+His expression was obscured by colored goggles, but it was clear from[r]
+his voice that he was serious.[pcms]
 
 
 *4897|
 [fc]
-[ns]克己[nse]
-「はい、なんでしょう？」[pcms]
+[ns]Kazumi[nse]
+"Yes, what is it?"[pcms]
 
 
 *4898|
 [fc]
-[ns]自衛官Ｂ[nse]
-「この学園の中に、[r]
-　貴方たち以外に無事な人はいませんでしたか？」[pcms]
+[ns]Self-Defense Officer B[nse]
+"Inside this school, were there any other survivors besides you?"[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug07"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *4899|
 ;旧ナンバー[vo_t s="tugumi0276"]
 [vo_t s="R_tug0261"]
-[ns]丞実[nse]
-「無事な人……」[pcms]
+[ns]Tsugumi[nse]
+"Survivors..."[pcms]
 
 
 *4900|
 [fc]
-俺と丞実は、思わず顔を見合わせる。[pcms]
+Tsugumi and I inadvertently looked at each other.[pcms]
 
 
 *4901|
 [fc]
-無事じゃない。[r]
-だけど、無事でいて欲しいと信じている人が、[r]
-中にいるからだ。[pcms]
+They're not safe. But there are people inside that we hope and believe[r]
+are safe.[pcms]
 
 
 *4902|
 [fc]
-でも、あの人はもういないんだ。[r]
-だから、無事な人なんて、この学園の中には、[r]
-誰一人として存在しない。[pcms]
+But that person is no longer here. So there are no survivors left in[r]
+this school. Not a single one.[pcms]
 
 
 *4903|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *4904|
 [fc]
-わかってるんだ。無事じゃないってことは。[r]
-信じたくなんか無いけど……。[pcms]
+I know that they're not safe. I don't want to believe it...[pcms]
 
 [ChrSetEx layer=5 chbase="mob_sdf1_x"][ChrSetXY layer=5 x="&sf.std_sdf_x調整*340" y="&sf.std_sdf_y調整*0"][trans_c cross time=150]
 ;;//MOB中＠自衛隊　22　自衛隊　　
@@ -1224,33 +1182,32 @@
 
 *4904a|
 [fc]
-[ns]自衛官Ｂ[nse]
-「このあたりは、思った以上に感染者が多い。[r]
-　だから、今のうちに制圧しておきたいんです。[r]
-　もし……貴方達が最後の生存者だと確認が出来れば――」[pcms]
+[ns]Self-Defense Officer B[nse]
+"There are more infected in this area than we thought. That's why we[r]
+want to control it now. If... we can confirm that you are the last[r]
+survivors--"[pcms]
 
 
 *4905|
 [fc]
-[ns]自衛官Ｂ[nse]
-「我々は、この学園に突入します。[r]
-　お願いします、教えてください……。[r]
-　この中に、無事な人はまだ残っていますか？」[pcms]
+[ns]Self-Defense Officer B[nse]
+"We will storm this school. Please tell us... Are there still any[r]
+survivors inside?"[pcms]
 
 [ChrSetEx layer=5 chbase="tug1_jar2_a"][ChrSetParts layer=5 chface="F1_tug07"][ChrSetXY layer=5 x="&sf.std_t_x調整*244" y="&sf.std_t_y調整*7"][trans_c cross time=150]
 *4906|
 ;旧ナンバー[vo_t s="tugumi0277"]
 [vo_t s="R_tug0262"]
-[ns]丞実[nse]
-「……兄ちゃん……」[pcms]
+[ns]Tsugumi[nse]
+"...Brother..."[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar2_a"][ChrSetParts layer=5 chface="F2_tug11"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=150]
 
 
 *4907|
 [fc]
-丞実は小さく呟くと、俺の胸に顔を埋め、[r]
-それきり黙り込んでしまった。[pcms]
+Tsugumi murmured softly and buried her face in my chest, then fell[r]
+silent.[pcms]
 
 ;;//★空・朝昼d
 [bg storage="BG31d"][trans_c cross time=1000]
@@ -1258,21 +1215,21 @@
 
 *4908|
 [fc]
-そんな丞実を抱きしめながら、[r]
-俺は黒煙が立ち上る空へ顔を向け、目を閉じた。[pcms]
+Holding Tsugumi close, I faced the sky filled with black smoke and[r]
+closed my eyes.[pcms]
 
 ;;//m:大空に顔したい
 
 
 *4909|
 [fc]
-あの人の笑顔が、瞼の裏に投影される。[r]
-あの人の声が、耳の中を駆け巡る。[pcms]
+The smile of that person is projected on the back of my eyelids. The[r]
+voice of that person echoes in my ears.[pcms]
 
 
 *4910|
 [fc]
-だけど、あの人はもういないんだ。[pcms]
+But that person is no longer here.[pcms]
 
 ;;//★大橋の住宅街・朝昼
 [bg storage="BG09a"][trans_c cross time=500]
@@ -1282,45 +1239,42 @@
 
 *4911|
 [fc]
-[ns]克己[nse]
-「……この学園の中には……。[r]
-　俺達以外、まともな人は……いませんでした。[r]
-　もう、みんな感染してしまっています……」[pcms]
+[ns]Kazumi[nse]
+"...Inside this school... There were no other sane people besides us.[r]
+Everyone else has been infected..."[pcms]
 
 
 *4912|
 [fc]
-そうだ。[r]
-この学園には、もう化け物しか残ってないんだ。[pcms]
+That's right. This school is now only inhabited by monsters.[pcms]
 
 
 *4913|
 [fc]
-無事な人なんて、もう誰もいないんだ。[pcms]
+There are no more survivors left.[pcms]
 
 
 *4914|
 [fc]
-丞実は、俺の言葉を聞いてすぐにすすり泣きを始めた。[pcms]
+Tsugumi started sobbing quietly upon hearing my words.[pcms]
 
 
 *4915|
 [fc]
-だけど、俺の言葉を否定する事は無かった。[pcms]
+But she did not deny what I said.[pcms]
 
 
 *4916|
 [fc]
-[ns]自衛官Ｂ[nse]
-「……わかりました。[r]
-　申し訳ありません、辛い事を聞いてしまったみたいで。[r]
-　……では、失礼します」[pcms]
+[ns]Self-Defense Officer B[nse]
+"Understood. I apologize for bringing up such a painful subject.[r]
+...Excuse me."[pcms]
 
 
 *4917|
 [fc]
-[ns]自衛官Ｂ[nse]
-「全員構え！　突入準備！！」[pcms]
+[ns]Self-Defense Officer B[nse]
+"Everyone, get ready! Prepare to breach!!"[pcms]
 
 [ChrSetEx layer=1 chbase="mob_sdf1_x"][ChrSetXY layer=1 x="&sf.std_sdf_x調整*-50" y="&sf.std_sdf_y調整*0"][trans_c cross time=150]
 ;;//MOB右＠自衛隊　22　自衛隊　　
@@ -1334,8 +1288,8 @@
 
 *4918|
 [fc]
-俺に話しかけた隊員の号令を合図に、[r]
-周りの隊員達は、一斉に銃を構えた。[pcms]
+At the command of the officer who spoke to me, the surrounding[r]
+officers all simultaneously aimed their guns.[pcms]
 
 [se buf1 storage="seA052"]
 ;;//♪SE複数人の走る足音
@@ -1346,9 +1300,8 @@
 
 *4919|
 [fc]
-金属同士がぶつかり合う音を聞きながら、[r]
-その場に立ったまま、[r]
-もう一度空を見上げ目を閉じる。[pcms]
+While listening to the sound of metal clashing, I stood still, looked[r]
+up at the sky once more, and closed my eyes.[pcms]
 
 ;;//seフェード停止###[stop_se buf1]
 [stopse_fadeout buf1 time=1000]
@@ -1360,53 +1313,53 @@
 *4920|
 ;旧ナンバー[vo_s s="sizuka0290"]
 [vo_s s="R_siz0135"]
-[ns]静[nse]
-「ねえ……？　克己さん？」[pcms]
+[ns]Shizuka[nse]
+"Hey...? Kazumi-san?"[pcms]
 
 
 *4921|
 [fc]
-[ns]自衛官Ｂ[nse]
-「この学園から、あいつらを外に出すな！」[pcms]
+[ns]Self-Defense Officer B[nse]
+"Don't let those things out of this school!"[pcms]
 
 
 *4922|
 ;旧ナンバー[vo_s s="sizuka0291"]
 [vo_s s="R_siz0136"]
-[ns]静[nse]
-「ふふっ……」[pcms]
+[ns]Shizuka[nse]
+"Hehe..."[pcms]
 
 
 *4923|
 [fc]
-[ns]自衛官Ｂ[nse]
-「いいか、一人も漏らすな！」[pcms]
+[ns]Self-Defense Officer B[nse]
+"Remember, not a single one escapes!"[pcms]
 
 
 *4924|
 ;旧ナンバー[vo_s s="sizuka0292"]
 [vo_s s="R_siz0137"]
-[ns]静[nse]
-「かつみさん、だいすき」[pcms]
+[ns]Shizuka[nse]
+"Kazumi-san, I love you"[pcms]
 
 
 *4925|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *4926|
 ;旧ナンバー[vo_s s="sizuka0293"]
 [vo_s s="R_siz0138"]
-[ns]静[nse]
-「かつみさん……どこにいるの？」[pcms]
+[ns]Shizuka[nse]
+"Kazumi-san... where are you?"[pcms]
 
 
 *4927|
 [fc]
-[ns]自衛官Ｂ[nse]
-「突入！」[pcms]
+[ns]Self-Defense Officer B[nse]
+"Breach!"[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

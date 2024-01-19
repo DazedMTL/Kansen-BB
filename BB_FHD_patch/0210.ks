@@ -8,7 +8,7 @@
 ;;//☆概要：コンビニや周囲の異変、
 ;;//TVの異常放送から、アウトブレイクを知る克己。
 ;;//逡巡のうち、丞実と静の救出へ向かう
-;;//・テキスト容量：15k前後（短くてもOK）[pcms]
+around 15k (shorter is okay)[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -58,87 +58,85 @@
 
 *956|
 [fc]
-[ns]克己[nse]
-「おー、見よう見まねでも何とかなるモンだな。[r]
-　これでコンビニのバイトも完璧だ。[r]
-　っつーか、勝手にレジ動かしても犯罪じゃねーよな？」[pcms]
+[ns]Kazumi[nse]
+"Oh, it seems like I can manage somehow by just imitating what I've[r]
+seen. With this, I'm perfect for the convenience store part-time job.[r]
+But hey, it's not a crime to use the register without permission,[r]
+right?"[pcms]
 
 
 *957|
 [fc]
-いっくら叫んでも店員さん出て来ないし、[r]
-品物を勝手に持っていく訳にもいかない。[r]
-そこで、苦肉の策としてレジを操作して、お金を入れたって訳。[pcms]
+No matter how much I shouted, the clerk didn't come out, and I[r]
+couldn't just take the goods without paying. So, as a desperate[r]
+measure, I operated the register and put the money in.[pcms]
 
 
 *958|
 [fc]
-いつもの店員さんがいつもやってるみたいに、[r]
-エンターキーみたいなのを押したらレジが開いた。[r]
-だから俺は、五百円を入れたって訳だ。[pcms]
+Just like the usual clerk does, I pressed something like the enter[r]
+key, and the register opened. So I put in five hundred yen.[pcms]
 
 
 *959|
 [fc]
-買ったモンも、百五十円くらいのパンとコーヒー牛乳だ。[r]
-どう頑張ったって、三百円ちょい。[pcms]
+The things I bought were just some bread and coffee milk, about one[r]
+hundred and fifty yen in total. No matter how you look at it, it's[r]
+just over three hundred yen.[pcms]
 
 
 *960|
 [fc]
-おつりを取れば良かったんだけど、[r]
-レジを勝手に操作した時点で何か悪い事をしてる感じになって、[r]
-慌てて金の入っていたトレーを押し込んだ。[pcms]
+I should have taken the change, but as soon as I operated the register[r]
+myself, it felt like I was doing something wrong, so I hurriedly[r]
+pushed the tray with the money back in.[pcms]
 
 
 *961|
 [fc]
-そしたら、もうレジは開かなくなっちまったって訳さ。[pcms]
+And then, the register wouldn't open anymore.[pcms]
 
 
 *962|
 [fc]
-[ns]克己[nse]
-「釣りが……ウウ。何してんだよ、店員さーん！？[r]
-　出てきて俺のおつり返してー！」[pcms]
+[ns]Katsumi[nse]
+"The change... Ugh. What are you doing, clerk-san!? Come out and give[r]
+me my change back!"[pcms]
 
 
 *963|
 [fc]
-…………。[r]
-……。[pcms]
+... ...[pcms]
 
 
 *964|
 [fc]
-いくら叫んでも、店員さんは出てこない。[pcms]
+No matter how much I shout, the clerk doesn't come out.[pcms]
 
 
 *965|
 [fc]
-それにしても……。[r]
-いくら早朝だからっていっても、[r]
-お客さんも全然来ないってどういうこと？[pcms]
+Even so... It's early morning, but why isn't there a single customer[r]
+coming in?[pcms]
 
 
 *966|
 [fc]
-っつーか……。[pcms]
+But hey...[pcms]
 
 
 *967|
 [fc]
-[ns]克己[nse]
-「ここに来てから暫く経つってのに、何かヘンだ……。[r]
-　……絶対ヘンだって！　何だか気持ちわりー……」[pcms]
+[ns]Kazumi[nse]
+"It's been a while since I came here, and something feels off...[r]
+Definitely off! It feels so weird..."[pcms]
 
 
 *968|
 [fc]
-[ns]克己[nse]
-「……クソっ！　おつりは募金でもしといてくれ！[r]
-　代わりに就職情報誌、いつも以上にもらってくからな！[r]
-　文句言うなよ！」[pcms]
+[ns]Kazumi[nse]
+"...Damn it! Consider my change a donation! Instead, I'm taking more[r]
+employment magazines than usual! Don't complain!"[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c blind_lr time=1000][hide_chara_int]
@@ -149,24 +147,24 @@
 
 *969|
 [fc]
-[ns]克己[nse]
-「勤務地・あきる野市。朝五時集合。[r]
-　……電車じゃ無理だな。前日入り上等じゃねえか」[pcms]
+[ns]Kazumi[nse]
+"Work location: Akiruno city. Gather at five in the morning...[r]
+Impossible by train. It's fine to go the day before."[pcms]
 
 
 *970|
 [fc]
-[ns]克己[nse]
-「ＤＴＰオペレーター・経験者のみ。[r]
-　経験ありません。ダメです」[pcms]
+[ns]Kazumi[nse]
+"DTP operator. Only experienced applicants. I don't have experience.[r]
+No good."[pcms]
 
 
 *971|
 [fc]
-[ns]克己[nse]
-「アパレル・渋谷駅前のオシャレなお店で働いてみない？[r]
-　女性スタッフ大募集。[r]
-　……女装でもして行くか？　無理だっての」[pcms]
+[ns]Kazumi[nse]
+"Apparel. Want to work at a stylish shop in front of Shibuya station?[r]
+We're recruiting a lot of female staff... Should I go in drag? No way,[r]
+that's impossible."[pcms]
 
 ;;//ＳＥ　ヘリ
 [se buf1 storage="seC017"]
@@ -175,45 +173,42 @@
 
 *972|
 [fc]
-うわああああああああああああああ！！！[r]
-どれもコレも条件があわなーい！！！[pcms]
+Aaaaaaaahhhhhhhhhhhhh!!! None of these conditions fit at all!!![pcms]
 
 
 *973|
 [fc]
-選んでる場合じゃないってのも解ってるけど、[r]
-これは、選ぶ以前の問題だ。[pcms]
+I know it's not the time to be picky, but this is a problem before[r]
+even choosing.[pcms]
 
 
 *974|
 [fc]
-[ns]克己[nse]
-「どうしたもんかなあ……。[r]
-　にしても、ヘリのヤツめ！　うるさいよ！[r]
-　気持ちよさそうに飛びやがってぇぇぇ！！」[pcms]
+[ns]Kazumi[nse]
+"What should I do... Anyway, that helicopter! So noisy! Flying around[r]
+so comfortably eeehhh!!"[pcms]
 
 
 *975|
 [fc]
-持っていた就職情報誌を空に向けて投げつけながら、[r]
-当たり散らす様に叫んだ。[pcms]
+While throwing the employment magazine into the air and shouting as if[r]
+to vent my frustration.[pcms]
 
 
 *976|
 [fc]
-[ns]克己[nse]
-「まあ、聞こえないだろうけどなあ……。[r]
-　いい気なモンだぜチキショー！」[pcms]
+[ns]Kazumi[nse]
+"Well, they probably can't hear me... Lucky bastards!"[pcms]
 
 
 *977|
 [fc]
-虚しさを覚えて、[ruby text="うなだ"][ch text="項垂"]れ――[pcms]
+Feeling empty, I hung my head--[pcms]
 
 
 *978|
 [fc]
-空と地面が水平になった瞬間。[pcms]
+The moment the sky and ground became horizontal.[pcms]
 
 ;;//BGM即時停止
 [stopbgm]
@@ -227,14 +222,14 @@
 
 *979|
 [fc]
-背後から、大きな音がした。[pcms]
+A loud noise came from behind.[pcms]
 
 
 *980|
 [fc]
-[ns]克己[nse]
-「ぎゃ！　何今のドカーン！　テロですかテロ！？[r]
-　いやだな日本は平和ァァ！？」[pcms]
+[ns]Kazumi[nse]
+"Gyah! What was that boom just now! Is it terrorism!? No way, Japan is[r]
+supposed to be peaceful!?"[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c lr time=301][hide_chara_int]
@@ -242,8 +237,8 @@
 
 *981|
 [fc]
-不意を突かれた俺は、[r]
-思いつく限りの言葉を自動的に発しながら振り返った。[pcms]
+Taken by surprise, I turned around while automatically blurting out[r]
+whatever words came to mind.[pcms]
 
 ;;//★マンション外観（町並み・朝昼）
 [bg storage="BG12a"][trans_c lr time=301]
@@ -251,15 +246,14 @@
 
 *982|
 [fc]
-だけど、そこには“当然ながら”爆発なんてない。[r]
-あるのは、数人分の人影だけだ。[pcms]
+But there was no explosion as one would expect. There were only[r]
+several people's silhouettes.[pcms]
 
 
 *983|
 [fc]
-[ns]克己[nse]
-「……平和だよね？[r]
-　平和、だもんねえ……」[pcms]
+[ns]Kazumi[nse]
+"...It's peaceful, right? It has to be peaceful..."[pcms]
 
 ;;//bgm01-01
 [bgm storage="bgm01-01"]
@@ -267,175 +261,170 @@
 
 *984|
 [fc]
-失敗したー……ビビった所、見られちまったかな。[pcms]
+I messed up... Did they see me getting startled?[pcms]
 
 
 *985|
 [fc]
-[ns]克己[nse]
-「ん……？」[pcms]
+[ns]Kazumi[nse]
+"Hm...?"[pcms]
 
 
 *986|
 [fc]
-何人かの男女が歩いてくる。[r]
-良くある光景だ。[pcms]
+Some men and women are walking this way. A common sight.[pcms]
 
 
 *987|
 [fc]
-だけど、彼らは一様に首をガクガクさせている。[pcms]
+But all of them are shaking their heads violently.[pcms]
 
 
 *988|
 [fc]
-ヒップホップやらのノリとはちょっと違う。[r]
-どちらかと言えば、暗黒舞踏みたいな動きだ。[pcms]
+It's not quite the vibe of hip-hop. It's more like a kind of dark[r]
+dance.[pcms]
 
 
 *989|
 [fc]
-[ns]克己[nse]
-「ああそうか、大江戸花火大会で盛り上がりまくった人らか。[r]
-　飲みまくってベロンベロンって感じもんなあ。[r]
-　失敗したな、俺も行けば良かったなぁ……」[pcms]
+[ns]Kazumi[nse]
+"Ah, I see, they must be people who got hyped up at the Oedo Fireworks[r]
+Festival. Drunk and staggering around. I should've gone too..."[pcms]
 
 
 *990|
 [fc]
-つっても、一緒に行く相手はいないけどな……。[pcms]
+Even though I don't have anyone to go with...[pcms]
 
 
 *991|
 [fc]
-[ns]克己[nse]
-「あらら……。[r]
-　なんか、ケンカみたいなの始めたぞ？[r]
-　やっぱ、酔っ払いってイヤねえ」[pcms]
+[ns]Kazumi[nse]
+"Oh dear... They seem to have started something like a fight? As[r]
+expected, drunkards are troublesome."[pcms]
 
 
 *992|
 [fc]
-あんなのに絡まれたりしたら面倒だな。[r]
-それに今日はゴミの日だし、だしそびれたら大変だ。[pcms]
+If I get involved with them it would be a hassle. Plus, today is[r]
+garbage day; if I miss it, it'll be trouble.[pcms]
 
 
 *993|
 [fc]
-[ns]克己[nse]
-「帰ろ……」[pcms]
+[ns]Kazumi[nse]
+"Let's go home..."[pcms]
 
 
 *994|
 [fc]
-コンビニの前に止めておいた自転車に飛び乗って、[r]
-家へと急ぐ。[pcms]
+Hopping onto my bicycle parked in front of the convenience store, I[r]
+hurry home.[pcms]
 
 
 *995|
 [fc]
-[ns]通行人[nse]
-「あぁ……あ～……」[pcms]
+[ns]Pedestrian[nse]
+"Ah...ah~..."[pcms]
 
 
 *996|
 [fc]
 [vo_mob s="R_tuko0001"]
-[ns]通行人女性[nse]
-「う……ううううっ……ううううううぅっ！！」[pcms]
+[ns]Female Pedestrian[nse]
+"Ugh...uuuuuh...uuuuuuuh!!"[pcms]
 
 
 *997|
 [fc]
-帰り道、至る所に酔っ払いが歩いている。[r]
-だけど、この辺じゃそんなに珍しいことでもないけど、[r]
-いつもより人数が多い気がする。[pcms]
+On the way home, there are drunkards walking everywhere. It's not that[r]
+unusual around here, but there seem to be more people than usual.[pcms]
 
 
 *998|
 [fc]
-[ns]克己[nse]
-「……なんだこれ」[pcms]
+[ns]Kazumi[nse]
+"...What's this?"[pcms]
 
 
 *999|
 [fc]
-まあ、花火大会の翌日だ、こんな事もあるだろうと、[r]
-ベルを鳴らしながら、間を縫って走った。[pcms]
+Well, it's the day after the fireworks festival, so I guess this kind[r]
+of thing happens. I rang my bell and weaved through them as I rode on.[pcms]
 
 
 *1000|
 [fc]
-程なくして自宅の前に到着すると、[r]
-同じ階に住んでいる人がゴミ捨て場の前に突っ立っていた。[pcms]
+Before long, I arrived in front of my house, where someone who lives[r]
+on the same floor was standing in front of the garbage disposal area.[pcms]
 
 
 *1001|
 [fc]
-いつも、超早く起きてるオッサンだ。[r]
-ゴミ捨てに出ると大体鉢合わせになる。[r]
-もっとも、俺の方は寝る前にゴミを出す事が多かったけど。[pcms]
+It's the old man who always wakes up super early. I usually run into[r]
+him when I take out the trash. Though, I often end up doing it before[r]
+I go to sleep.[pcms]
 
 
 *1002|
 [fc]
-さて、いつもの様に挨拶して、[r]
-いつものようにゴミを出して。[pcms]
+So, as usual, I greet him and take out the trash as I always do.[pcms]
 
 
 *1003|
 [fc]
-そんで、いつもと同じ様に……仕事を探しに行こう……。[pcms]
+And then, just like always... I'll go look for a job...[pcms]
 
 
 *1004|
 [fc]
-[ns]克己[nse]
-「おはようございます」[pcms]
+[ns]Kazumi[nse]
+"Good morning."[pcms]
 
 
 *1005|
 [fc]
-いつもの様に俯き気味で挨拶をして、自宅の扉に向かう。[pcms]
+As usual, I greet him with a slight bow and head towards the door of[r]
+my home.[pcms]
 
 
 *1006|
 [fc]
-[ns]住人[nse]
-「あ～……あぁぁあ゛」[pcms]
+[ns]Resident[nse]
+"Ah~...ahhhahhh"[pcms]
 
 
 *1007|
 [fc]
-このオヤジもいつも通り。[r]
-寝ぼけてるんだか、二日酔いなんだか。[r]
-ヘンな声を返してくるだけ。[pcms]
+This old man is the same as always. Whether he's half asleep or[r]
+hungover, he just responds with strange noises.[pcms]
 
 
 *1008|
 [fc]
-[ns]克己[nse]
-「はぁ。今日もまた、なーんの変哲も無い一日が始まるわけだ。[r]
-　神様……何か刺激的な事件でも起こして下さいよ……。[r]
-　……なんて言った所で始まらない……ちょっと、何すか？」[pcms]
+[ns]Kazumi[nse]
+"Sigh. So another completely ordinary day begins. God... please cause[r]
+some kind of exciting incident... Not that saying that will make it[r]
+start... Huh, what's that?"[pcms]
 
 
 *1009|
 [fc]
-[ns]住人[nse]
-「あ～……あぁぁあ゛ぁあ……あ～……」[pcms]
+[ns]Resident[nse]
+"Ah~...ahhhahhhahhh...ah~..."[pcms]
 
 
 *1010|
 [fc]
-さっきのオヤジが、[r]
-ツメや手の節が真っ黒になった手を俺の肩に乗せた。[pcms]
+The old man from before put his hand on my shoulder, his fingernails[r]
+and knuckles stained pitch black.[pcms]
 
 
 *1011|
 [fc]
-インネンでも付けられたら敵わないと、[r]
-俺は肩を振って手をふりほどき、自分の部屋に飛び込んだ。[pcms]
+Fearing I wouldn't stand a chance if he had some grudge against me, I[r]
+shrugged off his hand and dashed into my room.[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -448,29 +437,29 @@
 
 *1012|
 [fc]
-[ns]克己[nse]
-「なんだよアレ～……前からヘンだと思ってたけど、[r]
-　完全にイカれちまったか？」[pcms]
+[ns]Kazumi[nse]
+"What was that about? I always thought he was a bit off, but has he[r]
+completely lost it now?"[pcms]
 
 
 *1013|
 [fc]
-……まあ、こんだけクソ暑い日が[r]
-続いたら仕方ないかもしれないけど、[r]
-いくら何でも、人んちまでは入ってこないだろう。[pcms]
+...Well, with the heat being so intense these days, maybe it can't be[r]
+helped. But still, he shouldn't be entering other people's homes no[r]
+matter what.[pcms]
 
 
 *1014|
 [fc]
-[ns]克己[nse]
-「さて……」[pcms]
+[ns]Kazumi[nse]
+"Now then..."[pcms]
 
 
 *1015|
 [fc]
-まずは腹ごしらえと、情報収集だ。[r]
-それが済んだら、すぐに出かけよう。[r]
-のんきに構えていると、仕事先が減っちまいそうだ。[pcms]
+First things first, I need to eat something and gather some[r]
+information. Once that's done, I'll head out right away. If I take it[r]
+easy, job opportunities might slip away.[pcms]
 
 ;;//s:バイト情報誌は捨させてしまったので、
 ;;//ここから先はテレビになる
@@ -478,19 +467,19 @@
 
 *1016|
 [fc]
-[ns]克己[nse]
-「どっこいしょっと……」[pcms]
+[ns]Kazumi[nse]
+"Alrighty then..."[pcms]
 
 
 *1017|
 [fc]
-いつもの事で、体が覚えてる。[pcms]
+It's routine for me, my body remembers it well.[pcms]
 
 
 *1018|
 [fc]
-床に座り、テレビのリモコンを水平に持ち上げ、[r]
-赤い丸ボタンを押す。[pcms]
+I sit on the floor, lift the TV remote horizontally, and press the red[r]
+circle button.[pcms]
 
 [se buf1 storage="seC002"]
 ;;//♪SE携帯のボタン操作音
@@ -498,57 +487,55 @@
 
 *1019|
 [fc]
-数秒後、音声が聞こえだし、[r]
-すぐにスタジオからの映像に変わる。[pcms]
+A few seconds later, sound starts coming out and the image switches to[r]
+a live studio broadcast.[pcms]
 
 
 *1020|
 [fc]
-若い女の子がはしゃぎながら、ニュースを読み上げる。[r]
-いつもの光景だ。[pcms]
+A young girl cheerfully reads the news. It's a familiar scene.[pcms]
 
 
 *1021|
 ;旧ナンバー[vo_m s="anaA0001"]
 [vo_mob s="R_anaA0001"]
-[ns]女子アナＡ[nse]
-「昨夜より発生した、暴動についてですが、[r]
-　未だに鎮静化の目処は立っておりません」[pcms]
+[ns]Female Announcer A[nse]
+"Regarding the riot that started last night, there is still no sign of[r]
+it calming down."[pcms]
 
 
 *1022|
 ;旧ナンバー[vo_m s="anaA0002"]
 [vo_mob s="R_anaA0002"]
-[ns]女子アナＡ[nse]
-「渋谷区を中心に広がった今回の騒動は、[r]
-　午前八時現在、新宿区、品川区まで広がっています」[pcms]
+[ns]Female Announcer A[nse]
+"The disturbance that began in Shibuya Ward has spread to Shinjuku and[r]
+Shinagawa Wards as of 8 AM this morning."[pcms]
 
 
 *1023|
 [fc]
-[ns]克己[nse]
-「へ？　暴動？　まさかあぁ……」[pcms]
+[ns]Kazumi[nse]
+"Huh? Riot? No way..."[pcms]
 
 
 *1024|
 [fc]
-ここは日本だ。[r]
-暴動なんて、何十年も昔に絶滅した行為だろ？[r]
-朝っぱらから不真面目な番組だこと。[pcms]
+This is Japan. Riots are an act that went extinct decades ago, right?[r]
+What an unserious program to broadcast first thing in the morning.[pcms]
 
 
 *1025|
 [fc]
-ずっと贔屓にしていたのに、[r]
-こんな事放送してるから質が下がったなんて言われるんだ。[r]
-俺ももう見捨てる時が来たようだな。[pcms]
+I've been a fan for a long time, but they say the quality has dropped[r]
+because they broadcast stuff like this. Looks like it's time for me to[r]
+give up on it too.[pcms]
 
 
 *1026|
 [fc]
-[ns]克己[nse]
-「ああ、さようなら。今までありがとう。[r]
-　他のチャンネルに変えてやれ」[pcms]
+[ns]Kazumi[nse]
+"Ah, farewell. Thanks for everything up to now. Let's switch to[r]
+another channel."[pcms]
 
 [se buf1 storage="seC002"]
 ;;//♪SE携帯のボタン操作音
@@ -557,12 +544,12 @@
 *1027|
 ;旧ナンバー[vo_m s="anaB0001"]
 ;録り漏らし	[vo_mob s="R_anaB0001"]
-;[ns]女子アナＢ[nse]
+[ns]Female Announcer B[nse]
 ;mmmm ボイス無いからfcしないと
 [fc]
-[ns]女子アナＥ[nse]
-「今日はここ、亀有に新しくオープンした、[r]
-　アレオ亀有店からお届けします！」[pcms]
+[ns]Female Announcer E[nse]
+"Today we're broadcasting from here at the newly opened Areo Kameari[r]
+store!"[pcms]
 
 ;mm R_anaB0001録り漏らしにつき旧作の流用するか、ボイスなしにするか
 ;D　今んところはそこ、１ワード目の台詞を女子アナE　とか他にかぶらないネームチップで旧作ボイス入れておいて
@@ -570,38 +557,38 @@
 *1028|
 ;旧ナンバー[vo_m s="anaB0002"]
 [vo_mob s="R_anaB0002"]
-[ns]女子アナＢ[nse]
-「心機一転ということで、若いスタッフを増やされたとのこと！[r]
-　皆さん、仲よさそうですし、[r]
-　活気に溢れかえってるって感じですね！」[pcms]
+[ns]Female Announcer B[nse]
+"With a fresh start in mind, they've increased their young staff![r]
+Everyone seems to get along well, and there's a real sense of vitality[r]
+here!"[pcms]
 
 
 *1029|
 [fc]
-[ns]克己[nse]
-「……典型的なブラック企業の求人フレーズじゃねえか……。[r]
-　奥の方の品出しの子、目死んでるし……。[r]
-　なんか怒られてるヤツとかいるし。映すなよこんなの……」[pcms]
+[ns]Kazumi[nse]
+"...That sounds like a typical phrase from a black company... The kid[r]
+stocking shelves in the back looks dead in the eyes... And there's[r]
+someone getting scolded too. Don't show this kind of stuff..."[pcms]
 
 
 *1030|
 [fc]
-でもまあ、ブラックっていっても、[r]
-働く先があるだけ良いのかなあ……。[pcms]
+But well, even if it's a black company, having a place to work might[r]
+be better than nothing...[pcms]
 
 
 *1031|
 [fc]
-[ns]克己[nse]
-「あー、やだやだ。ロクな番組ねーよホント。[r]
-　こう言うときは国営放送だ国営放送」[pcms]
+[ns]Kazumi[nse]
+"Ah- no way, no way. There really aren't any good programs, huh? In[r]
+times like these, it's all about public broadcasting."[pcms]
 
 
 *1032|
 [fc]
-ザッピングでもしようかと思ったけど、[r]
-気が滅入るだけな気がして、[r]
-普段はほとんど見る事のない国営放送にチャンネルを合わせた。[pcms]
+I thought about channel surfing but felt it would just depress me[r]
+more, so I tuned into the public broadcasting channel which I seldom[r]
+watch.[pcms]
 
 [se buf1 storage="seC002"]
 ;;//♪SE携帯のボタン操作音
@@ -610,56 +597,55 @@
 *1033|
 [fc]
 [vo_mob s="R_casterB0001"]
-;[ns]ニュースキャスターＢ[nse]
-[ns]ニュースキャスターε[nse]
-「それでは、次のニュースです。[r]
-　国会議事堂前から、笹川さんのレポートです」[pcms]
+[ns]News Caster B[nse]
+[ns]News Caster Epsilon[nse]
+"Now for our next news item. Reporting from in front of the National[r]
+Diet Building is Mr. Sasagawa."[pcms]
 
 ;mm 新録で追加されてるけど、これあとで女キャスターにスタジオで襲われてる男キャスターとは別だっけ？
-;mm サービスで録ってくれたらしいので、イベントの男キャスターじゃないとおかしくなるなら、ボイスなしで[ns]ニュースキャスターＢ[nse]のままにする。
+[ns]News Caster B[nse]
 ;mm 問題無ければこのまま女性版の声を使う
 
 *1034|
 [fc]
-装飾の少ない、シンプルなスタジオ。[r]
-そして、落ち着いた声でニュースを読み上げる、[r]
-ベテランの男性キャスター。[pcms]
+A studio with minimal decoration, simple. And then a veteran male[r]
+newscaster reads the news with a calm voice.[pcms]
 
 
 *1035|
 [fc]
-うむ、朝のニュースってのはこうじゃないといけない。[pcms]
+"Indeed, morning news should be just like this."[pcms]
 
 
 *1036|
 [fc]
 [vo_mob s="R_casterB0002"]
-;[ns]ニュースキャスターＢ[nse]
-[ns]ニュースキャスターε[nse]
-「映像、来ませんか？　笹川さん？」[pcms]
+[ns]News Caster B[nse]
+[ns]News Caster Epsilon[nse]
+"Is the video feed not coming through? Mr. Sasagawa?"[pcms]
 
 
 *1037|
 [fc]
-ちょっとしたトラブルが起きているみたいだけど、[r]
-それでも動じる事なく、中継先に呼びかける。[pcms]
+It seems there's a bit of trouble, but even so, he calls out to the[r]
+remote location without any sign of disturbance.[pcms]
 
 
 *1038|
 [fc]
-さすが、国営放送。[pcms]
+"As expected from public broadcasting."[pcms]
 
 
 *1039|
 [fc]
-このキャスターが読み上げるニュースなら、[r]
-どんな酷い事だって、冷静に聞いていられそうだ。[pcms]
+"If this caster reads the news, I feel like I could listen calmly, no[r]
+matter how terrible the news is."[pcms]
 
 
 *1040|
 [fc]
-買ってきたパンとコーヒー牛乳を床に置き、[r]
-青が基調のスタジオ風景に目を向けた。[pcms]
+"I placed the bread and coffee milk I bought on the floor and turned[r]
+my eyes to the studio scenery, dominated by shades of blue."[pcms]
 
 [jump storage="0211H.ks" target=*0211H_TOP]
 

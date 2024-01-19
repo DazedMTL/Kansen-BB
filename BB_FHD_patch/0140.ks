@@ -6,7 +6,7 @@
 ;;//・視点：主人公一人称
 ;;//・時間帯：2010年7月16日　夜
 ;;//☆概要：帰りのコンビニで夜食を買う
-;;//・テキスト容量：1k前後（短くてもOK）[pcms]
+Around 1k (shorter is OK)[pcms]
 
 ;;//★コンビニ
 [bg storage="BG01a"][trans_c cross time=1000]

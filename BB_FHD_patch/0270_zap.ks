@@ -29,142 +29,138 @@
 *2703|
 ;旧ナンバー[vo_t s="tugumi0102"]
 [vo_t s="R_tug0104"]
-[ns]丞実[nse]
-「はあっ……はあっ……何度やっても……階段ダッシュって……、[r]
-　し、死ねる……ううっ……足パンパン……。[r]
-　ぜえっ……ぜぇっ……」[pcms]
+[ns]Tsugumi[nse]
+"Haa... Haa... No matter how many times I do it... Staircase dashes...[r]
+can, can kill you... Ugh... My legs are throbbing... Heave...[r]
+Heave..."[pcms]
 
 
 *2704|
 [fc]
-あたしの水泳選手としての弱点は、キック力のなさ。[r]
-それを克服するには、この階段ダッシュが一番。[pcms]
+As a swimmer, my weakness is the lack of kicking power. To overcome[r]
+that, these staircase dashes are the best.[pcms]
 
 
 *2705|
 [fc]
-普通に走るより何倍も、脚力を鍛えることが出来る。[pcms]
+They can train leg strength many times more than just running[r]
+normally.[pcms]
 
 
 *2706|
 [fc]
-その代償としては、猛烈に疲れるって事。[r]
-そして、脚が太くなっちゃうって事。[pcms]
+The trade-off is that it's incredibly exhausting. And, it makes my[r]
+legs thicker.[pcms]
 
 
 *2707|
 ;旧ナンバー[vo_t s="tugumi0103"]
 [vo_t s="R_tug0105"]
-[ns]丞実[nse]
-「とはいえ、タイム向上の為には仕方ないもんねえ……」[pcms]
+[ns]Tsugumi[nse]
+"But for the sake of improving my time, it can't be helped..."[pcms]
 
 
 *2708|
 [fc]
-目標である、神凪悠帆に追いつくためにも、[r]
-ここでへこたれる訳にはいかない。[pcms]
+In order to catch up to my goal, Kaminagi Yuuho, I can't afford to[r]
+falter here.[pcms]
 
 
 *2709|
 ;旧ナンバー[vo_t s="tugumi0104"]
 [vo_t s="R_tug0106"]
-[ns]丞実[nse]
-「あの子は、もっとキツい練習してるかもしれないし。[r]
-　フォームも今のうちにモノにしておかないと、[r]
-　離される一方ね……」[pcms]
+[ns]Tsugumi[nse]
+"That girl might be doing even tougher training. I have to master my[r]
+form now, or I'll just fall further behind..."[pcms]
 
 
 *2710|
 [fc]
-よし、午後からはフォームを体に覚え込ませる為に泳ぐ！[pcms]
+Alright, I'll swim this afternoon to drill the form into my body![pcms]
 
-;;//s:SE　ぐう～（腹の音あるかな）
+;;//s:SE　ぐう（腹の音あるかな）
 [se buf1 storage="seA071"]
 ;;//♪SEおなかググゥー
 
 
 *2711|
 [fc]
-気合いを込めて立ち上がった瞬間、[r]
-あたしのお腹の虫が、お昼を告げた。[pcms]
+The moment I stood up with determination, my stomach growled,[r]
+signaling lunchtime.[pcms]
 
 
 *2712|
 ;旧ナンバー[vo_t s="tugumi0105"]
 [vo_t s="R_tug0107"]
-[ns]丞実[nse]
-「あ……」[pcms]
+[ns]Tsugumi[nse]
+"Ah..."[pcms]
 
 
 *2713|
 [fc]
-うわ、はっずかし～……。[r]
-リナに聞かれちゃったかな……。[pcms]
+Ugh, how embarrassing... I wonder if Rina heard that...[pcms]
 
 
 *2714|
 [fc]
-さっき、トイレに行くって言ってたから、[r]
-大丈夫だとは思うけど……。[pcms]
+She said she was going to the bathroom a while ago, so I think I'm[r]
+safe...[pcms]
 
 
 *2715|
 [fc]
-慌てて辺りを見回して、リナに聞かれてないか確認する。[pcms]
+I hurriedly look around to check if Rina heard.[pcms]
 
 
 *2716|
 ;旧ナンバー[vo_t s="tugumi0106"]
 [vo_t s="R_tug0108"]
-[ns]丞実[nse]
-「……よかった、聞かれてないや」[pcms]
+[ns]Tsugumi[nse]
+"...Thank goodness, she didn't hear."[pcms]
 
 
 *2717|
 [fc]
-幸いにして、私のお腹の音は誰にも聞かれる事は無かった。[pcms]
+Luckily, no one heard the sound of my stomach.[pcms]
 
 
 *2718|
 ;旧ナンバー[vo_t s="tugumi0107"]
 [vo_t s="R_tug0109"]
-[ns]丞実[nse]
-「あ、あははっ……さ、さてと……。[r]
-　ご飯たべて、午後に備えよう、うん！」[pcms]
+[ns]Tsugumi[nse]
+"Ah, ahaha... Well then... Let's eat and prepare for the afternoon,[r]
+yeah!"[pcms]
 
 
 *2719|
 [fc]
-誰が聞いてる訳でもない。[pcms]
+No one is listening.[pcms]
 
 
 *2720|
 [fc]
-照れ隠しの為に笑いながら一人呟きながら、[r]
-リナとあたし二人分のスポーツバッグを拾い上げ、[r]
-立ち上がった。[pcms]
+While chuckling to hide my embarrassment, I picked up both mine and[r]
+Rina's sports bags and stood up.[pcms]
 
 
 *2721|
 ;旧ナンバー[vo_t s="tugumi0108"]
 [vo_t s="R_tug0110"]
-[ns]丞実[nse]
-「うーん、リナ、遅いなあ……。[r]
-　バッグ置いたままだし、ここから動けないや。[r]
-　ん……？　何アレ」[pcms]
+[ns]Tsugumi[nse]
+"Hmm, Rina is taking a while... She left her bag here too, so I can't[r]
+move from this spot. Hm...? What's that?"[pcms]
 
 
 *2722|
 [fc]
-リナの向かった先へと目を向ける。[r]
-その途中にある、廊下の窓から中庭が見える。[pcms]
+I look towards where Rina went. Through the corridor window on the way[r]
+there, I can see the courtyard.[pcms]
 
 
 *2723|
 [fc]
-そこには、何人かの生徒がフラフラになりながら歩いていて、[r]
-その中の一人が突然つんのめり、[r]
-自転車置き場の中に突っ込んでいった。[pcms]
+There are several students walking unsteadily there, and one of them[r]
+suddenly stumbled and crashed into the bicycle parking area.[pcms]
 
 ;;//BGM即時停止
 [stopbgm]
@@ -176,35 +172,34 @@
 
 *2724|
 [fc]
-何台も止めてある自転車は、一人の女の子が突っ込んだ事で、[r]
-大きな音を立てて、ドミノ倒しになっていく。[pcms]
+The bicycles parked there toppled over like dominoes with a loud noise[r]
+due to one girl crashing into them.[pcms]
 
 
 *2725|
 ;旧ナンバー[vo_t s="tugumi0109"]
 [vo_t s="R_tug0111"]
-[ns]丞実[nse]
-「熱中症……！？　た、大変……！」[pcms]
+[ns]Tsugumi[nse]
+"Heatstroke...!? Oh no...!"[pcms]
 
 
 *2726|
 [fc]
-倒れた子を助けようと、思わず走り出そうと身構えた。[r]
-だけど、あたしはその場から動く事は無かった。[pcms]
+I braced myself to run out and help the fallen girl. But I didn't move[r]
+from where I was.[pcms]
 
 
 *2727|
 [fc]
-中庭にいた他の女の子達が、[r]
-一斉に自転車置き場の方に走り出した。[pcms]
+The other girls in the courtyard all started running towards the[r]
+bicycle parking area at once.[pcms]
 
 
 *2728|
 ;旧ナンバー[vo_t s="tugumi0110"]
 [vo_t s="R_tug0112"]
-[ns]丞実[nse]
-「良かった……だけどあの子、大丈夫かな？[r]
-　……あれ……？」[pcms]
+[ns]Tsugumi[nse]
+"Thank goodness... But is that girl okay? ...Huh...?"[pcms]
 
 ;;//★グラウンド・朝昼
 [bg storage="BG20a"][trans_c cross time=500]
@@ -212,14 +207,14 @@
 
 *2729|
 [fc]
-駆け寄る女の子達は自転車置き場を通り過ぎ、[r]
-倒れた女の子を助けようとはしなかった。[pcms]
+The girls who ran over didn't stop at the bicycle parking area and[r]
+didn't try to help the fallen girl.[pcms]
 
 
 *2730|
 [fc]
-それどころか――[r]
-走り去る彼女達の後ろを、何人かの男達が追いかけていた。[pcms]
+Instead-- Behind them, several boys were chasing after the girls who[r]
+ran away.[pcms]
 
 ;;//bgm01-04
 [bgm storage="bgm01-04"]
@@ -234,40 +229,40 @@
 
 *2731|
 [fc]
-その男達には、全く見覚えがない。[r]
-少なくとも、この学園の関係者ではない。[pcms]
+I don't recognize any of those boys. At least, they don't seem to be[r]
+affiliated with this school.[pcms]
 
 
 *2732|
 [fc]
-しかも彼らはみな、さっき倒れ込んだ女の子の様に、[r]
-フラフラしながら歩いている。[pcms]
+Moreover, all of them are walking unsteadily just like the girl who[r]
+fell earlier.[pcms]
 
 
 *2733|
 ;旧ナンバー[vo_t s="tugumi0111"]
 [vo_t s="R_tug0113"]
-[ns]丞実[nse]
-「……だ、誰なの……？　“アイツ”ら……」[pcms]
+[ns]Tsugumi[nse]
+"...Who are they...? Those guys..."[pcms]
 
 
 *2734|
 [fc]
-奇妙な光景に目を奪われ、身動きする事が出来ない。[pcms]
+Captured by the strange sight, I couldn't move a muscle.[pcms]
 
 
 *2735|
 [fc]
-そんなあたしには目をくれる事もなく、[r]
-彼らの一部が学園の中に入ってくるのが見えた。[pcms]
+Without paying any attention to me, some of them started entering the[r]
+school.[pcms]
 
 
 *2736|
 ;旧ナンバー[vo_t s="tugumi0112"]
 [vo_t s="R_tug0114"]
-[ns]丞実[nse]
-「何あいつら……ここ、乙女の園なのに……！[r]
-　まさか、変態の群れ！？　何考えてるの！？」[pcms]
+[ns]Tsugumi[nse]
+"What are they doing here... This is a maiden's sanctuary...! Could[r]
+they be a horde of perverts!? What are they thinking!?"[pcms]
 
 ;;//★学園廊下・朝昼
 [bg storage="BG15a"][trans_c cross time=500]
@@ -275,50 +270,48 @@
 
 *2737|
 [fc]
-そうこうしている間にも、男達はどんどん増えて、[r]
-彼らも皆、学園の中に入り込んでくる。[pcms]
+As I was pondering, more and more boys kept coming, and all of them[r]
+were entering the school grounds.[pcms]
 
 
 *2738|
 ;旧ナンバー[vo_m s="girlA0014"]
 [vo_mob s="R_girlA0013"]
-[ns]女の子Ａ[nse]
-「ぎゃあああああああああぁああぁあっ！！！[r]
-　あっ、あっ……ああ……あぁああぁぁぁっ！！！」[pcms]
+[ns]Girl A[nse]
+"Gyaaaaaaaahhhhhhhhhhhhhhh!!! Ahh, ah... ahh... ahhhhhhh!!!"[pcms]
 
 
 *2739|
 ;旧ナンバー[vo_t s="tugumi0113"]
 [vo_t s="R_tug0115"]
-[ns]丞実[nse]
-「え……あ……ああぁ……いや……いや……、[r]
-　いやぁあああぁあぁあっ！！！！」[pcms]
+[ns]Tsugumi[nse]
+"Eh... Ah... Aaahh... No... No... Noooooo!!!"[pcms]
 
 
 *2740|
 [fc]
-学園に入ってくる、男達の群れの反対方向――[pcms]
+In the opposite direction from where the group of boys entered the[r]
+school--[pcms]
 
 
 *2741|
 [fc]
-自転車置き場の方から、女の子の悲鳴が上がり、[r]
-直後、真っ赤な“何か”が飛び上がった。[pcms]
+Screams from a girl came from the direction of the bicycle parking[r]
+area, and immediately after, something bright red flew into the air.[pcms]
 
 
 *2742|
 ;旧ナンバー[vo_t s="tugumi0114"]
 [vo_t s="R_tug0116"]
-[ns]丞実[nse]
-「な……え……？　な、何……？[r]
-　え……えぇぇっ！？　まさか、あれ……血！？」[pcms]
+[ns]Tsugumi[nse]
+"Wha... Eh...? What...? Eeeehhh!? Could that be... blood!?"[pcms]
 
 
 *2743|
 ;旧ナンバー[vo_m s="girlB0003"]
 [vo_mob s="R_girlB0002"]
-[ns]女の子Ｂ[nse]
-「きゃぁああぁあぁぁぁぁ――――――！！」[pcms]
+[ns]Girl B[nse]
+"Kyaaaaaaaahhhhhhhhhhhhhhh!!![pcms]
 
 ;;//s:ガヤ
 [se buf2 storage="seG011"]
@@ -331,87 +324,82 @@
 
 *2744|
 [fc]
-さっき入ってきた男達が何かしたんだろうか。[r]
-今度は学園の中に悲鳴が響き渡る。[pcms]
+Did the boys who just entered do something? Now screams echo[r]
+throughout the school.[pcms]
 
 
 *2745|
 [fc]
-しかも足音はこちらに迫っている。[r]
-ヘンなヤツらが、あたしの方に近づいている！？[pcms]
+Moreover, the footsteps are approaching here. Are those weird guys[r]
+getting closer to me!?[pcms]
 
 
 *2746|
 [fc]
-に、逃げなきゃ……。[r]
-早く、逃げなきゃ！[pcms]
+I have to run... I need to escape quickly![pcms]
 
 
 *2747|
 [fc]
-心臓が張り裂けそうな位、激しく脈打って、[r]
-この場から今すぐ離れろって、叫んでる。[pcms]
+My heart is pounding so hard it feels like it's going to burst,[r]
+screaming at me to get away from here right now.[pcms]
 
 
 *2748|
 [fc]
-だけど、まだ逃げる訳にはいかない。[r]
-リナが戻ってきてないんだもの！[pcms]
+But I can't run away yet. Rina hasn't come back![pcms]
 
 
 *2749|
 [fc]
-あたしは、その場で地団駄を踏み、リナの戻りを待った。[pcms]
+I stamped my feet in frustration, waiting for Rina to return.[pcms]
 
 
 *2750|
 [fc]
-その間にも、悲鳴や男の笑い声が近づいてきている。[pcms]
+In the meantime, the screams and men's laughter are getting closer.[pcms]
 
 
 *2751|
 [fc]
-窓の外の女の子の悲鳴の数が増えていく。[pcms]
+The number of girls' screams outside the window is increasing.[pcms]
 
 
 *2752|
 ;旧ナンバー[vo_t s="tugumi0115"]
 [vo_t s="R_tug0117"]
-[ns]丞実[nse]
-「……早く戻ってきてぇっ！！」[pcms]
+[ns]Tsugumi[nse]
+"...Please come back quickly!!"[pcms]
 
 
 *2753|
 [fc]
-慌てるあたしをよそに、中庭はおかしな男の人が増え出して、[r]
-逃げ惑う女の子を嘲笑うように追いかけ回していた。[pcms]
+Despite my panic, more and more strange men appeared in the courtyard,[r]
+chasing after the fleeing girls as if mocking them.[pcms]
 
 
 *2754|
 [fc]
-逃げる女の子の一人が転んでしまう。[r]
-その背後に、男達が近寄っていく。[r]
-あのままじゃ、あの男達に何かされてしまう。[pcms]
+One of the fleeing girls falls. The men are approaching her from[r]
+behind. If it continues like this, those men will do something to her.[pcms]
 
 
 *2755|
 ;旧ナンバー[vo_t s="tugumi0116"]
 [vo_t s="R_tug0118"]
-[ns]丞実[nse]
-「あ……危ないッ！　逃げてぇっ！！！　後ろに人がッ！！」[pcms]
+[ns]Tsugumi[nse]
+"Ah... Dangerous! Run away!! There's someone behind you!!"[pcms]
 
 
 *2756|
 [fc]
-今から駆け寄っても間に合わない。[r]
-それならばと、あたしは精一杯の声を張り上げて、[r]
-襲われそうな女の子に危険を知らせた。[pcms]
+Even if I run over now, I won't make it in time. So, I raised my voice[r]
+as loud as I could to alert the girl in danger of being attacked.[pcms]
 
 
 *2757|
 [fc]
-それは、彼女にとっては良かったことだった。[r]
-だけど、今度はあたしが危険に晒される事になってしまった。[pcms]
+It was a good thing for her. But now, I've exposed myself to danger.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x"][ChrSetXY layer=5 x="&sf.std_kan4_x調整*344" y=0][trans_c cross time=150]
 ;;//MOB中＠感染者　20　細身金髪　
@@ -419,10 +407,8 @@
 
 *2757a|
 [fc]
-[ns]感染者男[nse]
-「お、おおおぉ……あ、あそこに、[r]
-　けんこうてきひやけむすめが、[r]
-　いるぞおぉおっ！！」[pcms]
+[ns]Infected Man[nse]
+"Oh, ohhhh... there, there's a healthy tanned girl over thereee!!"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan2_x"][ChrSetXY layer=3 x="&sf.std_kan2_x調整*0" y=0][trans_c cross time=150]
 ;;//MOB左＠感染者　18　デブ男　　
@@ -430,8 +416,8 @@
 
 *2757b|
 [fc]
-[ns]感染者男Ｂ[nse]
-「まじでまじでまじで！　おかすおかすおかす！」[pcms]
+[ns]Infected Man B[nse]
+"For real, for real, for real! Rape, rape, rape!"[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan1_x"][ChrSetXY layer=4 x="&sf.std_kan1_x調整*650" y=0][trans_c cross time=150]
 ;;//MOB右＠感染者　17　金髪筋肉　
@@ -439,96 +425,93 @@
 
 *2757c|
 [fc]
-[ns]感染者男Ｃ[nse]
-「ば、ばか……お、おれが、ヤ、やるんだぁ……ああぁ……」[pcms]
+[ns]Infected Man C[nse]
+"Idiot... I'm gonna, do it... ahhh..."[pcms]
 
 
 *2758|
 ;旧ナンバー[vo_t s="tugumi0117"]
 [vo_t s="R_tug0119"]
-[ns]丞実[nse]
-「ひっ！？」[pcms]
+[ns]Tsugumi[nse]
+"Eek!?"[pcms]
 
 
 *2759|
 [fc]
-一斉に振り向いた男達の顔。[pcms]
+All the men turned around at once.[pcms]
 
 
 *2760|
 [fc]
-彼らの顔は、皆嫌らしく歪んでいた。[r]
-彼らの口元は、皆赤黒く汚れていた。[r]
-彼らの目は、皆真っ赤だった。[pcms]
+Their faces were all lewdly distorted. Their mouths were all dirtied[r]
+with a reddish-black color. Their eyes were all blood-red.[pcms]
 
 
 *2761|
 ;旧ナンバー[vo_t s="tugumi0118"]
 [vo_t s="R_tug0120"]
-[ns]丞実[nse]
-「あ……あ……あれ……いや……なに……あれ……。[r]
-　やだ……いやだ……こ、怖い……」[pcms]
+[ns]Tsugumi[nse]
+"Ah... ah... that... no... what... that... No... I don't want this...[r]
+it's scary..."[pcms]
 
 
 *2762|
 [fc]
-普通の人じゃない。[pcms]
+They're not normal people.[pcms]
 
 
 *2763|
 [fc]
-何故だか、あたしの頭がそんな風に叫ぶ。[pcms]
+For some reason, my head is screaming that.[pcms]
 
 
 *2764|
 [fc]
-見た感じは、普通の男の人達。だけど、細かいところがヘン。[pcms]
+At a glance, they look like normal men. But something about them is[r]
+off.[pcms]
 
 
 *2765|
 [fc]
-何が怖いのか、全然分からない。[r]
-だけどはっきりと分かる。[r]
-あの人達に近づいちゃいけない！[pcms]
+I don't understand what's scary. But one thing is clear. I shouldn't[r]
+get close to those people![pcms]
 
 
 *2766|
 [fc]
-[ns]感染者男[nse]
-「あっはぁ……い、イクぞぉお～……」[pcms]
+[ns]Infected Man[nse]
+"Ahhha... I'm gonna cummm..."[pcms]
 
 
 *2767|
 [fc]
-[ns]感染者男Ｂ[nse]
-「あはは！　あははっ！！　おかせおかせ！[r]
-　まわせぇぇっ！！」[pcms]
+[ns]Infected Man B[nse]
+"Ahaha! Ahaha!! Rape, rape! Pass her around!!"[pcms]
 
 
 *2768|
 [fc]
-[ns]感染者男Ｃ[nse]
-「おおおぉお、い、いくぞ、おおおぉおっ！[r]
-　や、やらせろっ！　やああぁ……ああ、ああぁっ！！！」[pcms]
+[ns]Infected Man C[nse]
+"Oooooh, I'm gonna do it, ooooh! Let me do it! Yaaaah... aah,[r]
+aahhh!!!"[pcms]
 
 
 *2769|
 ;旧ナンバー[vo_t s="tugumi0119"]
 [vo_t s="R_tug0121"]
-[ns]丞実[nse]
-「イヤァあああぁあぁぁああっ！！！！！」[pcms]
+[ns]Tsugumi[nse]
+"NOOOOOOOOOOOOOOO!!!!"[pcms]
 
 
 *2770|
 [fc]
-沢山の人達があたしに向かって歩いてくる！[r]
-沢山の赤い目が、あたしを睨んでる！[pcms]
+Lots of people are walking towards me! Lots of red eyes are glaring at[r]
+me![pcms]
 
 
 *2771|
 [fc]
-一体、何が起きているの！？[r]
-あの人達は、一体何なの！？[pcms]
+What on earth is happening!? What are those people!?[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -536,36 +519,35 @@
 *2772|
 ;旧ナンバー[vo_m s="rina0001"]
 [vo_mob s="R_rina0001"]
-[ns]リナ[nse]
-「丞実ッ！！　に、逃げよう！[r]
-　そこにいたらダメっ！　早く、こっちに！！[r]
-　丞実ぃいっ！！！」[pcms]
+[ns]Rina[nse]
+"Tsugumi!! We have to run! You can't stay there! Hurry, this way!![r]
+Tsugumiiii!!"[pcms]
 
 
 *2773|
 [fc]
-やっと、待っていた相手が到着した。[r]
-だけど、姿は見えない。[pcms]
+Finally, the person I was waiting for has arrived. But I can't see[r]
+her.[pcms]
 
 
 *2774|
 ;旧ナンバー[vo_t s="tugumi0120"]
 [vo_t s="R_tug0122"]
-[ns]丞実[nse]
-「り、リナっ！？　どこ……どこなの！？」[pcms]
+[ns]Tsugumi[nse]
+"Rina!? Where... where are you!?"[pcms]
 
 
 *2775|
 ;旧ナンバー[vo_m s="rina0002"]
 [vo_mob s="R_rina0002"]
-[ns]リナ[nse]
-「上だよ！　早く昇ってきてぇっ！！」[pcms]
+[ns]Rina[nse]
+"Up here! Hurry up and climb up!!"[pcms]
 
 
 *2776|
 [fc]
-リナは、上の階からあたしを呼んでいる。[r]
-早くリナの所に行かなくちゃ……。[pcms]
+Rina is calling me from the upper floor. I have to get to Rina[r]
+quickly...[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x"][ChrSetXY layer=5 x="&sf.std_kan4_x調整*344" y=0]
 ;;//MOB中＠感染者　20　細身金髪　
@@ -577,31 +559,31 @@
 
 *2777|
 [fc]
-[ns]感染者男[nse]
-「あぁあぁ～……」[pcms]
+[ns]Infected Man[nse]
+"Aaaaah~..."[pcms]
 
 
 *2778|
 [fc]
-[ns]感染者男Ｂ[nse]
-「ひっ……ひひひいっ！　ひぃいいっ！！　きぃいええぇぇ！」[pcms]
+[ns]Infected Man B[nse]
+"Hee... heeheehee! Heeeeee!! Kieeeeeee!"[pcms]
 
 
 *2779|
 [fc]
-[ns]感染者男Ｃ[nse]
-「あ……あああ……ああ、あ、あが、ああがが、が」[pcms]
+[ns]Infected Man C[nse]
+"Ah... ahhh... ah, ahga, ahgaga, ga"[pcms]
 
 
 *2780|
 [fc]
-あたしの体に向けて、沢山の人が沢山の手を伸ばし、[r]
-その中心では、真っ赤に濁った目が光っていた。[pcms]
+Many people are reaching out towards my body, and at the center of it[r]
+all, their eyes are clouded over with a deep red glow.[pcms]
 
 
 *2781|
 [fc]
-あたしは、その赤い瞳から、目を逸らす事が出来ないでいた。[pcms]
+I couldn't look away from those red eyes.[pcms]
 
 ;;//ザップ戻り効果
 ;[zapend_random]

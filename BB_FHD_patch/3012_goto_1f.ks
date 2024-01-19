@@ -4,31 +4,32 @@
 
 *7238|
 [fc]
-安全策を取って、間違いなく入る事が出来る１階を通るか。[pcms]
+Should I take the safe route and go through the first floor where[r]
+there's no mistake I can get in?[pcms]
 
 
 *7239|
 [fc]
-……こう言うときだからこそ、安全策を採るべきだろうしな。[pcms]
+...In times like these, it's probably best to play it safe.[pcms]
 
 
 *7240|
 [fc]
-今、ほんの少し時間が掛かったとしても、[r]
-後で取り返しの付かない事になるより遥かにマシだ。[pcms]
+Even if it takes a little more time now, it's far better than ending[r]
+up in an irreversible situation later.[pcms]
 
 
 *7241|
 [fc]
-[ns]克己[nse]
-「感染者に絡まれてもめんどくせえしな。[r]
-　ちょっとの我慢だ、丞実！！」[pcms]
+[ns]Kazumi[nse]
+"It's a pain in the ass if we get tangled up with the infected. Just a[r]
+bit of patience, Tsugumi!!"[pcms]
 
 
 *7242|
 [fc]
-俺は、動きのトロくさい感染者達の間を縫って走り、[r]
-２階への階段を目指して駆け抜ける。[pcms]
+I weave through the slow-moving infected and dash towards the stairs[r]
+leading to the second floor.[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

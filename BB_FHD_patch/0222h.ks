@@ -1,9 +1,9 @@
-;[ns]テスト[nse]
-;「エラー回避のダミーテキストです」[pcms]
+[ns]Test[nse]
+"This is a dummy text for error avoidance."[pcms]
 
 
 *0222H_TOP
-[SceneSet t="楽園Ⅱ"]
+[SceneSet t="楽園"]
 
 ;;//--------------------------
 ;;//回想なのか通常プレイなのかの分岐判断
@@ -21,45 +21,45 @@
 *NORMAL_GAME
 ;;//--------------------------
 
-;;//・体育館へ。[pcms]
+;;// To the gym.[pcms]
 
 ;;//〆学園外観のまま
 
 
 *1924|
 [fc]
-[ns]克己[nse]
-「水の音……って事は、あっちか！？」[pcms]
+[ns]Kazumi[nse]
+"The sound of water... could it be over there!?"[pcms]
 
 
 *1925|
 [fc]
-幽かに、だけど確かに聞こえる、[r]
-沢山の人が水の中ではしゃいでいる様な音。[pcms]
+Faintly, but surely, I can hear the sounds of many people frolicking[r]
+in the water.[pcms]
 
 
 *1926|
 [fc]
-きっとあのガラス張りの建物はプールだ！[r]
-丞実は、あの建物の方にいるはずだ！！[pcms]
+That glass building must be the pool! Tsugumi must be in that[r]
+building!![pcms]
 
 
 *1927|
 [fc]
-迷うことはない。[r]
-だって、丞実は水泳部の合宿でここにいるんだから。[pcms]
+There's no need to hesitate. After all, Tsugumi is here for the[r]
+swimming club camp.[pcms]
 
 
 *1928|
 [fc]
-そうと決まれば、あとは簡単だ。[r]
-あの建物の中に入り、あとは静ちゃんを見つけ出すだけ。[pcms]
+Once that's settled, the rest is easy. Just enter that building and[r]
+find Shizuka-chan.[pcms]
 
 
 *1929|
 [fc]
-[ns]克己[nse]
-「いくぜぇっ！！」[pcms]
+[ns]Kazumi[nse]
+"Here I go!!"[pcms]
 
 ;;//BGMフェードアウト
 [fadeoutbgm time=1000]
@@ -75,34 +75,33 @@
 
 *1930|
 [fc]
-無我夢中でガラスの建物にかけより、[r]
-少しだけ開いた扉の隙間に顔を差し込んだ。[pcms]
+I ran towards the glass building in a frenzy, and peeked through a[r]
+slightly open door.[pcms]
 
 
 *1931|
 [fc]
-ギラギラと照らしつける太陽の光に麻痺した目は、[r]
-暗闇を張らすことが出来なかった。[pcms]
+My eyes, dazzled by the glaring sunlight, couldn't adjust to the[r]
+darkness.[pcms]
 
 
 *1932|
 [fc]
-[ns]克己[nse]
-「うわ、真っ暗……」[pcms]
+[ns]Kazumi[nse]
+"Whoa, it's pitch black..."[pcms]
 
 
 *1933|
 ;旧ナンバー[vo_m s="yamaguti0000"]
 [マイク 位置７][vo_mob s="R_yamaguchi0001"]
-[ns]山口[nse]
-「あ……か、かたい……？　こ、これ、おとこかなぁ！？」[pcms]
+[ns]Yamaguchi[nse]
+"Ah... is it hard...? Is this, maybe a guy!?"[pcms]
 
 
 *1934|
 [fc]
-[ns]克己[nse]
-「え……！？[r]
-　うわあぁっ！！　なんだこれっ！！」[pcms]
+[ns]Kazumi[nse]
+"Eh...!? Whoaahh!! What is this!!"[pcms]
 
 ;;//s:手がイッパイ伸びる絵ってなかったかな
 
@@ -110,27 +109,26 @@
 *1935|
 ;旧ナンバー[vo_m s="miyake0000"]
 [マイク 位置８][vo_mob s="R_miyake0001"]
-[ns]三宅[nse]
-「わあ、ほんとだぁ～！　やった、やったぁあっ！[r]
-　おっとっこ！　おっとっこ！！　わぁぁ！！」[pcms]
+[ns]Miyake[nse]
+"Wow, it's true~! Yay, yayyy! A guy! A guy!! Waaah!!"[pcms]
 
 
 *1936|
 [fc]
-[ns]克己[nse]
-「ぎっ……ぎゃあああああああああああああぁぁああっ！！」[pcms]
+[ns]Kazumi[nse]
+"Gyaaahhhhhhhhhhhhhhhhhhhhhhhhhhhh!!"[pcms]
 
 
 *1937|
 [fc]
-突然真っ暗闇から無数の手が伸び、首筋や耳たぶ、[r]
-脇の下を抱えて引っ張り出した。[pcms]
+Suddenly, countless hands reached out from the darkness, grabbing my[r]
+neck, earlobes, and armpits to pull me out.[pcms]
 
 
 *1938|
 [fc]
-恐怖映画の中に飛び込んでしまった感覚と、[r]
-伸びる無数の手に捕らえられ、俺は硬直してしまった。[pcms]
+I felt like I had jumped into a horror movie, and as countless hands[r]
+grabbed me, I was paralyzed.[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -161,126 +159,118 @@
 *1939|
 ;旧ナンバー[vo_m s="miyake0001"]
 [マイク 位置８][vo_mob s="R_miyake0002"]
-[ns]三宅[nse]
-「やったぁあ！　ちんぽこが、きたぁあっ！！[r]
-　こんどは、どのくらいもつかなあ？[r]
-　ちくびぜめ、れんしゅうしてたんだ、わたし～あははっ！」[pcms]
+[ns]Miyake[nse]
+"Yayyy! A dick has come!! How long will this one last, I wonder? I've[r]
+been practicing nipple torture, you know~ Ahahaha!"[pcms]
 
 
 *1940|
 ;旧ナンバー[vo_m s="yamaguti0001"]
 [マイク 位置７][vo_mob s="R_yamaguchi0002"]
-[ns]山口[nse]
-「どうしようかとおもったよね、チンチンがなかったら、[r]
-　わたしたちしんじゃうところだったよ～……。[r]
-　たすかったあぁ！　ふふっ……くっさいチンチン～」[pcms]
+[ns]Yamaguchi[nse]
+"We were wondering what to do if there was no dick, we would have[r]
+died... Thank goodness! Hehe... stinky dick~"[pcms]
 
 
 *1941|
 ;旧ナンバー[vo_m s="sakuma0001"]
 [マイク 位置３][vo_mob s="R_sakuma0001"]
-[ns]佐久間[nse]
-「ねえねえ、コーチのチンコ、もうダメじゃん？[r]
-　コイツのは、どのくらいもつかなあ？[r]
-　っつか、わたしらのタマナメ……すっごいよぉ？」[pcms]
+[ns]Sakuma[nse]
+"Hey hey, this guy's cock is already done for, isn't it? How long will[r]
+this one last? By the way, our ball licking... is amazing, right?"[pcms]
 
 
 *1942|
 ;旧ナンバー[vo_m s="kikuti0001"]
 [マイク 位置１][vo_mob s="R_kikuchi0001"]
-[ns]菊池[nse]
-「ん……わたしが、オマンコしてみるね……。[r]
-　ぶちょうの、わたしが……ね？　みてなさい……」[pcms]
+[ns]Kikuchi[nse]
+"Mmm... I'll try pussy on him... The captain, me... okay? Just[r]
+watch..."[pcms]
 
 
 *1943|
 ;旧ナンバー[vo_m s="kagaya0001"]
 [マイク 位置１][vo_mob s="R_kagaya0001"]
-[ns]加賀屋[nse]
-「んんぅううぅ……わたしのぉ～なかだしマンコ、[r]
-　なめなよ～……ほらぁ、せーえき、ぜんぶすいとってぇ～」[pcms]
+[ns]Kagaya[nse]
+"Nnnuuu... my creampie pussy, lick it... come on, suck up all the[r]
+semen~"[pcms]
 
 [bgv_mob s="mob_bgv"]
 
 
 *1944|
 [fc]
-[ns]克己[nse]
-「ぶっ……ぶううぅううぅっ！！　んぶううぅっ！！」[pcms]
+[ns]Kazumi[nse]
+"Buuu... buuuuuuuu!! Nbuuuu!!"[pcms]
 
 
 *1945|
 [fc]
-その場に押し倒されてしまった俺に、[r]
-女の子達が一斉に飛びかかり、[r]
-それぞれが好き勝手に体をまさぐり始めた。[pcms]
+I was pushed down on the spot, and the girls pounced on me all at[r]
+once, each beginning to fondle my body as they pleased.[pcms]
 
 
 *1946|
 [fc]
-何より、鼻と口を精液まみれの膣で塞がれ、[r]
-声を上げることもままならない。[pcms]
+Above all, my nose and mouth were blocked by semen-covered vaginas,[r]
+making it impossible for me to even cry out.[pcms]
 
 
 *1947|
 [fc]
-[ns]克己[nse]
-「ううううっう！　ぶううぅぅ！　ふうっ！　うぅうぅ！」[pcms]
+[ns]Kazumi[nse]
+"Uuuuuu! Buuuuu! Fuuuh! Uuuuu!"[pcms]
 
 
 *1948|
 ;旧ナンバー[vo_m s="kagaya0002"]
 [マイク 位置１][vo_mob s="R_kagaya0002"]
-[ns]加賀屋[nse]
-「ふっ……ふぁ！　ヌルヌルぅっ！　ふふっ……あははぁっ！」[pcms]
+[ns]Kagaya[nse]
+"Fuh... fah! Slippery! Hehe... Ahahaha!"[pcms]
 
 
 *1949|
 ;旧ナンバー[vo_m s="sakuma0002"]
 [マイク 位置３][vo_mob s="R_sakuma0002"]
-[ns]佐久間[nse]
-「あぁ～……コイツ、かわかむりじゃん！」[pcms]
+[ns]Sakuma[nse]
+"Ahh~... This guy's totally soaked!"[pcms]
 
 
 *1950|
 ;旧ナンバー[vo_m s="yamaguti0002"]
 [マイク 位置７][vo_mob s="R_yamaguchi0003"]
-[ns]山口[nse]
-「コーチのより、ちいさいね。[r]
-　こんなので、きもちいのかなあ……？[r]
-　ねえ、ぶちょう？」[pcms]
+[ns]Yamaguchi[nse]
+"This one's smaller than the last. Can you even feel good with this?[r]
+Hey, captain?"[pcms]
 
 
 *1951|
 ;旧ナンバー[vo_m s="kikuti0002"]
 [マイク 位置１][vo_mob s="R_kikuchi0002"]
-[ns]菊池[nse]
-「ふううぅっ……ふっ……くうぅっ……。[r]
-　で、でも、このチンコ、かたい……。[r]
-　くううぅ……さっきのより、ぜんぜん……あぁ……」[pcms]
+[ns]Kikuchi[nse]
+"Fuuuuh... fuuuh... kuuuh... But this dick is hard... Kuuuh... way[r]
+more than the last one... Ahh..."[pcms]
 
 
 *1952|
 ;旧ナンバー[vo_m s="kagaya0003"]
 [マイク 位置１][vo_mob s="R_kagaya0003"]
-[ns]加賀屋[nse]
-「ねぇ～ぶちょう？　じんなんの、ほら……かっ……か……。[r]
-　かみ、おか？　あのこ、カッチカチだったじゃん？[r]
-　あ、あれとくらべて、どうなの～？」[pcms]
+[ns]Kagaya[nse]
+"Hey~ captain? About that guy's... you know... hard... ka... bite,[r]
+okay? That kid was rock hard, wasn't he? How does this compare~?"[pcms]
 
 
 *1953|
 ;旧ナンバー[vo_m s="miyake0002"]
 [マイク 位置８][vo_mob s="R_miyake0003"]
-[ns]三宅[nse]
-「ちくびはぁ～……ピンッピンだけどね！　あははっ！[r]
-　れるっ！　ぷうぅっ！！」[pcms]
+[ns]Miyake[nse]
+"The nipples are... super hard! Ahaha! Lick! Pffft!!"[pcms]
 
 
 *1954|
 [fc]
-[ns]克己[nse]
-「うううっ……ぶううぅっ！！　ふぁあっ！！」[pcms]
+[ns]Kazumi[nse]
+"Uuuu... buuuu!! Faaah!!"[pcms]
 
 ;;//se_sex02.ogg(LOOP)
 [se_HLoop buf2 storage="se_sex02"]
@@ -288,428 +278,400 @@
 
 *1955|
 [fc]
-くっそぉおおっ！！　このガキどもっ！！[r]
-なんてバカ力なんだッ！[r]
-なんで、この俺がこいつらごときに組み伏せられてんだよ！[pcms]
+Damn it!! These brats!! What kind of brute strength is this?! Why am I[r]
+being pinned down by the likes of them![pcms]
 
 
 *1956|
 [fc]
-口を塞がれた状態で、身動きの取れない俺は、[r]
-ただ心の中で叫ぶ事しか出来なかった。[pcms]
+Unable to move with my mouth covered, all I could do was scream in my[r]
+mind.[pcms]
 
 
 *1957|
 [fc]
-なんて、情けないんだ俺は。[r]
-それに、うかつ過ぎた。[pcms]
+How pathetic I am. And I was too careless.[pcms]
 
 
 *1958|
 [fc]
-感染者が居るって事は、もうわかりきっていたのに。[r]
-どうして、よく調べないで首を突っ込んだりしたんだ。[pcms]
+I already knew there were infected people around. Why did I stick my[r]
+neck out without checking properly?[pcms]
 
 
 *1959|
 [fc]
-[ns]克己[nse]
-「うぶうぅっ！　ぶっ……ぐぅううっ！！　うぐうあああ！！」[pcms]
+[ns]Kazumi[nse]
+"Ubuuu! Buu... guuuuu!! Uguuaaaa!!"[pcms]
 
 
 *1960|
 ;旧ナンバー[vo_m s="yamaguti0003"]
 [マイク 位置７][vo_mob s="R_yamaguchi0004"]
-[ns]山口[nse]
-「なんだこいつ、うるさいな。[r]
-　チンコのくせに！　あははっ！[r]
-　チンコが、うるさいって！　あはははははっ！！」[pcms]
+[ns]Yamaguchi[nse]
+"What's with this guy, so noisy. Even though he's just a dick! Ahaha![r]
+A noisy dick, that's hilarious!! Ahahahaha!!"[pcms]
 
 
 *1961|
 ;旧ナンバー[vo_m s="sakuma0003"]
 [vo_mob s="R_sakuma0003"]
-[ns]佐久間[nse]
-「ひっどいねぇ！　きゃはははっ！[r]
-;FHD　でもぉ、コイツのくちチンポも、けっこいいいよ！？[r]
-　でもぉ、コイツのくちチンポも、けっこういいよ！？[r]
-　ぜんしんチンポの、チンポおとこだぁ～」[pcms]
+[ns]Sakuma[nse]
+"That's terrible! Kyahaha! ;FHD But you know, this guy's mouth dick is[r]
+pretty good too!? But you know, this guy's mouth dick is pretty good[r]
+too!? He's a full-body dick man~"[pcms]
 
 *1962|
 ;旧ナンバー[vo_m s="miyake0003"]
 [マイク 位置８][vo_mob s="R_miyake0004"]
-[ns]三宅[nse]
-「じゃあさ、じゃあさ！　ちくびもたってるから、[r]
-　これもチンチン？　あはははっ！　へんたいみたい！[r]
-　へんたーい！　おっさんへんたーい！！　うふふっ！」[pcms]
+[ns]Miyake[nse]
+"So, since the nipples are hard too, does that mean this is a dick?[r]
+Ahahaha! It's like a pervert! Per-vert! Mister pervert!! Ufufu!"[pcms]
 
 
 *1963|
 [fc]
-[ns]克己[nse]
-「ぐうっう……ぶううっ……ぐぁああぁっ！！！」[pcms]
+[ns]Kazumi[nse]
+"Guuu... buuu... guaaaa!!"[pcms]
 
 
 *1964|
 [fc]
-……変態扱いしてんじゃねえよ！[r]
-くそっ……くっそおっ！！[pcms]
+...Don't call me a pervert! Damn it... Damn it all!![pcms]
 
 
 *1965|
 [fc]
-クソ悔しいっつーのに、全く抵抗出来ない！[r]
-ものすごく悔しいッ！　くそおおっ！！[pcms]
+It's so frustrating, yet I can't resist at all! It's incredibly[r]
+frustrating! Damn it!![pcms]
 
 
 *1966|
 [fc]
-しかも、こんな小娘どもにバカにされてるってのに、[r]
-ペニスは正直に反応しちまって……。[pcms]
+And to be ridiculed by these little girls, yet my penis reacts[r]
+honestly...[pcms]
 
 
 *1967|
 [fc]
-言い逃れ出来ないじゃねえか！[r]
-っつーか、そんな事より、こいつら感染者だ！[r]
-早く逃げなきゃ、マズい！[pcms]
+There's no excuse for this! Besides, these girls are infected! I need[r]
+to escape quickly, or it's going to be bad![pcms]
 
 
 *1968|
 [fc]
-[ns]克己[nse]
-「ぶうううっ！　んんがあぁあっ！！　ぶううぅッ！[r]
-　くううっ……クソおっ！」[pcms]
+[ns]Kazumi[nse]
+"Buuuuu! Nngaaaa!! Buuuu! Kuuu... Damn it!"[pcms]
 
 
 *1969|
 ;旧ナンバー[vo_m s="sakuma0004"]
 [マイク 位置３][vo_mob s="R_sakuma0004"]
-[ns]佐久間[nse]
-「わ……んぅううぅっ！　うううっ！[r]
-　あは……はな、はなのあたま、きもちいいいっ！[r]
-　くちびるも、クリトリスをプルプルってしてッ！」[pcms]
+[ns]Sakuma[nse]
+"Wa... nnnuuuu! Uuuu! Aha... the head of the flower feels so good! The[r]
+lips are trembling like a clit!"[pcms]
 
 
 *1970|
 [fc]
-[ns]克己[nse]
-「ふうっ……うううっ……くっ……ぐうぅうううっ！[r]
-　くっ、クソッ！　舐めんな！　クソガキッ！！」[pcms]
+[ns]Kazumi[nse]
+"Fuuu... uuuu... kuh... guuuuuu! Damn it, don't underestimate me! You[r]
+brats!!"[pcms]
 
 
 *1971|
 [fc]
-このままだと、マン汁で溺れて死んじまう！[r]
-そんなの嫌だ！　嫌にキマってる！！[pcms]
+If this continues, I'll drown in pussy juice and die! I don't want[r]
+that! It's definitely not what I want!![pcms]
 
 
 *1972|
 [fc]
-こうなったら……膣に噛み付いてやるっ！！[r]
-いくら何でも、そんな事をされたら感染者だって逃げるだろう！[pcms]
+At this point... I'll bite into her vagina!! Surely, even an infected[r]
+person would run away if they were bitten like that![pcms]
 
 
 *1973|
 [fc]
-[ns]克己[nse]
-「ふっ……ぐぁあっ！！　あぐぅ！！」[pcms]
+[ns]Kazumi[nse]
+"Fuh... guaaa!! Aguu!!"[pcms]
 
 
 *1974|
 [fc]
-ガチン――[pcms]
+Gachin--[pcms]
 
 
 *1975|
 [fc]
-唇の上を滑る膣の肉に躊躇することなく歯を立てる。[pcms]
+Without hesitation, I sink my teeth into the flesh of the vagina[r]
+sliding over my lips.[pcms]
 
 
 *1976|
 [fc]
-柔らかな陰毛と柔らかな肉、[r]
-そして少し硬くなった小さな突起が歯に当たった。[pcms]
+Soft pubic hair and tender flesh, and a small hardened bump hit my[r]
+teeth.[pcms]
 
 
 *1977|
 ;旧ナンバー[vo_m s="sakuma0005"]
 [マイク 位置３][vo_mob s="R_sakuma0005"]
-[ns]佐久間[nse]
-「ひっ……ぎぁあぁああっ！！！　ああ……あぎぃいいっ！！！」[pcms]
+[ns]Sakuma[nse]
+"Hik... gyaaaaaa!!! Ah... agyiiii!!"[pcms]
 
 
 *1978|
 [fc]
-とたんに、顔の上に乗っていた女の子が腰を跳ね上げた。[pcms]
+Suddenly, the girl who was on top of my face thrust her hips up.[pcms]
 
 
 *1979|
 [fc]
-[ns]克己[nse]
-「ぶはっ！！　はあぁっ！！[r]
-　ううっ……こ、これで……！　ぐぶっ！？」[pcms]
+[ns]Kazumi[nse]
+"Buhah!! Haaaah!! Uuu... with this...! Gubuh!?"[pcms]
 
 
 *1980|
 ;旧ナンバー[vo_m s="sakuma0006"]
 [マイク 位置３][vo_mob s="R_sakuma0006"]
-[ns]佐久間[nse]
-「ひっ……！　あ……あがぁあっ！！　い、いまの、すごいぃ！[r]
-　クリトリス、ビリビリして、イッちゃいそう！[r]
-　あぁ……き、きもちいぃいいっ！！」[pcms]
+[ns]Sakuma[nse]
+"Hik...! Ah... agaaaaa!! That just now was amazing! My clit is[r]
+tingling, I feel like I'm going to come! Ahh... it feels so gooood!!"[pcms]
 
 
 *1981|
 [fc]
-[ns]克己[nse]
-「ぶううううぅっ！？　くああぁあっ！」[pcms]
+[ns]Kazumi[nse]
+"Buuuuuuu!? Kuaaaaah!"[pcms]
 
 
 *1982|
 [fc]
-ば、バカなっ！[r]
-あんなに強く噛んだのに、むしろ悦んでるとか！[r]
-くそおっ……感染者を甘く見てた……甘すぎたッ！[pcms]
+That's ridiculous! I bit so hard, and she's actually enjoying it?![r]
+Damn it... I underestimated the infected... far too much![pcms]
 
 
 *1983|
 ;旧ナンバー[vo_m s="yamaguti0004"]
 [マイク 位置７][vo_mob s="R_yamaguchi0005"]
-[ns]山口[nse]
-「おっちんちん～、おっちんちん～……。[r]
-　かわっかむりの、かわいいおちんちん～……。[r]
-　あれぇ？　ちょっと、ムケてきたかなあ？」[pcms]
+[ns]Yamaguchi[nse]
+"Little dick~, little dick~... The cute little dick with a[r]
+foreskin~... Huh? Is it starting to peel back a bit?"[pcms]
 
 
 *1984|
 ;旧ナンバー[vo_m s="kagaya0004"]
 [マイク 位置１][vo_mob s="R_kagaya0004"]
-[ns]加賀屋[nse]
-「あはぁ……ほんとだね……ぶちょうのマンにくのあいだから、[r]
-　ピンクいろで、つるっつるのチンチンのあたまが、[r]
-　かおだしてるぅう～！　あははっ！　かわいいぃ」[pcms]
+[ns]Kagaya[nse]
+"Ahaha... that's true... From between the boss's pussy meat, a pink[r]
+and smooth dick head is peeking out~! Ahaha! How cute!"[pcms]
 
 
 *1985|
 [fc]
-[ns]克己[nse]
-「はっ……ああ……あぐううっ……んぶううっ！」[pcms]
+[ns]Kazumi[nse]
+"Hah... ah... aguuu... nbufuuu!"[pcms]
 
 
 *1986|
 ;旧ナンバー[vo_m s="sakuma0007"]
 [マイク 位置３][vo_mob s="R_sakuma0007"]
-[ns]佐久間[nse]
-「なに、サボってんのよぉ！　さっきみたいに、[r]
-　クリトリスかじってぇっ！　きもちよくさせてぇえぇっ！[r]
-　クセになっちゃったじゃないっ！」[pcms]
+[ns]Sakuma[nse]
+"What are you slacking off for?! Just like before, bite the clit! Make[r]
+me feel good again! I'm getting addicted to it!"[pcms]
 
 
 *1987|
 ;旧ナンバー[vo_m s="miyake0004"]
 [マイク 位置８][vo_mob s="R_miyake0005"]
-[ns]三宅[nse]
-「ふうぅん、アンタ、オナってばっかりいるからでしょ？[r]
-　アンタのクリ、みょうにでっかいもんね！　あっはははっ！」[pcms]
+[ns]Miyake[nse]
+"Hmm, you're always masturbating, aren't you? Your clit is unusually[r]
+big! Ahahaha!"[pcms]
 
 
 *1988|
 ;旧ナンバー[vo_m s="sakuma0008"]
 [マイク 位置３][vo_mob s="R_sakuma0008"]
-[ns]佐久間[nse]
-「なっ、なによ……ミヤなんか、[r]
-　マンコからおつゆダラダラさせてんじゃん！[r]
-　おとこ、ひでりでぇ……きたいしてんでしょぉ？」[pcms]
+[ns]Sakuma[nse]
+"What... Miyake, you're dripping pussy juice all over the place![r]
+You're just thirsty for a man, aren't you?"[pcms]
 
 
 *1989|
 ;旧ナンバー[vo_m s="yamaguti0005"]
 [マイク 位置７][vo_mob s="R_yamaguchi0006"]
-[ns]山口[nse]
-「あはは……モテないもんね、アンタたちって！[r]
-　まだ、ヤッたことないんでしょお？[r]
-　コーチのチンコみて、めをまんまるにしてたもんね！」[pcms]
+[ns]Yamaguchi[nse]
+"Ahaha... You guys don't get any action, do you? You've never done it[r]
+before, right? Your eyes were wide open looking at this dick!"[pcms]
 
 
 *1990|
 ;旧ナンバー[vo_m s="sakuma0009"]
 [マイク 位置３][vo_mob s="R_sakuma0009"]
-[ns]佐久間[nse]
-「うるさい！　なによ、アンタなんてヤリまくってるから、[r]
-　マンコのかたち、ヘンになってんじゃん！[r]
-　あーあ、やだやだ……」[pcms]
+[ns]Sakuma[nse]
+"Shut up! What about you? You've been screwing around so much, your[r]
+pussy shape has gotten weird! Ah-ah, no way..."[pcms]
 
 
 *1991|
 ;旧ナンバー[vo_m s="kikuti0003"]
 [マイク 位置１][vo_mob s="R_kikuchi0003"]
-[ns]菊池[nse]
-「ケンカしないの。ほら、わたしのオマンコみてぇ……。[r]
-　がまんじると、まんじるでドロッドロの、オマンコ……。[r]
-　かわかむりチンコを、たべるところ、みてよぉ……」[pcms]
+[ns]Kikuchi[nse]
+"Don't fight. Look at my pussy... It's dripping with patience juice[r]
+and pussy juice, all sloppy. Watch it eat the foreskin-covered[r]
+dick..."[pcms]
 
 
 *1992|
 [fc]
-何だかヌルヌルした物が、[r]
-パンパンに腫れ上がったペニスに擦りつけられる。[pcms]
+Something slimy was being rubbed against my swollen penis.[pcms]
 
 
 *1993|
 [fc]
-初めての体験だというのに、[r]
-こんな風に全身を責められて、ペニスも心臓も、[r]
-興奮で弾け飛びそうになってしまっていた。[pcms]
+Even though it was my first experience, being teased all over like[r]
+this made my penis and heart feel like they were about to burst from[r]
+excitement.[pcms]
 
 
 *1994|
 [fc]
-[ns]克己[nse]
-「うううぅぅ……ぶうあぁ……ああ、ああああぁ！！[r]
-　や、やめろ！！　やめろおぉっ！　ダメだ、ダメだダメだっ！[r]
-　あ、愛の無いセックスなんて……ダメだあぁっ！　んぶうっ！」[pcms]
+[ns]Kazumi[nse]
+"Uuuuu... buuaa... ah, aaaaaah!! Stop it!! Stop it! No good, no good[r]
+at all! Loveless sex is... not good at all! Nbufuu!"[pcms]
 
 
 *1995|
 ;旧ナンバー[vo_m s="kikuti0004"]
 [マイク 位置１][vo_mob s="R_kikuchi0004"]
-[ns]菊池[nse]
-「はぁ？　あいのないセックスはダメぇ？[r]
-　なにいってんの、このオヤジ……」[pcms]
+[ns]Kikuchi[nse]
+"Huh? Loveless sex is not good? What are you talking about, old[r]
+man..."[pcms]
 
 
 *1996|
 ;旧ナンバー[vo_m s="sakuma0010"]
 [マイク 位置３][vo_mob s="R_sakuma0010"]
-[ns]佐久間[nse]
-「ほんっと……なにいってんだろね、このハゲ。[r]
-　からだじゅういじられて、フルボッキしてるくせにさー。[r]
-　なにセッキョーたれてんの？　バーカ！」[pcms]
+[ns]Sakuma[nse]
+"Really... what's this baldy talking about. His whole body is being[r]
+played with and he's fully erect. What's he preaching about? Idiot!"[pcms]
 
 
 *1997|
 ;旧ナンバー[vo_m s="yamaguti0006"]
 [マイク 位置７][vo_mob s="R_yamaguchi0007"]
-[ns]山口[nse]
-「あれじゃね～？　フーゾクとかいって、[r]
-　おんなのこにせっきょうしたりするタイプ？[r]
-　ホーケーのくせに！　さーいあく！　きゃはははっ！！」[pcms]
+[ns]Yamaguchi[nse]
+"Maybe he's the type who goes to brothels and preaches to the girls?[r]
+Even though he's a customer! The worst! Kyahahaha!!"[pcms]
 
 
 *1998|
 ;旧ナンバー[vo_m s="miyake0005"]
 [マイク 位置８][vo_mob s="R_miyake0006"]
-[ns]三宅[nse]
-「ちくびなめられて、チンコボッキさせて～……。[r]
-　ヘンターイ！　こんなので、しゃせいしちゃうのかなぁ？」[pcms]
+[ns]Miyake[nse]
+"Getting your nipples licked and your dick hard... Pervert! I wonder[r]
+if you'll ejaculate from this?"[pcms]
 
 
 *1999|
 [fc]
-[ns]克己[nse]
-「ふうぅうっ……ぐぎぃいいいっ！！[r]
-　やめろおおっ！　くあおあおおあおおおっ！！」[pcms]
+[ns]Kazumi[nse]
+"Fuuuugh... gugiiiiii!! Stop it! Kuaooaoaoaoaooa!!"[pcms]
 
 
 *2000|
 [fc]
-もはや自制の利かなくなったペニスが、[r]
-上に乗った女の子の股間の間で大暴れし、[r]
-我慢汁をまき散らした。[pcms]
+The penis that could no longer control itself thrashed wildly between[r]
+the legs of the girl on top, spraying pre-cum everywhere.[pcms]
 
 
 *2001|
 [fc]
-いくら俺が童貞だからって、こんな状況で興奮するなんて、[r]
-どうかしてる……。[pcms]
+No matter that I'm a virgin, getting excited in such a situation is[r]
+crazy...[pcms]
 
 
 *2002|
 [fc]
-[ns]克己[nse]
-「んぶううっ！？」[pcms]
+[ns]Kazumi[nse]
+"Nbuuuuh!?"[pcms]
 
 
 *2003|
 [fc]
-もしかして、これ……。[r]
-俺も、ウィルスにやられたってのか！？[pcms]
+Could it be... I've been affected by the virus too!?[pcms]
 
 
 *2004|
 [fc]
-いやだ……嫌だぁあっ！！[r]
-こんな事で死んじまうのか？　俺……。[pcms]
+No... Noooo!! Am I going to die from something like this? Me...[pcms]
 
 
 *2005|
 [fc]
-いや、もしかしたら死なないかも……？[r]
-今乗り切れば、なんとか助かるかもしれない！[r]
-悔しいけど、こいつらが飽きるのを……待ってみるか？[pcms]
+But maybe I won't die...? If I can just get through this, maybe I'll[r]
+be saved! It's frustrating, but maybe I should just wait until they[r]
+get bored?[pcms]
 
 
 *2006|
 [fc]
-今は、ちょっと頭がボーッとしてるから、[r]
-チャンスを伺って……それからでも遅くない……かも！[pcms]
+Right now, my head is a bit fuzzy, so I'll watch for a chance... It[r]
+might not be too late then... maybe![pcms]
 
 
 *2007|
 [fc]
-[ns]克己[nse]
-「ぶっ……ううぅっ！　くぅう～……お前ら、[r]
-　おっ、覚えてろよぉ……くそおっ……」[pcms]
+[ns]Kazumi[nse]
+"Buuu... uuuugh! Kuuu~... You guys, remember this... damn it..."[pcms]
 
 
 *2008|
 ;旧ナンバー[vo_m s="kikuti0005"]
 [マイク 位置１][vo_mob s="R_kikuchi0005"]
-[ns]菊池[nse]
-「あ……ああ……チンコ、すご……あ……ああぁっ！！[r]
-　もう、がまんできないっ！　い、いれちゃえ……！[r]
-　ふぅうっ……んうぅうぅ……」[pcms]
+[ns]Kikuchi[nse]
+"Ah... aah... the cock, it's amazing... ah... aaaaah!! I can't hold[r]
+back anymore! Let's put it in...! Fuuuuh... nuuuuh..."[pcms]
 
 
 *2009|
 [fc]
-女の子はヌルヌルの体液で濡れた膣の溝でペニス全体を包み込み、[r]
-舌なめずりしながら前後左右に弄ぶ。[pcms]
+The girl enveloped the entire penis with her pussy, slick with bodily[r]
+fluids, and played with it from front to back and side to side while[r]
+licking her lips.[pcms]
 
 
 *2010|
 ;旧ナンバー[vo_m s="kikuti0006"]
 [マイク 位置１][vo_mob s="R_kikuchi0006"]
-[ns]菊池[nse]
-「はっ……ううっ……はぁっ……あぁ……。[r]
-　チンコ、あっつぃ……あついよぉ……。[r]
-　あ……かわ、むけたら……いいかんじ……あはぁっ！」[pcms]
+[ns]Kikuchi[nse]
+"Haah... ugh... haaah... aah... The cock, it's so hot... it's hot...[r]
+Ah... if the foreskin peels back... it feels good... ahaha!"[pcms]
 
 
 *2011|
 ;旧ナンバー[vo_m s="yamaguti0007"]
 [マイク 位置７][vo_mob s="R_yamaguchi0008"]
-[ns]山口[nse]
-「つるっつるの、パンッパンだもんね。[r]
-　ハリさしたら、パーンっていうかな？　あっははは！！」[pcms]
+[ns]Yamaguchi[nse]
+"It's so smooth and rock hard. I wonder if it'll pop if I poke it?[r]
+Ahahaha!!"[pcms]
 
 
 *2012|
 ;旧ナンバー[vo_m s="kagaya0005"]
 [マイク 位置１][vo_mob s="R_kagaya0005"]
-[ns]加賀屋[nse]
-「だめだよ、そんなことしたらぁ。チンコへっちゃうじゃん。[r]
-　これからずーっと、このチンコつかうんだからね！[r]
-　だいじにしなきゃあねえ……ふふっ」[pcms]
+[ns]Kagaya[nse]
+"No way, you can't do that. You'll break the cock. We're going to use[r]
+this cock forever from now on! We have to take care of it... fufu."[pcms]
 
 
 *2013|
 ;旧ナンバー[vo_m s="kikuti0007"]
 [マイク 位置１][vo_mob s="R_kikuchi0007"]
-[ns]菊池[nse]
-「そうそう……そろそろ、イッちゃおっかな～……。[r]
-　ふふっ……んんっ……んんっ！！！　んんぉああああぁっ！！」[pcms]
+[ns]Kikuchi[nse]
+"Yeah, yeah... maybe it's about time to cum~... Fufu... nnn... nnnn!!![r]
+Nnnoaaaaah!!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -730,9 +692,8 @@
 
 *2014|
 [fc]
-[ns]克己[nse]
-「んぶうううあうあぁ！！　ああっ！　あっ！！[r]
-　うぶううううぅっ！！！」[pcms]
+[ns]Kazumi[nse]
+"Nbuuuuaauaah!! Aaah! Ahh!! Ubuuuuuuh!!!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -747,119 +708,111 @@
 *2015|
 ;旧ナンバー[vo_m s="kagaya0006"]
 [マイク 位置１][vo_mob s="R_kagaya0006"]
-[ns]加賀屋[nse]
-「あ！　あっははは！　ねえ、コイツ、いまイッた？[r]
-　ぶちょうのマンコにいれたしゅんかん、イッちゃった？[r]
-　あははっ！　そんなにぶちょうの、いいの？」[pcms]
+[ns]Kagaya[nse]
+"Ah! Ahahaha! Hey, did this guy just cum? The moment he put it in the[r]
+boss's pussy, did he cum? Ahaha! Do you like the boss that much?"[pcms]
 
 
 *2016|
 ;旧ナンバー[vo_m s="kikuti0008"]
 [マイク 位置１][vo_mob s="R_kikuchi0008"]
-[ns]菊池[nse]
-「ひぁあっ！！　あははっ！　オマンコのなかでハネてるっ！[r]
-　かたくて、あついの……ビクンッていうよっ！[r]
-　すごい！　あ、あぁあっ！　かたいぃいっ！！」[pcms]
+[ns]Kikuchi[nse]
+"Hiaah!! Ahaha! It's twitching inside the pussy! It's hard and hot...[r]
+bikun! It's amazing! Ah, aaaaah! It's so hard!!"[pcms]
 
 
 *2017|
 ;旧ナンバー[vo_m s="yamaguti0008"]
 [マイク 位置７][vo_mob s="R_yamaguchi0009"]
-[ns]山口[nse]
-「ぶちょうのマンコ、いりぐちまっかっか！[r]
-　なめてあげるね～……あふれたせいえきも、[r]
-　ぜーんぶ、きれいにしてあげるっ……」[pcms]
+[ns]Yamaguchi[nse]
+"The boss's pussy entrance is bright red! I'll lick it for you~...[r]
+I'll clean up all the overflowing semen too..."[pcms]
 
 
 *2018|
 [fc]
-[ns]克己[nse]
-「はっ……ああ！　んぶうぁあっ！　ああ、あぶううっ！」[pcms]
+[ns]Kazumi[nse]
+"Haah... aah! Nbuuaah! Ah, abuuuh!"[pcms]
 
 
 *2019|
 ;旧ナンバー[vo_m s="kagaya0007"]
 [マイク 位置１][vo_mob s="R_kagaya0007"]
-[ns]加賀屋[nse]
-「ふっ……う……あ……あぁ！　オッサン、いいじゃん！[r]
-　イったクセにげんきぃ……きあいはいってるううっ！[r]
-　おまんこに、ベロいれ……あぁあぁっ！」[pcms]
+[ns]Kagaya[nse]
+"Fuh... ugh... ah... aah! Old man, you're good! Even after cumming[r]
+you're still energetic... putting spirit into it! Into the pussy, with[r]
+my tongue... aaaaah!"[pcms]
 
 
 *2020|
 ;旧ナンバー[vo_m s="miyake0006"]
 [マイク 位置８][vo_mob s="R_miyake0007"]
-[ns]三宅[nse]
-「ちくび……ああぁ……ぺろっ！　んっ……。[r]
-　わ、わたしも、ちくび……なめてほしいな……。[r]
-　んっ……ちゅっ……じゅるううっ！！」[pcms]
+[ns]Miyake[nse]
+"Nipples... aaaaah... lick! Nngh... I want my nipples licked too...[r]
+Nngh... chu... juruuuuh!!"[pcms]
 
 
 *2021|
 [fc]
-[ns]克己[nse]
-「あっ！　あぁ……あぁあああぁああっっ！！[r]
-　んんぶうううううぅぅっ！！」[pcms]
+[ns]Kazumi[nse]
+"Ah! Aaah... aaaaahhhhhhh!! Nnmbuuuuuuuh!!"[pcms]
 
 
 *2022|
 ;旧ナンバー[vo_m s="sakuma0011"]
 [マイク 位置３][vo_mob s="R_sakuma0011"]
-[ns]佐久間[nse]
-「タマタマが、ぶちょうのと、さっきのせーえきで、[r]
-　ドロッドロ……あふぁ……れろっ……ちゅうっ！！」[pcms]
+[ns]Sakuma[nse]
+"The balls are drenched with the boss's and the earlier semen, all[r]
+gooey... afah... leroo... chu!"[pcms]
 
 
 *2023|
 ;旧ナンバー[vo_m s="kikuti0009"]
 [マイク 位置１][vo_mob s="R_kikuchi0009"]
-[ns]菊池[nse]
-「ふあっ！　あ！　あああぁっ！！！[r]
-　み、みんなのまえ……で……イッちゃいそうっ！！[r]
-　はずかしくて、イクっ……かんたんにイッちゃううぅうっ！！」[pcms]
+[ns]Kikuchi[nse]
+"Fuaah! Ah! Aaaaah!! In front of everyone... I'm about to cum!! It's[r]
+so embarrassing, I'm going to cum easily!!"[pcms]
 
 
 *2024|
 ;旧ナンバー[vo_m s="miyake0007"]
 [マイク 位置８][vo_mob s="R_miyake0008"]
-[ns]三宅[nse]
-「ちゅうっ……だぁめ、ぶちょう……。[r]
-　もうすこし、がまんしたほうがぁ……せーえき、[r]
-　いーっぱい、だしてもらえるよぉ……？」[pcms]
+[ns]Miyake[nse]
+"Chuuu... no, boss... You should hold back a little longer... then you[r]
+can give us more semen, right?"[pcms]
 
 
 *2025|
 ;旧ナンバー[vo_m s="yamaguti0009"]
 [マイク 位置７][vo_mob s="R_yamaguchi0010"]
-[ns]山口[nse]
-「あぁ……ぶちょうのおまんこ、ぷっくりしてるぅ……。[r]
-　んんっ……ちゅううっ！　んっ……んんぅうっ！」[pcms]
+[ns]Yamaguchi[nse]
+"Aaah... the boss's pussy is so plump... Nnnh... chuuu! Nnnh...[r]
+nnnuh!"[pcms]
 
 
 *2026|
 ;旧ナンバー[vo_m s="sakuma0012"]
 [マイク 位置３][vo_mob s="R_sakuma0012"]
-[ns]佐久間[nse]
-「じゃあ、わたしはチンポなめるっ！　れるっ！[r]
-　んうううっ！　れろっ！　おいしいっ！[r]
-　んぶうっ……えっちなおつゆ、おいしぃいっ！」[pcms]
+[ns]Sakuma[nse]
+"Then I'll lick the cock! Leroo! Nuuuuh! Leroo! Delicious! Nbuuh...[r]
+such naughty juice, so tasty!"[pcms]
 
 
 *2027|
 [fc]
-五人の女の子が、俺の体をメチャクチャに弄んでいる。[pcms]
+Five girls were playing with my body mercilessly.[pcms]
 
 
 *2028|
 [fc]
-輪姦される女の子って、こんな気持ちなのかな。[r]
-いっぺんに色々と責められて、頭がおかしくなりそうだ。[pcms]
+I wonder if this is how a girl feels when she's gangbanged. Being[r]
+teased in so many ways at once, my mind is about to go crazy.[pcms]
 
 
 *2029|
 [fc]
-ＡＶなんかで、女の子が蕩けちゃう、って言っていたけど、[r]
-今ならその気持ちが、少しは分かる気がする。[pcms]
+In AVs and stuff, they say girls melt away, and now I think I can[r]
+understand that feeling a little.[pcms]
 
 ;;//■イベントCG　mob_H012
 [evcg storage="mob_H012c"][trans_c cross time=500]
@@ -868,50 +821,46 @@
 *2030|
 ;旧ナンバー[vo_m s="kikuti0010"]
 [マイク 位置１][vo_mob s="R_kikuchi0010"]
-[ns]菊池[nse]
-「かたいぃい……おなかのなか、えぐられるううぅっ！[r]
-　かたくて、カリが……おなかをひっぱりだすみたいっ！！[r]
-　はぁあっ！　だ、ダメぇっ！　もうがまんなんかできないぃっ」[pcms]
+[ns]Kikuchi[nse]
+"It's so hard... inside my stomach, it feels like it's being gouged[r]
+out! It's hard and the ridge is like it's pulling out my insides!![r]
+Haaah! No, no more! I can't hold back anymore!"[pcms]
 
 
 *2031|
 ;旧ナンバー[vo_m s="kikuti0011"]
 [マイク 位置１][vo_mob s="R_kikuchi0011"]
-[ns]菊池[nse]
-「おっ、お……おっ……！　し、しきゅう……が……、[r]
-　コツコツされるっ！　しびれちゃううっ！！[r]
-　んぁああああぁあぁあっ！！」[pcms]
+[ns]Kikuchi[nse]
+"Ohh, ohh...! My womb is being tapped! It's numbing!! Naaaaaahhhhh!!"[pcms]
 
 
 *2032|
 [fc]
-舐められ続けてふやけた乳首や、[r]
-膣の中に入れたまま、根元や金玉を一緒に舐められて、[r]
-脳みそが内側から溶けてしまいそうになる。[pcms]
+My nipples, soggy from being licked continuously, and my cock still[r]
+inside her pussy while she licks the base and balls too, my brain[r]
+feels like it's melting from the inside.[pcms]
 
 
 *2033|
 ;旧ナンバー[vo_m s="sakuma0013"]
 [マイク 位置３][vo_mob s="R_sakuma0013"]
-[ns]佐久間[nse]
-「チンポ……あぁ……チンポぉ……れろっ……」[pcms]
+[ns]Sakuma[nse]
+"Cock... aah... cockoo... leroo..."[pcms]
 
 
 *2034|
 ;旧ナンバー[vo_m s="yamaguti0010"]
 [マイク 位置７][vo_mob s="R_yamaguchi0011"]
-[ns]山口[nse]
-「ぶちょう……オマンコ、かわいい……ちゅうっ……。[r]
-　んぅううっ……」[pcms]
+[ns]Yamaguchi[nse]
+"Boss... your pussy is cute... chuuu.... Nuuuuh..."[pcms]
 
 
 *2035|
 ;旧ナンバー[vo_m s="miyake0008"]
 [マイク 位置８][vo_mob s="R_miyake0009"]
-[ns]三宅[nse]
-「あっ……ああああぁあぁあっ！！！[r]
-　お、おまんこも、クリトリスも……ベットベトに……！[r]
-　や、やだあっ！　かんじゃだめぇぇっ！！　イッ……イク！」[pcms]
+[ns]Miyake[nse]
+"Ah... aaaaaaahhhhh!!! My pussy and clit are both so sticky! No, nooo![r]
+It feels too good!! I'm cumming!"[pcms]
 
 ;;//■イベントCG　mob_H012
 [evcg storage="mob_H012d"][trans_c cross time=500]
@@ -919,33 +868,32 @@
 
 *2036|
 [fc]
-[ns]克己[nse]
-「はぁ……あ……あ……あぁ……んぶっ……」[pcms]
+[ns]Kazumi[nse]
+"Haa... ah... ah... aahh... nmbu..."[pcms]
 
 
 *2037|
 [fc]
-あぁ……何だか頭が真っ白になってきた……。[r]
-このままコイツらとドロドロに溶け合うってのもいいな……。[pcms]
+Ah... my head is starting to go blank... Melting into a mess with[r]
+these girls doesn't sound so bad...[pcms]
 
 
 *2038|
 [fc]
-ああ、丞実……。[r]
-ワリィ……助けにいくのは、もう少し後だ……。[pcms]
+Ah, Tsugumi... Sorry... I'll come to save you a bit later...[pcms]
 
 
 *2039|
 [fc]
-ワリィな……。[pcms]
+I'm sorry...[pcms]
 
 
 *2040|
 ;旧ナンバー[vo_m s="miyake0009"]
 [マイク 位置８][vo_mob s="R_miyake0010"]
-[ns]三宅[nse]
-「やだああぁっ！　もうダメぇっ！　イクっ！！[r]
-　くちチンポでイッちゃううううっっ！！」[pcms]
+[ns]Miyake[nse]
+"No wayyyy! I can't take it anymore! I'm cumming!! Cumming from oral[r]
+cock!!"[pcms]
 
 ;;//■イベントCG　mob_H012
 [evcg storage="mob_H012e"][trans_c cross time=500]
@@ -954,31 +902,29 @@
 *2041|
 ;旧ナンバー[vo_m s="kikuti0012"]
 [マイク 位置１][vo_mob s="R_kikuchi0012"]
-[ns]菊池[nse]
-「ひぁあああぁっ！　チンコがぁああっっ！！[r]
-　ダメぇ！　ダメダメっ！！　いやぁああぁあっ！！[r]
-　イクぅううううぅっ――――！！！」[pcms]
+[ns]Kikuchi[nse]
+"Hiaaaaaaahh! My cock is aaaahhh!! No more! No way no way!! Noooooo!![r]
+Cummingggggg----!!!"[pcms]
 
 
 *2042|
 ;旧ナンバー[vo_m s="yamaguti0011"]
 [マイク 位置７][vo_mob s="R_yamaguchi0012"]
-[ns]山口[nse]
-「んんっ……ちゅっ……んぶっ……ちゅううっ！！[r]
-　イッちゃえぇっ！！」[pcms]
+[ns]Yamaguchi[nse]
+"Nnn... chu... nmbu... chuuuu!! Cum alreadyyyy!!"[pcms]
 
 
 *2043|
 ;旧ナンバー[vo_m s="kagaya0008"]
 [マイク 位置１][vo_mob s="R_kagaya0008"]
-[ns]加賀屋[nse]
-「ちゅっ……じゅるっ！　じゅううっ！！　じゅるううっ！！」[pcms]
+[ns]Kagaya[nse]
+"Chu... slurp! Juuuu!! Slurrrp!!"[pcms]
 
 
 *2044|
 [fc]
-[ns]克己[nse]
-「はっ……あ！　あぁああっ！！！」[pcms]
+[ns]Kazumi[nse]
+"Haa... ah! Ahhhhh!!!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 [sysbt_meswin clear]
@@ -993,8 +939,8 @@
 *2045|
 ;旧ナンバー[vo_m s="miyake0010"]
 [マイク 位置８][vo_mob s="R_miyake0011"]
-[ns]三宅[nse]
-「やだぁああぁあっ！！　イクぅううっ！！」[pcms]
+[ns]Miyake[nse]
+"No wayyyyy!! I'm cummingggg!!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1008,34 +954,32 @@
 
 *2046|
 [fc]
-顔の上の股間がパクパクと蠢き、[r]
-スプリンクラーの様に、体液をまき散らす。[pcms]
+The crotch above my face twitches and squirms, spraying bodily fluids[r]
+like a sprinkler.[pcms]
 
 
 *2047|
 [fc]
-[ns]克己[nse]
-「ぶっ！　ぶぁあっ！！　ああぁっ！！　出るッ！！」[pcms]
+[ns]Kazumi[nse]
+"Bu! Buahh!! Ahhh!! I'm cumming out!!"[pcms]
 
 
 *2048|
 [fc]
-熱い液体を顔中に浴びた俺は、[r]
-それをきっかけにして、[r]
-堰き止めていた溶岩を一気に外に放出した。[pcms]
+Drenched in hot liquid all over my face, it triggered me to release[r]
+the dammed-up lava all at once.[pcms]
 
 
 *2049|
 [fc]
-[ns]克己[nse]
-「くっ……あ……！　おぉおあおあああぁっ！！！」[pcms]
+[ns]Kazumi[nse]
+"Ku... ah...! Ooooh ahhhhhh!!!"[pcms]
 
 
 *2050|
 [fc]
-掃除機に吸い上げられているのかと錯覚するほど、[r]
-尿道の中を勢いよく精液が駆け上がって、[r]
-女の子の腹の中に飛び出して行く。[pcms]
+It feels as if it's being sucked up by a vacuum cleaner, the semen[r]
+races up through my urethra and bursts into the girl's belly.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1055,24 +999,23 @@
 *2051|
 ;旧ナンバー[vo_m s="kikuti0013"]
 [マイク 位置１][vo_mob s="R_kikuchi0013"]
-[ns]菊池[nse]
-「んぁああぁあぁあぁっ！！　おぉおお゛ぉお゛あ゛ぁ゛！！[r]
-　あ゛ぁ゛ぁ゛ぁ゛――――！！！！」[pcms]
+[ns]Kikuchi[nse]
+"Naaaahhh!! Oooh ohhhh ahhh!! Ahhhhh----!!!!!"[pcms]
 
 
 *2052|
 [fc]
-[ns]克己[nse]
-「は……ああぁあっ！！　しゃ……射精……あ、ああぁっ！！[r]
-　し、死ぬ……しんじまう……あぁああぁあ！！！！」[pcms]
+[ns]Kazumi[nse]
+"Ha... ahhh!! Ejaculation... ah, ahhh!! I'm... dying... gonna die...[r]
+ahhhhh!!!!"[pcms]
 
 
 *2053|
 ;旧ナンバー[vo_m s="kikuti0014"]
 [マイク 位置１][vo_mob s="R_kikuchi0014"]
-[ns]菊池[nse]
-「んあおおおおおっ！！　おおぁあぁっ……あぁ……ああぁ！！[r]
-　まっ……また、イクウウうぅっ！！！！！」[pcms]
+[ns]Kikuchi[nse]
+"Naaahhhhooooo!! Oooh ahhh... ahh... ahhh!! I'm... cumming[r]
+againnnn!!!!"[pcms]
 
 ;;//■イベントCG　mob_H012
 [evcg storage="mob_H012a"][trans_c cross time=500]
@@ -1080,12 +1023,13 @@
 
 *2054|
 [fc]
-小さな体の最深部に精液を受けて、女の子が叫んだ。[pcms]
+Receiving semen in the deepest part of her small body, the girl[r]
+screamed.[pcms]
 
 
 *2055|
 [fc]
-だけど、その声はどんどん遠くへ堕ちていく。[pcms]
+But that voice is falling further and further away.[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -1093,9 +1037,9 @@
 
 *2056|
 [fc]
-怒濤のごとく腹の奥から外に向かう精液の固まりは、[r]
-全身の神経をヤスリで擦るように刺激し、[r]
-意識のスイッチを、アッサリとオフにした。[pcms]
+The clumps of semen rushing from deep inside her belly outward[r]
+stimulated every nerve in my body as if they were being scraped with a[r]
+file, and effortlessly switched off my consciousness.[pcms]
 
 ;;//回想ここまで
 

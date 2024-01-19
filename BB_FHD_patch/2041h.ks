@@ -35,15 +35,15 @@
 *6590|
 ;旧ナンバー[vo_t s="tugumi0509"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0179"]
-[ns]丞実[nse]
-「あはははははっ！　兄ちゃんっ！　つかまっちゃったねぇ！」[pcms]
+[ns]Tsugumi[nse]
+"Ahahaha! Big brother! You got caught!"[pcms]
 
 
 *6591|
 ;旧ナンバー[vo_m s="infectionA0037"]
 [マイク 位置１][vo_mob s="R_onnakansenA0013"]
-[ns]女感染者Ａ[nse]
-「妹尾さんのお兄さんなんだ～？」[pcms]
+[ns]Female Infected A[nse]
+"You're Senoo-san's older brother?"[pcms]
 
 [sysbt_meswin clear]
 
@@ -61,107 +61,105 @@
 
 *6592|
 [fc]
-丞実に捕まった俺は、ズボンをはぎ取られ、[r]
-下半身をむき出しにさせられて、裏門に押しつけられていた。[pcms]
+Caught by Tsugumi, my pants were ripped off, leaving my lower half[r]
+exposed, and I was pushed against the back door.[pcms]
 
 
 *6593|
 [fc]
-いつの間にか集まった、まだ元気な感染者が、[r]
-俺の周りに集まっている。[pcms]
+Before I knew it, still energetic infected girls had gathered around[r]
+me.[pcms]
 
 
 *6594|
 ;旧ナンバー[vo_t s="tugumi0510"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0180"]
-[ns]丞実[nse]
-「うふふっ、兄ちゃん包茎だったんだぁ～」[pcms]
+[ns]Tsugumi[nse]
+"Ufufu, big brother, you're uncircumcised~"[pcms]
 
 
 *6595|
 [fc]
-[ns]克己[nse]
-「ば、馬鹿っ！」[pcms]
+[ns]Kazumi[nse]
+"St-stupid!"[pcms]
 
 
 *6596|
 [fc]
-まさか、この期に及んでそんなことを揶揄されるなんて……。[pcms]
+I never imagined I'd be mocked for such a thing at a time like this...[pcms]
 
 
 *6597|
 [fc]
-そんな事全く思っていなかった俺は、[r]
-羞恥に股間を手で隠そうとする。[pcms]
+Not having thought of such a thing, I tried to cover my crotch with my[r]
+hands out of shame.[pcms]
 
 
 *6598|
 ;旧ナンバー[vo_m s="rikujo0001"]
 [マイク 位置１][vo_mob s="R_rikujo0001"]
-[ns]陸上女子[nse]
-「ほらぁ、ちゃんと押さえててよぉ～」[pcms]
+[ns]Track and Field Girls[nse]
+"Hey, make sure you hold it down properly~"[pcms]
 
 
 *6599|
 [fc]
-陸上の選手だろうか、四つん這い……[r]
-クラウチングの姿勢になった子が、俺に尻を擦りつけてくる。[pcms]
+A girl who seemed to be a track and field athlete got on all fours...[r]
+in a crouching position and started rubbing her butt against me.[pcms]
 
 
 *6600|
 ;旧ナンバー[vo_t s="tugumi0511"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0181"]
-[ns]丞実[nse]
-「なに隠してるの兄ちゃん、[r]
-　みんなにさ、この包茎チンポ……見てもらおうよぉ。[r]
-　あははっ……あはははははっ！！！」[pcms]
+[ns]Tsugumi[nse]
+"Why are you hiding it, big brother? Let's show everyone this[r]
+uncircumcised cock... Ahaha... Ahahahaha!!"[pcms]
 
 
 *6601|
 [fc]
-[ns]克己[nse]
-「くぅぅぅぅ～、こんな……」[pcms]
+[ns]Kazumi[nse]
+"Grrrrr, this is..."[pcms]
 
 
 *6602|
 [fc]
-周りに集まっている女の子達が、興味津々の様子で、[r]
-俺の包茎に視線を合わせてきた。[pcms]
+The girls gathered around were looking curiously at my uncircumcised[r]
+penis.[pcms]
 
 
 *6603|
 ;旧ナンバー[vo_m s="infectionB0041"]
 [マイク 位置７][vo_mob s="R_onnakansenB0029"]
-[ns]女感染者Ｂ[nse]
-「すごーい、こんなに皮被ってる～」[pcms]
+[ns]Female Infected B[nse]
+"Wow, it's so covered with skin~"[pcms]
 
 
 *6604|
 ;旧ナンバー[vo_m s="infectionC0021"]
 [マイク 位置８][vo_mob s="R_onnakansenC0014"]
-[ns]女感染者Ｃ[nse]
-「引っ張ったら伸びる？　ねえ、ひっぱってみて！[r]
-　きゃははっ！」[pcms]
+[ns]Female Infected C[nse]
+"Does it stretch if you pull it? Hey, try pulling it! Kyahaha!"[pcms]
 
 
 *6605|
 ;旧ナンバー[vo_t s="tugumi0512"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0182"]
-[ns]丞実[nse]
-「皮の上からオナニーし過ぎなんだよ、[r]
-　でも、皮オナって気持ちいいっていうもんね……あはっ」[pcms]
+[ns]Tsugumi[nse]
+"You've masturbated too much with the skin, but they say it feels good[r]
+to masturbate with the foreskin... Ahah"[pcms]
 
 
 *6606|
 [fc]
-[ns]克己[nse]
-「う、うるさいっ！」[pcms]
+[ns]Kazumi[nse]
+"Sh-shut up!"[pcms]
 
 
 *6607|
 [fc]
-俺が羞恥に身もだえしているうちに、[r]
-四つん這いになった女の子が、尻を使ってチンコを擦りはじめた。[pcms]
+While I was writhing in shame, the girl on all fours began to rub my[r]
+cock with her butt.[pcms]
 
 ;;//se_sex02.ogg(LOOP)
 [se_HLoop buf2 storage="se_sex02"]
@@ -170,42 +168,43 @@
 *6608|
 ;旧ナンバー[vo_m s="rikujo0002"]
 [マイク 位置１][vo_mob s="R_rikujo0002"]
-[ns]陸上女子[nse]
-「あぁぁん……包茎かもしんないけど……、[r]
-　この過保護チンコ、すっごく堅いよ……」[pcms]
+[ns]Track and Field Girls[nse]
+"Aaahn... It might be uncircumcised... but this pampered cock is so[r]
+hard..."[pcms]
 
 
 *6609|
 [fc]
-[ns]克己[nse]
-「ほ、包茎、包茎とか言うなっ！」[pcms]
+[ns]Kazumi[nse]
+"Don't say uncircumcised, uncircumcised!"[pcms]
 
 
 *6610|
 ;旧ナンバー[vo_m s="rikujo0003"]
 [マイク 位置１][vo_mob s="R_rikujo0003"]
-[ns]陸上女子[nse]
-「いいじゃない……あたしは、包茎でも堅い方が好きだもん……」[pcms]
+[ns]Track and Field Girls[nse]
+"It's fine... I like it better when it's hard, even if it's[r]
+uncircumcised..."[pcms]
 
 
 *6611|
 ;旧ナンバー[vo_m s="infectionB0042"]
 [マイク 位置７][vo_mob s="R_onnakansenB0030"]
-[ns]女感染者Ｂ[nse]
-「でも、凄くクサそう～」[pcms]
+[ns]Female Infected B[nse]
+"But it looks like it would smell really bad~"[pcms]
 
 
 *6612|
 ;旧ナンバー[vo_m s="infectionC0022"]
 [マイク 位置８][vo_mob s="R_onnakansenC0015"]
-[ns]女感染者Ｃ[nse]
-「[ruby text="かす"]滓がいっぱい、へばりついてるんでしょ？」[pcms]
+[ns]Female Infected C[nse]
+"(ruby text="smegma")Smegma must be sticking all over it, right?"[pcms]
 
 
 *6613|
 [fc]
-[ns]克己[nse]
-「ちゃんと洗ってるっ！　くっ……くうぅうっ」[pcms]
+[ns]Kazumi[nse]
+"I wash it properly! Grrr... Grrrrr"[pcms]
 
 ;;//■イベントCG　mob_H005 陸上女子 丞実
 [evcg storage="mob_H005b"][trans_c cross time=500]
@@ -214,154 +213,149 @@
 *6614|
 ;旧ナンバー[vo_m s="rikujo0004"]
 [マイク 位置１][vo_mob s="R_rikujo0004"]
-[ns]陸上女子[nse]
-「もぅ我慢できない！　あたしに堅いのちょうだい！」[pcms]
+[ns]Track and Field Girls[nse]
+"I can't wait anymore! Give me that hard one!"[pcms]
 
 
 *6615|
 ;旧ナンバー[vo_t s="tugumi0513"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0183"]
-[ns]丞実[nse]
-「ほらぁ、兄ちゃん？　この子が入れて欲しいって」[pcms]
+[ns]Tsugumi[nse]
+"Hey, big brother? This girl wants you to put it in."[pcms]
 
 
 *6616|
 [fc]
-[ns]克己[nse]
-「ばっ……バカ言うなっ！」[pcms]
+[ns]Kazumi[nse]
+"Don't be ridiculous!"[pcms]
 
 
 *6617|
 [fc]
-そんなこと出来るはずがない。[r]
-でも、それも悪くないかも……。[pcms]
+There's no way I could do such a thing. But maybe it wouldn't be so[r]
+bad...[pcms]
 
 
 *6618|
 [fc]
-いやいやいや……！　ダメだそんなの！[pcms]
+No no no...! That's not right![pcms]
 
 
 *6619|
 ;旧ナンバー[vo_m s="rikujo0005"]
 [マイク 位置１][vo_mob s="R_rikujo0005"]
-[ns]陸上女子[nse]
-「早く、その余った皮を剥いて、ガチガチのチンポ、[r]
-　あたしの中に突っ込みなさいよっ！」[pcms]
+[ns]Track and Field Girls[nse]
+"Hurry up, peel back that extra skin and thrust your rock-hard cock[r]
+inside me!"[pcms]
 
 
 *6620|
 [fc]
-[ns]克己[nse]
-「い、嫌だ、そんなの嫌だ！」[pcms]
+[ns]Kazumi[nse]
+"No, I don't want that!"[pcms]
 
 
 *6621|
 [fc]
-本能的な恐怖に襲われながらも、[r]
-俺は自分が興奮している事に気が付いていた。[pcms]
+While being overwhelmed by instinctual fear, I realized that I was[r]
+getting excited.[pcms]
 
 
 *6622|
 [fc]
-包茎を馬鹿にされながら、[r]
-若くてかわいい子たちに囲まれ、[r]
-挿入をおねだりされる……。[pcms]
+Being ridiculed for being uncircumcised, surrounded by young and cute[r]
+girls begging to be penetrated...[pcms]
 
 
 *6623|
 [fc]
-それは、大概の男にとって、興奮する状況なんだと思う。[pcms]
+I think that would be an exciting situation for most men.[pcms]
 
 
 *6624|
 ;旧ナンバー[vo_t s="tugumi0514"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0184"]
-[ns]丞実[nse]
-「しょうがないなぁ、あたしが剥いてあげるよ」[pcms]
+[ns]Tsugumi[nse]
+"Can't be helped, I'll peel it back for you."[pcms]
 
 
 *6625|
 [fc]
-[ns]克己[nse]
-「ば、馬鹿っ！　やめろ丞実っ！」[pcms]
+[ns]Kazumi[nse]
+"Stupid! Stop it Tsugumi!"[pcms]
 
 
 *6626|
 [fc]
-丞実が俺のチンコに手を伸ばし、[r]
-亀頭を握り込んでくる。[pcms]
+Tsugumi reached for my cock and grabbed the glans.[pcms]
 
 
 *6627|
 ;旧ナンバー[vo_t s="tugumi0515"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0185"]
-[ns]丞実[nse]
-「こんなにカチカチにしてるじゃん～、[r]
-　本当は期待してるんでしょ？」[pcms]
+[ns]Tsugumi[nse]
+"You're so hard~ You must be looking forward to it, right?"[pcms]
 
 
 *6628|
 [fc]
-[ns]克己[nse]
-「な、なんだよ期待って……」[pcms]
+[ns]Kazumi[nse]
+"What do you mean looking forward to..."[pcms]
 
 
 *6629|
 ;旧ナンバー[vo_t s="tugumi0516"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0186"]
-[ns]丞実[nse]
-「兄ちゃんってさ……包茎なだけじゃ無くて、[r]
-　童貞なんでしょ？　期待しちゃうよね～！[r]
-　セックスしたいんでしょぉお？　あははははははっ！！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother... not only are you uncircumcised, but you're a virgin[r]
+too, right? You must be excited! You want to have sex, don't you?[r]
+Ahahahahaha!!"[pcms]
 
 
 *6630|
 ;旧ナンバー[vo_m s="infectionB0043"]
 [マイク 位置７][vo_mob s="R_onnakansenB0031"]
-[ns]女感染者Ｂ[nse]
-「やだぁ～、童貞なの？」[pcms]
+[ns]Female Infected B[nse]
+"Eww, are you a virgin?"[pcms]
 
 
 *6631|
 ;旧ナンバー[vo_m s="infectionC0023"]
 [マイク 位置８][vo_mob s="R_onnakansenC0016"]
-[ns]女感染者Ｃ[nse]
-「こんな過保護チンコじゃねぇ……。[r]
-　女の子が怖いの？　ねぇ？　包茎くん……」[pcms]
+[ns]Female Infected C[nse]
+"Such an overprotected cock... Are you scared of girls? Huh? Foreskin-[r]
+kun..."[pcms]
 
 
 *6632|
 [fc]
-俺のチンコを見ながら、[r]
-女の子たちがひそひそと何かささやき合っている。[pcms]
+While looking at my cock, the girls were whispering something to each[r]
+other.[pcms]
 
 
 *6633|
 [fc]
-[ns]克己[nse]
-「バカ！　日本人の男の８割は包茎なんだよ！[r]
-　ばかぁあぁ！！」[pcms]
+[ns]Kazumi[nse]
+"Idiot! 80% of Japanese men are uncircumcised! Idioooot!!"[pcms]
 
 
 *6634|
 [fc]
-俺の羞恥はマックスに近くなり、[r]
-その分だけチンコに張りと硬度が生まれていた。[pcms]
+My shame was nearing its peak, and with it, my cock was becoming even[r]
+more taut and hard.[pcms]
 
 
 *6635|
 ;旧ナンバー[vo_t s="tugumi0517"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0187"]
-[ns]丞実[nse]
-「じゃあ、兄ちゃんの包茎チンポ、[r]
-　見せてもらうからね？」[pcms]
+[ns]Tsugumi[nse]
+"Then, I'll take a look at big brother's foreskin-covered cock, okay?"[pcms]
 
 
 *6636|
 [fc]
-[ns]克己[nse]
-「やっ……やめろーっ！」[pcms]
+[ns]Kazumi[nse]
+"No... stop it-!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -374,57 +368,55 @@
 
 *6637|
 [fc]
-チンコの先っぽの方に、にゅるりという感触が伝わり、[r]
-そして皮が張り裂けそうな軽い痛みを経て、[r]
-亀頭が完全に剥き出しとなる。[pcms]
+A slippery sensation touched the tip of my cock, followed by a slight[r]
+pain as if the skin was about to tear, and then the glans was[r]
+completely exposed.[pcms]
 
 
 *6638|
 ;旧ナンバー[vo_m s="infectionB0044"]
 [マイク 位置７][vo_mob s="R_onnakansenB0032"]
-[ns]女感染者Ｂ[nse]
-「いやだぁ、あんなに赤くなってる～」[pcms]
+[ns]Female Infected B[nse]
+"No way, it's gotten so red~"[pcms]
 
 
 *6639|
 ;旧ナンバー[vo_m s="infectionC0024"]
 [マイク 位置８][vo_mob s="R_onnakansenC0017"]
-[ns]女感染者Ｃ[nse]
-「オナニーばっかりしてると、[r]
-　先っぽの方が赤くなっちゃうんだって。[r]
-　まっかっかの、可愛いチンチン……あはは」[pcms]
+[ns]Female Infected C[nse]
+"They say if you masturbate too much, the tip gets red. A bright red,[r]
+cute cock...ahaha"[pcms]
 
 
 *6640|
 [fc]
-[ns]克己[nse]
-「くううぅぅぅ～」[pcms]
+[ns]Kazumi[nse]
+"Grrrrrrr~"[pcms]
 
 
 *6641|
 [fc]
-そんな根も葉もない噂でプライドを傷つけやがって！[r]
-女の子の情報なんてモンは、半分以上当てにならねえな！[pcms]
+My pride is hurt by such baseless rumors! Girls' information is more[r]
+than half unreliable![pcms]
 
 
 *6642|
 ;旧ナンバー[vo_t s="tugumi0518"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0188"]
-[ns]丞実[nse]
-「うふふっ、それじゃあ、兄ちゃんの初セックスを、[r]
-　みんなに見てもらおうね～」[pcms]
+[ns]Tsugumi[nse]
+"Ufufu, then let's have everyone watch big brother's first sex~"[pcms]
 
 
 *6643|
 [fc]
-[ns]克己[nse]
-「あっ、あっ、あああぁあぁぁ……」[pcms]
+[ns]Kazumi[nse]
+"Ah, ah, aaaaahhhhh..."[pcms]
 
 
 *6644|
 [fc]
-陸上部らしい女の子にマンコに、[r]
-俺のチンコがあてがわれる。[pcms]
+A girl from the track and field club was positioned with her pussy[r]
+against my cock.[pcms]
 
 ;;//seフェード停止
 [stop_seHLoop buf2]
@@ -432,8 +424,8 @@
 
 *6645|
 [fc]
-そして……陸上部の女の子は、一気に尻を俺に押しつけ、[r]
-チンコを挿入してきた。[pcms]
+And then... the track and field girl pushed her butt against me in one[r]
+swift motion, inserting my cock.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -455,32 +447,30 @@
 *6646|
 ;旧ナンバー[vo_m s="rikujo0006"]
 [マイク 位置１][vo_mob s="R_rikujo0006"]
-[ns]陸上女子[nse]
-「あひぃぃぃぃっ！　チンコ気持ちいいよぉぉぉっ！」[pcms]
+[ns]Track and Field Girls[nse]
+"Ahiiee! Your cock feels so good!"[pcms]
 
 
 *6647|
 [fc]
-[ns]克己[nse]
-「くおおおおぉぉぉおっ！」[pcms]
+[ns]Kazumi[nse]
+"Gwoooahhh!"[pcms]
 
 
 *6648|
 [fc]
-ぬるりという感触のあと、[r]
-チンコがゼリーに包まれるような感触に襲われていた。[pcms]
+After a slippery sensation, my cock was engulfed as if wrapped in[r]
+jelly.[pcms]
 
 
 *6649|
 [fc]
-これがセックス……セックスなのか……。[pcms]
+This is sex... Is this sex...?[pcms]
 
 
 *6650|
 [fc]
-いや……！[r]
-これはヤバイヤバイヤバイ！！！[r]
-ヤバイって！！！[pcms]
+No...! This is bad bad bad!!! Bad I tell you!!![pcms]
 
 ;;//■イベントCG　mob_H005
 [evcg storage="mob_H005d"][trans_c cross time=500]
@@ -489,21 +479,21 @@
 *6651|
 ;旧ナンバー[vo_m s="rikujo0007"]
 [マイク 位置１][vo_mob s="R_rikujo0007"]
-[ns]陸上女子[nse]
-「すんごい堅くてっ！　体に穴が空いちゃぅぅぅっ！」[pcms]
+[ns]Track and Field Girls[nse]
+"It's so hard! It feels like it's going to make a hole in my body!"[pcms]
 
 
 *6652|
 ;旧ナンバー[vo_t s="tugumi0519"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0189"]
-[ns]丞実[nse]
-「ほら、女の子は悦んでるよ？　兄ちゃんはどうなの？」[pcms]
+[ns]Tsugumi[nse]
+"Look, the girl is enjoying it. What about you, big brother?"[pcms]
 
 
 *6653|
 [fc]
-[ns]克己[nse]
-「ちゃ、茶化すな……くうううっ……」[pcms]
+[ns]Kazumi[nse]
+"Don't make fun... grrrr..."[pcms]
 
 ;;//■イベントCG　mob_H005
 [evcg storage="mob_H005e"][trans_c cross time=500]
@@ -512,118 +502,117 @@
 *6654|
 ;旧ナンバー[vo_m s="rikujo0008"]
 [マイク 位置１][vo_mob s="R_rikujo0008"]
-[ns]陸上女子[nse]
-「この姿勢でやるの好きなのぉぉぉぉぉっ！」[pcms]
+[ns]Track and Field Girls[nse]
+"I love doing it in this position!"[pcms]
 
 [se_HLoop buf2 storage="se_sex03"]
 
 
 *6655|
 [fc]
-女の子は興奮して、狂ったように俺に尻を打ち付けてきている。[pcms]
+The girl was excited, slamming her butt against me like crazy.[pcms]
 
 
 *6656|
 ;旧ナンバー[vo_m s="rikujo0009"]
 [マイク 位置１][vo_mob s="R_rikujo0009"]
-[ns]陸上女子[nse]
-「スタートの時、この格好になると、[r]
-　男の視線が集まる感じで疼いてたのぉぉぉぉぉっ！」[pcms]
+[ns]Track and Field Girls[nse]
+"When we start in this position during track, I get so turned on[r]
+feeling all the guys' eyes on me!"[pcms]
 
 
 *6657|
 [fc]
-[ns]克己[nse]
-「くううっ、こ、この変態女、め……」[pcms]
+[ns]Kazumi[nse]
+"Grrr, you perverted woman, damn..."[pcms]
 
 
 *6658|
 ;旧ナンバー[vo_t s="tugumi0520"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0190"]
-[ns]丞実[nse]
-「えええぇ？　兄ちゃんだって、ネットでそういう写真見て、[r]
-　オナニーしてたんでしょ？」[pcms]
+[ns]Tsugumi[nse]
+"Eeeeh? Big brother, you were looking at those kinds of photos on the[r]
+net and masturbating, weren't you?"[pcms]
 
 
 *6659|
 [fc]
-[ns]克己[nse]
-「そ、そんなこと、し、しねえよっ！」[pcms]
+[ns]Kazumi[nse]
+"I-I don't do that kind of thing!"[pcms]
 
 
 *6660|
 [fc]
-スポーツものの、[r]
-そういった写真は安定感のある定番アイテムだ。[pcms]
+Sports-related photos are a stable classic item.[pcms]
 
 
 *6661|
 [fc]
-もちろん、俺も何度かお世話になったけど……、[r]
-まさか、実際にすることになるなんて……。[pcms]
+Of course, I've used them a few times myself... but I never thought[r]
+I'd actually be doing it...[pcms]
 
 
 *6662|
 ;旧ナンバー[vo_t s="tugumi0521"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0191"]
-[ns]丞実[nse]
-「ほら、感謝してちゃんと腰を動かしなさいよ！」[pcms]
+[ns]Tsugumi[nse]
+"Come on, be grateful and move your hips properly!"[pcms]
 
 
 *6663|
 [fc]
-[ns]克己[nse]
-「う、動かしたら出ちまう……」[pcms]
+[ns]Kazumi[nse]
+"If I move, I'll cum..."[pcms]
 
 
 *6664|
 [fc]
-女の子の無茶苦茶な腰の動きに耐えるだけで精一杯で、[r]
-自分から動かすなんて絶対に無理だった。[pcms]
+I could barely endure the girl's wild hip movements; moving on my own[r]
+was absolutely impossible.[pcms]
 
 
 *6665|
 ;旧ナンバー[vo_t s="tugumi0522"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0192"]
-[ns]丞実[nse]
-「そんなに感じてるのっ！？　この変態！　包茎！　童貞！[r]
-　チンコ兄貴！　あっはははははは！！」[pcms]
+[ns]Tsugumi[nse]
+"Are you feeling it that much!? You pervert! Foreskin! Virgin! Cock[r]
+big brother! Ahahahaha!!"[pcms]
 
 
 *6666|
 [fc]
-丞実はそう言いながら、俺の股間に手を伸ばして、[r]
-あちこちを弄くりはじめる。[pcms]
+Tsugumi said this while reaching for my crotch and started to fiddle[r]
+around.[pcms]
 
 
 *6667|
 [fc]
-[ns]克己[nse]
-「や、やめろっ！」[pcms]
+[ns]Kazumi[nse]
+"Stop it!"[pcms]
 
 
 *6668|
 [fc]
-金玉と尻の穴に丞実の指が伸びてくる。[r]
-そして、その部分をマッサージするように揉みはじめていた。[pcms]
+Tsugumi's fingers reached for my balls and asshole. Then she began to[r]
+massage those parts as if kneading them.[pcms]
 
 
 *6669|
 [fc]
-[ns]克己[nse]
-「くぅぅぅぅぅぅっ！」[pcms]
+[ns]Kazumi[nse]
+"Guhhhhhhh!"[pcms]
 
 
 *6670|
 [fc]
-若くてかわいい女の子に逆レイプされ、[r]
-妹に尻の穴を弄られる……。[pcms]
+Being reverse-raped by a young and cute girl, and having my ass played[r]
+with by my sister...[pcms]
 
 
 *6671|
 [fc]
-羞恥と興奮がドロドロに混ざり合い、[r]
-俺は今にも達してしまいそうだった。[pcms]
+The mix of shame and excitement was about to make me climax at any[r]
+moment.[pcms]
 
 ;;//■イベントCG　mob_H005
 [evcg storage="mob_H005f"][trans_c cross time=500]
@@ -632,95 +621,91 @@
 *6672|
 ;旧ナンバー[vo_m s="rikujo0010"]
 [マイク 位置１][vo_mob s="R_rikujo0010"]
-[ns]陸上女子[nse]
-「んひぃぃいぃっ！[r]
-　見てる！？　みんなぁ……。[r]
-　わたし、見られてるのぉぉぉぉっ！」[pcms]
+[ns]Track and Field Girls[nse]
+"Nnhiiii! Are you watching?! Everyone... I'm being watched ahhhh!"[pcms]
 
 
 *6673|
 [fc]
-もう、女の子は自分の世界に入り込んでいて、[r]
-完全にトリップしているみたいだった。[pcms]
+She was completely lost in her own world, as if she had tripped out.[pcms]
 
 
 *6674|
 ;旧ナンバー[vo_m s="rikujo0011"]
 [マイク 位置１][vo_mob s="R_rikujo0011"]
-[ns]陸上女子[nse]
-「だから……もっと堅くしなさいっ！　この包茎っ！」[pcms]
+[ns]Track and Field Girls[nse]
+"So... make it harder! You foreskin!"[pcms]
 
 
 *6675|
 [fc]
-でも、理想とのギャップに不満があると、[r]
-すぐにこっちに帰ってきて文句を言う。[pcms]
+But when there's dissatisfaction with the ideal, she immediately comes[r]
+back to complain.[pcms]
 
 
 *6676|
 [fc]
-[ns]克己[nse]
-「ほ、包茎、包茎言うんじゃねええええぇぇ！」[pcms]
+[ns]Kazumi[nse]
+"Don't call me a foreskin, foreskin, foreskiiiiin!"[pcms]
 
 
 *6677|
 ;旧ナンバー[vo_t s="tugumi0523"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0193"]
-[ns]丞実[nse]
-「あたしは、兄ちゃんが包茎でも許してあげるよ……？[r]
-　だって……兄ちゃん……」[pcms]
+[ns]Tsugumi[nse]
+"I'll forgive you for being a foreskin...? Because... big brother..."[pcms]
 
 
 *6678|
 [fc]
-[ns]克己[nse]
-「あああおおおぉぉぉぉぉおぉぉっ！」[pcms]
+[ns]Kazumi[nse]
+"Aaaaaaahhhhhhhhh!"[pcms]
 
 
 *6679|
 [fc]
-丞実は、俺の玉を揉み込みながら、[r]
-アナルに細い指を突き入れてくる。[pcms]
+Tsugumi was kneading my balls while thrusting her slender fingers into[r]
+my anus.[pcms]
 
 
 *6680|
 [fc]
-立ったままの姿勢でチンコを犯され、[r]
-更に玉とアナルまで弄ばれて、俺の興奮は最高潮に達していた。[pcms]
+Standing up while being violated by a cock, and even having my balls[r]
+and anus toyed with, my excitement had reached its peak.[pcms]
 
 
 *6681|
 ;旧ナンバー[vo_m s="rikujo0012"]
 [マイク 位置１][vo_mob s="R_rikujo0012"]
-[ns]陸上女子[nse]
-「堅くなってるぅぅっ！　んひいいぃぃぃぃっ！」[pcms]
+[ns]Track and Field Girls[nse]
+"It's getting hard! Nnhiiiiii!"[pcms]
 
 
 *6682|
 [fc]
-[ns]克己[nse]
-「馬鹿っ、馬鹿っっ、出ちまうっ！　ああぁぁぁっ！」[pcms]
+[ns]Kazumi[nse]
+"Stupid, stupid, I'm gonna cum! Aaaaahhh!"[pcms]
 
 
 *6683|
 ;旧ナンバー[vo_t s="tugumi0524"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0194"]
-[ns]丞実[nse]
-「アナルほじられて、精液たっぷり出してよ……。[r]
-　ほらぁ……いっぱい擦ってあげるから……」[pcms]
+[ns]Tsugumi[nse]
+"Having your anus poked and ejaculating lots of semen... Here... I'll[r]
+rub it all over for you..."[pcms]
 
 
 *6684|
 ;旧ナンバー[vo_m s="rikujo0013"]
 [マイク 位置１][vo_mob s="R_rikujo0013"]
-[ns]陸上女子[nse]
-「あぁぁぁぁぁぁっ！　いっちゃうぅうううぅぅぅっ！」[pcms]
+[ns]Track and Field Girls[nse]
+"Aaaaaahhh! I'm cummingggggg!"[pcms]
 
 
 *6685|
 [fc]
-[ns]克己[nse]
-「で、出るぅぅうぅぅぅぅぅっ！」[pcms]
+[ns]Kazumi[nse]
+"I'm, I'm cummingggggg!"[pcms]
 
 [stop_seHLoop buf2]
 
@@ -735,69 +720,69 @@
 
 *6686|
 [fc]
-俺は、最後の最後で腰を前に突き出し、[r]
-女の子のマンコの最も奥で精液を放出していた。[pcms]
+In the very end, I thrust my hips forward and released my semen deep[r]
+inside the girl's pussy.[pcms]
 
 
 *6687|
 [fc]
-全身の力が奪われてしまうくらいの、壮絶な射精だった。[pcms]
+It was an intense ejaculation that drained all the strength from my[r]
+body.[pcms]
 
 
 *6688|
 ;旧ナンバー[vo_m s="rikujo0014"]
 [マイク 位置１][vo_mob s="R_rikujo0014"]
-[ns]陸上女子[nse]
-「で、出てりゅぅぅ……！！[r]
-　あぁうあぁっ！　あひぃぃいいいぃぃっ！」[pcms]
+[ns]Track and Field Girls[nse]
+"It's coming out...!! Aaah! Ahiiiiii!"[pcms]
 
 
 *6689|
 [fc]
-獣のような雄叫びを上げて、女の子が絶頂する。[pcms]
+The girl climaxed with a bestial howl.[pcms]
 
 
 *6690|
 ;旧ナンバー[vo_t s="tugumi0525"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0195"]
-[ns]丞実[nse]
-「金玉きゅってなって、チンコの根本がぴくんって動いてるよ！」[pcms]
+[ns]Tsugumi[nse]
+"Your balls are tightening up, and the base of your cock is[r]
+twitching!"[pcms]
 
 
 *6691|
 [fc]
-[ns]克己[nse]
-「くふうっ……くああぁぁっ……」[pcms]
+[ns]Kazumi[nse]
+"Kuhuuu...kuhaaaaah..."[pcms]
 
 
 *6692|
 ;旧ナンバー[vo_t s="tugumi0526"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0196"]
-[ns]丞実[nse]
-「あはははっ！！　包茎のくせに！[r]
-　兄ちゃん、初体験で凄い量ぶちまけてるっ！[r]
-　すっごい！　包茎チンコすっごーい！　あはははっはは！！」[pcms]
+[ns]Tsugumi[nse]
+"Ahahahah!! Even though you're a foreskin! Big brother, you're[r]
+spilling so much on your first time! Amazing! Foreskin cock is[r]
+amazing! Ahahahahaha!!"[pcms]
 
 
 *6693|
 ;旧ナンバー[vo_m s="rikujo0015"]
 [マイク 位置１][vo_mob s="R_rikujo0015"]
-[ns]陸上女子[nse]
-「す、凄い量が流れ込んでくりゅぅぅっ！[r]
-　こんな格好で子宮に注がれて、[r]
-　イッちゃうのぉぉぉぉっ！！」[pcms]
+[ns]Track and Field Girls[nse]
+"Such a huge amount is flowing in! Being filled up in this position,[r]
+I'm going to cummmmm!"[pcms]
 
 
 *6694|
 [fc]
-俺は、女の子達に搾り取られているような感覚のまま、[r]
-最後の一滴まで出し終えて、荒く息をつく。[pcms]
+I was left gasping for air as if the girls had drained me completely,[r]
+until the last drop was out.[pcms]
 
 
 *6695|
 [fc]
-[ns]克己[nse]
-「はぁっ……あぁぁっ……うううっ……」[pcms]
+[ns]Kazumi[nse]
+"Haa...aaah...uuuuh..."[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -814,28 +799,28 @@
 
 *6696|
 [fc]
-女の子が腰を引くと、マンコから俺の粘つく精子が、[r]
-どろっと零れ出した。[pcms]
+When the girl pulled her hips back, my sticky semen spilled out of her[r]
+pussy in globs.[pcms]
 
 
 *6697|
 [fc]
-そして、俺のチンコは愛液でテラテラと光りながら、[r]
-ガチガチの勃起状態を維持していた。[pcms]
+And then, my cock was still maintaining a rock-hard erection,[r]
+glistening with love juices.[pcms]
 
 
 *6698|
 ;旧ナンバー[vo_t s="tugumi0527"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0197"]
-[ns]丞実[nse]
-「兄ちゃん、包茎なのに、まだまだガッチガチじゃん！[r]
-　すごいすごい！　あははははっ！！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother, even though you're a foreskin, you're still so hard![r]
+Amazing, amazing! Ahahahaha!!"[pcms]
 
 
 *6699|
 [fc]
-丞実は、さも面白いことのように大笑いし、[r]
-俺のチンコをマジマジと見つめていた。[pcms]
+Tsugumi laughed heartily as if it were the funniest thing, staring[r]
+intently at my cock.[pcms]
 
 ;;//■イベントCG　mob_H005
 [evcg storage="mob_H005i"][trans_c cross time=500]
@@ -844,31 +829,29 @@
 *6700|
 ;旧ナンバー[vo_m s="infectionD0004"]
 [マイク 位置３][vo_mob s="R_onnakansenD0001"]
-[ns]女感染者Ｄ[nse]
-「終わったんなら、さっさとどきなさいよ！　この雌豚！」[pcms]
+[ns]Female Infected D[nse]
+"If you're done, move aside quickly! You sow!"[pcms]
 
 
 *6701|
 ;旧ナンバー[vo_m s="infectionE0003"]
 [マイク 位置７][vo_mob s="R_onnakansenE0001"]
-[ns]女感染者Ｅ[nse]
-「次は私の番です！　このペニスは私が使うんですわ！」[pcms]
+[ns]Female Infected E[nse]
+"It's my turn next! This penis is for me to use!"[pcms]
 
 
 *6702|
 ;旧ナンバー[vo_m s="infectionF0001"]
 [マイク 位置６][vo_mob s="R_onnakansenF0001"]
-[ns]女感染者Ｆ[nse]
-「私の方が先よ！[r]
-　私なんて、もう一ヶ月もしてないんだから！」[pcms]
+[ns]Female Infected F[nse]
+"I'm first! I haven't done it in over a month!"[pcms]
 
 
 *6703|
 ;旧ナンバー[vo_t s="tugumi0528"]
 [マイク 位置２ ch=t][vo_t s="R_tug_BIN0198"]
-[ns]丞実[nse]
-「ほらぁ、みんなが兄ちゃんのチンコ、[r]
-　取り合いしてるよぉ？」[pcms]
+[ns]Tsugumi[nse]
+"Look, everyone is fighting over big brother's cock."[pcms]
 
 [stopbgm]
 
@@ -878,25 +861,24 @@
 
 *6704|
 [fc]
-俺は、喧嘩には一切関わることが出来なかった。[r]
-それどころか、俺は人として見られていない。[pcms]
+I couldn't get involved in the fight at all. In fact, I wasn't even[r]
+seen as a person.[pcms]
 
 
 *6705|
 [fc]
-俺の希望や意見なんて……この場では全く尊重されていない。[pcms]
+My hopes and opinions... they're not respected at all in this place.[pcms]
 
 
 *6706|
 [fc]
-俺という人格は、ココにはないんだ。[pcms]
+There's no such thing as 'me' here.[pcms]
 
 
 *6707|
 [fc]
-そんな、呆然とする俺に、[r]
-取っ組み合いにまでなろうとしている人垣を乗り越えて、[r]
-一人の小柄な女の子が俺の身体にしがみついてきた。[pcms]
+In my daze, a small girl climbed over the brawling crowd and clung to[r]
+my body.[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -925,101 +907,94 @@
 *6708|
 ;旧ナンバー[vo_m s="cheer0001"]
 [マイク 位置１][vo_mob s="R_cheer0001"]
-[ns]チアー女子[nse]
-「ざんねんでした～、次はわたしの番だよ～？」[pcms]
+[ns]Cheerleader Girl[nse]
+"Too bad~ It's my turn now~?"[pcms]
 
 
 *6709|
 [fc]
-揉みくちゃになりながら、いがみ合っている女の子たちは、[r]
-目の前の小さな子に気が付いていない。[pcms]
+The girls, squabbling and getting rough with each other, hadn't[r]
+noticed the small child in front of them.[pcms]
 
 
 *6710|
 [fc]
-チアガールだろうか？[r]
-派手なカラーリングのコスチュームに身を包んだ、[r]
-小柄な女の子だった。[pcms]
+Could it be a cheerleader? She was a petite girl dressed in a flashy,[r]
+colorful costume.[pcms]
 
 
 *6711|
 ;旧ナンバー[vo_m s="cheer0002"]
 [マイク 位置１][vo_mob s="R_cheer0002"]
-[ns]チアー女子[nse]
-「このカチカチチンポは～、わたしが使うの～」[pcms]
+[ns]Cheer Girl[nse]
+"This rock-hard cock is mine to use~"[pcms]
 
 
 *6712|
 [fc]
-しかし、その愛くるしい顔とは裏腹に、[r]
-唇をぺろりと舐める表情は艶めかしさすら感じさせる。[pcms]
+However, contrary to her adorable face, the expression of her licking[r]
+her lips was even sensually enticing.[pcms]
 
 
 *6713|
 [fc]
-[ns]克己[nse]
-「くそっ……なんだって、こんな時に……バカチンコ！[r]
-　くそおぉおっ！」[pcms]
+[ns]Kazumi[nse]
+"Damn it... why does this have to happen now... stupid cock! Damn it[r]
+all!"[pcms]
 
 
 *6714|
 [fc]
-こんな状態になっているのに、[r]
-俺のチンコはまだまだ足りないと言いたげに、[r]
-天を向いたままだ。[pcms]
+Even in this state, my cock still seems to be saying it's not enough,[r]
+pointing straight up to the sky.[pcms]
 
 
 *6715|
 [fc]
-コイツさえ立ってなければ、[r]
-この騒ぎも終わるはずなのに……。[pcms]
+If only this thing would go down, then this commotion would end...[pcms]
 
 
 *6716|
 ;旧ナンバー[vo_m s="cheer0003"]
 [マイク 位置１][vo_mob s="R_cheer0003"]
-[ns]チアー女子[nse]
-「妹尾さんのお兄さんなんでしょ？[r]
-　このカチカチチンポ、借りるねえ！！」[pcms]
+[ns]Cheer Girl[nse]
+"You're Senoo-san's big brother, right? I'm borrowing this rock-hard[r]
+cock, okay?!"[pcms]
 
 
 *6717|
 [fc]
-丞実は、生来の気さくさのままの笑顔で、[r]
-その問いに大きく頷いてみせる。[pcms]
+Tsugumi, with her naturally friendly smile, nodded vigorously in[r]
+response to that question.[pcms]
 
 
 *6718|
 ;旧ナンバー[vo_t s="tugumi0529"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0199"]
-[ns]丞実[nse]
-「どんどん使っていいよ！[r]
-　思いっきり、みんなのオマンコで鍛えてあげて！[r]
-　みんなでシゴきあげて！」[pcms]
+[ns]Tsugumi[nse]
+"Go ahead and use it as much as you want! Train it thoroughly with[r]
+everyone's pussies! Stroke it together!"[pcms]
 
 
 *6719|
 ;旧ナンバー[vo_m s="cheer0004"]
 [マイク 位置１][vo_mob s="R_cheer0004"]
-[ns]チアー女子[nse]
-「やっぱりそうだよね～！[r]
-　さっすが、話がわっかるぅ！」[pcms]
+[ns]Cheer Girl[nse]
+"I knew it~! You really get it!"[pcms]
 
 
 *6720|
 ;旧ナンバー[vo_t s="tugumi0530"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0200"]
-[ns]丞実[nse]
-「あたしに、兄ちゃんのみっともないイキ顔、[r]
-　たっぷりと見せつけてよ！」[pcms]
+[ns]Tsugumi[nse]
+"Show me plenty of big brother's embarrassing climax face!"[pcms]
 
 
 *6721|
 ;旧ナンバー[vo_m s="cheer0005"]
 [マイク 位置１][vo_mob s="R_cheer0005"]
-[ns]チアー女子[nse]
-「妹尾さんが、ＯＫって言ってるよ～、[r]
-　これからたくさんイカせてあげるからねぇ？」[pcms]
+[ns]Cheer Girl[nse]
+"Senoo-san said it's okay~ I'm going to make you cum lots, okay?"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1032,130 +1007,124 @@
 
 *6722|
 [fc]
-[ns]克己[nse]
-「んくううぅうっ！」[pcms]
+[ns]Kazumi[nse]
+"Nnkuuuuuuh!"[pcms]
 
 [se_HLoop buf2 storage="se_sex02"]
 
 
 *6723|
 [fc]
-チアーの子は、自分のあそこと俺の腹にチンコを挟み込み、[r]
-ずりずりとシゴき始める。[pcms]
+The cheerleader girl began to stroke my cock between her pussy and my[r]
+stomach, rubbing it back and forth.[pcms]
 
 
 *6724|
 ;旧ナンバー[vo_m s="cheer0006"]
 [マイク 位置１][vo_mob s="R_cheer0006"]
-[ns]チアー女子[nse]
-「あふ～、堅くて筋っぽいのがコリコリしてるぅ～、[r]
-　たまらないのぉ～」[pcms]
+[ns]Cheer Girl[nse]
+"Ahfu~ It's so hard and veiny, it's irresistible~"[pcms]
 
 
 *6725|
 ;旧ナンバー[vo_t s="tugumi0531"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0201"]
-[ns]丞実[nse]
-「兄ちゃんのチンチンって……そんなに堅いの……？」[pcms]
+[ns]Tsugumi[nse]
+"Is big brother's dick... really that hard...?"[pcms]
 
 
 *6726|
 ;旧ナンバー[vo_m s="cheer0007"]
 [マイク 位置１][vo_mob s="R_cheer0007"]
-[ns]チアー女子[nse]
-「うん～……大きさはそうでもないけどぉ～、[r]
-　中がみっちり詰まってる感じで、すんごいコチコチ～。[r]
-　あはぁあぁ……」[pcms]
+[ns]Cheer Girl[nse]
+"Yeah~... It's not that big but~ it feels so tightly packed inside,[r]
+super stiff~. Ahhaaa..."[pcms]
 
 
 *6727|
 [fc]
-チアーの子が、心の底から喜びを表すような声を上げた。[pcms]
+The cheerleader girl let out a voice that seemed to express joy from[r]
+the bottom of her heart.[pcms]
 
 
 *6728|
 [fc]
-それは、俺の耳までとろけてしまうような、[r]
-かわいい響きの声だった。[pcms]
+It was a cute-sounding voice that seemed to melt even my ears.[pcms]
 
 
 *6729|
 ;旧ナンバー[vo_m s="cheer0008"]
 [マイク 位置１][vo_mob s="R_cheer0008"]
-[ns]チアー女子[nse]
-「入れるよぉ？[r]
-　わたしのトロトロおまんこに入れちゃうよぉ？」[pcms]
+[ns]Cheer Girl[nse]
+"I'm going to put it in, okay? I'm going to insert it into my dripping[r]
+wet pussy, okay?"[pcms]
 
 
 *6730|
 ;旧ナンバー[vo_t s="tugumi0532"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0202"]
-[ns]丞実[nse]
-「ほら、兄ちゃんも何か言ってあげないと」[pcms]
+[ns]Tsugumi[nse]
+"Hey, big brother, you should say something too."[pcms]
 
 
 *6731|
 [fc]
-[ns]克己[nse]
-「……あ……ああぁ……。[r]
-　くそっ……いいように……弄ぶだけだろうがッ！」[pcms]
+[ns]Kazumi[nse]
+"...Ah... ahh... Damn it... just playing with me as you like!"[pcms]
 
 
 *6732|
 ;旧ナンバー[vo_t s="tugumi0533"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0203"]
-[ns]丞実[nse]
-「ふふふ、本当はうれしいくせに……ふふっ」[pcms]
+[ns]Tsugumi[nse]
+"Fufufu, you're actually happy about it... fufu."[pcms]
 
 
 *6733|
 [fc]
-丞実は、自分ではするつもりがないのか、[r]
-本当になぶられる俺のことを見るのが、[r]
-たまらないみたいだった。[pcms]
+Tsugumi seemed genuinely delighted to watch me being toyed with, as if[r]
+she had no intention of doing it herself.[pcms]
 
 
 *6734|
 [fc]
-変わった性癖だけど、それは今は良いとして。[r]
-俺としては、ここの学園の生徒がみんな、[r]
-こんなにもセックスに慣れていることの方が驚きだった。[pcms]
+It was a strange fetish, but for now, what surprised me more was how[r]
+accustomed all the students at this academy were to sex.[pcms]
 
 
 *6735|
 ;旧ナンバー[vo_t s="tugumi0534"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0204"]
-[ns]丞実[nse]
-「まァ～た情けない声出して。[r]
-　たっぷり射精しちゃおうよ、兄ちゃん」[pcms]
+[ns]Tsugumi[nse]
+"You're making such a pathetic sound again. Let's cum lots, big[r]
+brother."[pcms]
 
 
 *6736|
 ;旧ナンバー[vo_m s="cheer0009"]
 [マイク 位置１][vo_mob s="R_cheer0009"]
-[ns]チアー女子[nse]
-「こんなに堅くしてるんだもん、[r]
-　射精したいんだよねえぇ？[r]
-　したく無いなんて言ったら嘘だよね～？」[pcms]
+[ns]Cheer Girl[nse]
+"You're so hard like this, you want to ejaculate, right? It would be a[r]
+lie if you said you didn't want to~"[pcms]
 
 
 *6737|
 [fc]
-チアーの子は、俺にしがみついている身体を器用に動かして、[r]
-挿入位置にチンコをあてがってくる。[pcms]
+The cheerleader girl skillfully moved her body clinging to me and[r]
+positioned my cock for insertion.[pcms]
 
 
 *6738|
 [fc]
-そして、俺のことを見上げるようにしながら、[r]
-ぺろっと舌なめずりした。[pcms]
+Then, looking up at me, she licked her lips with a flick of her[r]
+tongue.[pcms]
 
 
 *6739|
 ;旧ナンバー[vo_m s="cheer0010"]
 [マイク 位置１][vo_mob s="R_cheer0010"]
-[ns]チアー女子[nse]
-「それじゃあ、いくよ～？」[pcms]
+[ns]Cheer Girl[nse]
+"So here I go~?"[pcms]
 
 [stop_seHLoop buf2]
 ;;//■イベントCG　mob_H006
@@ -1164,8 +1133,8 @@
 
 *6740|
 [fc]
-腰を大きく持ち上げると、そのまま反動を利用して、[r]
-一気に根本まで挿入させてくる。[pcms]
+Lifting her hips high, she then used the momentum to impale herself[r]
+down to the base all at once.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1181,26 +1150,27 @@
 *6741|
 ;旧ナンバー[vo_m s="cheer0011"]
 [マイク 位置１][vo_mob s="R_cheer0011"]
-[ns]チアー女子[nse]
-「んふあああぁぁぁぁああああぁぁっ！！」[pcms]
+[ns]Cheer Girl[nse]
+"Nnfuaaaaaaaaahhhhh!!"[pcms]
 
 
 *6742|
 [fc]
-[ns]克己[nse]
-「くううううっっ！」[pcms]
+[ns]Kazumi[nse]
+"Kuuuuuhhh!"[pcms]
 
 
 *6743|
 [fc]
-チアーの子は、耳の奥が痒くなるような甘い声で、[r]
-響きわたる喘ぎ声を上げていた。[pcms]
+The cheerleader girl let out a sweet moan that tickled the back of the[r]
+ears.[pcms]
 
 
 *6744|
 [fc]
-軽くイッてしまったのか、ぶるぶると震えを見せると、[r]
-そのまま身体の反動を生かして、激しく上下動を始める。[pcms]
+She might have climaxed lightly as she showed a trembling shiver and[r]
+then started moving up and down vigorously using the momentum of her[r]
+body.[pcms]
 
 [se_HLoop buf2 storage="se_sex03"]
 
@@ -1208,36 +1178,35 @@
 *6745|
 ;旧ナンバー[vo_m s="cheer0012"]
 [マイク 位置１][vo_mob s="R_cheer0012"]
-[ns]チアー女子[nse]
-「あんふぃっ！　んふううっ！　あふぃいぃぃっ！」[pcms]
+[ns]Cheer Girl[nse]
+"Anfiih! Nfuuhh! Afiiiih!"[pcms]
 
 
 *6746|
 ;旧ナンバー[vo_t s="tugumi0535"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0205"]
-[ns]丞実[nse]
-「すごいすごい！　こんな動き始めて見たよ！[r]
-　肉オナホ！　あははっ！！　肉オナニーマシーン！！[r]
-　すっごい動きぃ！！　あはははっ！！」[pcms]
+[ns]Tsugumi[nse]
+"Amazing, amazing! I've never seen such movement before! Flesh[r]
+onahole! Ahaha!! Flesh masturbation machine!! Such incredible[r]
+movements!! Ahahah!!"[pcms]
 
 
 *6747|
 [fc]
-[ns]克己[nse]
-「ああっ、あくううううっっ！」[pcms]
+[ns]Kazumi[nse]
+"Aahh, akuuuuuuhhh!"[pcms]
 
 
 *6748|
 [fc]
-さっきの子よりもマンコが小さくて、[r]
-ただでさえ締め付けが激しいのに、[r]
-動きがダイナミックだった。[pcms]
+Her pussy was tighter than the previous girl's, and the movements were[r]
+dynamic despite the intense tightness.[pcms]
 
 
 *6749|
 [fc]
-駅弁スタイルなのに、まるで騎上位でしてるみたいな、[r]
-激しい肉のぶつかり合いだ。[pcms]
+It was like a standing carry style but felt like being ridden cowgirl[r]
+style due to the intense clashing of flesh.[pcms]
 
 ;;//■イベントCG　mob_H006
 [evcg storage="mob_H006c"][trans_c cross time=500]
@@ -1246,53 +1215,50 @@
 *6750|
 ;旧ナンバー[vo_m s="cheer0013"]
 [マイク 位置１][vo_mob s="R_cheer0013"]
-[ns]チアー女子[nse]
-「あああぁぁっ！　チンコすごい！　あふぁぁっ！」[pcms]
+[ns]Cheer Girl[nse]
+"Aaaaahhh! Your cock is amazing! Ahfahhh!"[pcms]
 
 
 *6751|
 ;旧ナンバー[vo_t s="tugumi0536"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0206"]
-[ns]丞実[nse]
-「本当にすごいよ、[r]
-　あんたって、元々こんなエロマシーンだったんじゃないの？[r]
-　あははっ！」[pcms]
+[ns]Tsugumi[nse]
+"It's really incredible, were you always such an erotic machine?[r]
+Ahaha!"[pcms]
 
 
 *6752|
 [fc]
-[ns]克己[nse]
-「は、激しすぎるっ！　出ちまうよぉぉぉっ！」[pcms]
+[ns]Kazumi[nse]
+"It's too intense! I'm going to cummm!"[pcms]
 
 
 *6753|
 [fc]
-出したばかりで敏感になっている亀頭が、[r]
-すさまじい圧力と摩擦に耐えかねて、[r]
-一気に爆発しようとしていた。[pcms]
+The glans, having just ejaculated and become sensitive, could not[r]
+withstand the tremendous pressure and friction and was about to[r]
+explode again.[pcms]
 
 
 *6754|
 ;旧ナンバー[vo_t s="tugumi0537"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0207"]
-[ns]丞実[nse]
-「兄ちゃん、もうイッちゃうの！？[r]
-　肉オナホマシーンにチンポしごかれて、いっちゃうの！？[r]
-　ねぇ～……ふふっ……」[pcms]
+[ns]Tsugumi[nse]
+"Big brother, are you going to cum again!? Getting jerked off by a[r]
+flesh onahole machine, you're going to cum!? Heehee..."[pcms]
 
 
 *6755|
 ;旧ナンバー[vo_m s="cheer0014"]
 [マイク 位置１][vo_mob s="R_cheer0014"]
-[ns]チアー女子[nse]
-「いいよっ！　イッてもいいよっ！[r]
-　いっぱいぶちまけていいよっ！」[pcms]
+[ns]Cheer Girl[nse]
+"It's okay! You can cum! You can let it all out!"[pcms]
 
 
 *6756|
 [fc]
-[ns]克己[nse]
-「くううぅぅぅ！　ああぁぁぁぁあああぁっ！」[pcms]
+[ns]Kazumi[nse]
+"Kuuuuuh! Aaaaahhhhhhh!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -1305,30 +1271,29 @@
 
 *6757|
 [fc]
-初っぱなからの激しいスパートに、俺は一気に上り詰めて、[r]
-精液を解き放っていた。[pcms]
+From the very start of the intense bout, I was quickly reaching the[r]
+peak and releasing my semen.[pcms]
 
 
 *6758|
 ;旧ナンバー[vo_m s="cheer0015"]
 [マイク 位置１][vo_mob s="R_cheer0015"]
-[ns]チアー女子[nse]
-「んあああぁぁあぁっ！　熱いのが出てるぅぅっ！[r]
-　ひぁああぁぁあぁっ！！！」[pcms]
+[ns]Cheer Girl[nse]
+"Naaaaahhh! Your hot cum is coming out! Hiaaaaahhh!!"[pcms]
 
 [se_HLoop buf2 storage="se_sex03"]
 
 
 *6759|
 [fc]
-でも、チアーの子は俺の射精にも怯むことなく、[r]
-結合部から精液をまき散らしながら、腰を動かし続けていた。[pcms]
+But the cheerleader girl, undaunted by my ejaculation, continued to[r]
+move her hips, scattering semen from our joined parts.[pcms]
 
 
 *6760|
 [fc]
-生卵を踏みつぶすような音を響かせ、[r]
-俺のチンコを萎えさせる暇も与えない。[pcms]
+The sound of crushing a raw egg echoed as she didn't give my cock a[r]
+chance to go limp.[pcms]
 
 ;;//■イベントCG　mob_H006
 [evcg storage="mob_H006e"][trans_c cross time=500]
@@ -1337,34 +1302,33 @@
 *6761|
 ;旧ナンバー[vo_t s="tugumi0538"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0208"]
-[ns]丞実[nse]
-「兄ちゃんが搾り取られてるっ！[r]
-　もっと……兄ちゃんのだらしない顔を見せてっ！[r]
-　情けない声を聞かせてぇ！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother is being milked! Show me more... your pathetic face! Let[r]
+me hear your pitiful voice!"[pcms]
 
 
 *6762|
 ;旧ナンバー[vo_m s="cheer0016"]
 [マイク 位置１][vo_mob s="R_cheer0016"]
-[ns]チアー女子[nse]
-「あふぁぁあっ！　い、いつもと違うよぉぉっ！」[pcms]
+[ns]Cheerleader Girl[nse]
+"Ahfahhh! It's different from usual!"[pcms]
 
 
 *6763|
 [fc]
-丞実もチアーの子も、お互いが興奮しあっていて、[r]
-声が届いていない。[pcms]
+Both Tsugumi and the cheerleader girl were exciting each other, their[r]
+voices not reaching one another.[pcms]
 
 
 *6764|
 [fc]
-俺は、射精したばかりにも関わらず、[r]
-チンコから血が引いていかない状態だった。[pcms]
+Despite having just ejaculated, my cock was not losing any blood; it[r]
+was still hard.[pcms]
 
 
 *6765|
 [fc]
-つまり、勃起しっぱなしだって事――[pcms]
+In other words, I was still erect--[pcms]
 
 ;;//■イベントCG　mob_H006
 [evcg storage="mob_H006f"][trans_c cross time=500]
@@ -1373,15 +1337,15 @@
 *6766|
 ;旧ナンバー[vo_m s="cheer0017"]
 [マイク 位置１][vo_mob s="R_cheer0017"]
-[ns]チアー女子[nse]
-「い、いっつも、駅弁みたいに持ち上げられて、[r]
-　ずんずん突き込まれてるのにぃいっ！」[pcms]
+[ns]Cheer Girl[nse]
+"I'm always being lifted up like a station bento and thrust into[r]
+hard!"[pcms]
 
 
 *6767|
 [fc]
-[ns]克己[nse]
-「くううっ！　こ、こんな子が、いつもセックスだって？」[pcms]
+[ns]Kazumi[nse]
+"Kuuuh! This girl, she's always having sex?"[pcms]
 
 ;;//■イベントCG　mob_H006
 [evcg storage="mob_H006g"][trans_c cross time=500]
@@ -1390,17 +1354,15 @@
 *6768|
 ;旧ナンバー[vo_m s="cheer0018"]
 [マイク 位置１][vo_mob s="R_cheer0018"]
-[ns]チアー女子[nse]
-「い、いっつも、オナホールみたいにマンコ使われてるから、[r]
-　たまには、こ、こうやって、チンポのこと、[r]
-　肉バイブにしたかったのぉぉぉっ！」[pcms]
+[ns]Cheer Girl[nse]
+"I'm always being used like a pussy onahole, so sometimes, I wanted to[r]
+use a cock like a meat vibrator!"[pcms]
 
 
 *6769|
 [fc]
-[ns]克己[nse]
-「な、なんていやらしい子なんだっ！[r]
-　くううぅっ！　くあああぁぁぁあっ！」[pcms]
+[ns]Kazumi[nse]
+"What a lewd girl! Kuuuh! Kuaaaaahhh!"[pcms]
 
 ;;//■イベントCG　mob_H006
 [evcg storage="mob_H006h"][trans_c cross time=500]
@@ -1409,9 +1371,9 @@
 *6770|
 ;旧ナンバー[vo_m s="cheer0019"]
 [マイク 位置１][vo_mob s="R_cheer0019"]
-[ns]チアー女子[nse]
-「いいよぉっ！　このチンポ気持ちいぃっ！[r]
-　肉バイブ最高なのぉぉぉっ！」[pcms]
+[ns]Cheerleader Girl[nse]
+"It feels so good! This cock feels amazing! Meat vibrator is the[r]
+best!"[pcms]
 
 ;;//■イベントCG　mob_H006
 [evcg storage="mob_H006i"][trans_c cross time=500]
@@ -1419,21 +1381,21 @@
 
 *6771|
 [fc]
-首からつり下がっているオナホマシーンが、[r]
-まったく遠慮のない上下運動でチンコを責めてくる。[pcms]
+The onahole machine hanging from her neck came at my cock with[r]
+relentless up and down movements.[pcms]
 
 
 *6772|
 [fc]
-チアの練習で足腰が鍛えられているのか、[r]
-もともと小さなマンコは、すさまじい締め付けとぬるぬる具合で、[r]
-最高の名器に仕上がっていた。[pcms]
+Perhaps her legs and hips were strengthened by cheer practice; her[r]
+small pussy was an amazing instrument with incredible tightness and[r]
+wetness.[pcms]
 
 
 *6773|
 [fc]
-[ns]克己[nse]
-「ま、また出ちまうよぉぉぉぉっ！」[pcms]
+[ns]Kazumi[nse]
+"I'm going to cum again!"[pcms]
 
 ;;//■イベントCG　mob_H006
 [evcg storage="mob_H006j"][trans_c cross time=500]
@@ -1442,28 +1404,28 @@
 *6774|
 ;旧ナンバー[vo_t s="tugumi0539"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0209"]
-[ns]丞実[nse]
-「もう出るのっ！？　兄ちゃんのその顔、[r]
-　もっと見せてぇぇっ！　あたしに、みせてよぉ……」[pcms]
+[ns]Tsugumi[nse]
+"You're going to cum again!? Show me that face of yours, more! Show it[r]
+to me..."[pcms]
 
 
 *6775|
 [fc]
-自分でも異常な精力だと思う。[r]
-でも、俺のチンコは、今まさに発射までたどり着こうとしていた。[pcms]
+I thought my sexual energy was abnormal. But my cock was about to[r]
+shoot again right now.[pcms]
 
 
 *6776|
 ;旧ナンバー[vo_m s="cheer0020"]
 [マイク 位置１][vo_mob s="R_cheer0020"]
-[ns]チアー女子[nse]
-「堅いいぃぃぃっ！　肉バイブもっとぉぉぉぉっ！」[pcms]
+[ns]Cheerleader Girl[nse]
+"It's so hard! More meat vibrator!"[pcms]
 
 
 *6777|
 [fc]
-[ns]克己[nse]
-「んくああぁぁああぁぁぁっ！！」[pcms]
+[ns]Kazumi[nse]
+"Nkuuuaaaahhhhh!!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -1477,16 +1439,15 @@
 *6778|
 ;旧ナンバー[vo_m s="cheer0021"]
 [マイク 位置１][vo_mob s="R_cheer0021"]
-[ns]チアー女子[nse]
-「あっ……あっ！！　あっ！！！！[r]
-　子宮に熱いの来たよぉぉぉぉっ！[r]
-　ひぁあぁ……あぁ……まだたりないぃ！　もっとほしいよぉ！」[pcms]
+[ns]Cheer Girl[nse]
+"Ah... Ah!! Ah!!!! The hot stuff is hitting my womb! Hiaaah... Ah...[r]
+It's not enough! I want more!"[pcms]
 
 
 *6779|
 [fc]
-チアーの子は、感じながらもイケていないようで、[r]
-俺の射精を受け止めながらも、腰の動きはおさまらない。[pcms]
+The cheerleader girl seemed to be feeling it but not climaxing,[r]
+continuing to move her hips even as she caught my ejaculation.[pcms]
 
 ;;//■イベントCG　mob_H006
 [evcg storage="mob_H006l"][trans_c cross time=500]
@@ -1495,9 +1456,9 @@
 *6780|
 ;旧ナンバー[vo_t s="tugumi0540"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0210"]
-[ns]丞実[nse]
-「あはは！　兄ちゃん！　顔がだらしなくなってるっ！！[r]
-　あははっ！　兄ちゃんのイキ顔！　あっははっ！！」[pcms]
+[ns]Tsugumi[nse]
+"Ahaha! Big brother! Your face is so sloppy!! Ahaha! Your cum face![r]
+Ahaha!!"[pcms]
 
 ;;//■イベントCG　mob_H006
 [evcg storage="mob_H006m"][trans_c cross time=500]
@@ -1506,48 +1467,48 @@
 *6781|
 ;旧ナンバー[vo_m s="cheer0022"]
 [マイク 位置１][vo_mob s="R_cheer0022"]
-[ns]チアー女子[nse]
-「もうっ！　こらえ性のない早漏チンポなんだからっ！[r]
-　生で何回も出したら妊娠しちゃうでしょ！」[pcms]
+[ns]Cheer Girl[nse]
+"Geez! Such an impatient premature ejaculator! If you keep cumming[r]
+inside like this, I'll get pregnant!"[pcms]
 
 
 *6782|
 [fc]
-そう言いながらも、チアーの子は更に搾り取るつもりなのか、[r]
-チンコに食いついたまま離れる様子もない。[pcms]
+Even as she said that, the cheerleader girl seemed intent on milking[r]
+me further, clinging to my cock without any sign of letting go.[pcms]
 
 
 *6783|
 [fc]
-[ns]克己[nse]
-「も、もう許してくれぇ……」[pcms]
+[ns]Kazumi[nse]
+"Please, have mercy..."[pcms]
 
 
 *6784|
 ;旧ナンバー[vo_t s="tugumi0541"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0211"]
-[ns]丞実[nse]
-「あぁああぁっ！　兄ちゃんっ！　最高だよぉぉぉっ！[r]
-　だらしなくて、早漏で、みっともなくてぇぇぇっ！」[pcms]
+[ns]Tsugumi[nse]
+"Aaaahh! Big brother! You're the best! So sloppy, premature, and[r]
+disgraceful!"[pcms]
 
 
 *6785|
 [fc]
-[ns]克己[nse]
-「こんなに出したら……死んじまうよぉぉ……」[pcms]
+[ns]Kazumi[nse]
+"If I keep cumming like this... I'll die..."[pcms]
 
 
 *6786|
 [fc]
-俺は、丞実にだらしないと言われようと、[r]
-チアーの子に早漏と言われようとも、[r]
-これ以上は無理だと理解していた。[pcms]
+I understood that I couldn't go on any longer, no matter if Tsugumi[r]
+called me sloppy or the cheerleader girl called me a premature[r]
+ejaculator.[pcms]
 
 
 *6787|
 [fc]
-なのに、堅いままでマンコの中に収まっているチンコに、[r]
-裏切り者と叫びたい気持ちになる。[pcms]
+Yet my cock remained hard inside her pussy, making me want to scream[r]
+traitor at it.[pcms]
 
 ;;//■イベントCG　mob_H006
 [evcg storage="mob_H006n"][trans_c cross time=500]
@@ -1556,47 +1517,47 @@
 *6788|
 ;旧ナンバー[vo_m s="cheer0023"]
 [マイク 位置１][vo_mob s="R_cheer0023"]
-[ns]チアー女子[nse]
-「ダメだよっ！　ぜ、絶対にっ、許さないからぁぁっ！」[pcms]
+[ns]Cheer Girl[nse]
+"No way! I absolutely won't forgive you!"[pcms]
 
 
 *6789|
 [fc]
-[ns]克己[nse]
-「無理なんだ、もう俺には……」[pcms]
+[ns]Kazumi[nse]
+"It's impossible for me now..."[pcms]
 
 
 *6790|
 [fc]
-でも、チアーの子は言葉通り、絶対に許さない勢いで、[r]
-柔らかい身体を俺にぶつけるセックスを続けている。[pcms]
+But the cheerleader girl, true to her words, continued to have sex[r]
+with me with such intensity, slamming her soft body against mine.[pcms]
 
 
 *6791|
 ;旧ナンバー[vo_m s="cheer0024"]
 [マイク 位置１][vo_mob s="R_cheer0024"]
-[ns]チアー女子[nse]
-「わたしがイクまでやめたげないのっ！[r]
-　イクまで堅くしてなかったら、許さないんだからっ！」[pcms]
+[ns]Cheer Girl[nse]
+"I won't stop until I cum! If you don't stay hard until I do, I won't[r]
+forgive you!"[pcms]
 
 
 *6792|
 [fc]
-[ns]克己[nse]
-「くおぉぉぉぉぉおぉっ！」[pcms]
+[ns]Kazumi[nse]
+"Kuoohhhhhhh!"[pcms]
 
 
 *6793|
 ;旧ナンバー[vo_t s="tugumi0542"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0212"]
-[ns]丞実[nse]
-「ほらほら、しっかりしないと、兄ちゃんっ！[r]
-　がんばれっ！　がーんばれっ！　あははっ！！」[pcms]
+[ns]Tsugumi[nse]
+"Come on, come on, you have to do better, big brother! Hang in there![r]
+Hang in there! Ahaha!!"[pcms]
 
 
 *6794|
 [fc]
-丞実が、再びアナルと金玉に手を伸ばしてくる。[pcms]
+Tsugumi reaches out again to my anus and testicles.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1612,73 +1573,74 @@
 
 *6795|
 [fc]
-思わず叫んでしまうくらい強烈で、[r]
-特に尻の穴をいじられると頭がおかしくなりそうだった。[pcms]
+The sensation was so intense that I almost screamed, especially when[r]
+she played with my ass, it felt like my head was going to go crazy.[pcms]
 
 
 *6796|
 ;旧ナンバー[vo_m s="cheer0025"]
 [マイク 位置１][vo_mob s="R_cheer0025"]
-[ns]チアー女子[nse]
-「さっきよりも堅く膨らんで来たよぉぉぉっ！」[pcms]
+[ns]Cheer Girl[nse]
+"It's getting harder and swelling more than before!"[pcms]
 
 
 *6797|
 [fc]
-チアーの子が喜びの声を上げる。[r]
-でも、俺にとっては命を削るようなセックスになってきている。[pcms]
+The cheerleader girl raises a voice of joy. But for me, the sex was[r]
+becoming life-threatening.[pcms]
 
 
 *6798|
 ;旧ナンバー[vo_m s="cheer0026"]
 [マイク 位置１][vo_mob s="R_cheer0026"]
-[ns]チアー女子[nse]
-「やぁぁあぁっ！　そのままっ！　もっと堅くしてぇぇぇっ！」[pcms]
+[ns]Cheerleader Girl[nse]
+"Yaaah! Just like that! Make it harder!"[pcms]
 
 
 *6799|
 [fc]
-チアーの子が、小さなお尻を左右に振って、[r]
-新しい刺激を与えてくる。[pcms]
+The cheerleader girl swung her small butt from side to side, bringing[r]
+new stimulation.[pcms]
 
 
 *6800|
 [fc]
-でも、上下の動きは衰えることなく、[r]
-激しいグラインドが続いていた。[pcms]
+But the up and down movement didn't weaken, and the intense grinding[r]
+continued.[pcms]
 
 
 *6801|
 ;旧ナンバー[vo_m s="cheer0027"]
 [マイク 位置１][vo_mob s="R_cheer0027"]
-[ns]チアー女子[nse]
-「あっ！　ここっ！　ココがいいよぉぉぉぉっ！」[pcms]
+[ns]Cheerleader Girl[nse]
+"Ah! Right there! That spot feels so good!"[pcms]
 
 
 *6802|
 [fc]
-チアーの子が、少し背を丸めてお腹を引っ込めたかと思うと、[r]
-更に甘い声を張り上げて、喘ぎ始める。[pcms]
+The cheerleader girl arched her back slightly and sucked in her[r]
+stomach, then began to moan with an even sweeter voice.[pcms]
 
 
 *6803|
 ;旧ナンバー[vo_m s="cheer0028"]
 [マイク 位置１][vo_mob s="R_cheer0028"]
-[ns]チアー女子[nse]
-「これっ！　これいいっ！　ここ、気持ちいいとこに当たる！」[pcms]
+[ns]Cheer Girl[nse]
+"This! This is good! It's hitting the right spot and it feels[r]
+amazing!"[pcms]
 
 
 *6804|
 [fc]
-さっきの暴力的な喘ぎ声が淫媚で甘いものに変わり、[r]
-夢中になって腰を振り始める。[pcms]
+The violent moans from before turned into lascivious and sweet ones as[r]
+she began to frantically move her hips.[pcms]
 
 
 *6805|
 ;旧ナンバー[vo_m s="cheer0029"]
 [マイク 位置１][vo_mob s="R_cheer0029"]
-[ns]チアー女子[nse]
-「イグっ！　イグよぉぉぉっ！」[pcms]
+[ns]Cheer Girl[nse]
+"I'm cumming! I'm gonna cum!"[pcms]
 
 ;;//se_sex03.ogg(LOOP)
 [se_HLoop buf2 storage="se_sex03"]
@@ -1686,52 +1648,51 @@
 
 *6806|
 [fc]
-[ns]克己[nse]
-「んくうううああぁぁっ！」[pcms]
+[ns]Kazumi[nse]
+"Nkuuuuuaaaaah!"[pcms]
 
 
 *6807|
 [fc]
-腰の動きの激しさが増し、[r]
-たまらなくなったのか、絶頂の近さを連呼し始める。[pcms]
+As the movement of her hips intensified, she began to chant about the[r]
+nearness of her climax uncontrollably.[pcms]
 
 
 *6808|
 ;旧ナンバー[vo_m s="cheer0030"]
 [マイク 位置１][vo_mob s="R_cheer0030"]
-[ns]チアー女子[nse]
-「イグっ！　イグっ！　イグぅぅぅぅぅっ！」[pcms]
+[ns]Cheerleader Girl[nse]
+"Cumming! Cumming! I'm cuuummming!"[pcms]
 
 
 *6809|
 [fc]
-甘い声が獣じみたものに変わっていき、[r]
-身体が弓なりに反っていく。[pcms]
+Her sweet voice turned beast-like, and her body arched like a bow.[pcms]
 
 
 *6810|
 ;旧ナンバー[vo_m s="cheer0031"]
 [マイク 位置１][vo_mob s="R_cheer0031"]
-[ns]チアー女子[nse]
-「ダメぇぇぇぇっ！　イグぅぅぅぅぅぅうぅっ！！」[pcms]
+[ns]Cheerleader Girl[nse]
+"No way! I'm cuuummming!!"[pcms]
 
 
 *6811|
 [fc]
-[ns]克己[nse]
-「ぐわぁぁぁああぁっ！」[pcms]
+[ns]Kazumi[nse]
+"Guwaaaaaaaah!"[pcms]
 
 
 *6812|
 [fc]
-イッてしまったチアーの子のマンコが、[r]
-キツく収縮してチンコを吸い上げるように蠢く。[pcms]
+The cheerleader girl's pussy, having just climaxed, clenched tightly[r]
+and writhed as if sucking up my cock.[pcms]
 
 
 *6813|
 [fc]
-俺は、その刺激に促されるように、[r]
-三度目の射精を、そのマンコにぶつけていった。[pcms]
+Driven by that stimulation, I released my third ejaculation into that[r]
+pussy.[pcms]
 
 [stop_seHLoop buf2]
 
@@ -1746,8 +1707,8 @@
 
 *6814|
 [fc]
-[ns]克己[nse]
-「ふっ……あがぁぁ……ああぁぁ……」[pcms]
+[ns]Kazumi[nse]
+"Fuh...agaaa...aaaaah..."[pcms]
 
 ;;//■イベントCG　mob_H006
 [evcg storage="mob_H006r"][trans_c cross time=500]
@@ -1756,16 +1717,15 @@
 *6815|
 ;旧ナンバー[vo_m s="cheer0032"]
 [マイク 位置１][vo_mob s="R_cheer0032"]
-[ns]チアー女子[nse]
-「あぁあ゛ァああぁ！！！　イグぅぅぅぅぅぅうぅっ！！」[pcms]
+[ns]Cheer Girl[nse]
+"Aaaahhh!!! I'm cuuummming!!"[pcms]
 
 
 *6816|
 ;旧ナンバー[vo_t s="tugumi0543"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0213"]
-[ns]丞実[nse]
-「兄ちゃんすごいよぉぉっ！[r]
-　立派な肉バイブになってるぅっっ！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother is amazing! You've become a splendid meat vibrator!"[pcms]
 
 ;;//■イベントCG　mob_H006
 [evcg storage="mob_H006s"][trans_c cross time=500]
@@ -1773,30 +1733,30 @@
 
 *6817|
 [fc]
-でも、俺にはその丞実の声が遠くかすんで聞こえ始めていた。[pcms]
+But to me, Tsugumi's voice was starting to sound distant and faint.[pcms]
 
 
 *6818|
 [fc]
-意識がもうろうとしてくる。[pcms]
+My consciousness was becoming hazy.[pcms]
 
 
 *6819|
 [fc]
-いがみ合っていた女の子たちが、[r]
-決壊するように俺の方になだれ込んでくる。[pcms]
+The girls who had been at odds with each other were now collapsing[r]
+towards me in a deluge.[pcms]
 
 
 *6820|
 ;旧ナンバー[vo_t s="tugumi0544"]
 [マイク 位置９ ch=t][vo_t s="R_tug_BIN0214"]
-[ns]丞実[nse]
-「もっとぉぉっ！　誰かもっと兄ちゃんを喜ばせてぇぇっ！」[pcms]
+[ns]Tsugumi[nse]
+"More! Someone please make big brother even happier!"[pcms]
 
 
 *6821|
 [fc]
-そして……俺の意識は、そのままフェードアウトしていった。[pcms]
+And then... my consciousness faded out just like that.[pcms]
 
 
 *kaisou_end

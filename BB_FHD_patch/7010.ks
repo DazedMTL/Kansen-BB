@@ -1,5 +1,5 @@
-;[ns]テスト[nse]
-;「エラー回避のダミーテキストです」[pcms]
+[ns]Test[nse]
+"This is a dummy text for error avoidance."[pcms]
 
 
 *7010_TOP
@@ -50,21 +50,21 @@
 
 *8191|
 [fc]
-階段で女の子たちに捕まった俺は、[r]
-ちんぐり返しにされて押さえつけられていた。[pcms]
+I was caught by the girls on the stairs, flipped over, and pinned[r]
+down.[pcms]
 
 
 *8192|
 [fc]
-群がってくる女の子から伸びてくる手に服を引き裂かれ、[r]
-ズボンをはぎ取られて、下半身が丸出しになってしまう。[pcms]
+Hands from the swarming girls tore at my clothes, pulled off my pants,[r]
+and left my lower half completely exposed.[pcms]
 
 
 *8193|
 ;旧ナンバー[vo_m s="kajiwara0001"]
 [マイク 位置１][vo_mob s="R_kaji0001"]
-[ns]梶原[nse]
-「長峰先生、わたしドキドキが止まりません」[pcms]
+[ns]Kajiwara[nse]
+"Ms. Nagamine, I can't stop feeling excited."[pcms]
 
 
 *8194|
@@ -75,72 +75,71 @@
 *8195|
 ;旧ナンバー[vo_m s="nagamine0001"]
 [マイク 位置２][vo_mob s="R_naga0001"]
-[ns]長峰[nse]
-「それはいけませんね。[r]
-　私たちは、親密圏をもう少し軽くしなければなりません。[r]
-　みんなでセックスというのはうってつけだと言えるでしょう」[pcms]
+[ns]Nagamine[nse]
+"That won't do. We need to lighten up our intimate zone a bit more.[r]
+Group sex seems to be the perfect solution."[pcms]
 
 
 *8196|
 [fc]
-[ns]克己[nse]
-「くそっ……すごい馬鹿力で……」[pcms]
+[ns]Kazumi[nse]
+"Damn... such incredible brute strength..."[pcms]
 
 
 *8197|
 [fc]
-俺は、身体をひねって上半身をばたつかせるが、[r]
-すぐに数人がかりで取り押さえられてしまう。[pcms]
+I twist my body and flail my upper half, but I'm quickly subdued by[r]
+several people.[pcms]
 
 
 *8198|
 [fc]
-その、一人一人の力の強さは尋常なものではなく、[r]
-女の子とは思えないくらいのものだった。[pcms]
+The strength of each one of them was extraordinary, more than one[r]
+would expect from girls.[pcms]
 
 
 *8199|
 ;旧ナンバー[vo_m s="nagamine0002"]
 [マイク 位置２][vo_mob s="R_naga0002"]
-[ns]長峰[nse]
-「それにしても、男子禁制の学舎に無断で[r]
-　入り込んでくるなんて許せませんね！[r]
-　梶原さんは、なにか良い発案がありますか？」[pcms]
+[ns]Nagamine[nse]
+"Even so, it's unforgivable for you to sneak into a boys-prohibited[r]
+academy without permission! Kajiwara-san, do you have any good[r]
+suggestions?"[pcms]
 
 
 *8200|
 ;旧ナンバー[vo_m s="kajiwara0002"]
 [マイク 位置１][vo_mob s="R_kaji0002"]
-[ns]梶原[nse]
-「先生、こういう破廉恥な男性には、[r]
-　キツイお仕置きが必要だと思います」[pcms]
+[ns]Kajiwara[nse]
+"Ms. Nagamine, I think a harsh punishment is necessary for such a[r]
+shameless man."[pcms]
 
 
 *8201|
 ;旧ナンバー[vo_m s="nagamine0003"]
 [マイク 位置２][vo_mob s="R_naga0003"]
-[ns]長峰[nse]
-「全くその通りですね。[r]
-　軟弱なオスガキのくせに、どうしてくれましょうか」[pcms]
+[ns]Nagamine[nse]
+"Exactly right. What shall we do with such a weak little boy?"[pcms]
 
 
 *8202|
 [fc]
-長峰と呼ばれている女教師が、舌なめずりしながら、[r]
-俺の顔の上にストッキングの恥丘を押しつけてくる。[pcms]
+The female teacher called Nagamine licks her lips and presses her[r]
+stocking-clad crotch against my face.[pcms]
 
 
 *8203|
 [fc]
-[ns]克己[nse]
-「んむっ！　んぐううっ！」[pcms]
+[ns]Kazumi[nse]
+"Mmmph! Mngghhh!"[pcms]
 
 
 *8204|
 ;旧ナンバー[vo_m s="kajiwara0003"]
 [マイク 位置１][vo_mob s="R_kaji0003"]
-[ns]梶原[nse]
-「風紀委員長として、こんな侵入者は見逃せません」[pcms]
+[ns]Kajiwara[nse]
+"As the head of the public morals committee, I can't overlook such an[r]
+intruder."[pcms]
 
 ;;//■イベントCG　mob_H014
 [evcg storage="mob_H014b"][trans_c cross time=500]
@@ -149,24 +148,24 @@
 *8205|
 ;旧ナンバー[vo_m s="nagamine0004"]
 [マイク 位置２][vo_mob s="R_naga0004"]
-[ns]長峰[nse]
-「あふっ……中々、いい顔の形をしているじゃないですか。[r]
-　鼻の辺りが擦れて、悪くはありません」[pcms]
+[ns]Nagamine[nse]
+"Ah... you have quite a nice face shape. It's not bad feeling it rub[r]
+against my nose."[pcms]
 
 
 *8206|
 [fc]
-[ns]克己[nse]
-「ぐふっ、やめ……んぐううっ！」[pcms]
+[ns]Kazumi[nse]
+"Guhh, stop... mngghhh!"[pcms]
 
 
 *8207|
 ;旧ナンバー[vo_m s="nagamine0005"]
 [マイク 位置２][vo_mob s="R_naga0005"]
-[ns]長峰[nse]
-「今日は、ボランティア部の活動で集まってもらったけれど、[r]
-　花火大会後の河川敷の掃除の代わりに、[r]
-　学園内の男どもをゴミ掃除することにします！」[pcms]
+[ns]Nagamine[nse]
+"Today, we gathered for the volunteer club activities, but instead of[r]
+cleaning up the riverbank after the fireworks festival, we'll clean up[r]
+the trash men inside the school!"[pcms]
 
 ;;//この辺まで、画像トリミングで、女教師UP
 
@@ -174,35 +173,35 @@
 *8208|
 ;旧ナンバー[vo_m s="volu_A0001"]
 [マイク 位置１６][vo_mob s="R_volunteerA0001"]
-[ns]ボランティア部員Ａ[nse]
-「素晴らしいです、先生！」[pcms]
+[ns]Volunteer Club Member A[nse]
+"That's wonderful, teacher!"[pcms]
 
 
 *8209|
 ;旧ナンバー[vo_m s="volu_B0001"]
 [マイク 位置９][vo_mob s="R_volunteerB0001"]
-[ns]ボランティア部員Ｂ[nse]
-「私にも参加させてください！」[pcms]
+[ns]Volunteer Club Member B[nse]
+"Please let me join in too!"[pcms]
 
 
 *8210|
 ;旧ナンバー[vo_m s="nagamine0006"]
 [マイク 位置２][vo_mob s="R_naga0006"]
-[ns]長峰[nse]
-「では、まず梶原さんにお手本を見せてもらいましょうか」[pcms]
+[ns]Nagamine[nse]
+"Then, let's have Kajiwara-san show us an example first."[pcms]
 
 
 *8211|
 ;旧ナンバー[vo_m s="kajiwara0004"]
 [マイク 位置１][vo_mob s="R_kaji0004"]
-[ns]梶原[nse]
-「任せてください、先生」[pcms]
+[ns]Kajiwara[nse]
+"Leave it to me, teacher."[pcms]
 
 
 *8212|
 [fc]
-[ns]克己[nse]
-「んぐうっ！　んんんっ！」[pcms]
+[ns]Kazumi[nse]
+"Mngghh! Mmmnnn!"[pcms]
 
 ;;//■イベントCG　mob_H014
 [evcg storage="mob_H014c"][trans_c cross time=500]
@@ -210,44 +209,45 @@
 
 *8213|
 [fc]
-梶原と呼ばれた風紀委員長が、[r]
-股を開くようにして俺の足を持ち上げる。[pcms]
+The public morals committee head called Kajiwara lifts my legs as if[r]
+to spread them apart.[pcms]
 
 
 *8214|
 [fc]
-まるで……これから電マでもするかのように。[pcms]
+It's as if... she's about to use a vibrator on me.[pcms]
 
 
 *8215|
 ;旧ナンバー[vo_m s="kajiwara0005"]
 [マイク 位置１][vo_mob s="R_kaji0005"]
-[ns]梶原[nse]
-「男の人はこういうのに弱いんですよ、[r]
-　いつもは装った自分を見せていますが、[r]
-　意識の希薄な人間の前では、ケダモノになるんです」[pcms]
+[ns]Kajiwara[nse]
+"Men are weak to this kind of thing. They always pretend to be[r]
+something they're not, but in front of someone who's barely conscious,[r]
+they become beasts."[pcms]
 
 
 *8216|
 ;旧ナンバー[vo_m s="nagamine0007"]
 [マイク 位置２][vo_mob s="R_naga0007"]
-[ns]長峰[nse]
-「そのとおりですね。家族や親しい人の前ではいい人でも、[r]
-　一皮剥けば、男はみんなこの程度と言うことです」[pcms]
+[ns]Nagamine[nse]
+"That's right. Even if they act like good people in front of family[r]
+and close friends, once you peel back the layer, all men are just like[r]
+this."[pcms]
 
 
 *8217|
 ;旧ナンバー[vo_m s="volu_A0002"]
 [マイク 位置１６][vo_mob s="R_volunteerA0002"]
-[ns]ボランティア部員Ａ[nse]
-「怖いです、先生……」[pcms]
+[ns]Volunteer Club Member A[nse]
+"It's scary, teacher..."[pcms]
 
 
 *8218|
 ;旧ナンバー[vo_m s="nagamine0008"]
 [マイク 位置２][vo_mob s="R_naga0008"]
-[ns]長峰[nse]
-「大丈夫、みんなで協力して、男を理解しましょう」[pcms]
+[ns]Nagamine[nse]
+"Don't worry, let's all work together to understand men."[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -260,29 +260,28 @@
 
 *8219|
 [fc]
-[ns]克己[nse]
-「んぐおぉぉおぉっ！」[pcms]
+[ns]Kazumi[nse]
+"Nguooohhhhh!"[pcms]
 
 
 *8220|
 [fc]
-クールな感じの少女、梶原が俺の股に足をかけてくる。[r]
-これは、間違いなく電マ……。[pcms]
+A cool-looking girl named Kajiwara steps on my crotch. This is[r]
+definitely going to be with a vibrator...[pcms]
 
 
 *8221|
 ;旧ナンバー[vo_m s="nagamine0009"]
 [マイク 位置２][vo_mob s="R_naga0009"]
-[ns]長峰[nse]
-「まぁ、そんな情けない格好をさせて、[r]
-　何をするのかしら？」[pcms]
+[ns]Nagamine[nse]
+"Well, what shall we do after making him look so pitiful?"[pcms]
 
 
 *8222|
 ;旧ナンバー[vo_m s="kajiwara0006"]
 [マイク 位置１][vo_mob s="R_kaji0006"]
-[ns]梶原[nse]
-「これは否定的サンクションです」[pcms]
+[ns]Kajiwara[nse]
+"This is a negative sanction."[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -295,39 +294,39 @@
 
 *8223|
 [fc]
-[ns]克己[nse]
-「んぐぉぉぉぉおぉぉぉっ！」[pcms]
+[ns]Kazumi[nse]
+"Nguooooooohhhhh!"[pcms]
 
 
 *8224|
 [fc]
-風紀委員長が、俺の金玉に足をかけたまま、[r]
-グリグリと電マを始めていた。[pcms]
+The head of the public morals committee starts grinding the vibrator[r]
+against my balls while keeping her foot on them.[pcms]
 
 
 *8225|
 [fc]
-痛くてくすぐったくて気持ちいい……、[r]
-俺はその例えようもない感覚に悶絶していた。[pcms]
+It's painful, ticklish, and pleasurable... I was writhing in this[r]
+indescribable sensation.[pcms]
 
 
 *8226|
 ;旧ナンバー[vo_m s="kajiwara0007"]
 [マイク 位置１][vo_mob s="R_kaji0007"]
-[ns]梶原[nse]
-「まぁ、男性器がエレクトしてきました。[r]
-　こんな辱めを受けているのに、なんと節操がないんでしょう」[pcms]
+[ns]Kajiwara[nse]
+"Look, his penis is getting erect. To think he gets aroused by such[r]
+humiliation, how indecent."[pcms]
 
 
 *8227|
 [fc]
-風紀委員長は、薄笑いを浮かべたままのクールな表情で、[r]
-俺の金玉を足で揺すってくる。[pcms]
+The public morals committee head smirks coolly as she shakes my balls[r]
+with her foot.[pcms]
 
 
 *8228|
 [fc]
-そして、そのまま足の指で俺のチンコをつまんできた。[pcms]
+Then she pinches my cock between her toes.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -343,73 +342,71 @@
 
 *8229|
 [fc]
-[ns]克己[nse]
-「ぐわぁぁあぁぁぁあぁぁっ！」[pcms]
+[ns]Kazumi[nse]
+"Guwaaaaaaahhhhh!"[pcms]
 
 
 *8230|
 ;旧ナンバー[vo_m s="kajiwara0008"]
 [マイク 位置１][vo_mob s="R_kaji0008"]
-[ns]梶原[nse]
-「こんなにエレクトしているから、指に挟みやすいですね。[r]
-　もっとも、貴方を喜ばせてしまうだけかも知れませんが」[pcms]
+[ns]Kajiwara[nse]
+"It's so erect that it's easy to pinch with my fingers. Although this[r]
+might just end up pleasing you more."[pcms]
 
 
 *8231|
 ;旧ナンバー[vo_m s="nagamine0010"]
 [マイク 位置２][vo_mob s="R_naga0010"]
-[ns]長峰[nse]
-「随分手慣れていますのね？　少し意外でした」[pcms]
+[ns]Nagamine[nse]
+"You seem quite skilled at this. I'm a bit surprised."[pcms]
 
 
 *8232|
 ;旧ナンバー[vo_m s="volu_A0003"]
 [マイク 位置１６][vo_mob s="R_volunteerA0003"]
-[ns]ボランティア部員Ａ[nse]
-「梶原さんすごいです！　私もやってみたいくらい！」[pcms]
+[ns]Volunteer Club Member A[nse]
+"Kajiwara-san is amazing! I want to try it too!"[pcms]
 
 
 *8233|
 [fc]
-風紀委員長は、俺に酷薄な笑みを投げつけると、[r]
-男を見下した目でとつとつと語り始めた。[pcms]
+The head of the public morals committee threw a cruel smile at me and[r]
+began to speak in a condescending tone.[pcms]
 
 
 *8234|
 ;旧ナンバー[vo_m s="kajiwara0009"]
 [マイク 位置１][vo_mob s="R_kaji0009"]
-[ns]梶原[nse]
-「兄が私の下着を持ち出して、[r]
-　はしたない行為に使うことがあったんです」[pcms]
+[ns]Kajiwara[nse]
+"My brother used to take my underwear and use it for indecent acts."[pcms]
 
 
 *8235|
 ;旧ナンバー[vo_m s="nagamine0011"]
 [マイク 位置２][vo_mob s="R_naga0011"]
-[ns]長峰[nse]
-「まぁ、それは大変でしたね」[pcms]
+[ns]Nagamine[nse]
+"Oh my, that must have been quite the ordeal."[pcms]
 
 
 *8236|
 [fc]
-はしたない行為って……オナニーのことか。[r]
-良くこんなクールな妹の使う気になったもんだと感心する。[pcms]
+Indecent acts... he's talking about masturbation. I'm impressed he had[r]
+the nerve to use such a cool sister's things.[pcms]
 
 
 *8237|
 ;旧ナンバー[vo_m s="kajiwara0010"]
 [マイク 位置１][vo_mob s="R_kaji0010"]
-[ns]梶原[nse]
-「私はそれが発覚する度に、[r]
-　こうして兄に制裁を与えているもので、[r]
-　手慣れてしまったのかも知れません」[pcms]
+[ns]Kajiwara[nse]
+"Every time that came to light, I would punish my brother like this,[r]
+so perhaps I've become accustomed to it."[pcms]
 
 
 *8238|
 ;旧ナンバー[vo_m s="nagamine0012"]
 [マイク 位置２][vo_mob s="R_naga0012"]
-[ns]長峰[nse]
-「まぁ！　男というのは、どこまでいっても動物ですわね！」[pcms]
+[ns]Nagamine[nse]
+"Oh my! Men really are nothing but animals, aren't they?"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -422,70 +419,69 @@
 
 *8239|
 [fc]
-[ns]克己[nse]
-「んぐぉぉぉっ！　ふんむぅぅうぅう！」[pcms]
+[ns]Kazumi[nse]
+"Nguooooooohhhhh! Mmmmmmmmm!"[pcms]
 
 
 *8240|
 [fc]
-そんな会話の間にも、俺の玉とチンコは容赦のない[r]
-電マで責められていた。[pcms]
+Even during such a conversation, my balls and dick were relentlessly[r]
+being tormented by the vibrator.[pcms]
 
 
 *8241|
 [fc]
-女教師も、そんな姿を見て興奮しているのか、[r]
-俺の顔にストッキング越しの恥丘を擦りつけてくる。[pcms]
+The female teacher, perhaps excited by such a sight, began rubbing her[r]
+crotch over her stockings against my face.[pcms]
 
 
 *8242|
 ;旧ナンバー[vo_m s="kajiwara0011"]
 [マイク 位置１][vo_mob s="R_kaji0011"]
-[ns]梶原[nse]
-「うちの兄と同じですね、[r]
-　この男も足でされて感じているのがわかります」[pcms]
+[ns]Kajiwara[nse]
+"Just like my brother, this man seems to be enjoying being treated[r]
+with feet."[pcms]
 
 
 *8243|
 ;旧ナンバー[vo_m s="volu_A0004"]
 [マイク 位置１６][vo_mob s="R_volunteerA0004"]
-[ns]ボランティア部員Ａ[nse]
-「こんなことされて気持ちいいんですか？」[pcms]
+[ns]Volunteer Club Member A[nse]
+"Does it feel good to be treated like this?"[pcms]
 
 
 *8244|
 ;旧ナンバー[vo_m s="volu_B0002"]
 [マイク 位置９][vo_mob s="R_volunteerB0002"]
-[ns]ボランティア部員Ｂ[nse]
-「男の人って怖くて変ですけど、なんだか興奮します」[pcms]
+[ns]Volunteer Club Member B[nse]
+"Men are scary and weird, but somehow it's exciting."[pcms]
 
 
 *8245|
 [fc]
-風紀委員長の言う通り、俺はこの絶妙な電マに、[r]
-勃起が収まらないくらい高ぶってしまっていた。[pcms]
+Just as the head of the public morals committee said, I was so aroused[r]
+by the exquisite vibrator that my erection wouldn't subside.[pcms]
 
 
 *8246|
 ;旧ナンバー[vo_m s="nagamine0013"]
 [マイク 位置２][vo_mob s="R_naga0013"]
-[ns]長峰[nse]
-「なんてみっともない有様なの！？[r]
-　全く男っていうのは度し難い生き物ですね」[pcms]
+[ns]Nagamine[nse]
+"How utterly disgraceful! Men really are incorrigible creatures."[pcms]
 
 
 *8247|
 [fc]
-女教師が、俺の顔に尻を擦りつけて圧迫してくる。[r]
-俺の格好見てせせら笑いながら、興奮しているみたいだった。[pcms]
+The female teacher pressed her ass against my face, laughing[r]
+scornfully at my appearance, seemingly excited.[pcms]
 
 
 *8248|
 ;旧ナンバー[vo_m s="nagamine0014"]
 [マイク 位置２][vo_mob s="R_naga0014"]
-[ns]長峰[nse]
-「ほら、女性のこれが好物なんでしょう？[r]
-　しっかり舌を使って味わいなさいっ！」[pcms]
+[ns]Nagamine[nse]
+"Look, this is what you like, isn't it? Use your tongue properly and[r]
+savor it!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -498,56 +494,55 @@
 
 *8249|
 [fc]
-[ns]克己[nse]
-「んぐうっ！　んぶふぅぅぅっ！」[pcms]
+[ns]Kazumi[nse]
+"Nguuh! Nbuuhuuuu!"[pcms]
 
 
 *8250|
 ;旧ナンバー[vo_m s="nagamine0015"]
 [マイク 位置２][vo_mob s="R_naga0015"]
-[ns]長峰[nse]
-「もうっ、へたくそねっ！　だらしがない！[r]
-　それでも男なのっ！」[pcms]
+[ns]Nagamine[nse]
+"Oh come on, you're so clumsy! So indecent! And you call yourself a[r]
+man!"[pcms]
 
 
 *8251|
 [fc]
-さっきから、散々盛った話をしておきながら、[r]
-いざとなると快楽のみの女になりやがる……。[pcms]
+Despite all the heated talk up until now, when it comes down to it,[r]
+she becomes a woman only interested in pleasure...[pcms]
 
 
 *8252|
 [fc]
-感染するということは、こういう本心の部分が出てくる、[r]
-恐ろしいものだと理解していた。[pcms]
+To be infected means to reveal such true desires, a terrifying[r]
+realization indeed.[pcms]
 
 
 *8253|
 ;旧ナンバー[vo_m s="nagamine0016"]
 [マイク 位置２][vo_mob s="R_naga0016"]
-[ns]長峰[nse]
-「女をしっかりと満たせないくせに、[r]
-　自分だけは気持ちよくなるなんて許せません！[r]
-　このまま窒息させても良いんですよ！」[pcms]
+[ns]Nagamine[nse]
+"You can't satisfy a woman properly, but you just want to feel good[r]
+yourself? I could just suffocate you right now!"[pcms]
 
 
 *8254|
 [fc]
-[ns]克己[nse]
-「くっ……」[pcms]
+[ns]Kazumi[nse]
+"Kuh..."[pcms]
 
 
 *8255|
 [fc]
-俺は仕方なくという感じに唇や舌を動かして、[r]
-この女教師を慰めにかかっていた。[pcms]
+Reluctantly, I moved my lips and tongue to comfort this female[r]
+teacher.[pcms]
 
 
 *8256|
 ;旧ナンバー[vo_m s="nagamine0017"]
 [マイク 位置２][vo_mob s="R_naga0017"]
-[ns]長峰[nse]
-「ほらっ！　もっとしっかりしなさいっ！」[pcms]
+[ns]Nagamine[nse]
+"Come on! Do it more properly!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -560,46 +555,46 @@
 
 *8257|
 [fc]
-[ns]克己[nse]
-「んぐぅぅぅっ！」[pcms]
+[ns]Kazumi[nse]
+"Nguuuuuuh!"[pcms]
 
 
 *8258|
 [fc]
-本気で窒息させるつもりなのか、[r]
-尻をグリグリと俺の顔に押しつけてきていた。[pcms]
+She seemed serious about suffocating me, pressing her ass firmly[r]
+against my face.[pcms]
 
 
 *8259|
 [fc]
-俺は必死になって舌を伸ばし、[r]
-メチャクチャでも良いからそこを舐め回していく。[pcms]
+I desperately extended my tongue, licking around wildly even if it was[r]
+messy.[pcms]
 
 
 *8260|
 ;旧ナンバー[vo_m s="nagamine0018"]
 [マイク 位置２][vo_mob s="R_naga0018"]
-[ns]長峰[nse]
-「あひぃぃぃぃっ！　そうっ！　そこよっ！」[pcms]
+[ns]Nagamine[nse]
+"Ahiieeee! Yes! Right there!"[pcms]
 
 
 *8261|
 [fc]
-俺の舌が、なにかコリコリする突起を探り当てると、[r]
-女教師の反応が甲高いものに変わってく。[pcms]
+As my tongue found some firm protrusion, the female teacher's[r]
+reactions became more high-pitched.[pcms]
 
 
 *8262|
 [fc]
-ここがいいというなら、[r]
-俺もそこを重点的に舐めていくだけだった。[pcms]
+If this is what she likes, then I just focused on licking that spot[r]
+intensely.[pcms]
 
 
 *8263|
 ;旧ナンバー[vo_m s="nagamine0019"]
 [マイク 位置２][vo_mob s="R_naga0019"]
-[ns]長峰[nse]
-「ほらっ！　もっと気合いを入れなさいっ！」[pcms]
+[ns]Nagamine[nse]
+"Come on! Put more spirit into it!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -612,81 +607,80 @@
 
 *8264|
 [fc]
-[ns]克己[nse]
-「んぐぉぉぉぉぉぉおおっ！　ぐひぃぃぃいいっ！」[pcms]
+[ns]Kazumi[nse]
+"Nguooooooooooh! Guhiiiiiiii!"[pcms]
 
 
 *8265|
 [fc]
-そうこうしているうちに、[r]
-風紀委員長の電マの責めが激しさを増していた。[pcms]
+In the meantime, the head of the public morals committee's vibrator[r]
+torture intensified.[pcms]
 
 
 *8266|
 [fc]
-金玉が砕けてしまいそうな苦しさと、[r]
-恍惚としてしまう快感が同居している絶妙な電マだ。[pcms]
+The vibrator was so exquisite that it felt like my balls were about to[r]
+be crushed from the pain, yet it also brought an ecstatic pleasure.[pcms]
 
 
 *8267|
 ;旧ナンバー[vo_m s="kajiwara0012"]
 [マイク 位置１][vo_mob s="R_kaji0012"]
-[ns]梶原[nse]
-「もうすぐ、射精してしまいそうですね。[r]
-　震えの具合でわかります」[pcms]
+[ns]Kajiwara[nse]
+"It seems you're about to ejaculate soon. I can tell by the way you're[r]
+trembling."[pcms]
 
 
 *8268|
 ;旧ナンバー[vo_m s="volu_A0005"]
 [マイク 位置１６][vo_mob s="R_volunteerA0005"]
-[ns]ボランティア部員Ａ[nse]
-「すごいっ！　委員長はそういうのわかるんですね！」[pcms]
+[ns]Volunteer Club Member A[nse]
+"Amazing! The committee head can tell that kind of thing!"[pcms]
 
 
 *8269|
 ;旧ナンバー[vo_m s="kajiwara0013"]
 [マイク 位置１][vo_mob s="R_kaji0013"]
-[ns]梶原[nse]
-「喜ばしい事かはわかりませんが、慣れてしまいました。[r]
-　それにしても毎回疑問に思うのは、こんな辱めを受けていて、[r]
-　男性はよく射精まで気分を高められるものだなということです」[pcms]
+[ns]Kajiwara[nse]
+"I don't know if that's something to be happy about, but I've gotten[r]
+used to it. What I always wonder is how men can get so aroused by such[r]
+humiliation that they can even ejaculate."[pcms]
 
 
 *8270|
 ;旧ナンバー[vo_m s="volu_B0003"]
 [マイク 位置９][vo_mob s="R_volunteerB0003"]
-[ns]ボランティア部員Ｂ[nse]
-「委員長が上手だからではないでしょうか？」[pcms]
+[ns]Volunteer Club Member B[nse]
+"Maybe it's because the committee head is so skilled?"[pcms]
 
 
 *8271|
 ;旧ナンバー[vo_m s="kajiwara0014"]
 [マイク 位置１][vo_mob s="R_kaji0014"]
-[ns]梶原[nse]
-「いえ、羞恥心がないからだと思います」[pcms]
+[ns]Kajiwara[nse]
+"No, I think it's because they lack a sense of shame."[pcms]
 
 
 *8272|
 [fc]
-なんだこのディスカッションまがいの空気は、[r]
-やっていることは変態そのものなのに！[pcms]
+What's with this discussion-like atmosphere? What we're doing is the[r]
+epitome of perversion![pcms]
 
 
 *8273|
 ;旧ナンバー[vo_m s="kajiwara0015"]
 [マイク 位置１][vo_mob s="R_kaji0015"]
-[ns]梶原[nse]
-「しかも、一回や二回ではなく、何度も何度も射精します。[r]
-　だいたい、妹の下着を使って自らを慰めるなど、[r]
-　常軌を逸していると思いませんか？」[pcms]
+[ns]Kajiwara[nse]
+"Moreover, it's not just once or twice, but they ejaculate over and[r]
+over again. Don't you think it's abnormal to comfort oneself with a[r]
+sister's underwear?"[pcms]
 
 
 *8274|
 ;旧ナンバー[vo_m s="nagamine0020"]
 [マイク 位置２][vo_mob s="R_naga0020"]
-[ns]長峰[nse]
-「あはぁっ……全く、男なんて、性欲で右往左往する[r]
-　ただの動物ですわね！」[pcms]
+[ns]Nagamine[nse]
+"Ahaha... Really, men are just animals driven by sexual desire!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -699,38 +693,37 @@
 
 *8275|
 [fc]
-[ns]克己[nse]
-「んんんんっ！　くぶっ！　んぶぅぅぅうっ！」[pcms]
+[ns]Kazumi[nse]
+"Nnnnnn! Kubu! Nbuuuuuuu!"[pcms]
 
 
 *8276|
 [fc]
-強制的なクンニで喘ぎながら、[r]
-訳のわからないことを言っている教師に、[r]
-他の子たちが賞賛の拍手を送っていた。[pcms]
+While gasping from the forced cunnilingus, the teacher was saying[r]
+incomprehensible things, and the other girls were applauding in[r]
+admiration.[pcms]
 
 
 *8277|
 ;旧ナンバー[vo_m s="kajiwara0016"]
 [マイク 位置１][vo_mob s="R_kaji0016"]
-[ns]梶原[nse]
-「先生のおっしゃる通りですね。[r]
-　さ、貴方も私の兄のように、泣きながら、[r]
-　精巣内の精液を残らず吐き出しなさい！」[pcms]
+[ns]Kajiwara[nse]
+"Just as the teacher says. Now, like my brother, cry and spit out all[r]
+the semen from your testicles!"[pcms]
 
 
 *8278|
 ;旧ナンバー[vo_m s="volu_A0006"]
 [マイク 位置１６][vo_mob s="R_volunteerA0006"]
-[ns]ボランティア部員Ａ[nse]
-「素晴らしいアイディアですわ！」[pcms]
+[ns]Volunteer Club Member A[nse]
+"What a splendid idea!"[pcms]
 
 
 *8279|
 ;旧ナンバー[vo_m s="volu_B0004"]
 [マイク 位置９][vo_mob s="R_volunteerB0004"]
-[ns]ボランティア部員Ｂ[nse]
-「わたしも、射精の瞬間を見てみたいです！」[pcms]
+[ns]Volunteer Club Member B[nse]
+"I want to see the moment of ejaculation too!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -743,109 +736,108 @@
 
 *8280|
 [fc]
-[ns]克己[nse]
-「くうううぅぅっ！」[pcms]
+[ns]Kazumi[nse]
+"Kuuuuuuu!"[pcms]
 
 
 *8281|
 [fc]
-さすがにやり慣れているだけあて、[r]
-電マはものすごい快感に満ちていた。[pcms]
+As expected from someone experienced, the vibrator was filled with[r]
+tremendous pleasure.[pcms]
 
 
 *8282|
 [fc]
-金玉を潰されてしまいそうだという危機感まで、[r]
-俺の中で興奮に変換されてしまう。[pcms]
+The sense of crisis that my balls might be crushed was converted into[r]
+excitement within me.[pcms]
 
 
 *8283|
 ;旧ナンバー[vo_m s="kajiwara0017"]
 [マイク 位置１][vo_mob s="R_kaji0017"]
-[ns]梶原[nse]
-「その汚らわしい体液が溜まっているから、[r]
-　女性に対して不埒な真似をするようになるのです」[pcms]
+[ns]Kajiwara[nse]
+"It's because of that filthy fluid accumulated inside that men start[r]
+doing indecent things to women."[pcms]
 
 
 *8284|
 ;旧ナンバー[vo_m s="nagamine0021"]
 [マイク 位置２][vo_mob s="R_naga0021"]
-[ns]長峰[nse]
-「全くその通りです、さすがは梶原さんですね」[pcms]
+[ns]Nagamine[nse]
+"Exactly right, as expected from Kajiwara-san."[pcms]
 
 
 *8285|
 ;旧ナンバー[vo_m s="kajiwara0018"]
 [マイク 位置１][vo_mob s="R_kaji0018"]
-[ns]梶原[nse]
-「ありがとうございます……さぁ、早くみっともない格好のまま、[r]
-　思いっきり射精しなさい！」[pcms]
+[ns]Kajiwara[nse]
+"Thank you... Now, hurry up and ejaculate in that disgraceful pose!"[pcms]
 
 
 *8286|
 [fc]
-[ns]克己[nse]
-「ぐうっ、んぐううっ！」[pcms]
+[ns]Kazumi[nse]
+"Guu, nguuuu!"[pcms]
 
 
 *8287|
 [fc]
-そういう委員長の声も女教師と一緒で、[r]
-興奮の色を隠せていないようだった。[pcms]
+Even Kajiwara's voice, like the female teacher's, seemed unable to[r]
+hide the excitement.[pcms]
 
 
 *8288|
 ;旧ナンバー[vo_m s="kajiwara0019"]
 [マイク 位置１][vo_mob s="R_kaji0019"]
-[ns]梶原[nse]
-「ほらほら！　すぐに射精させてあげますからね！」[pcms]
+[ns]Kajiwara[nse]
+"Come on, come on! I'll make you ejaculate right away!"[pcms]
 
 
 *8289|
 ;旧ナンバー[vo_m s="nagamine0022"]
 [マイク 位置２][vo_mob s="R_naga0022"]
-[ns]長峰[nse]
-「私の方も、しっかりやらないと許しませんよっ！」[pcms]
+[ns]Nagamine[nse]
+"I won't forgive you if you don't do it properly on my end too!"[pcms]
 
 
 *8290|
 [fc]
-もう保たない。[r]
-委員長の電マが絶妙すぎて……くうううっ。[pcms]
+I can't hold on any longer. The committee head's vibrator is too[r]
+exquisite... kuuuuu.[pcms]
 
 
 *8291|
 ;旧ナンバー[vo_m s="kajiwara0020"]
 [マイク 位置１][vo_mob s="R_kaji0020"]
-[ns]梶原[nse]
-「ビクビク震えてます！　もうすぐ出るんですねっ！」[pcms]
+[ns]Kajiwara[nse]
+"You're trembling! You're about to cum, aren't you!"[pcms]
 
 
 *8292|
 ;旧ナンバー[vo_m s="nagamine0023"]
 [マイク 位置２][vo_mob s="R_naga0023"]
-[ns]長峰[nse]
-「ああっ、あはぁぁぁっ！　そこっ、もっとお舐めなさいっ！」[pcms]
+[ns]Nagamine[nse]
+"Aah, ahahaaa! There, lick more intensely!"[pcms]
 
 
 *8293|
 [fc]
-[ns]克己[nse]
-「ぐうううっ！　ふぐうううううっ！」[pcms]
+[ns]Kazumi[nse]
+"Guuuu! Fuguuuuuuuu!"[pcms]
 
 
 *8294|
 ;旧ナンバー[vo_m s="kajiwara0021"]
 [マイク 位置１][vo_mob s="R_kaji0021"]
-[ns]梶原[nse]
-「出ますっ！　出ますよっ！」[pcms]
+[ns]Kajiwara[nse]
+"It's coming out! It's going to come out!"[pcms]
 
 
 *8295|
 ;旧ナンバー[vo_m s="nagamine0024"]
 [マイク 位置２][vo_mob s="R_naga0024"]
-[ns]長峰[nse]
-「あひぃぃいぃぃぃぃぃっ！」[pcms]
+[ns]Nagamine[nse]
+"Ahiieeiiiiiiiiii!"[pcms]
 
 ;;//◆射精フラ
 ;m[se_H buf1 storage="se_sex01"]
@@ -857,14 +849,14 @@
 
 *8296|
 [fc]
-俺が精液を漏らすのと同時に、[r]
-女教師が潮を吹いて絶頂の坂を上り詰めていた。[pcms]
+As I leaked semen, the female teacher squirted and reached the peak of[r]
+her climax simultaneously.[pcms]
 
 
 *8297|
 [fc]
-俺は、風紀委員長の足責めにあいながら精液をまき散らし、[r]
-女教師の潮に顔をしかめる。[pcms]
+I sprayed semen while being foot-tortured by the public morals[r]
+committee head and grimaced at the female teacher's squirt.[pcms]
 
 ;;//■イベントCG　mob_H014
 [evcg storage="mob_H014f"][trans_c cross time=500]
@@ -873,87 +865,85 @@
 *8298|
 ;旧ナンバー[vo_m s="volu_A0007"]
 [マイク 位置１６][vo_mob s="R_volunteerA0007"]
-[ns]ボランティア部員Ａ[nse]
-「すごいですっ！　こんなに白い液体が吹き出るなんて！」[pcms]
+[ns]Volunteer Club Member A[nse]
+"Incredible! To think such a white liquid could spurt out like this!"[pcms]
 
 
 *8299|
 [fc]
-[ns]克己[nse]
-「くうううっ……」[pcms]
+[ns]Kazumi[nse]
+"Kuuuuu..."[pcms]
 
 
 *8300|
 [fc]
-風紀委員長は、俺の射精中もチンコを足でしごきつづけ、[r]
-精液を足指でもてあそんでいた。[pcms]
+The public morals committee head continued to stroke my cock with her[r]
+foot during my ejaculation, playing with the semen between her toes.[pcms]
 
 
 *8301|
 ;旧ナンバー[vo_m s="kajiwara0022"]
 [マイク 位置１][vo_mob s="R_kaji0022"]
-[ns]梶原[nse]
-「ふむ、兄よりもいっぱい出しましたね。[r]
-　濃度も高くて、匂いもキツイ……」[pcms]
+[ns]Kajiwara[nse]
+"Hmm, you've ejaculated more than my brother. It's thick and the smell[r]
+is strong..."[pcms]
 
 
 *8302|
 ;旧ナンバー[vo_m s="nagamine0025"]
 [マイク 位置２][vo_mob s="R_naga0025"]
-[ns]長峰[nse]
-「あふぅうっ……はぁぁぁっ……」[pcms]
+[ns]Nagamine[nse]
+"Afuuu... Haaaah..."[pcms]
 
 
 *8303|
 [fc]
-女教師は、どうやら気分良く絶頂出来たみたいで、[r]
-忘我の境地をさまよっているみたいだ。[pcms]
+The female teacher seemed to have reached a satisfying climax and was[r]
+wandering in a state of ecstasy.[pcms]
 
 
 *8304|
 ;旧ナンバー[vo_m s="kajiwara0023"]
 [マイク 位置１][vo_mob s="R_kaji0023"]
-[ns]梶原[nse]
-「こんなに濃いものを、これだけ溜めていたのでは、[r]
-　男子禁制の場所に踏み込むのも致し方ないでしょう。[r]
-　先生は、大丈夫ですか？」[pcms]
+[ns]Kajiwara[nse]
+"With so much thick fluid accumulated, it's no wonder you'd step into[r]
+a place forbidden for men. Are you okay, teacher?"[pcms]
 
 
 *8305|
 ;旧ナンバー[vo_m s="nagamine0026"]
 [マイク 位置２][vo_mob s="R_naga0026"]
-[ns]長峰[nse]
-「ひ、久しぶりに男と身体を合わせて達してしまいました。[r]
-　こんなはしたない姿で申し訳ないわ」[pcms]
+[ns]Nagamine[nse]
+"I-I've reached climax with a man for the first time in a while. I[r]
+apologize for such an indecent appearance."[pcms]
 
 
 *8306|
 [fc]
-女教師は。少しろれつの回らない感じで、[r]
-他の女の子たちに謝っていた。[pcms]
+The female teacher was apologizing to the other girls with slightly[r]
+slurred speech.[pcms]
 
 
 *8307|
 [fc]
-でもそれは、その女の子たちの興味をあおるばかりで、[r]
-ギラついた眼差しを更に強く感じるようになる。[pcms]
+But that only served to stir up the girls' interest even more, making[r]
+me feel their intense gazes even stronger.[pcms]
 
 
 *8308|
 ;旧ナンバー[vo_m s="kajiwara0024"]
 [マイク 位置１][vo_mob s="R_kaji0024"]
-[ns]梶原[nse]
-「いえ、お気になさらずに。[r]
-　それにしても先生、この方、[r]
-　まだ勃起が収まっていないのですが？」[pcms]
+[ns]Kajiwara[nse]
+"No need to worry about it. But still, teacher, this person is still[r]
+erect, isn't he?"[pcms]
 
 
 *8309|
 ;旧ナンバー[vo_m s="nagamine0027"]
 [マイク 位置２][vo_mob s="R_naga0027"]
-[ns]長峰[nse]
-「仕方がありません、まだ罰が足りないようですね。[r]
-　良いでしょう、より厳しいやり方で対処します」[pcms]
+[ns]Nagamine[nse]
+"It can't be helped; it seems he hasn't been punished enough. Very[r]
+well, I'll deal with him in a stricter manner."[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -977,14 +967,14 @@
 
 *8310|
 [fc]
-[ns]克己[nse]
-「くそっ、離せっ！」[pcms]
+[ns]Kazumi[nse]
+"Damn it, let go of me!"[pcms]
 
 
 *8311|
 [fc]
-俺は、電マされたときのまま、[r]
-床に寝かされて押さえつけられる。[pcms]
+I was pinned down on the floor just as I had been when the vibrator[r]
+was used on me.[pcms]
 
 ;;//■イベントCG　mob_H015
 [evcg storage="mob_H015b"][trans_c cross time=500]
@@ -993,54 +983,56 @@
 *8312|
 ;旧ナンバー[vo_m s="kajiwara0025"]
 [マイク 位置２][vo_mob s="R_kaji0025"]
-[ns]梶原[nse]
-「なにをなさるんですか？」[pcms]
+[ns]Kajiwara[nse]
+"What are you going to do?"[pcms]
 
 
 *8313|
 ;旧ナンバー[vo_m s="nagamine0028"]
 [マイク 位置８][vo_mob s="R_naga0028"]
-[ns]長峰[nse]
-「この破廉恥でみっともない男に、[r]
-　より厳しい罰を与えるのです」[pcms]
+[ns]Nagamine[nse]
+"I'm going to give this shameless and disgraceful man a more severe[r]
+punishment."[pcms]
 
 
 *8314|
 [fc]
-でも、俺も梶原も女教師が何をするつもりなのか、[r]
-いまいちピンとこない。[pcms]
+But neither I nor Kajiwara could quite grasp what the female teacher[r]
+intended to do.[pcms]
 
 
 *8315|
 ;旧ナンバー[vo_m s="nagamine0029"]
 [マイク 位置８][vo_mob s="R_naga0029"]
-[ns]長峰[nse]
-「梶原さんは、まだここの使い方をご存じないですね」[pcms]
+[ns]Nagamine[nse]
+"Kajiwara-san, you're still not familiar with how to use this, are[r]
+you?"[pcms]
 
 
 *8316|
 ;旧ナンバー[vo_m s="kajiwara0026"]
 [マイク 位置２][vo_mob s="R_kaji0026"]
-[ns]梶原[nse]
-「あっ、なにを……」[pcms]
+[ns]Kajiwara[nse]
+"Ah, what are you...?"[pcms]
 
 
 *8317|
 [fc]
-女教師が風紀委員長のマンコを指でいじり始める。[pcms]
+The female teacher began to play with the pussy of the discipline[r]
+committee chairwoman with her fingers.[pcms]
 
 
 *8318|
 [fc]
-風紀委員長は戸惑ったように実をよじりながらも、[r]
-その快感に抗えないでいるみたいだった。[pcms]
+The discipline committee chairwoman seemed confused as she writhed,[r]
+but she couldn't resist the pleasure.[pcms]
 
 
 *8319|
 ;旧ナンバー[vo_m s="nagamine0030"]
 [マイク 位置８][vo_mob s="R_naga0030"]
-[ns]長峰[nse]
-「こんなに濡らして……準備は出来ているみたいですね」[pcms]
+[ns]Nagamine[nse]
+"You're so wet... It seems you're ready."[pcms]
 
 ;;//■イベントCG　mob_H015
 [evcg storage="mob_H015c"][trans_c cross time=500]
@@ -1049,129 +1041,127 @@
 *8320|
 ;旧ナンバー[vo_m s="kajiwara0027"]
 [マイク 位置２][vo_mob s="R_kaji0027"]
-[ns]梶原[nse]
-「準備……ですか？」[pcms]
+[ns]Kajiwara[nse]
+"Ready... for what?"[pcms]
 
 
 *8321|
 ;旧ナンバー[vo_m s="nagamine0031"]
 [マイク 位置８][vo_mob s="R_naga0031"]
-[ns]長峰[nse]
-「ひょっとしたら、この男性に罰を与えているときも、[r]
-　こんなにしていたのかしら」[pcms]
+[ns]Nagamine[nse]
+"I wonder if you were this wet even while punishing this male."[pcms]
 
 
 *8322|
 ;旧ナンバー[vo_m s="kajiwara0028"]
 [マイク 位置２][vo_mob s="R_kaji0028"]
-[ns]梶原[nse]
-「はい……兄のときもそうですが……否定はしません」[pcms]
+[ns]Kajiwara[nse]
+"Yes... I won't deny it, not just with my brother but also..."[pcms]
 
 
 *8323|
 [fc]
-ワケがわかっているのかいないのか、[r]
-風紀委員長は素直に電マで興奮していたことを認めた。[pcms]
+Whether she understood the situation or not, the discipline committee[r]
+chairwoman honestly admitted to being excited by the vibrator.[pcms]
 
 
 *8324|
 [fc]
-多分、生来からのＳっ気がある子なんだろう。[pcms]
+She's probably a naturally S-type girl.[pcms]
 
 
 *8325|
 ;旧ナンバー[vo_m s="nagamine0032"]
 [マイク 位置８][vo_mob s="R_naga0032"]
-[ns]長峰[nse]
-「いいこと、みなさん」[pcms]
+[ns]Nagamine[nse]
+"Listen up, everyone."[pcms]
 
 
 *8326|
 ;旧ナンバー[vo_m s="volu_A0008"]
 [マイク 位置１６][vo_mob s="R_volunteerA0008"]
-[ns]ボランティア部員Ａ[nse]
-「はい、先生」[pcms]
+[ns]Volunteer Club Member A[nse]
+"Yes, teacher."[pcms]
 
 
 *8327|
 ;旧ナンバー[vo_m s="volu_B0005"]
 [マイク 位置９][vo_mob s="R_volunteerB0005"]
-[ns]ボランティア部員Ｂ[nse]
-「なんでしょうか！」[pcms]
+[ns]Volunteer Club Member B[nse]
+"What is it?"[pcms]
 
 
 *8328|
 ;旧ナンバー[vo_m s="nagamine0033"]
 [マイク 位置８][vo_mob s="R_naga0033"]
-[ns]長峰[nse]
-「男どもなんて、しょせんはリビドーに支配された動物です。[r]
-　女の身体の中で射精するためなら、プライドもなにもなく、[r]
-　どんなことでもする最底辺の生き物なんですよ」[pcms]
+[ns]Nagamine[nse]
+"Men are nothing but animals ruled by their libido. They would do[r]
+anything to ejaculate inside a woman's body, abandoning all pride, the[r]
+lowest of creatures."[pcms]
 
 
 *8329|
 [fc]
-この先生、男に手ひどくフラれたことでもあるのか、[r]
-妙に敵視しているところがある。[pcms]
+This teacher seems to have a particular animosity towards men, perhaps[r]
+due to being harshly rejected by one before.[pcms]
 
 
 *8330|
 ;旧ナンバー[vo_m s="nagamine0034"]
 [マイク 位置８][vo_mob s="R_naga0034"]
-[ns]長峰[nse]
-「今から、梶原さんと先生で、[r]
-　男をしつける方法をみなさんにご教示いたしますわ」[pcms]
+[ns]Nagamine[nse]
+"Now, Kajiwara-san and I will demonstrate to everyone how to[r]
+discipline a man."[pcms]
 
 
 *8331|
 ;旧ナンバー[vo_m s="volu_A0009"]
 [マイク 位置１６][vo_mob s="R_volunteerA0009"]
-[ns]ボランティア部員Ａ[nse]
-「すごいです、先生！」[pcms]
+[ns]Volunteer Club Member A[nse]
+"That's amazing, teacher!"[pcms]
 
 
 *8332|
 ;旧ナンバー[vo_m s="volu_B0006"]
 [マイク 位置９][vo_mob s="R_volunteerB0006"]
-[ns]ボランティア部員Ｂ[nse]
-「どんなことをするのか、今から楽しみです！」[pcms]
+[ns]Volunteer Club Member B[nse]
+"I'm looking forward to seeing what you'll do!"[pcms]
 
 
 *8333|
 [fc]
-興味津々の女の子たちを前にして、[r]
-女教師は満足そうにしている。[pcms]
+In front of the eagerly interested girls, the female teacher looked[r]
+satisfied.[pcms]
 
 
 *8334|
 [fc]
-でも、これ以上は俺の方がいろいろとマズイ。[pcms]
+But anything more than this would be too much for me.[pcms]
 
 
 *8335|
 [fc]
-[ns]克己[nse]
-「すみません。海よりも深く反省しました。[r]
-　見逃してもらえないでしょうか……」[pcms]
+[ns]Kazumi[nse]
+"I'm sorry. I've reflected more deeply than the depths of the ocean.[r]
+Could you please let me go...?"[pcms]
 
 
 *8336|
 [fc]
-俺はまだ感染していない。[r]
-今ならまだ間に合う……。[pcms]
+I haven't been infected yet. There's still time...[pcms]
 
 
 *8337|
 ;旧ナンバー[vo_m s="nagamine0035"]
 [マイク 位置８][vo_mob s="R_naga0035"]
-[ns]長峰[nse]
-「うるさい男ねっ！」[pcms]
+[ns]Nagamine[nse]
+"Quiet, you annoying man!"[pcms]
 
 
 *8338|
 [fc]
-女教師は自らの濡れた下着を脱ぐと、[r]
-それを丸めて俺の口にねじ込んでくる。[pcms]
+The female teacher took off her wet underwear and stuffed it into my[r]
+mouth.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1186,106 +1176,105 @@
 
 *8339|
 [fc]
-[ns]克己[nse]
-「んぐうぅぅぅぅっ！　ぐげぇぇぇぇぇっ！」[pcms]
+[ns]Kazumi[nse]
+"Mmmphhhhh! Gagggghhhhh!"[pcms]
 
 
 *8340|
 ;旧ナンバー[vo_m s="nagamine0036"]
 [マイク 位置８][vo_mob s="R_naga0036"]
-[ns]長峰[nse]
-「これでも味わっていなさい！」[pcms]
+[ns]Nagamine[nse]
+"Taste this!"[pcms]
 
 
 *8341|
 [fc]
-濡れている女教師の下着を口に突っ込まれた俺は、[r]
-何とか吐き出そうと懸命に首を振ってく。[pcms]
+With the female teacher's wet underwear stuffed in my mouth, I[r]
+desperately tried to shake my head and spit it out.[pcms]
 
 
 *8342|
 ;旧ナンバー[vo_m s="kajiwara0029"]
 [マイク 位置２][vo_mob s="R_kaji0029"]
-[ns]梶原[nse]
-「じつは、兄にお仕置きするときは、[r]
-　いつもくすねようとしていた、[r]
-　私の下着を口に詰めているんです……」[pcms]
+[ns]Kajiwara[nse]
+"Actually, when I punish my brother, I always try to sneakily stuff my[r]
+underwear in his mouth..."[pcms]
 
 
 *8343|
 ;旧ナンバー[vo_m s="nagamine0037"]
 [マイク 位置８][vo_mob s="R_naga0037"]
-[ns]長峰[nse]
-「それは素晴らしいことをしていましたね」[pcms]
+[ns]Nagamine[nse]
+"You've been doing a splendid job."[pcms]
 
 
 *8344|
 ;旧ナンバー[vo_m s="kajiwara0030"]
 [マイク 位置２][vo_mob s="R_kaji0030"]
-[ns]梶原[nse]
-「この状況は、とてもモチベーションが高くなります」[pcms]
+[ns]Kajiwara[nse]
+"This situation really motivates me."[pcms]
 
 
 *8345|
 ;旧ナンバー[vo_m s="nagamine0038"]
 [マイク 位置８][vo_mob s="R_naga0038"]
-[ns]長峰[nse]
-「梶原さんは、男性経験がありますか？」[pcms]
+[ns]Nagamine[nse]
+"Kajiwara-san, do you have any experience with men?"[pcms]
 
 
 *8346|
 ;旧ナンバー[vo_m s="kajiwara0031"]
 [マイク 位置２][vo_mob s="R_kaji0031"]
-[ns]梶原[nse]
-「いえ、お恥ずかしながら……」[pcms]
+[ns]Kajiwara[nse]
+"No, I'm embarrassed to say..."[pcms]
 
 
 *8347|
 ;旧ナンバー[vo_m s="nagamine0039"]
 [マイク 位置８][vo_mob s="R_naga0039"]
-[ns]長峰[nse]
-「不純異性交遊はいけませんから、それで正しいのです。[r]
-　ですが、今日は特別にやり方をお教えしましょう」[pcms]
+[ns]Nagamine[nse]
+"Fraternizing with the opposite sex is not allowed, so that's correct.[r]
+However, today I'll make an exception and teach you how."[pcms]
 
 
 *8348|
 [fc]
-その言葉に、周りの女の子たちから歓声が上がる。[pcms]
+The girls around cheered at her words.[pcms]
 
 
 *8349|
 ;旧ナンバー[vo_m s="volu_A0010"]
 [マイク 位置１６][vo_mob s="R_volunteerA0010"]
-[ns]ボランティア部員Ａ[nse]
-「先生、私も初めてです！」[pcms]
+[ns]Volunteer Club Member A[nse]
+"Teacher, it's my first time too!"[pcms]
 
 
 *8350|
 ;旧ナンバー[vo_m s="volu_B0007"]
 [マイク 位置９][vo_mob s="R_volunteerB0007"]
-[ns]ボランティア部員Ｂ[nse]
-「経験してみたいと思っていました！」[pcms]
+[ns]Volunteer Club Member B[nse]
+"I've been wanting to experience it!"[pcms]
 
 
 *8351|
 [fc]
-女教師と風紀委員長の二人が俺の腰の上に乗っかると、[r]
-チンコを挿入位置にまで持って行く。[pcms]
+When the female teacher and the head of the discipline committee[r]
+climbed on top of my hips, they positioned my cock for insertion.[pcms]
 
 
 *8352|
 ;旧ナンバー[vo_m s="nagamine0040"]
 [マイク 位置８][vo_mob s="R_naga0040"]
-[ns]長峰[nse]
-「それでは、梶原さんの処女を捨ててしまいましょう。[r]
-　そのまま腰を落としていってください」[pcms]
+[ns]Nagamine[nse]
+"Now then, let's have Kajiwara-san lose her virginity. Please lower[r]
+your hips just like that."[pcms]
 
 
 *8353|
 ;旧ナンバー[vo_m s="kajiwara0032"]
 [マイク 位置２][vo_mob s="R_kaji0032"]
-[ns]梶原[nse]
-「はい、先生……」[pcms]
+[ns]Kajiwara[nse]
+"Yes, Teacher..."[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1301,79 +1290,78 @@
 
 *8354|
 [fc]
-そして、女教師にサポートされた俺のチンコは、[r]
-風紀委員長の中に、ぬっと進入していった。[pcms]
+And then, with the female teacher's support, my cock slid into the[r]
+discipline committee head's pussy.[pcms]
 
 
 *8355|
 [fc]
-[ns]克己[nse]
-「んぐぉぉぉぉぉぉぉっ！」[pcms]
+[ns]Kazumi[nse]
+"Nngoooohhhhhhh!"[pcms]
 
 
 *8356|
 ;旧ナンバー[vo_m s="kajiwara0033"]
 [マイク 位置２][vo_mob s="R_kaji0033"]
-[ns]梶原[nse]
-「くっ……こ、これは……」[pcms]
+[ns]Kajiwara[nse]
+"Ah... this is..."[pcms]
 
 
 *8357|
 ;旧ナンバー[vo_m s="nagamine0041"]
 [マイク 位置８][vo_mob s="R_naga0041"]
-[ns]長峰[nse]
-「どうしましたか？　多少の痛みを伴いますか？」[pcms]
+[ns]Nagamine[nse]
+"What's the matter? Does it hurt a bit?"[pcms]
 
 
 *8358|
 ;旧ナンバー[vo_m s="kajiwara0034"]
 [マイク 位置２][vo_mob s="R_kaji0034"]
-[ns]梶原[nse]
-「いえ、視界がかすむほどの快感が襲ってきます」[pcms]
+[ns]Kajiwara[nse]
+"No, I'm overwhelmed by such intense pleasure that it's making my[r]
+vision blur."[pcms]
 
 
 *8359|
 ;旧ナンバー[vo_m s="nagamine0042"]
 [マイク 位置８][vo_mob s="R_naga0042"]
-[ns]長峰[nse]
-「それは素晴らしいことです。[r]
-　男を教育しながら、自分も楽しめるのは得ですからね」[pcms]
+[ns]Nagamine[nse]
+"That's wonderful. It's beneficial to enjoy oneself while educating a[r]
+man."[pcms]
 
 
 *8360|
 [fc]
-[ns]克己[nse]
-「ぬ、んぐっ、ぐぅぅぅぅっ！」[pcms]
+[ns]Kazumi[nse]
+"Nu, nngu, guuuuuu!"[pcms]
 
 
 *8361|
 ;旧ナンバー[vo_m s="nagamine0043"]
 [マイク 位置８][vo_mob s="R_naga0043"]
-[ns]長峰[nse]
-「女を使って獰猛な男を制することこそ、[r]
-　女のレゾンデートル！」[pcms]
+[ns]Nagamine[nse]
+"Using women to tame ferocious men is indeed a woman's raison d'tre!"[pcms]
 
 
 *8362|
 [fc]
-風紀委員長のマンコの中は、[r]
-初めてとは思えないほどに濡れて、[r]
-具合良く俺を包み込んできていた。[pcms]
+The discipline committee head's pussy was so wet it was hard to[r]
+believe it was her first time, and it snugly enveloped me.[pcms]
 
 
 *8363|
 ;旧ナンバー[vo_m s="kajiwara0035"]
 [マイク 位置２][vo_mob s="R_kaji0035"]
-[ns]梶原[nse]
-「く……ううっ……先生……変な感じです」[pcms]
+[ns]Kajiwara[nse]
+"Ah... uhh... Teacher... It feels strange."[pcms]
 
 
 *8364|
 ;旧ナンバー[vo_m s="nagamine0044"]
 [マイク 位置８][vo_mob s="R_naga0044"]
-[ns]長峰[nse]
-「自分は感じながらも、[r]
-　男性をコントロールすることを忘れてはいけませんよ」[pcms]
+[ns]Nagamine[nse]
+"Even while you're feeling pleasure, don't forget that you're in[r]
+control of the man."[pcms]
 
 [se_HLoop buf2 storage="se_sex02"]
 
@@ -1381,112 +1369,112 @@
 *8365|
 ;旧ナンバー[vo_m s="kajiwara0036"]
 [マイク 位置２][vo_mob s="R_kaji0036"]
-[ns]梶原[nse]
-「はい……あぁぁっ……」[pcms]
+[ns]Kajiwara[nse]
+"Yes... ahhh!"[pcms]
 
 
 *8366|
 [fc]
-委員長があまり表情を変化させずに、[r]
-クールに喘いでいる。[pcms]
+The committee head was panting coolly without much change in her[r]
+expression.[pcms]
 
 
 *8367|
 ;旧ナンバー[vo_m s="nagamine0045"]
 [マイク 位置８][vo_mob s="R_naga0045"]
-[ns]長峰[nse]
-「この姿勢だと、女性が動いた方が自分も気持ちが良いことが、[r]
-　最大の利点なのです」[pcms]
+[ns]Nagamine[nse]
+"The greatest advantage of this position is that it feels good for the[r]
+woman when she moves."[pcms]
 
 
 *8368|
 ;旧ナンバー[vo_m s="volu_A0011"]
 [マイク 位置１６][vo_mob s="R_volunteerA0011"]
-[ns]ボランティア部員Ａ[nse]
-「さすがです、先生っ！」[pcms]
+[ns]Volunteer Club Member A[nse]
+"As expected, Teacher!"[pcms]
 
 
 *8369|
 [fc]
-一定のリズムを刻みながら、[r]
-委員長の腰がグネグネと俺の上で踊っている。[pcms]
+While keeping a steady rhythm, the committee head's hips gyrated on[r]
+top of me.[pcms]
 
 
 *8370|
 ;旧ナンバー[vo_m s="kajiwara0037"]
 [マイク 位置２][vo_mob s="R_kaji0037"]
-[ns]梶原[nse]
-「男性器が……私の中でビクビクと動いています」[pcms]
+[ns]Kajiwara[nse]
+"The male organ... is twitching inside me."[pcms]
 
 
 *8371|
 ;旧ナンバー[vo_m s="nagamine0046"]
 [マイク 位置８][vo_mob s="R_naga0046"]
-[ns]長峰[nse]
-「それが、男性をコントロールしているという証なのです。[r]
-　そうなってしまえば、男性は梶原さんの思いのままですよ」[pcms]
+[ns]Nagamine[nse]
+"That's proof that you're controlling the man. Once that happens,[r]
+he'll be at Kajiwara-san's mercy."[pcms]
 
 
 *8372|
 ;旧ナンバー[vo_m s="kajiwara0038"]
 [マイク 位置２][vo_mob s="R_kaji0038"]
-[ns]梶原[nse]
-「はい……兄なら……もう、私に逆らえないと思います……」[pcms]
+[ns]Kajiwara[nse]
+"Yes... if it were my brother... I think he wouldn't be able to defy[r]
+me anymore..."[pcms]
 
 
 *8373|
 ;旧ナンバー[vo_m s="nagamine0047"]
 [マイク 位置８][vo_mob s="R_naga0047"]
-[ns]長峰[nse]
-「それは、この男性も一緒です。[r]
-　女の部分を使うことは、一つの武器ですから」[pcms]
+[ns]Nagamine[nse]
+"The same goes for this man. Using your feminine parts can be a[r]
+weapon."[pcms]
 
 
 *8374|
 [fc]
-[ns]克己[nse]
-「んぐぅぅぅっ……がぐっ……」[pcms]
+[ns]Kazumi[nse]
+"Nnguuuu... gagu..."[pcms]
 
 
 *8375|
 [fc]
-口の中に深くねじ込まれた下着は、[r]
-どうやっても吐き出すことが出来ない。[pcms]
+The underwear twisted deep in my mouth was impossible to spit out no[r]
+matter what.[pcms]
 
 
 *8376|
 [fc]
-俺は喋ることもままならないまま、[r]
-ただ、チンコをもてあそばれ続けていた。[pcms]
+Unable to speak, I was left with nothing but my cock being played[r]
+with.[pcms]
 
 
 *8377|
 ;旧ナンバー[vo_m s="kajiwara0039"]
 [マイク 位置２][vo_mob s="R_kaji0039"]
-[ns]梶原[nse]
-「先生……あそこが疼いて……腰の動きが止まりません……」[pcms]
+[ns]Kajiwara[nse]
+"Teacher... my pussy is throbbing... I can't stop moving my hips..."[pcms]
 
 
 *8378|
 ;旧ナンバー[vo_m s="nagamine0048"]
 [マイク 位置８][vo_mob s="R_naga0048"]
-[ns]長峰[nse]
-「どんな気分ですか？」[pcms]
+[ns]Nagamine[nse]
+"How does it feel?"[pcms]
 
 
 *8379|
 ;旧ナンバー[vo_m s="kajiwara0040"]
 [マイク 位置２][vo_mob s="R_kaji0040"]
-[ns]梶原[nse]
-「なんだか、ふわふわとしているのに……、[r]
-　何かが起こりそうな感じです」[pcms]
+[ns]Kajiwara[nse]
+"It feels like I'm floating... like something is about to happen..."[pcms]
 
 
 *8380|
 ;旧ナンバー[vo_m s="nagamine0049"]
 [マイク 位置２][vo_mob s="R_naga0049"]
-[ns]長峰[nse]
-「それは、梶原さんに絶頂が近づいているという証なのです」[pcms]
+[ns]Nagamine[nse]
+"That means Kajiwara-san is nearing her climax."[pcms]
 
 ;;//■イベントCG　mob_H015
 [evcg storage="mob_H015f"][trans_c cross time=500]
@@ -1495,60 +1483,60 @@
 *8381|
 ;旧ナンバー[vo_m s="kajiwara0041"]
 [マイク 位置２][vo_mob s="R_kaji0041"]
-[ns]梶原[nse]
-「あぁぁ……んんうっ……熱いです……」[pcms]
+[ns]Kajiwara[nse]
+"Ahhh... mmmuh... It's hot..."[pcms]
 
 
 *8382|
 [fc]
-でも、俺は委員長がイクよりも、[r]
-自分の最後が方が近いことを理解していた。[pcms]
+But I knew that my end was coming sooner than the committee head[r]
+reaching her climax.[pcms]
 
 
 *8383|
 [fc]
-[ns]克己[nse]
-「んぐぅぅぅぅっ！　んぐううんんっ！」[pcms]
+[ns]Kazumi[nse]
+"Nnguuuuu! Nguuunnhh!"[pcms]
 
 
 *8384|
 ;旧ナンバー[vo_m s="nagamine0050"]
 [マイク 位置８][vo_mob s="R_naga0050"]
-[ns]長峰[nse]
-「あっ！　梶原さん！　男性のオーガズムが始まりますよ！」[pcms]
+[ns]Nagamine[nse]
+"Ah! Kajiwara-san! The man's orgasm is starting!"[pcms]
 
 
 *8385|
 ;旧ナンバー[vo_m s="kajiwara0042"]
 [マイク 位置２][vo_mob s="R_kaji0042"]
-[ns]梶原[nse]
-「え……？」[pcms]
+[ns]Kajiwara[nse]
+"Eh...?"[pcms]
 
 
 *8386|
 ;旧ナンバー[vo_m s="nagamine0051"]
 [マイク 位置８][vo_mob s="R_naga0051"]
-[ns]長峰[nse]
-「梶原さんが、男性の絶頂を引き出しているんです！」[pcms]
+[ns]Nagamine[nse]
+"Kajiwara-san is bringing out the man's climax!"[pcms]
 
 
 *8387|
 [fc]
-ぬるぬるのマンコに締め付けられたチンコが、[r]
-行き場を求めて荒れ狂っている。[pcms]
+The cock squeezed by the slippery pussy was raging, seeking a place to[r]
+go.[pcms]
 
 
 *8388|
 [fc]
-[ns]克己[nse]
-「んぐっ！　んぐっ！　んぐぅぅぅぅぅぅぅっ！」[pcms]
+[ns]Kazumi[nse]
+"Ngu! Ngu! Nguuuuuuuuu!"[pcms]
 
 
 *8389|
 ;旧ナンバー[vo_m s="kajiwara0043"]
 [マイク 位置２][vo_mob s="R_kaji0043"]
-[ns]梶原[nse]
-「あっ！」[pcms]
+[ns]Kajiwara[nse]
+"Ah!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -1561,14 +1549,14 @@
 
 *8390|
 [fc]
-気が付くと、俺は委員長の小さなマンコに、[r]
-欲望の全てを吐き出しているところだった。[pcms]
+Before I knew it, I was spilling all my desires into the committee[r]
+head's tight pussy.[pcms]
 
 
 *8391|
 [fc]
-委員長は、なんだか複雑な顔をしながら、[r]
-俺の射精を腹の中で受け止めている。[pcms]
+The committee head, with a somewhat complex expression, is taking my[r]
+ejaculation inside her belly.[pcms]
 
 ;;//■イベントCG　mob_H015
 [evcg storage="mob_H015h"][trans_c cross time=500]
@@ -1577,36 +1565,35 @@
 *8392|
 ;旧ナンバー[vo_m s="nagamine0052"]
 [マイク 位置８][vo_mob s="R_naga0052"]
-[ns]長峰[nse]
-「どうですか、膣内射精は気持ちが良いですか？」[pcms]
+[ns]Nagamine[nse]
+"How does it feel to ejaculate inside the pussy? Is it pleasurable?"[pcms]
 
 
 *8393|
 ;旧ナンバー[vo_m s="kajiwara0044"]
 [マイク 位置２][vo_mob s="R_kaji0044"]
-[ns]梶原[nse]
-「身体の奥が、カッと熱くなる感じで……、[r]
-　正直、良くわからない複雑な体験です……」[pcms]
+[ns]Kajiwara[nse]
+"The depths of my body feel suddenly hot... It's honestly a complex[r]
+experience that I can't quite understand..."[pcms]
 
 
 *8394|
 ;旧ナンバー[vo_m s="nagamine0053"]
 [マイク 位置８][vo_mob s="R_naga0053"]
-[ns]長峰[nse]
-「そうですか……、[r]
-　では、次は私がお手本を見せて差し上げましょう」[pcms]
+[ns]Nagamine[nse]
+"Is that so... Then, let me show you an example next."[pcms]
 
 
 *8395|
 [fc]
-女教師が、出したばかりの俺のチンコをつかむと、[r]
-自分のマンコに導いていく。[pcms]
+The female teacher grabs my just-ejaculated cock and guides it to her[r]
+own pussy.[pcms]
 
 
 *8396|
 [fc]
-そして、数俊の間もなく、[r]
-がっついた犬のようにチンコを挿入していった。[pcms]
+And then, in just a few moments, she inserts the cock like a ravenous[r]
+dog.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1624,14 +1611,15 @@
 *8397|
 ;旧ナンバー[vo_m s="nagamine0054"]
 [マイク 位置８][vo_mob s="R_naga0054"]
-[ns]長峰[nse]
-「あぁぁあんっ！　チンコがいいところ擦ってるぅっ！」[pcms]
+[ns]Nagamine[nse]
+"Aaahhhn! The cock is rubbing against the right spots!"[pcms]
 
 
 *8398|
 [fc]
-ずぼっと、音がしそうな程、勢いよく挿入した女教師は、[r]
-そのまま激しい腰使いで俺のチンコを出し入れする。[pcms]
+With a sound that seemed almost audible, the female teacher vigorously[r]
+inserted it and began to move her hips intensely, thrusting my cock in[r]
+and out.[pcms]
 
 [se_HLoop buf2 storage="se_sex03"]
 
@@ -1639,190 +1627,184 @@
 *8399|
 ;旧ナンバー[vo_m s="nagamine0055"]
 [マイク 位置８][vo_mob s="R_naga0055"]
-[ns]長峰[nse]
-「久しぶりのセックスいいっ！[r]
-　子宮にたっぷりとキスされてるぅっ！」[pcms]
+[ns]Nagamine[nse]
+"It's been a while since I've had sex and it feels so good! My womb is[r]
+being kissed thoroughly!"[pcms]
 
 
 *8400|
 [fc]
-その、いきなりな乱れ方に、[r]
-周りの女の子たちも、ちょっとビックリしているみたいだ。[pcms]
+The girls around us seem a bit surprised by her sudden and wild[r]
+behavior.[pcms]
 
 
 *8401|
 [fc]
-久しぶりだと言っているから、[r]
-欲望が爆発してしまったんだろうか。[pcms]
+Perhaps her desires exploded because she said it had been a while.[pcms]
 
 
 *8402|
 [fc]
-[ns]克己[nse]
-「ぐふっ……んぐううっ……」[pcms]
+[ns]Kazumi[nse]
+"Gufu... nnguuu..."[pcms]
 
 
 *8403|
 ;旧ナンバー[vo_m s="nagamine0056"]
 [マイク 位置８][vo_mob s="R_naga0056"]
-[ns]長峰[nse]
-「あああぁっ！　あぎぃぃぃっ！[r]
-　チンコ挿入しただけで、軽くイッてしまいましたわ！」[pcms]
+[ns]Nagamine[nse]
+"Aaaah! Agiiii! Just by inserting the cock, I've lightly climaxed!"[pcms]
 
 
 *8404|
 [fc]
-委員長の初マンコと違って、[r]
-やはり少しこなれているのがわかる。[pcms]
+Unlike the committee head's first pussy, this one is clearly a bit[r]
+more experienced.[pcms]
 
 
 *8405|
 [fc]
-キツさの中にも張りとやわらかさがあり、[r]
-締め付けるだけはなく、包み込むような余裕が感じられた。[pcms]
+There's tightness but also elasticity and softness, not just squeezing[r]
+but also a sense of enveloping.[pcms]
 
 
 *8406|
 [fc]
-[ns]克己[nse]
-「んぐふっ……んぐぶっ……」[pcms]
+[ns]Kazumi[nse]
+"Nngufu... nngubu..."[pcms]
 
 
 *8407|
 ;旧ナンバー[vo_m s="nagamine0057"]
 [マイク 位置８][vo_mob s="R_naga0057"]
-[ns]長峰[nse]
-「このチンコ、根本まで堅くていい感じぃぃぃっ！」[pcms]
+[ns]Nagamine[nse]
+"This cock is so hard at the base, it feels so good!"[pcms]
 
 
 *8408|
 [fc]
-マンコの中がグネグネとうごめいて、[r]
-俺のチンコをもぐもぐと食べられているような気になってくる。[pcms]
+The pussy writhes and squirms inside, making me feel as if it's[r]
+munching on my cock.[pcms]
 
 
 *8409|
 [fc]
-間違いなく、これは大人のマンコだった。[pcms]
+Without a doubt, this was an adult's pussy.[pcms]
 
 
 *8410|
 ;旧ナンバー[vo_m s="kajiwara0045"]
 [マイク 位置２][vo_mob s="R_kaji0045"]
-[ns]梶原[nse]
-「先生……気持ちよさそう……」[pcms]
+[ns]Kajiwara[nse]
+"Sensei... you seem to be feeling good..."[pcms]
 
 
 *8411|
 ;旧ナンバー[vo_m s="nagamine0058"]
 [マイク 位置８][vo_mob s="R_naga0058"]
-[ns]長峰[nse]
-「このおチンコは、中々グレードの高いものです、[r]
-;FHD　梶原さんがイカせたのは、さすがというべきでしょうね」[pcms]
-　梶原さんをイカせたのは、さすがというべきでしょうね」[pcms]
+[ns]Nagamine[nse]
+"This cock is of quite a high grade; it's no surprise that Kajiwara-[r]
+san was able to make me climax."[pcms]
 
 *8412|
 ;旧ナンバー[vo_m s="kajiwara0046"]
 [マイク 位置２][vo_mob s="R_kaji0046"]
-[ns]梶原[nse]
-「わ、私はまだイッてないんです……」[pcms]
+[ns]Kajiwara[nse]
+"I-I haven't climaxed yet..."[pcms]
 
 
 *8413|
 ;旧ナンバー[vo_m s="nagamine0059"]
 [マイク 位置８][vo_mob s="R_naga0059"]
-[ns]長峰[nse]
-「では、私が終わったら、今度はしっかりとイキましょう」[pcms]
+[ns]Nagamine[nse]
+"Then, after I finish, let's make sure you climax properly."[pcms]
 
 
 *8414|
 ;旧ナンバー[vo_m s="kajiwara0047"]
 [マイク 位置２][vo_mob s="R_kaji0047"]
-[ns]梶原[nse]
-「すみません……」[pcms]
+[ns]Kajiwara[nse]
+"I'm sorry..."[pcms]
 
 
 *8415|
 [fc]
-クールでＳな委員長が、俺のチンコで[r]
-イキたがっているなんて……。[pcms]
+The cool and S committee head is eager to climax with my cock...[pcms]
 
 
 *8416|
 [fc]
-興奮のボルテージが一気に上がっていく。[pcms]
+The voltage of excitement surges all at once.[pcms]
 
 
 *8417|
 ;旧ナンバー[vo_m s="nagamine0060"]
 [マイク 位置８][vo_mob s="R_naga0060"]
-[ns]長峰[nse]
-「それでは、すぐにこのゲスな侵入者をイカせて、[r]
-　梶原さんの番にしましょうか」[pcms]
+[ns]Nagamine[nse]
+"Well then, let's make this vile intruder climax quickly and move on[r]
+to Kajiwara-san's turn."[pcms]
 
 
 *8418|
 [fc]
-女教師はそういうと、今まで激しかった腰使いを、[r]
-更に加速させて乱れていった。[pcms]
+The female teacher says this and accelerates her already intense hip[r]
+movements even further into disarray.[pcms]
 
 
 *8419|
 [fc]
-[ns]克己[nse]
-「んぐぐううううっ！　ぐがあっぁぁあっ！」[pcms]
+[ns]Kazumi[nse]
+"Nnguuuuuuu! Guaaaaah!"[pcms]
 
 
 *8420|
 ;旧ナンバー[vo_m s="nagamine0061"]
 [マイク 位置８][vo_mob s="R_naga0061"]
-[ns]長峰[nse]
-「さぁ、大人しく観念して、臭い精液出しなさい！」[pcms]
+[ns]Nagamine[nse]
+"Now, give in obediently and release your smelly semen!"[pcms]
 
 
 *8421|
 [fc]
-[ns]克己[nse]
-「ぐぶあぁぁあぁっ！　はぐううううっっ！」[pcms]
+[ns]Kazumi[nse]
+"Gubaaaah! Haguuuuuuu!"[pcms]
 
 
 *8422|
 [fc]
-俺をイカせにかかっている女教師は、[r]
-かなりの手練れで、俺に抵抗する余地は一切無い。[pcms]
+The female teacher intent on making me climax is quite skilled,[r]
+leaving me no chance to resist.[pcms]
 
 
 *8423|
 [fc]
-射精までの道を、[r]
-一直線に駆け上がっていくことしかできなかった。[pcms]
+I could only race straight towards ejaculation.[pcms]
 
 
 *8424|
 ;旧ナンバー[vo_m s="nagamine0062"]
 [マイク 位置８][vo_mob s="R_naga0062"]
-[ns]長峰[nse]
-「あふううっ、イキ、そうに、なってるわね……」[pcms]
+[ns]Nagamine[nse]
+"Afuuh, I'm about to climax..."[pcms]
 
 
 *8425|
 [fc]
-[ns]克己[nse]
-「ぐふううっ！　ふんぐうぅぅぅっ！」[pcms]
+[ns]Kazumi[nse]
+"Gufuuuh! Funguuuuu!"[pcms]
 
 
 *8426|
 ;旧ナンバー[vo_m s="nagamine0063"]
 [マイク 位置８][vo_mob s="R_naga0063"]
-[ns]長峰[nse]
-「素直にイッちゃいなさい！[r]
-　中にどばどば精液出しなさいっ！」[pcms]
+[ns]Nagamine[nse]
+"Just climax obediently! Release your semen inside me!"[pcms]
 
 
 *8427|
 [fc]
-[ns]克己[nse]
-「んぐぁぁぁぁあぁぁぁあぁぁぁぁぁぁっ！」[pcms]
+[ns]Kazumi[nse]
+"Nguuaaaaaaaaah!"[pcms]
 
 ;;//◆射精フラ
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
@@ -1836,14 +1818,13 @@
 
 *8428|
 [fc]
-連続での射精に、俺の身体はへとへとになっている。[pcms]
+After consecutive ejaculations, my body is completely exhausted.[pcms]
 
 
 *8429|
 [fc]
-でも、まだ射精の最中だというのに、[r]
-女教師は手加減の意志を見せずに、[r]
-責める手を休ませなかった。[pcms]
+But even in the midst of ejaculation, the female teacher shows no[r]
+intention of going easy and doesn't stop her assault.[pcms]
 
 ;;//■イベントCG　mob_H015
 [evcg storage="mob_H015k"][trans_c cross time=500]
@@ -1852,15 +1833,15 @@
 *8430|
 ;旧ナンバー[vo_m s="nagamine0064"]
 [マイク 位置８][vo_mob s="R_naga0064"]
-[ns]長峰[nse]
-「この程度では収まりませんわ！[r]
-　次は梶原さんに射精しなさい！」[pcms]
+[ns]Nagamine[nse]
+"This won't be enough to satisfy me! Next, you will ejaculate for[r]
+Kajiwara-san!"[pcms]
 
 
 *8431|
 [fc]
-[ns]克己[nse]
-「くううっ！」[pcms]
+[ns]Kazumi[nse]
+"Kuuuh!"[pcms]
 
 ;;//メモ　この後は交互に入れる
 ;;//　　　画がないのでわからんが、差分で出し入れできるのかな
@@ -1873,23 +1854,23 @@
 
 *8432|
 [fc]
-やっと射精が終わったチンコを抜き取ると、[r]
-また委員長のマンコにあてがっていく。[pcms]
+After finally finishing ejaculating, I pull out my dick and aim it[r]
+again at the committee chairperson's pussy.[pcms]
 
 
 *8433|
 ;旧ナンバー[vo_m s="kajiwara0048"]
 [マイク 位置２][vo_mob s="R_kaji0048"]
-[ns]梶原[nse]
-「ああぁ……今度は、最後まで……」[pcms]
+[ns]Kajiwara[nse]
+"Aaah... this time, until the end..."[pcms]
 
 
 *8434|
 ;旧ナンバー[vo_m s="nagamine0065"]
 [マイク 位置８][vo_mob s="R_naga0065"]
-[ns]長峰[nse]
-「梶原さんをイカせる前に果てたら、[r]
-　キツイお仕置きが必要でしょうね」[pcms]
+[ns]Nagamine[nse]
+"If you climax before making Kajiwara-san cum, a severe punishment[r]
+will be necessary, won't it?"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1902,63 +1883,62 @@
 
 *8435|
 [fc]
-[ns]克己[nse]
-「んぐうううっ！　ああっぁぁっ！」[pcms]
+[ns]Kazumi[nse]
+"Nguuuuuh! Aaahhhhh!"[pcms]
 
 
 *8436|
 [fc]
-まだ、精液の漏れているチンコが、[r]
-委員長の狭いマンコに飲み込まれていく。[pcms]
+My dick, still leaking semen, is swallowed up by the committee[r]
+chairperson's tight pussy.[pcms]
 
 
 *8437|
 ;旧ナンバー[vo_m s="kajiwara0049"]
 [マイク 位置２][vo_mob s="R_kaji0049"]
-[ns]梶原[nse]
-「あぁぁぁっ、また、きた……」[pcms]
+[ns]Kajiwara[nse]
+"Aaaahhh, it's coming again..."[pcms]
 
 
 *8438|
 ;旧ナンバー[vo_m s="nagamine0066"]
 [マイク 位置８][vo_mob s="R_naga0066"]
-[ns]長峰[nse]
-「女が男を制するのです、[r]
-　その気持ちを忘れてはいけませんよ」[pcms]
+[ns]Nagamine[nse]
+"A woman must control a man, don't forget that feeling."[pcms]
 
 
 *8439|
 ;旧ナンバー[vo_m s="kajiwara0050"]
 [マイク 位置２][vo_mob s="R_kaji0050"]
-[ns]梶原[nse]
-「あふっ……でも、よすぎちゃって……私……」[pcms]
+[ns]Kajiwara[nse]
+"Afuuh... but it feels too good... I..."[pcms]
 
 
 *8440|
 [fc]
-委員長は、クールな外見とは裏腹に、[r]
-どん欲な腰使いで俺のチンコを咥えている。[pcms]
+The committee chairperson, contrary to her cool appearance, is[r]
+greedily moving her hips and engulfing my dick.[pcms]
 
 
 *8441|
 [fc]
-喘ぎ声も静かだが、どうしようもなく感じているのは[r]
-すぐにわかった。[pcms]
+Her moans are quiet, but it was immediately clear that she was[r]
+helplessly aroused.[pcms]
 
 
 *8442|
 ;旧ナンバー[vo_m s="nagamine0067"]
 [マイク 位置８][vo_mob s="R_naga0067"]
-[ns]長峰[nse]
-「では、落ち着く時間をあげますから、[r]
-　少し休むと良いでしょう」[pcms]
+[ns]Nagamine[nse]
+"Then, I'll give you some time to calm down. It would be good to rest[r]
+a bit."[pcms]
 
 
 *8443|
 ;旧ナンバー[vo_m s="kajiwara0051"]
 [マイク 位置２][vo_mob s="R_kaji0051"]
-[ns]梶原[nse]
-「あああっ！」[pcms]
+[ns]Kajiwara[nse]
+"Aaaaah!"[pcms]
 
 ;;//メモ　交互にチンコ入れるシーン、データが来たら貼り付けし直す
 [se_H buf1 storage="se_sex01"]
@@ -1969,8 +1949,8 @@
 
 *8444|
 [fc]
-女教師は委員長からチンコを奪うと、[r]
-また自分の中に迎え入れていく。[pcms]
+The female teacher takes the dick from the committee chairperson and[r]
+welcomes it inside herself again.[pcms]
 
 [se_H buf1 storage="se_sex01"]
 ;;//■イベントCG　mob_H015
@@ -1979,57 +1959,57 @@
 
 *8445|
 [fc]
-[ns]克己[nse]
-「くううううっ！　があぁぁっぁっ！」[pcms]
+[ns]Katsumi[nse]
+"Kuuuuuh! Gaaaahhhhh!"[pcms]
 
 
 *8446|
 ;旧ナンバー[vo_m s="nagamine0068"]
 [マイク 位置８][vo_mob s="R_naga0068"]
-[ns]長峰[nse]
-「あふうっ、二人で交互に入れるから……、[r]
-　違う感じがたまらないのね」[pcms]
+[ns]Nagamine[nse]
+"Afuuh, because we're alternating between the two of you... the[r]
+different sensations are irresistible."[pcms]
 
 
 *8447|
 [fc]
-委員長の激しさとは、狂気の度合いが違う女教師が、[r]
-狂ったように腰を踊らせていく。[pcms]
+The female teacher's madness is of a different degree than the[r]
+committee chairperson's intensity as she wildly gyrates her hips.[pcms]
 
 
 *8448|
 [fc]
-俺は、また絞り取られる予感を抱きながら、[r]
-されるがままに、歯を食いしばっていった。[pcms]
+I brace myself for another round of being milked dry, gritting my[r]
+teeth and letting it happen.[pcms]
 
 
 *8449|
 ;旧ナンバー[vo_m s="kajiwara0052"]
 [マイク 位置２][vo_mob s="R_kaji0052"]
-[ns]梶原[nse]
-「先生、そろそろ……」[pcms]
+[ns]Kajiwara[nse]
+"Teacher, it's about time..."[pcms]
 
 
 *8450|
 ;旧ナンバー[vo_m s="nagamine0069"]
 [マイク 位置８][vo_mob s="R_naga0069"]
-[ns]長峰[nse]
-「あひいぃぃあぁぁっ！　か、梶原さん、[r]
-　落ち着いたというより、我慢が出来なくなったみたいですね」[pcms]
+[ns]Nagamine[nse]
+"Ahiyiiiaaaah! Ka, Kajiwara-san, it seems you've become unable to hold[r]
+back rather than calmed down."[pcms]
 
 
 *8451|
 ;旧ナンバー[vo_m s="kajiwara0053"]
 [マイク 位置２][vo_mob s="R_kaji0053"]
-[ns]梶原[nse]
-「ああぁぁっ……もうっ……」[pcms]
+[ns]Kajiwara[nse]
+"Aaaahhh... I can't anymore..."[pcms]
 
 
 *8452|
 ;旧ナンバー[vo_m s="nagamine0070"]
 [マイク 位置８][vo_mob s="R_naga0070"]
-[ns]長峰[nse]
-「ふふふっ、それじゃあ……」[pcms]
+[ns]Nagamine[nse]
+"Fufufu, then..."[pcms]
 
 [se_H buf1 storage="se_sex01"]
 
@@ -2039,8 +2019,8 @@
 
 *8453|
 [fc]
-女教師が腰を持ち上げると、ぽろっと零れ出たチンコを、[r]
-委員長が飛びつくように挿入していく。[pcms]
+As the female teacher lifts her hips, the dick that slipped out is[r]
+eagerly inserted by the committee chairperson.[pcms]
 
 [se_H buf1 storage="se_sex01"]
 ;;//■イベントCG　mob_H015
@@ -2050,42 +2030,41 @@
 *8454|
 ;旧ナンバー[vo_m s="kajiwara0054"]
 [マイク 位置２][vo_mob s="R_kaji0054"]
-[ns]梶原[nse]
-「あっくぁぁぁぁっ！　はんくううっ……！」[pcms]
+[ns]Kajiwara[nse]
+"Ackaaaah! Hankuuuuh...!"[pcms]
 
 
 *8455|
 [fc]
-もう、電マをしていたときのようなクールさはなく、[r]
-既にチンコを欲しがる雌になりつつあった。[pcms]
+Now, there's no trace of her earlier coolness; she's already becoming[r]
+a female begging for a dick.[pcms]
 
 
 *8456|
 ;旧ナンバー[vo_m s="volu_A0012"]
 [マイク 位置１６][vo_mob s="R_volunteerA0012"]
-[ns]ボランティア部員Ａ[nse]
-「梶原さんが、あんなに気持ちよさそうに……」[pcms]
+[ns]Volunteer Club Member A[nse]
+"Kajiwara-san looks so pleasured..."[pcms]
 
 
 *8457|
 ;旧ナンバー[vo_m s="volu_B0008"]
 [マイク 位置９][vo_mob s="R_volunteerB0008"]
-[ns]ボランティア部員Ｂ[nse]
-「私も、はやくしたいです！」[pcms]
+[ns]Volunteer Club Member B[nse]
+"I want to do it soon too!"[pcms]
 
 
 *8458|
 ;旧ナンバー[vo_m s="nagamine0071"]
 [マイク 位置８][vo_mob s="R_naga0071"]
-[ns]長峰[nse]
-「今、お手本を見せているところだから、[r]
-　もう少し待ってくださいね」[pcms]
+[ns]Nagamine[nse]
+"I'm showing an example right now, so please wait a little longer."[pcms]
 
 
 *8459|
 [fc]
-[ns]克己[nse]
-「ふぐっ、んぐううっ！」[pcms]
+[ns]Kazumi[nse]
+"Fuguuuh, nguuuuh!"[pcms]
 
 [se_HLoop buf2 storage="se_sex02"]
 
@@ -2093,77 +2072,76 @@
 *8460|
 ;旧ナンバー[vo_m s="kajiwara0055"]
 [マイク 位置２][vo_mob s="R_kaji0055"]
-[ns]梶原[nse]
-「この、ひっかかるところが、内側を擦って……、[r]
-　こんな形をしているのは……ああっ、卑怯です……」[pcms]
+[ns]Kajiwara[nse]
+"This spot that catches and rubs against the inside... such a shape[r]
+is... aahh, it's unfair..."[pcms]
 
 
 *8461|
 ;旧ナンバー[vo_m s="nagamine0072"]
 [マイク 位置２][vo_mob s="R_naga0072"]
-[ns]長峰[nse]
-「そうです、大体の男は卑怯ですから、[r]
-　こうやって自由にコントロールする必要があるのですね」[pcms]
+[ns]Nagamine[nse]
+"Yes, most men are unfair, so we need to freely control them like[r]
+this."[pcms]
 
 
 *8462|
 [fc]
-チンコの具合を確かめるように腰をひねって、[r]
-マンコのあちこちに擦りつけていく委員長。[pcms]
+The committee chairperson twists her hips as if checking the condition[r]
+of the dick, rubbing it against various parts of her pussy.[pcms]
 
 
 *8463|
 [fc]
-俺は、その刺激に耐えることが出来なくなりつつあった。[pcms]
+I was becoming unable to endure the stimulation.[pcms]
 
 
 *8464|
 ;旧ナンバー[vo_m s="kajiwara0056"]
 [マイク 位置２][vo_mob s="R_kaji0056"]
-[ns]梶原[nse]
-「びくって……しないでっ……！」[pcms]
+[ns]Kajiwara[nse]
+"Don't twitch... like that...!"[pcms]
 
 
 *8465|
 ;旧ナンバー[vo_m s="nagamine0073"]
 [マイク 位置８][vo_mob s="R_naga0073"]
-[ns]長峰[nse]
-「それは、男がもう少しで出るという[r]
-　合図を送ってるときなんです」[pcms]
+[ns]Nagamine[nse]
+"That's when a man is signaling that he's about to cum."[pcms]
 
 
 *8466|
 ;旧ナンバー[vo_m s="kajiwara0057"]
 [マイク 位置２][vo_mob s="R_kaji0057"]
-[ns]梶原[nse]
-「あぁ……んふぅ……さっきも、なりました……」[pcms]
+[ns]Kajiwara[nse]
+"Ah... nfuuh... it happened earlier too..."[pcms]
 
 
 *8467|
 ;旧ナンバー[vo_m s="nagamine0074"]
 [マイク 位置８][vo_mob s="R_naga0074"]
-[ns]長峰[nse]
-「では、私が交代して、すぐに吐き出させましょう」[pcms]
+[ns]Nagamine[nse]
+"Then I'll take over and make you ejaculate immediately."[pcms]
 
 
 *8468|
 ;旧ナンバー[vo_m s="kajiwara0058"]
 [マイク 位置２][vo_mob s="R_kaji0058"]
-[ns]梶原[nse]
-「で、でも……」[pcms]
+[ns]Kajiwara[nse]
+"But..."[pcms]
 
 
 *8469|
 ;旧ナンバー[vo_m s="nagamine0075"]
 [マイク 位置８][vo_mob s="R_naga0075"]
-[ns]長峰[nse]
-「精液でイクことを覚える練習です」[pcms]
+[ns]Nagamine[nse]
+"It's practice for learning to cum from semen."[pcms]
 
 
 *8470|
 [fc]
-[ns]克己[nse]
-「んぐううううっ！」[pcms]
+[ns]Kazumi[nse]
+"Nguuuuuuuh!"[pcms]
 
 ;;//メモ　あえてループＳＥは残しておく
 
@@ -2174,8 +2152,8 @@
 
 *8471|
 [fc]
-女教師は、委員長からチンコを奪い取ると、[r]
-自らの中に招き入れるように挿入する。[pcms]
+The female teacher snatches the cock from the committee chairperson[r]
+and inserts it into herself as if inviting it inside.[pcms]
 
 [se_H buf1 storage="se_sex01"]
 ;;//■イベントCG　mob_H015
@@ -2185,61 +2163,61 @@
 *8472|
 ;旧ナンバー[vo_m s="nagamine0076"]
 [マイク 位置８][vo_mob s="R_naga0076"]
-[ns]長峰[nse]
-「あぁぁぁんっ！　まだ、出しては駄目ですよっ！」[pcms]
+[ns]Nagamine[nse]
+"Aaahhhn! You mustn't cum yet!"[pcms]
 
 
 *8473|
 [fc]
-[ns]克己[nse]
-「ぐうううっ！　がぁぁぁっ！」[pcms]
+[ns]Kazumi[nse]
+"Guuuuuuh! Gaaaah!"[pcms]
 
 
 *8474|
 [fc]
-既に、イキそうになっていた俺は、[r]
-そんな女教師の命令になんとか耐えていく。[pcms]
+I was already on the verge of cumming, but somehow I managed to endure[r]
+the female teacher's command.[pcms]
 
 
 *8475|
 ;旧ナンバー[vo_m s="nagamine0077"]
 [マイク 位置８][vo_mob s="R_naga0077"]
-[ns]長峰[nse]
-「あふぅっ、すごい、本当にカリが高くて堅いから……」[pcms]
+[ns]Nagamine[nse]
+"Ahfuuh, amazing, it's really so firm and the ridge is so high..."[pcms]
 
 
 *8476|
 ;旧ナンバー[vo_m s="kajiwara0059"]
 [マイク 位置２][vo_mob s="R_kaji0059"]
-[ns]梶原[nse]
-「先生……」[pcms]
+[ns]Kajiwara[nse]
+"Teacher..."[pcms]
 
 
 *8477|
 ;旧ナンバー[vo_m s="nagamine0078"]
 [マイク 位置８][vo_mob s="R_naga0078"]
-[ns]長峰[nse]
-「あぁあぁっ……もうすぐ……もうすぐですよ……」[pcms]
+[ns]Nagamine[nse]
+"Aaahhh... soon... it's almost time..."[pcms]
 
 
 *8478|
 [fc]
-[ns]克己[nse]
-「んぐうぅぅぅぅぅっ！」[pcms]
+[ns]Kazumi[nse]
+"Nguuuuuuuuh!"[pcms]
 
 
 *8479|
 ;旧ナンバー[vo_m s="nagamine0079"]
 [マイク 位置８][vo_mob s="R_naga0079"]
-[ns]長峰[nse]
-「今ですっ！　梶原さん、受け取りなさいっ！」[pcms]
+[ns]Nagamine[nse]
+"Now! Kajiwara-san, receive it!"[pcms]
 
 
 *8480|
 ;旧ナンバー[vo_m s="kajiwara0060"]
 [マイク 位置２][vo_mob s="R_kaji0060"]
-[ns]梶原[nse]
-「あくうううぅぅっ！　んひぃぃぃぃっ！」[pcms]
+[ns]Kajiwara[nse]
+"Akuuuuuuh! Nhihiiiiiih!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -2252,34 +2230,34 @@
 
 *8481|
 [fc]
-俺が射精しそうになった瞬間、[r]
-女教師はチンコを抜いて委員長に挿入させた。[pcms]
+The moment I was about to ejaculate, the female teacher pulled out the[r]
+cock and inserted it into the committee chairperson.[pcms]
 
 
 *8482|
 [fc]
-そして、俺の熱い猛りは委員長のへその裏辺りで、[r]
-荒れ狂いながら爆発している。[pcms]
+And then, my hot fervor exploded around the back of the committee[r]
+chairperson's navel, raging wildly.[pcms]
 
 
 *8483|
 ;旧ナンバー[vo_m s="kajiwara0061"]
 [マイク 位置２][vo_mob s="R_kaji0061"]
-[ns]梶原[nse]
-「イクぅぅぅぅぅぅぅぅぅっ！」[pcms]
+[ns]Kajiwara[nse]
+"I'm cumminggggggggg!"[pcms]
 
 
 *8484|
 [fc]
-散々我慢させられていた委員長は、チンコの挿入感と、[r]
-つづけてやってきた熱い精液のほとばしりを受けて、[r]
-絶頂していた。[pcms]
+The committee chairperson, who had been made to endure so much,[r]
+climaxed from the sensation of the cock being inserted and the[r]
+subsequent rush of hot semen.[pcms]
 
 
 *8485|
 [fc]
-あの、男をさげすんでいた委員長とは思えないくらい、[r]
-見事に気をやっている。[pcms]
+It was hard to believe that this was the same committee chairperson[r]
+who had looked down on men, as she completely lost herself in ecstasy.[pcms]
 
 ;;//■イベントCG　mob_H015
 [evcg storage="mob_H015l"][trans_c cross time=500]
@@ -2287,22 +2265,22 @@
 
 *8486|
 [fc]
-[ns]克己[nse]
-「んぐぅ……ぐふうっ……」[pcms]
+[ns]Kazumi[nse]
+"Nguu... gufuuuh..."[pcms]
 
 
 *8487|
 ;旧ナンバー[vo_m s="nagamine0080"]
 [マイク 位置８][vo_mob s="R_naga0080"]
-[ns]長峰[nse]
-「さあ、次は誰の番かしら？」[pcms]
+[ns]Nagamine[nse]
+"Now, whose turn is it next?"[pcms]
 
 
 *8488|
 ;旧ナンバー[vo_m s="volu_A0013"]
 [マイク 位置１６][vo_mob s="R_volunteerA0013"]
-[ns]ボランティア部員Ａ[nse]
-「私、私の番ですっ！」[pcms]
+[ns]Volunteer Club Member A[nse]
+"Me, it's my turn!"[pcms]
 
 ;;//■イベントCG　mob_H015
 [evcg storage="mob_H015m"][trans_c cross time=500]
@@ -2311,28 +2289,28 @@
 *8489|
 ;旧ナンバー[vo_m s="volu_C0001"]
 [マイク 位置１０][vo_mob s="R_volunteerC0001"]
-[ns]ボランティア部員Ｃ[nse]
-「ずるいですっ！　私だってもう限界ですっ！」[pcms]
+[ns]Volunteer Club Member C[nse]
+"That's not fair! I'm at my limit too!"[pcms]
 
 
 *8490|
 ;旧ナンバー[vo_m s="volu_D0001"]
 [マイク 位置１３][vo_mob s="R_volunteerD0001"]
-[ns]ボランティア部員Ｄ[nse]
-「見てるだけなんて、もう無理ですわっ！」[pcms]
+[ns]Volunteer Club Member D[nse]
+"Just watching is unbearable anymore!"[pcms]
 
 
 *8491|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 
 *8492|
 [fc]
-このままでは、やり殺されてしまう……、[r]
-そう思いながらも、俺はここから逃げることもできずに、[r]
-殺到してくる女の子達を見ていることしかできなかった。[pcms]
+If this continues, I'll be fucked to death... While thinking this, I[r]
+was unable to escape and could only watch as the girls swarmed towards[r]
+me.[pcms]
 
 
 *kaisou_end

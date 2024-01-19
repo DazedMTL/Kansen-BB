@@ -4,10 +4,10 @@
 
 *7285|
 [fc]
-[ns]克己[nse]
-「こう言うときは、直感を信じるのが１番！[r]
-　静ちゃん、男ってのは自分で道を切り開くモンなんだぜ！？[r]
-　だから、何も言わず見ててくれっ！！」[pcms]
+[ns]Kazumi[nse]
+"At times like this, it's best to trust your instincts! Shizuka-chan,[r]
+a man's gotta carve his own path, you know!? So just watch without[r]
+saying anything!!"[pcms]
 
 ;;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -21,40 +21,39 @@
 
 *7286|
 [fc]
-合宿所を出て、そのまま中庭を突っ切り、[r]
-途中で絡んできた感染者を何人か殴り倒しながら、[r]
-運動場のある場所を駆け抜ける。[pcms]
+Leaving the lodge, I cut straight through the courtyard, knocking down[r]
+several infected that got in my way, and dashed through the area with[r]
+the sports field.[pcms]
 
 
 *7287|
 [fc]
-走りながら俺は、学園に入り込む方法を模索していた。[pcms]
+As I ran, I was searching for a way to get into the school.[pcms]
 
 
 *7288|
 [fc]
-[ns]克己[nse]
-「入り口は、ないな……。[r]
-　いやっ！　分かり易いのがあるじゃねえか！」[pcms]
+[ns]Kazumi[nse]
+"There's no entrance... No, wait! There's an obvious one right there!"[pcms]
 
 
 *7289|
 [fc]
-息苦しくて、顎を上げながら叫ぶと、[r]
-目的地の校舎の壁に張り付き、[r]
-教室の横にある窓ガラスを睨み付ける。[pcms]
+Gasping for breath and lifting my chin while shouting, I glared at the[r]
+window glass next to the classroom on the wall of the destination[r]
+building.[pcms]
 
 
 *7290|
 [fc]
-[ns]克己[nse]
-「よぉし、やるぜ……？　せーの！」[pcms]
+[ns]Kazumi[nse]
+"Alright, let's do this... Ready, set!"[pcms]
 
 
 *7291|
 [fc]
-手に持ったバットを、窓の鍵の近くに向け、[r]
-勢いよく突き立てた。[pcms]
+I aimed the bat I was holding near the lock of the window and thrust[r]
+it forcefully.[pcms]
 
 ;;//s:ＳＥ　窓が割れる
 [se buf1 storage="seB081"]
@@ -63,30 +62,30 @@
 
 *7292|
 [fc]
-漫画の叫び声の吹き出しみたいに割れて、[r]
-穴が開いた部分に手を突っ込み、[r]
-中の鍵をいつもと逆に押し倒す。[pcms]
+It shattered like a speech bubble in a comic book, and I stuck my hand[r]
+through the hole that opened up, pushing down the inside lock in the[r]
+opposite direction as usual.[pcms]
 
 
 *7293|
 [fc]
-猛烈な背徳感と罪悪感。[r]
-それと共に、奇妙な達成感が全身を駆け抜け、[r]
-思わず身震いしてしまう。[pcms]
+A fierce sense of immorality and guilt. Along with that, a strange[r]
+sense of accomplishment surged through my body, making me shiver[r]
+involuntarily.[pcms]
 
 
 *7294|
 [fc]
-[ns]克己[nse]
-「ふへへ……これ一度やってみたかったんだよな……。[r]
-　こんな泥棒みたいな事、今みたいな非常時じゃなけりゃ、[r]
-　やれないからな。普段なら、しょっ引かれちまうぜ」[pcms]
+[ns]Kazumi[nse]
+"Hehehe... I've always wanted to try this... You can't do something[r]
+thief-like like this unless it's an emergency situation like now.[r]
+Normally, I'd get arrested for this."[pcms]
 
 
 *7295|
 [fc]
-鍵を外から開くなんて、滅多に出来ない経験に浸りながら、[r]
-俺は、周囲の気配に注意しながら教室の中に忍び込んだ。[pcms]
+While soaking in the rare experience of unlocking a door from the[r]
+outside, I snuck into the classroom, being careful of my surroundings.[pcms]
 
 ;;//★学園教室・朝昼
 [bg storage="BG30a"][trans_c cross time=500]

@@ -22,102 +22,101 @@
 
 *9247|
 [fc]
-[ns]克己[nse]
-「これが……。[r]
-　普通の、退屈な、つまんねー毎日が終わった日の全てだ。[r]
-　だからって、今が面白いかって言えば、そうでもないけどな」[pcms]
+[ns]Kazumi[nse]
+"This is... the end of an ordinary, boring, uninteresting day. Not[r]
+that I can say today has been particularly interesting either."[pcms]
 
 
 *9248|
 [fc]
-俺達は、丞実の犠牲のおかげで今、ここにいる。[r]
-首を怪我してしまった美樹ちゃんも、[r]
-幸いにして一命を取り留めた。[pcms]
+We are here now, thanks to Tsugumi's sacrifice. Miki-chan, who injured[r]
+her neck, fortunately managed to survive.[pcms]
 
 
 *9249|
 [fc]
-だけど……。[pcms]
+But...[pcms]
 
 
 *9250|
 [fc]
-予想と少しだけ違っていたのは、[r]
-保護された後の、俺達の待遇だ。[pcms]
+What was a little unexpected was the treatment we received after being[r]
+rescued.[pcms]
 
 
 *9251|
 [fc]
-そして、俺の呟きを向けるハズの相手はココにいない。[pcms]
+And the person I should be muttering to isn't here.[pcms]
 
 
 *9252|
 [fc]
-スリリングで、クソッタレな一日は、[r]
-自衛隊の隊員達のおかげで、終わりを告げた。[pcms]
+The thrilling, crappy day came to an end thanks to the Self-Defense[r]
+Force members.[pcms]
 
 
 *9253|
 [fc]
-そして、そのまま俺達には、[r]
-普通の、退屈な、つまんねー毎日が戻ってくるハズだったんだ。[r]
-だけどホント、人生ってうまくいかないモンで。[pcms]
+And with that, our normal, boring, uninteresting days were supposed to[r]
+return. But really, life just doesn't go as planned.[pcms]
 
 
 *9254|
 [fc]
-病院に収容されて、エアコンの利いた涼しい部屋で、[r]
-フカフカとまでは行かないまでもベッドの上で寝られる。[r]
-そう思っていたのに、現実は違う。[pcms]
+I thought I'd be in a cool room with air conditioning, resting on a[r]
+bed that wasn't exactly plush but at least a bed. But reality was[r]
+different.[pcms]
 
 
 *9255|
 [fc]
-ようやくたどり着いた病院すら、ヤツらが溢れかえっていて、[r]
-自衛隊の隊員達すら、放棄した後だったんだ。[pcms]
+Even the hospital we finally reached was overrun with them, and even[r]
+the Self-Defense Force members had abandoned it.[pcms]
 
 
 *9256|
 [fc]
-更に悪いことに――[pcms]
+And to make matters worse--[pcms]
 
 
 *9257|
 [fc]
-彼らの話では、静ちゃんの母校……。[r]
-杏奈達が残っていた学園も、あの合宿所も、[r]
-感染者達によって全滅状態だったらしい。[pcms]
+According to them, Shizuka-chan's alma mater... The school where Anna[r]
+and the others were left, as well as the training camp, seemed to have[r]
+been completely wiped out by the infected.[pcms]
 
 
 *9258|
 [fc]
-そして、他にも悪いニュースを聞かされたって訳だ。[pcms]
+And that's how I got to hear more bad news.[pcms]
 
 
 *9259|
 [fc]
-『指揮系統の混乱から、我々はここから動く事が出来ない』[pcms]
+"Due to the chaos in the chain of command, we are unable to move from[r]
+here."[pcms]
 
 
 *9260|
 [fc]
-『武器弾薬も残り僅か。制圧作戦の継続は、困難』[pcms]
+"We have only a small amount of weapons and ammunition left.[r]
+Continuing suppression operations is difficult."[pcms]
 
 
 *9261|
 [fc]
-『よって、基地内から外に出る事は許可されない。[r]
-　当基地内で、他部隊の救助を待つ』[pcms]
+"Therefore, it is not permitted to leave the base. We will wait for[r]
+rescue from other units within this base."[pcms]
 
 
 *9262|
 [fc]
-って事らしい。[pcms]
+That seems to be the situation.[pcms]
 
 
 *9263|
 [fc]
-――要するに、だ。[pcms]
+--In short,[pcms]
 
 ;;//♪SE感染者の呻き
 
@@ -128,35 +127,33 @@
 
 *9264|
 [fc]
-眼下に広がる、阿鼻叫喚の地獄絵図の通り。[r]
-状況は、何にも変わってない。[pcms]
+The hellish scene of screams and agony below us. The situation hasn't[r]
+changed at all.[pcms]
 
 
 *9265|
 [fc]
-それどころか、むしろ悪くなる一方。[pcms]
+If anything, it's only getting worse.[pcms]
 
 
 *9266|
 [fc]
-ドブネズミが繁殖するみたいに、ヤツらの数は爆発的に増えて、[r]
-今じゃ、俺達以外にまともな人間はいないんじゃないか、[r]
-なんて思えるほどだ。[pcms]
+Like rats breeding, their numbers are exploding, and now I wonder if[r]
+there are any sane humans left other than us.[pcms]
 
 
 *9267|
 [fc]
-[ns]克己[nse]
-「乗っ取られた、って感じだな……。[r]
-　恐竜の時代が終わって、俺らほ乳類の時代が来た……って所か？[r]
-　それにしちゃ、あんな化け物ばっかりでどうなる事やら」[pcms]
+[ns]Kazumi[nse]
+"It feels like we've been taken over... Like when the age of dinosaurs[r]
+ended and our era of mammals began... But with all those monsters[r]
+around, who knows what will happen."[pcms]
 
 
 *9268|
 [fc]
-政府も、事態収拾を諦めたのか、[r]
-どっかの安全な島に逃げたなんて話もあるくらいだ。[r]
-この先、俺らはどうなることやら。[pcms]
+The government might have given up on controlling the situation and[r]
+fled to some safe island. What will become of us from now on?[pcms]
 
 ;;//seフェード停止###[stop_se buf3]
 ;mmmmm ここはもともと何も鳴ってないな　うめき声指定っぽいけど
@@ -167,145 +164,145 @@
 
 *9269|
 [fc]
-これ以上、あの連中のお祭りを見ていても仕方ないと、[r]
-炎の煙を追いかけて、夜空に目を向ける。[pcms]
+There's no point in watching their festival any longer, so I chase[r]
+after the smoke of flames and look up at the night sky.[pcms]
 
 
 *9270|
 [fc]
-連中の祭は、今の俺には参加資格はない。[pcms]
+I'm not qualified to join their festival now.[pcms]
 
 
 *9271|
 [fc]
-参加資格を受け取った時点で人生も終わりだけどな。[pcms]
+But once you receive an invitation, your life is over anyway.[pcms]
 
 
 *9272|
 [fc]
-[ns]克己[nse]
-「あー……星が綺麗だ～……」[pcms]
+[ns]Kazumi[nse]
+"Ah... the stars are beautiful..."[pcms]
 
 
 *9273|
 [fc]
-つい昨日まで人工の光が夜を掻き消し、[r]
-その姿を覆い隠されてしまっていた星達が、[r]
-鬱憤晴らしとばかりに瞬いている。[pcms]
+Until just yesterday artificial light erased the night, hiding their[r]
+figures, but now the stars blink as if venting their frustration.[pcms]
 
 
 *9274|
 [fc]
-こうして空を見上げる事なんて、もう十何年もしていなかった。[pcms]
+I haven't looked up at the sky like this in over a decade.[pcms]
 
 
 *9275|
 [fc]
-こんな事になって始めて、美しさに気が付くなんて。[pcms]
+It's only now that I've come to realize their beauty because of this[r]
+situation.[pcms]
 
 
 *9276|
 [fc]
-俺は、空を見上げたまま、自嘲気味に笑って、[r]
-横に置いたある缶のコーヒー牛乳を取り上げ、口に運ぶ。[pcms]
+As I continue to look up at the sky, I laugh at myself mockingly and[r]
+pick up a can of coffee milk that's been placed beside me, bringing it[r]
+to my lips.[pcms]
 
 
 *9277|
 [fc]
-[ns]克己[nse]
-「しっかしまあ、皮肉なモンだぜ……んー……うめえ！[r]
-　っつーか、コレもいつまで飲めるかなあ……。[r]
-　無くなったら、どうしよ……俺……死んじゃうかも……」[pcms]
+[ns]Katsumi[nse]
+"But man, it's ironic... Mmm... delicious! But I wonder how long I'll[r]
+be able to drink this... If it runs out, what will I do... I might[r]
+die..."[pcms]
 
 
 *9278|
 [fc]
-まあ、こんなモン無くても生きていけるけど。[r]
-本当にヤバいのは、食いモンの方だ。[pcms]
+Well, I can live without this stuff. The real problem is food.[pcms]
 
 
 *9279|
 [fc]
-避難してる基地の食料も、[r]
-いつまで持つかわかったモンじゃ無い。[r]
-俺達以外にも、結構な人数がいるし。[pcms]
+The food supplies at the base we're taking refuge in won't last[r]
+forever. And there are quite a few other people besides us.[pcms]
 
 
 *9280|
 [fc]
-ヤバイのは、食いモンの他にもある。[pcms]
+There are other serious problems besides food.[pcms]
 
 
 *9281|
 [fc]
-さっきみたいに感染してるヤツを、[r]
-コッソリココに連れ込んでるヤツもいる。[pcms]
+Like earlier, there are people secretly bringing in those who are[r]
+infected.[pcms]
 
 
 *9282|
 [fc]
-まあ、そりゃ……。[r]
-家族があんな風になったなんて、[r]
-信じたく無いのもわかるけど……。[pcms]
+Well, I understand... not wanting to believe that your family has[r]
+become like that...[pcms]
 
 
 *9283|
 [fc]
-このままココにいたって、ゆくゆくは食糧不足で餓死。[r]
-それか、この中に潜んでる感染者にやられて、死ぬ。[pcms]
+If we stay here like this, we'll eventually starve to death due to[r]
+food shortages. Or we'll be killed by an infected person hiding among[r]
+us.[pcms]
 
 
 *9284|
 [fc]
-もちろん、そうならないように対策は練れていて、[r]
-近所のスーパーやらなにやらから、食料品を持ってくるって、[r]
-そんな作戦立ててるって言ってたけど、どうなることやら。[pcms]
+Of course, there are plans in place to prevent that from happening,[r]
+like bringing in food from nearby supermarkets and whatnot. But who[r]
+knows how that will turn out.[pcms]
 
 
 *9285|
 [fc]
-[ns]克己[nse]
-「はーあ……コイツももう、腹ぺこかあ……。[r]
-　もう一回だけ、電話しとくかな……」[pcms]
+[ns]Kazumi[nse]
+"Sigh... This guy is hungry again... Maybe I'll make one more phone[r]
+call..."[pcms]
 
 
 *9286|
 [fc]
-ポケットから携帯を取り出し、発信履歴の画面を開く。[pcms]
+I take out my cell phone from my pocket and open the call history[r]
+screen.[pcms]
 
 
 *9287|
 [fc]
-『実家』『お袋』『親父』の文字が延々と続く。[r]
-そして、その中の一つを選択し、ダイアルする。[pcms]
+"Home," "Mom," "Dad," the words continue endlessly. Then, I select one[r]
+of them and dial.[pcms]
 
 
 *9288|
 [fc]
-だけど、今日も同じ。[r]
-呼び出し音すらならず、小さなホワイトノイズが聞こえるだけ。[pcms]
+But today is the same as always. There's no ringing, just a small[r]
+white noise that can be heard.[pcms]
 
 
 *9289|
 [fc]
-[ns]克己[nse]
-「無事でいてくれればいいんだけどな。[r]
-　まあ、俺が無事ってことは、二人とも大丈夫だろ……」[pcms]
+[ns]Kazumi[nse]
+"I just hope they're safe. Well, if I'm safe, then they should be[r]
+too..."[pcms]
 
 
 *9290|
 [fc]
-そして携帯を閉じる前にいつもしていた事を今日も繰り返す。[pcms]
+And before closing my cell phone, I repeat what I always do.[pcms]
 
 
 *9291|
 [fc]
-それは――[pcms]
+That is--[pcms]
 
 
 *9292|
 [fc]
-留守電に残された携帯の留守番メッセージを再生することだ。[pcms]
+Playing the voicemail messages left on my cell phone.[pcms]
 
 [ChrSetEx layer=5 chbase="tug2_jar1_touka"][ChrSetXY layer=5 x="&sf.std_t_x調整*-192" y="&sf.std_t_y調整*-81"][trans_c cross time=500]
 
@@ -313,9 +310,9 @@
 *9293|
 ;[vo_t s="旧tugumi0583"]
 [マイク 位置７ ch=t][vo_t s="R_tug_BIN0307"]
-[ns]丞実[nse]
-『兄ちゃん、ちゃんと電話してよね！[r]
-　まあ、生きてるんならそれでいいけど』[pcms]
+[ns]Tsugumi[nse]
+"Big brother, make sure you call me! Well, as long as you're alive,[r]
+that's good enough."[pcms]
 
 ;FHD 新規収録漏れ トゥルーに同じ台詞あったのでそっちを使う
 
@@ -325,7 +322,7 @@
 
 *9294|
 [fc]
-退屈な日々の、何気ないアイツの声だ。[pcms]
+It's her casual voice amidst these boring days.[pcms]
 
 ;;//■イベントCG
 [evcg storage="END01a"][trans_c cross time=1000]
@@ -333,59 +330,57 @@
 
 *9295|
 [fc]
-[ns]克己[nse]
-「俺は生きてるよ……。[r]
-　だけど、お前にどうやって電話すりゃいいんだよ……。[r]
-　戻ってこいよ、丞実……」[pcms]
+[ns]Kazumi[nse]
+"I am alive... But how can I call you, Tsugumi... Come back,[r]
+Tsugumi..."[pcms]
 
 
 *9296|
 [fc]
-アイツのおかげで、今、俺はここでこうしていられる。[pcms]
+Thanks to her, I'm able to be here like this right now.[pcms]
 
 
 *9297|
 [fc]
-[ns]克己[nse]
-「最後の最後まで、優しい妹だったよな……。[r]
-　ここで一緒にコーヒー牛乳、飲んでるハズだったのに……」[pcms]
+[ns]Kazumi[nse]
+"Until the very end, you were a kind sister... We were supposed to be[r]
+drinking coffee milk together here..."[pcms]
 
 
 *9298|
 [fc]
-缶の底に残ったコーヒー牛乳を、最後まで飲みきろうと、[r]
-空に垂直に立て、口の上で振る。[pcms]
+I try to drink the last of the coffee milk left at the bottom of the[r]
+can by holding it vertically above my mouth and shaking it.[pcms]
 
 
 *9299|
 [fc]
-もちろん、俺の顔も空と垂直だ。[pcms]
+Of course, my face is also vertical to the sky.[pcms]
 
 
 *9300|
 [fc]
-すると、目尻から耳の穴に向けて、[r]
-生ぬるい液体が流れていく。[pcms]
+Then, a lukewarm liquid flows from the corner of my eye towards my[r]
+ear.[pcms]
 
 
 *9301|
 [fc]
-[ns]克己[nse]
-「おかしいな……丞実、俺、笑ってんだぜ？[r]
-　なのに、なんだか涙が出てくるんだ。[r]
-　どうしたんだろうな、俺……」[pcms]
+[ns]Kazumi[nse]
+"Strange... Tsugumi, I'm smiling, you know? Yet somehow, tears are[r]
+coming out. What's happening to me..."[pcms]
 
 
 *9302|
 ;旧ナンバー[vo_s s="sizuka0374"]
 [マイク 位置３ ch=s][vo_s s="R_siz_BIN0219"]
-[ns]静[nse]
-「ここにいたんですね」[pcms]
+[ns]Shizuka[nse]
+"You were here."[pcms]
 
 
 *9303|
 [fc]
-背後から、優しい声が掛けられる。[pcms]
+A gentle voice calls out from behind me.[pcms]
 
 ;;//★空・夜A
 [bg storage="BG31c"]
@@ -394,25 +389,24 @@
 
 *9304|
 [fc]
-[ns]克己[nse]
-「静ちゃん」[pcms]
+[ns]Kazumi[nse]
+"Shizuka-chan"[pcms]
 
 
 *9305|
 [fc]
-泣いてた所、見られちまった。[r]
-でも、隠すこともないか。[pcms]
+I was seen crying. But there's no point in hiding it.[pcms]
 
 
 *9306|
 [fc]
-俺だって、泣きたい日もあるんだからな。[pcms]
+Even I have days when I want to cry.[pcms]
 
 
 *9307|
 [fc]
-[ns]セスカ[nse]
-「…………」[pcms]
+[ns]Cesca[nse]
+"..."[pcms]
 
 ;;//s:声無し
 [ChrSetEx layer=3 chbase="ses_02"][ChrSetXY layer=3 x="&sf.std_ses_x調整*0" y="&sf.std_ses_y調整*0"][trans_c cross time=150]
@@ -420,81 +414,76 @@
 
 *9308|
 [fc]
-静ちゃんの後ろに立つ、サングラスをつけた女性が、[r]
-ふと眼下の祭に目を向け、首を振り、溜息をついた。[pcms]
+Standing behind Shizuka-chan, a woman wearing sunglasses looks down at[r]
+the festival below, shakes her head, and sighs.[pcms]
 
 
 *9309|
 [fc]
-[ns]克己[nse]
-「……大丈夫だって。いくらなんでも、あんな所に突っ込むほど、[r]
-　俺はバカじゃないから。もちろん、静ちゃんもな」[pcms]
+[ns]Kazumi[nse]
+"...Don't worry. I'm not stupid enough to rush into a place like that.[r]
+Of course, neither is Shizuka-chan."[pcms]
 
 
 *9310|
 [fc]
-彼女は、セスカと名乗っていた。[r]
-何処かの国の要人を探していると言っていたけど、[r]
-それきり、口を開く事はなかった。[pcms]
+She introduced herself as Cesca. She said she was looking for some VIP[r]
+from another country, but after that, she didn't speak much.[pcms]
 
 
 *9311|
 [fc]
-[ns]セスカ[nse]
-「……」[pcms]
+[ns]Cesca[nse]
+"..."[pcms]
 
 [chara_int_ layer=3][trans_c cross time=150]
 
 
 *9312|
 [fc]
-彼女は無言のまま振り返ると、[r]
-基地の中へと戻っていった。[pcms]
+Without a word, she turns around and goes back inside the base.[pcms]
 
 
 *9313|
 ;旧ナンバー[vo_s s="sizuka0375"]
 [マイク 位置３ ch=s][vo_s s="R_siz_BIN0220"]
-[ns]静[nse]
-「私……セスカさんに助けられたんです。[r]
-　あと少しで、あの人達に引きずり出されるところでした……。[r]
-　もう、一人でうろつくのはやめよう……」[pcms]
+[ns]Shizuka[nse]
+"I... was saved by Cesca-san. I was almost dragged out by those[r]
+people... I won't wander around alone anymore..."[pcms]
 
 
 *9314|
 [fc]
-[ns]克己[nse]
-「ワリィ……」[pcms]
+[ns]Kazumi[nse]
+"Sorry..."[pcms]
 
 
 *9315|
 ;旧ナンバー[vo_s s="sizuka0376"]
 [マイク 位置３ ch=s][vo_s s="R_siz_BIN0221"]
-[ns]静[nse]
-「どうして克己さんが謝るんです？」[pcms]
+[ns]Shizuka[nse]
+"Why are you apologizing, Kazumi-san?"[pcms]
 
 
 *9316|
 [fc]
-[ns]克己[nse]
-「……ずっと、隣にいてあげればよかったな、って。[r]
-　何も言わないで出てきちまったから、探しに来てくれたんだろ？[r]
-　そのせいで、危ない目に遭わせちまった……」[pcms]
+[ns]Kazumi[nse]
+"...I should have stayed by your side. You came looking for me because[r]
+I left without saying anything, and I put you in danger..."[pcms]
 
 
 *9317|
 ;旧ナンバー[vo_s s="sizuka0377"]
 [マイク 位置３ ch=s][vo_s s="R_siz_BIN0222"]
-[ns]静[nse]
-「……ううん……私の不注意。[r]
-　でも、本当に良かった。お礼を言わなきゃね。[r]
-　セスカさんと、克己さんに……」[pcms]
+[ns]Shizuka[nse]
+"...No... it was my carelessness. But really, thank goodness. I need[r]
+to thank you. Both Cesca-san and you, Kazumi-san..."[pcms]
 
 
 *9318|
 [fc]
-[ns]克己[nse]
-「え……？　俺？　俺何もしてないぞ……？」[pcms]
+[ns]Kazumi[nse]
+"Eh...? Me? I didn't do anything...?"[pcms]
 
 ;;//■イベントCG　end_001
 [evcg storage="END01c"][trans_c cross time=1000]
@@ -507,107 +496,99 @@
 *9319|
 ;旧ナンバー[vo_s s="sizuka0378"]
 [マイク 位置３ ch=s][vo_s s="R_siz_BIN0223"]
-[ns]静[nse]
-「ううん……克己さんは、私達を助けに来てくれた。[r]
-　あんなに危険な所を、たった一人で。[r]
-　だから、私は今こうしていられるんだもの」[pcms]
+[ns]Shizuka[nse]
+"No... Kazumi-san came to save us. All by yourself in such a dangerous[r]
+place. That's why I can be here like this now."[pcms]
 
 
 *9320|
 [fc]
-静ちゃんは、ぽつりと呟くと、[r]
-体を俺に預けてきた。[pcms]
+Shizuka-chan mutters softly and leans her body against me.[pcms]
 
 
 *9321|
 [fc]
-[ns]克己[nse]
-「ああ……」[pcms]
+[ns]Kazumi[nse]
+"Ah..."[pcms]
 
 
 *9322|
 [fc]
-俺が、丞実に言った言葉と同じだ。[pcms]
+The same words I said to Tsugumi.[pcms]
 
 
 *9323|
 [fc]
-丞実は、ココにはいない。[pcms]
+Tsugumi isn't here.[pcms]
 
 
 *9324|
 [fc]
-だけど、静ちゃんは確かにここにいる。[pcms]
+But Shizuka-chan is definitely here.[pcms]
 
 
 *9325|
 [fc]
-俺は、静ちゃんの体を引き寄せ、[r]
-しっかりと抱きしめた。[pcms]
+I pull Shizuka-chan's body close and hug her tightly.[pcms]
 
 
 *9326|
 ;旧ナンバー[vo_s s="sizuka0379"]
 [マイク 位置３ ch=s][vo_s s="R_siz_BIN0224"]
-[ns]静[nse]
-「克己さん……。[r]
-　あの時みたい……ありがとう……。[r]
-　二度も助けられた……本当に、ありがとう」[pcms]
+[ns]Shizuka[nse]
+"Kazumi-san... Like that time... thank you... You've saved me twice...[r]
+really, thank you."[pcms]
 
 
 *9327|
 [fc]
-[ns]克己[nse]
-「何度でも助けてやるさ。[r]
-　だって、当然のことだからな……って、[r]
-　かっこよすぎるだろ？　俺」[pcms]
+[ns]Kazumi[nse]
+"I'll save you as many times as it takes. Because it's only natural...[r]
+that's a bit too cool for me, isn't it?"[pcms]
 
 
 *9328|
 ;旧ナンバー[vo_s s="sizuka0380"]
 [マイク 位置３ ch=s][vo_s s="R_siz_BIN0225"]
-[ns]静[nse]
-「ええ……」[pcms]
+[ns]Shizuka[nse]
+"Yes..."[pcms]
 
 
 *9329|
 [fc]
-静ちゃんの体を抱きしめながら、[r]
-もう一度空を見上げる。[pcms]
+While hugging Shizuka-chan, I look up at the sky once again.[pcms]
 
 
 *9330|
 [fc]
-相変わらず星が瞬き、雲が流れていく。[pcms]
+The stars still twinkle, and the clouds continue to drift by.[pcms]
 
 
 *9331|
 [fc]
-空は、いつもと変わらない。[r]
-明日もきっと、同じだ。[pcms]
+The sky is unchanged, just like always. Surely, it will be the same[r]
+tomorrow.[pcms]
 
 
 *9332|
 [fc]
-だけど、今俺達の置かれている状況は、[r]
-明日のこともわからない。[r]
-まるで、暗闇の中を手探りで歩いてるようなモンだ。[pcms]
+But the situation we're in now, we can't even tell what tomorrow will[r]
+bring. It's like groping through darkness.[pcms]
 
 
 *9333|
 [fc]
-だけど……。[r]
-諦めてなるもんか。[pcms]
+But... I won't give up.[pcms]
 
 
 *9334|
 [fc]
-俺は……。[pcms]
+I...[pcms]
 
 
 *9335|
 [fc]
-俺達は、絶対に諦めないんだ！[pcms]
+We will never give up![pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

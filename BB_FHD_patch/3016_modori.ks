@@ -4,9 +4,9 @@
 
 *7297|
 [fc]
-[ns]克己[nse]
-「静ちゃんのメモ通りなら、このすぐ横が階段……、[r]
-　よし、あった」[pcms]
+[ns]Kazumi[nse]
+"If Shizuka-chan's memo is correct, the stairs should be right next to[r]
+us... Yes, found them."[pcms]
 
 ;;//★汎用背景C・朝昼
 [bg storage="BG29a"][trans_c cross time=500]
@@ -14,72 +14,71 @@
 
 *7298|
 [fc]
-階段の下から上を覗き込むと、[r]
-踊り場に何人かの足が見え隠れする。[r]
-しかも、スカートの中の純白パンティ～が丸見えだ。[pcms]
+Peering up from the bottom of the stairs, I could see several pairs of[r]
+legs moving in and out of view on the landing. Moreover, I could[r]
+clearly see pure white panties under their skirts.[pcms]
 
 
 *7299|
 [fc]
-[ns]克己[nse]
-「お、お、おおおっ？　これがッ！　覗きかッ！！[r]
-　こんなの始めてだけど……アイツ感染者だもんなぁ……。[r]
-　そう考えるとなんか萎えるわ……あーあ……」[pcms]
+[ns]Kazumi[nse]
+"Oh, oh, ohhh?! Is this what they call peeping?! It's my first time[r]
+doing something like this... but she's an infected... Thinking about[r]
+it that way kind of kills the mood... ah-ah..."[pcms]
 
 
 *7300|
 [fc]
-喜んだのも束の間。[pcms]
+The moment of excitement was short-lived.[pcms]
 
 
 *7301|
 [fc]
-すぐに冷静になった俺は、[r]
-このまま進んだ時のシミュレートを開始し、[r]
-無理では無いが、あまり得策でもないと判断した。[pcms]
+Quickly regaining my composure, I began to simulate what would happen[r]
+if I continued on this path, and decided it wasn't impossible but not[r]
+exactly the best strategy either.[pcms]
 
 
 *7302|
 [fc]
-下手に特攻カマしたら、[r]
-俺の大ファン達に一斉に組み付かれそうだ。[pcms]
+If I recklessly charged in, I'd likely be swarmed by my big fans all[r]
+at once.[pcms]
 
 
 *7303|
 [fc]
-だけど、扉が閉まってていて中に入れないって事はない。[r]
-だとしたら、強行突破してみるか？[pcms]
+However, it doesn't mean that the doors are closed and I can't get[r]
+inside. Should I try a forceful breakthrough?[pcms]
 
 
 *7304|
 [fc]
-[ns]克己[nse]
-「あとは、非常階段の方か。[r]
-　あっちの方は感染者は少なそうだな。[r]
-　ただ、ちょっと廊下が長いくらいか……」[pcms]
+[ns]Kazumi[nse]
+"The other option is the emergency staircase. It seems like there are[r]
+fewer infected that way. Just a bit of a long corridor is all..."[pcms]
 
 
 *7305|
 [fc]
-そういう意味では、２階の扉さえ開いていれば、[r]
-さしあたって感染者の脅威は少ないだろう。[r]
-ある意味、安全策か……？[pcms]
+In that sense, as long as the door on the second floor is open, the[r]
+threat of the infected should be minimal for the time being. In a way,[r]
+it's a safer strategy...?"[pcms]
 
 
 *7306|
 [fc]
-あと少しで、丞実のいる教室にたどり着ける。[r]
-そうすれば、半分クリアなんだ。[pcms]
+Just a little further and I'll reach the classroom where Tsugumi is.[r]
+If I can do that, it's halfway to clear.[pcms]
 
 
 *7307|
 [fc]
-ここでの選択が、俺の運命を左右するッ！！[pcms]
+This choice here will determine my fate!![pcms]
 
 ;;//選択肢
 ;	[link storage="3020.ks" target=*3020_TOP]多少の強引さは必要！　突破するッ！[endlink]
 ;	[link target=*safety]ここでこそ、安全策だ。非常階段から迂回しよう[endlink]
-;	[s]
+;[pcms]
 
 
 *SEL16|多少の強引さは必要！　突破するッ！／非常階段から迂回しよう
@@ -104,14 +103,14 @@
 
 *7308|
 [fc]
-感染者が少ないって事は、万一２階の扉が開いてなくても、[r]
-ココに戻ってくるのはそんなに大変じゃないだろう。[pcms]
+Since there are fewer infected, even if the door on the second floor[r]
+isn't open, coming back here shouldn't be too difficult.[pcms]
 
 
 *7309|
 [fc]
-よし、決めたッ！！[r]
-非常階段を昇って、２階に突入だッ！！[pcms]
+Alright, I've decided!! I'll ascend the emergency staircase and break[r]
+into the second floor!![pcms]
 
 ;;//[jump target=*tukaimawasi]
 [jump storage="3014_tukaimawasi.ks" target=*3014_tukaimawasi]

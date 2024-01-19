@@ -23,32 +23,30 @@
 
 *241|
 [fc]
-蒸し風呂の中みたいな湿気が体にまとわりつき、[r]
-全身から滲み出した汗が滝のように流れ落ちていく。[pcms]
+The humidity clings to my body like I'm in a steam bath, and sweat[r]
+seeps out from all over, cascading down like a waterfall.[pcms]
 
 
 *242|
 [fc]
-[ns]克己[nse]
-「クソ……」[pcms]
+[ns]Kazumi[nse]
+"Damn..."[pcms]
 
 
 *243|
 [fc]
-継ぎ目なく俺を取り囲む三百六十度のスクリーンに、[r]
-やたらリアルなパニック映画が映し出されている――[pcms]
+Surrounded seamlessly by a 360-degree screen, an all-too-realistic[r]
+panic movie is being projected--[pcms]
 
 
 *244|
 [fc]
-――その映像のせいで、[r]
-俺の頭ン中もパニックを起こしてる。[pcms]
+--and because of that footage, my mind is also thrown into a panic.[pcms]
 
 
 *244a|
 [fc]
-“コレ”が、映画なんかじゃないのは分かってる。[r]
-だけど、“ソレ”を受け入れる事が出来ないでいる。[pcms]
+"I know this isn't just a movie. But I can't accept 'that'."[pcms]
 
 ;;//bgm01-09
 ;;//[bgm storage="bgm01-09"]
@@ -58,67 +56,63 @@
 
 *245|
 [fc]
-何で、人が人を襲ってんだよ。[r]
-何で、人が死んでんだよ。[pcms]
+Why are people attacking each other? Why are people dying?[pcms]
 
 
 *246|
 [fc]
-遠くから、銃声が鳴り響く。[r]
-遠くから、笑い声や悲鳴が聞こえてくる。[pcms]
+Gunshots ring out from afar. Laughter and screams can be heard in the[r]
+distance.[pcms]
 
 
 *247|
 [fc]
-ここは、日本……だよな？[r]
-日本の筈だよな！？[pcms]
+This is Japan... right? It's supposed to be Japan, isn't it!?[pcms]
 
 
 *248|
 [fc]
-違うってんなら、ココは――[pcms]
+If it's not, then this place is--[pcms]
 
 
 *249|
 [fc]
-[ns]克己[nse]
-「地獄だって……そう言いたいのかよ？[r]
-　クソッ……クソ地獄にハマっちまったてのか？」[pcms]
+[ns]Kazumi[nse]
+"Hell... is that what you want to say? Damn... have I fallen into some[r]
+shitty hell?"[pcms]
 
 
 *250|
 [fc]
-ついこの間まで、[r]
-未来永劫、平凡な日々が続くと思っていた。[pcms]
+Until just a moment ago, I thought my days would continue to be[r]
+mundane forever.[pcms]
 
 
 *251|
 [fc]
-その平凡に、退屈すら感じていたんだ。[pcms]
+I even felt bored with that mundanity.[pcms]
 
 
 *252|
 [fc]
-だから俺は神様に願ったんだ。[r]
-『刺激が欲しい』って。[pcms]
+So I prayed to God for something. "I want excitement," I said.[pcms]
 
 
 *253|
 [fc]
-[ns]克己[nse]
-「あんな事、言うんじゃなかった……」[pcms]
+[ns]Kazumi[nse]
+"I shouldn't have said that..."[pcms]
 
 
 *254|
 [fc]
-だけど――[pcms]
+But--[pcms]
 
 
 *255|
 [fc]
-[ns]克己[nse]
-「まだ取り消し利くかな……。[r]
-　こんなの、俺のせいじゃねーぞ……」[pcms]
+[ns]Kazumi[nse]
+"Can I still take it back...? This isn't my fault..."[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

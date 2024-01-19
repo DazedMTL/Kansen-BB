@@ -30,42 +30,42 @@
 
 *256|
 [fc]
-だいたい一ヶ月とプラスマイナス四、五日前の俺は、[r]
-クソみたいに眩しい太陽を睨み付けながら呟いたんだ。[pcms]
+About a month and plus or minus four or five days ago, I muttered[r]
+while glaring at the damn bright sun.[pcms]
 
 
 *257|
 [fc]
-[ns]克己[nse]
-「朝っぱらからゴキゲンだぜ……」[pcms]
+[ns]Kazumi[nse]
+"Feeling pretty good this early in the morning..."[pcms]
 
 
 *258|
 [fc]
-って。[pcms]
+That's what I said.[pcms]
 
 
 *259|
 [fc]
-『ゴキゲン』[pcms]
+"Feeling good"[pcms]
 
 
 *260|
 [fc]
-なんて言いつつも、[r]
-俺の顔はそんなにゴキゲンじゃなかったと思う。[pcms]
+Even though I said that, I don't think my face looked all that[r]
+cheerful.[pcms]
 
 
 *261|
 [fc]
-今と同じように。[pcms]
+Just like now.[pcms]
 
 
 *262|
 [fc]
-[ns]克己[nse]
-「そんな俺の話、聞いてくれるか？[r]
-　……イヤでも、続けるけどな」[pcms]
+[ns]Kazumi[nse]
+"Will you listen to my story? ...Not that it matters, I'm going to[r]
+continue anyway."[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -151,40 +151,37 @@
 
 *263|
 [fc]
-コンビニのロゴが描かれた自動扉が開くと、[r]
-太陽の熱に焦がされたアスファルトの臭いが鼻を突く。[pcms]
+When the automatic doors with the convenience store logo opened, the[r]
+smell of asphalt scorched by the sun's heat hit my nose.[pcms]
 
 
 *264|
 [fc]
-店内から一歩外に踏み出せば、[r]
-ギラギラと照りつける朝日が肌を焦がし、[r]
-熱風が体にまとわりつく。[pcms]
+Stepping outside from the store, the glaring morning sun scorched my[r]
+skin, and the hot wind clung to my body.[pcms]
 
 
 *265|
 [fc]
-だけど、今の俺はそんな事は気にならない。[pcms]
+But right now, I don't care about that.[pcms]
 
 
 *266|
 [fc]
-たかが七が三つ並んでいるだけなのに、[r]
-それは、妙に俺の心を湧き立たせ、[r]
-思わず声を張り上げてしまう。[pcms]
+It's just three sevens lined up, but it strangely stirs my heart,[r]
+making me raise my voice without thinking.[pcms]
 
 
 *267|
 [fc]
-[ns]克己[nse]
-「スリーセブン！[r]
-　ラッキーセブンより上なんだぜ！？[r]
-　ツイてんじゃねーかよ！？　ｙｈｅａａａａ！！」[pcms]
+[ns]Kazumi[nse]
+"Three-Sevens! That's even better than Lucky Seven, right!? Am I on a[r]
+roll or what!? Yheaaaa!!"[pcms]
 
 
 *268|
 [fc]
-瞬間。[pcms]
+In an instant.[pcms]
 
 ;;//s:ＳＥガヤ
 [se buf1 storage="seG002"]
@@ -193,40 +190,37 @@
 
 *269|
 [fc]
-沢山の人々の視線が、一斉に俺に向けられ、[r]
-嘲笑の声が聞こえ出した。[pcms]
+The gazes of many people were directed at me all at once, and I could[r]
+hear their mocking laughter.[pcms]
 
 
 *270|
 [fc]
-[ns]克己[nse]
-「あ……」[pcms]
+[ns]Kazumi[nse]
+"Ah..."[pcms]
 
 
 *271|
 [fc]
-ちょっとうっかりしていた……。[r]
-ヤケクソになりすぎてたかな。[pcms]
+I was a bit careless... Maybe I got too desperate.[pcms]
 
 
 *272|
 [fc]
-そう思ったとたん、[r]
-太陽に照らされた事とはまた別に、[r]
-頬や耳の先が熱くなっていくのを感じる。[pcms]
+As soon as I thought that, I felt my cheeks and the tips of my ears[r]
+getting hot, separate from being sunburned.[pcms]
 
 
 *273|
 [fc]
-[ns]克己[nse]
-「に、逃げるんじゃないんだ……。[r]
-　俺には、やることがあるんだ……」[pcms]
+[ns]Kazumi[nse]
+"I-I'm not running away... I have things to do..."[pcms]
 
 
 *274|
 [fc]
-誰にでもなく呟きながら[ruby text="チャリ"][ch text="愛車"]に飛び乗り、[r]
-勢いよくペダルを踏み込んで、その場を後にした。[pcms]
+Muttering to no one in particular, I jumped onto my beloved bike and[r]
+pedaled away with force, leaving the place behind.[pcms]
 
 ;;//★sky01 空・朝昼A
 [bg storage="BG31a"][trans_c cross time=500]
@@ -234,32 +228,30 @@
 
 *275|
 [fc]
-心地よい風が体を撫でていく。[pcms]
+A pleasant breeze caressed my body.[pcms]
 
 
 *276|
 [fc]
-うっかり叫んでしまったことの恥ずかしさはとうに消えて、[r]
-変わりに、何の根拠もない開放感が広がり出す。[pcms]
+The embarrassment from shouting out loud had long since vanished,[r]
+replaced by an unfounded sense of liberation spreading within me.[pcms]
 
 
 *277|
 [fc]
-そう、俺はフリーマンだ。[r]
-何者にも縛られる事のない自由人だ。[pcms]
+Yes, I am a free man. A person unbound by anyone or anything.[pcms]
 
 
 *278|
 [fc]
-そんな風に考えると、開放感は加速していく。[pcms]
+Thinking this way, the feeling of liberation accelerates.[pcms]
 
 
 *279|
 [fc]
-[ns]克己[nse]
-「フリーマンって、スゲーんだぜ？[r]
-　そんなスゲー俺が、更にスゲー事するんだ……。[r]
-　見てろ、凡人達……」[pcms]
+[ns]Kazumi[nse]
+"Being a free man is awesome, you know? And this awesome me is about[r]
+to do something even more awesome... Watch out, ordinary folks..."[pcms]
 
 ;;//★渋谷駅前・朝昼
 [bg storage="BG02a"][trans_c bt time=500]
@@ -267,28 +259,28 @@
 
 *280|
 [fc]
-渋谷の街を歩く人の群れの中を、[r]
-ベルを鳴らしながら有り余るテクニックで交わしつつ、[r]
-誰にでもなく言葉を続ける。[pcms]
+I continued speaking to no one in particular while weaving through the[r]
+crowd of people walking in Shibuya with my bell ringing and my surplus[r]
+of technique.[pcms]
 
 
 *281|
 [fc]
-[ns]克己[nse]
-「良いかお前ら、よく聞けよ！[r]
-　俺は今から文化的偉業に挑戦するんだぜ！？」[pcms]
+[ns]Kazumi[nse]
+"Listen up, everyone! Listen well! I'm about to take on a cultural[r]
+feat!"[pcms]
 
 
 *282|
 [fc]
-文化的偉業、それは――[pcms]
+A cultural feat, that is--[pcms]
 
 
 *283|
 [fc]
-[ns]克己[nse]
-「渋谷、新宿を股に掛けた六連続映画鑑賞！[r]
-　もう一度言うぞ！　映画六本ハシゴだ！　Ｙｈｅａａａａ！！」[pcms]
+[ns]Kazumi[nse]
+"Shibuya, Shinjuku straddling six consecutive movie viewings! I'll say[r]
+it again! A movie marathon of six films! Yheaaaa!!"[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

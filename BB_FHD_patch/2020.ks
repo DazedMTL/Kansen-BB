@@ -21,46 +21,49 @@
 
 *5944|
 [fc]
-俺たちは、怪我人が集められている大部屋に移動すると、[r]
-これからのことを簡単に話し合う。[pcms]
+We moved to the large room where the injured were gathered and briefly[r]
+discussed what to do next.[pcms]
 
 
 *5945|
 [fc]
-静ちゃんは、いろいろ荷物が入っているバッグを背負い、[r]
-本間先生が怪我をしている美樹を背負った。[pcms]
+Shizuka-chan, carrying a bag full of various items, and Honma-sensei[r]
+carrying the injured Miki on her back.[pcms]
 
 
 *5946|
 [fc]
-本当なら、男の俺が怪我人を背負った方がいいんだけれど、[r]
-この状況だと手の塞がっていない、戦える人間が必要だ。[pcms]
+Really, as a man, I should be the one carrying the injured, but in[r]
+this situation, we need someone who can fight and isn't tied up with[r]
+their hands full.[pcms]
 
 
 *5947|
 [fc]
-つまり、俺が遊撃担当で、静ちゃんが輸送担当。[r]
-護衛対象が本間先生と美樹となるわけだ。[pcms]
+In other words, I'm in charge of hit-and-run tactics, and Shizuka-chan[r]
+is in charge of transport. Our protection targets are Honma-sensei and[r]
+Miki.[pcms]
 
 
 *5948|
 [fc]
-万一の場合でも、俺が囮になって感染者を[r]
-引きつけることが出来るし、外はきっと女の方が多い。[pcms]
+In case of an emergency, I can act as a decoy to attract the infected,[r]
+and there are surely more women outside.[pcms]
 
 
 *5949|
 [fc]
-静ちゃんと本間先生じゃあ、囮には不向きだろう。[pcms]
+Shizuka-chan and Honma-sensei wouldn't be suitable as decoys.[pcms]
 
 
 *5950|
 [fc]
-俺からの視点だけで見ても、守る対象を３人から、[r]
-一人と一組の二つに減らすことが出来ている。[pcms]
+Even from my perspective, I've managed to reduce the number of people[r]
+to protect from three to one person and one pair.[pcms]
 
 ;;//メモ　本間先生は美樹を負ぶってるわけだが……ひとまずアップで逃げよう
-;;//　　　美樹の気絶顔(閉じ目閉じ口)があれば重ねられるかも……[pcms]
+;;// If there's a fainting face for Miki (eyes closed, mouth closed),[r]
+it might be possible to layer it...[pcms]
 
 [ChrSetEx layer=5 chbase="hon2_hak_a"][ChrSetParts layer=5 chface="F2_hon03"][ChrSetXY layer=5 x="&sf.std_h_x調整*0" y="&sf.std_h_y調整*-90"][trans_c cross time=150]
 
@@ -68,16 +71,16 @@
 *5951|
 ;旧ナンバー[vo_h s="honma0121"]
 [vo_h s="R_hon0075"]
-[ns]本間[nse]
-「ソフトボール部からバットを借りてきた。[r]
-　これでは、私の方が悪者に見えてしまうかな……」[pcms]
+[ns]Honma[nse]
+"I borrowed a bat from the softball club. With this, I might end up[r]
+looking like the bad guy..."[pcms]
 
 
 *5952|
 [fc]
-[ns]克己[nse]
-「先生も戦うんですか？[r]
-　人間を背負いながらは危ないんじゃ……」[pcms]
+[ns]Kazumi[nse]
+"Sensei, are you going to fight too? It's dangerous to carry someone[r]
+on your back..."[pcms]
 
 [ChrSetEx layer=5 chbase="siz2_pol1_b"][ChrSetParts layer=5 chface="F2_siz06"][ChrSetXY layer=5 x="&sf.std_s_x調整*96" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 
@@ -85,15 +88,15 @@
 *5953|
 ;旧ナンバー[vo_s s="sizuka0326"]
 [vo_s s="R_siz0170"]
-[ns]静[nse]
-「先生は美樹と、自分を守る事に徹して下さい。[r]
-　あの人達は、私達が請け負いますから」[pcms]
+[ns]Shizuka[nse]
+"Sensei, please focus on protecting Miki and yourself. We will take[r]
+care of those people."[pcms]
 
 
 *5954|
 [fc]
-静ちゃんは、荷物持ちだけでなく、[r]
-本間先生同様に、木製のバットをしっかりと持って見せつける。[pcms]
+Shizuka-chan not only carries the luggage but also firmly holds a[r]
+wooden bat like Honma-sensei, showing it off.[pcms]
 
 [ChrSetEx layer=5 chbase="hon2_hak_a"][ChrSetParts layer=5 chface="F2_hon06"][ChrSetXY layer=5 x="&sf.std_h_x調整*0" y="&sf.std_h_y調整*-90"][trans_c cross time=150]
 
@@ -101,36 +104,36 @@
 *5955|
 ;旧ナンバー[vo_h s="honma0122"]
 [vo_h s="R_hon0076"]
-[ns]本間[nse]
-;FHD「いや、カーテンのタッセルで美樹をしっかりと固定ちょうだい。[r]
-;FHD　そうすれば、いざというとき私も戦える」[pcms]
-「いや、カーテンのタッセルで美樹をしっかりと固定してちょうだい。[r]
-　そうすれば、いざというとき私も戦える」[pcms]
+[ns]Honma[nse]
+;FHD "No, please use the curtain tassel to secure Miki tightly. ;FHD[r]
+That way, I can fight if necessary."[pcms]
+"No, please use the curtain tassel to secure Miki tightly. That way, I[r]
+can fight if necessary."[pcms]
 
 
 *5956|
 [fc]
-[ns]克己[nse]
-「…………」[pcms]
+[ns]Kazumi[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 
 *5957|
 [fc]
-丸腰は不安というのもあるだろう。[pcms]
+Being unarmed must be causing some anxiety.[pcms]
 
 
 *5958|
 [fc]
-本間先生の言う通り、怪我をしている美樹をしっかりと固定し、[r]
-緩みがないか、何度も確認した。[pcms]
+As Honma-sensei said, I secured Miki who was injured tightly and[r]
+checked several times to make sure there was no slack.[pcms]
 
 
 *5959|
 [fc]
-[ns]克己[nse]
-「よし、これで準備は終わりだな」[pcms]
+[ns]Kazumi[nse]
+"Alright, that's all the preparations done."[pcms]
 
 [ChrSetEx layer=5 chbase="hon2_hak_a"][ChrSetParts layer=5 chface="F2_hon06"][ChrSetXY layer=5 x="&sf.std_h_x調整*0" y="&sf.std_h_y調整*-90"][trans_c cross time=150]
 
@@ -138,8 +141,8 @@
 *5960|
 ;旧ナンバー[vo_h s="honma0123"]
 [vo_h s="R_hon0077"]
-[ns]本間[nse]
-「問題ないわ」[pcms]
+[ns]Honma[nse]
+"No problems here."[pcms]
 
 [ChrSetEx layer=5 chbase="siz2_pol1_b"][ChrSetParts layer=5 chface="F2_siz06"][ChrSetXY layer=5 x="&sf.std_s_x調整*96" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 
@@ -147,24 +150,24 @@
 *5961|
 ;旧ナンバー[vo_s s="sizuka0327"]
 [vo_s s="R_siz0171"]
-[ns]静[nse]
-「大丈夫です」[pcms]
+[ns]Shizuka[nse]
+"It's all good."[pcms]
 
 [stopbgm]
 
 
 *5962|
 [fc]
-俺は、愛用のバットを天井の隅に掲げると、[r]
-予告ホームランをするように、ピタッと動きを止める。[pcms]
+I raised my beloved bat to the corner of the ceiling and stopped[r]
+moving abruptly as if signaling a home run.[pcms]
 
 [bgm storage="bgm01-05"]
 
 
 *5963|
 [fc]
-[ns]克己[nse]
-「行くぜ勇者克己！　目指せ３割３０盗塁っ！」[pcms]
+[ns]Kazumi[nse]
+"Let's go, Hero Kazumi! Aim for a .300 average with 30 stolen bases!"[pcms]
 
 [ChrSetEx layer=5 chbase="hon2_hak_a"][ChrSetParts layer=5 chface="F2_hon03"][ChrSetXY layer=5 x="&sf.std_h_x調整*0" y="&sf.std_h_y調整*-90"][trans_c cross time=150]
 
@@ -172,8 +175,8 @@
 *5964|
 ;旧ナンバー[vo_h s="honma0124"]
 [vo_h s="R_hon0078"]
-[ns]本間[nse]
-「……野球なら、後にして」[pcms]
+[ns]Honma[nse]
+"...Save the baseball talk for later."[pcms]
 
 [ChrSetEx layer=5 chbase="siz2_pol1_b"][ChrSetParts layer=5 chface="F2_siz04"][ChrSetXY layer=5 x="&sf.std_s_x調整*96" y="&sf.std_s_y調整*-21"][trans_c cross time=150]
 
@@ -181,8 +184,8 @@
 *5965|
 ;旧ナンバー[vo_s s="sizuka0328"]
 [vo_s s="R_siz0172"]
-[ns]静[nse]
-「私は、克己さんを信じていますよ！」[pcms]
+[ns]Shizuka[nse]
+"I believe in you, Kazumi-san!"[pcms]
 
 [chara_int][trans_c cross time=150]
 [black_toplayer][trans_c lr time=301][hide_chara_int]
@@ -194,19 +197,19 @@
 
 *5966|
 [fc]
-一階に下りた俺たちは、玄関からブラインドを覗いて、[r]
-外の様子を探ってみる。[pcms]
+We went downstairs and peeked through the blinds at the entrance to[r]
+check outside.[pcms]
 
 
 *5967|
 [fc]
-ぼちぼちと、感染者がうろついているようだが、[r]
-数は多くない。[pcms]
+There seem to be infected wandering around sporadically, but not in[r]
+large numbers.[pcms]
 
 
 *5968|
 [fc]
-十分に行けると思う。[pcms]
+I think we can manage it.[pcms]
 
 [ChrSetEx layer=5 chbase="siz1_pol1_b"][ChrSetParts layer=5 chface="F1_siz06"][ChrSetXY layer=5 x="&sf.std_s_x調整*342" y="&sf.std_s_y調整*60"][trans_c cross time=150]
 
@@ -214,46 +217,47 @@
 *5969|
 ;旧ナンバー[vo_s s="sizuka0329"]
 [vo_s s="R_siz0173"]
-[ns]静[nse]
-「さっき、地図をのぞいてましたけど、[r]
-　どっちの方向から行くつもりなんですか？」[pcms]
+[ns]Shizuka[nse]
+"I was looking at the map earlier, which direction are you planning to[r]
+go from?"[pcms]
 
 
 *5970|
 [fc]
-道は二つ、つまり二択だ。[pcms]
+There are two paths, so two choices.[pcms]
 
 
 *5971|
 [fc]
-遮蔽物があり、遠くからなら姿を隠せる正門側の道がひとつ。[pcms]
+One is the road on the main gate side where we can hide our figures[r]
+from a distance thanks to the cover.[pcms]
 
 
 *5972|
 [fc]
-こっちは、俺がさっき通ってきた方向だ。[r]
-病院までは周り道になり、感染者もそこそこいるだろう。[pcms]
+This is the direction I came from earlier. It's a detour to the[r]
+hospital and there will probably be a fair number of infected there.[pcms]
 
 
 *5973|
 [fc]
-もう一つが、西にある裏門を目指す道。[pcms]
+The other is the path aiming for the back gate to the west.[pcms]
 
 
 *5974|
 [fc]
-病院までの最短ルートだが、グラウンドを横切るときに、[r]
-感染者が集まってくる可能性がある。[pcms]
+It's the shortest route to the hospital, but there's a chance that[r]
+infected will gather when we cross the grounds.[pcms]
 
 
 *5975|
 [fc]
-俺が行く方向は……。[pcms]
+The direction I'll choose is...[pcms]
 
 ;;//選択肢
 ;	[link target=*seimon01]正門側だ！[endlink]
 ;	[link target=*uramon01]裏門側だ！[endlink]
-;	[s]
+;[pcms]
 
 *SEL12|正門側だ！／裏門側だ！
 [fc]
@@ -301,9 +305,8 @@
 
 *5976|
 [fc]
-[ns]克己[nse]
-「もちろん、正門から行く。[r]
-　それじゃ準備はいいか？」[pcms]
+[ns]Kazumi[nse]
+"Of course, we'll go through the main gate. Are we ready then?"[pcms]
 
 ;;//s:ラベル　gouryu02 へ
 [jump target=*gouryu02]
@@ -314,9 +317,8 @@
 
 *5977|
 [fc]
-[ns]克己[nse]
-「当然、裏門から行く。[r]
-　それじゃ準備はいいか？」[pcms]
+[ns]Kazumi[nse]
+"Naturally, we'll go through the back gate. Are we ready then?"[pcms]
 
 ;;//s:ラベル　gouryu02 へ
 [jump target=*gouryu02]
@@ -329,7 +331,7 @@
 
 *5978|
 [fc]
-二人が、俺に向かってこくりと頷く。[pcms]
+The two nodded at me affirmatively.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -337,28 +339,28 @@
 *5979|
 ;旧ナンバー[vo_m s="anna0021"]
 [vo_mob s="R_anna0021"]
-[ns]杏奈[nse]
-「戻ってきたって、この扉は開けないからね」[pcms]
+[ns]Anna[nse]
+"Even if you come back, I won't open this door."[pcms]
 
 
 *5980|
 [fc]
-[ns]克己[nse]
-「俺たちも、病院に着いたらこっちには来られない。[r]
-　何とか持ちこたえてくれよ」[pcms]
+[ns]Kazumi[nse]
+"Once we reach the hospital, we won't be able to come back here[r]
+either. Hang in there somehow."[pcms]
 
 
 *5981|
 [fc]
-俺たちの旅立ちを祝福するかのように、[r]
-生き残った女の子達が見送りに集まってくれた。[pcms]
+As if to bless our departure, the surviving girls gathered to see us[r]
+off.[pcms]
 
 
 *5982|
 ;旧ナンバー[vo_m s="anna0022"]
 [vo_mob s="R_anna0022"]
-[ns]杏奈[nse]
-「それじゃ、開けて！」[pcms]
+[ns]Anna[nse]
+"Then, open it!"[pcms]
 
 [stopbgm]
 [chara_int][trans_c cross time=150]
@@ -366,8 +368,7 @@
 
 *5983|
 [fc]
-門番の女の子が扉を開けると、[r]
-俺たちは一斉に、外へと踊り出した。[pcms]
+As the gatekeeper girl opened the door, we all burst out at once.[pcms]
 
 [bg storage="BG31a"][trans_c wipe time=500]
 
@@ -392,8 +393,8 @@
 
 *5984|
 [fc]
-本間先生と静ちゃんは正門に向かって走り、[r]
-俺は二人に反応した感染者をバットで殴りつけた。[pcms]
+Naoko-sensei and Shizuka-chan ran towards the main gate, and I struck[r]
+down the infected that reacted to them with my bat.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -415,14 +416,14 @@
 
 *5984a|
 [fc]
-[ns]感染者Ａ[nse]
-「うは゛ぁ～、ま゛っか゛っか゛ぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Uhaa~, it's sooo hot~"[pcms]
 
 
 *5985|
 [fc]
-[ns]克己[nse]
-「よし、行けるぞっ！」[pcms]
+[ns]Kazumi[nse]
+"Alright, we can go!"[pcms]
 
 [stopbgm]
 
@@ -447,8 +448,8 @@
 
 *5986|
 [fc]
-本間先生と静ちゃんは裏門に向かって走り、[r]
-追いすがってくる感染者をバットで殴りつける。[pcms]
+Naoko-sensei and Shizuka-chan ran towards the back gate, batting away[r]
+the infected that clung to them.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -469,17 +470,16 @@
 
 *5986a|
 [fc]
-[ns]感染者Ａ[nse]
-「うは゛ぁ～、いた゛く゛な゛いぃ～」[pcms]
+[ns]Infected Person A[nse]
+"Uhaa~, it doesn't hurt~"[pcms]
 
 ;;//メモ　痛く無いって言ってるのでリアクション変えようず
 
 
 *5987|
 [fc]
-[ns]克己[nse]
-「ちっ、痛みも感じねえのかよ……！[r]
-　それじゃ、もう一発くれてやる！！」[pcms]
+[ns]Kazumi[nse]
+"Tch, you don't even feel pain, huh...! Then take another hit!!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -496,21 +496,21 @@
 
 *5988|
 [fc]
-[ns]感染者Ａ[nse]
-「うぼおぉぉぉぉ～～、じ、ぬ゛ぅぅぅぅ……」[pcms]
+[ns]Infected Person A[nse]
+"Ubooooh, I'm dying..."[pcms]
 
 
 *5989|
 [fc]
-[ns]克己[nse]
-「はっ！　しばらくそこで寝てな！！」[pcms]
+[ns]Kazumi[nse]
+"Ha! Sleep there for a while!!"[pcms]
 [chara_int][trans_c cross time=150]
 
 
 *5990|
 [fc]
-バタリと倒れ伏す男を一瞥すると、前を走る三人を追いかける。[r]
-この調子なら、なんとかいけそうだ……！[pcms]
+After a glance at the man who fell with a thud, I chased after the[r]
+three running ahead. At this rate, we might just make it...!"[pcms]
 
 ;;//[stopbgm]
 ;;//#_ブラックアウト

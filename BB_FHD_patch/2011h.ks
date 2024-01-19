@@ -1,5 +1,5 @@
-;[ns]テスト[nse]
-;「エラー回避のダミーテキストです」[pcms]
+[ns]Test[nse]
+"This is a dummy text for error avoidance."[pcms]
 
 
 *2011H_TOP
@@ -47,134 +47,132 @@
 *5777|
 ;旧ナンバー[vo_t s="tugumi0461"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0147"]
-[ns]丞実[nse]
-「うふふふっ、あははははっ、ははははははっ！」[pcms]
+[ns]Tsugumi[nse]
+"Ufufufu, ahahahaha, hahahahaha!"[pcms]
 
 
 *5778|
 [fc]
-丞実が、狂気の笑い声を上げながら、[r]
-太った初老の男の上にまたがっている。[pcms]
+Tsugumi is straddling an overweight middle-aged man, laughing[r]
+maniacally.[pcms]
 
 
 *5779|
 [fc]
-どこで着乱れたのか、丞実のジャージは上がはだけていて、[r]
-とても見ていられない姿になっていた。[pcms]
+Her jersey is disheveled from who knows where, and she's in a state[r]
+that's hard to watch.[pcms]
 
 
 *5780|
 ;旧ナンバー[vo_t s="tugumi0462"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0148"]
-[ns]丞実[nse]
-「にいちゃーん、みてるかな～？[r]
-　あっはははっ！　あはっ……あはははは！！」[pcms]
+[ns]Tsugumi[nse]
+"Nii-chan, are you watching~? Ahahaha! Ahah...ahahahaha!!"[pcms]
 
 
 *5781|
 [fc]
-どうやら、丞実は俺がどこにいるのかわからないらしい。[pcms]
+It seems Tsugumi doesn't know where I am.[pcms]
 
 
 *5782|
 [fc]
-ただ、この建物にいることはわかっているから、[r]
-その方向に声をかけているだけのようだった。[pcms]
+But she knows I'm in the building, so she's just calling out in that[r]
+direction.[pcms]
 
 
 *5783|
 ;旧ナンバー[vo_t s="tugumi0463"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0149"]
-[ns]丞実[nse]
-「にいちゃーん、今から、校長室に一人で隠れてた、[r]
-　ヒヒ爺に、お仕置きするからみててね～」[pcms]
+[ns]Tsugumi[nse]
+"Nii-chan, I'm about to punish the giggling old man hiding alone in[r]
+the principal's office, so watch okay~"[pcms]
 
 
 *5784|
 [fc]
-[ns]校長[nse]
-「あひぃやぁ～！　だ、誰か助けてくれぇ～！」[pcms]
+[ns]Principal[nse]
+"Ahiyaaa~! Somebody, please help me~!"[pcms]
 
 
 *5785|
 [fc]
-校長は完全に怯えきっているが、[r]
-むき出しにされている下半身は、元気にそびえ立っている。[pcms]
+The principal is completely terrified, but his exposed lower half is[r]
+energetically standing at attention.[pcms]
 
 
 *5786|
 [fc]
-周りには、丞実の仲間なのか、女の子達が集まりはじめて、[r]
-その様子を眺めていた。[pcms]
+Girls who seem to be Tsugumi's friends are starting to gather around[r]
+and watch the scene.[pcms]
 
 
 *5787|
 ;旧ナンバー[vo_t s="tugumi0464"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0150"]
-[ns]丞実[nse]
-「お尻で擦っただけなのに、こんなにビンビンにしてさぁ、[r]
-　本当は大好きなんでしょ～、あたしたちみたいな、[r]
-　若い子が～！　やだぁ、変態じじー！」[pcms]
+[ns]Tsugumi[nse]
+"Just rubbing it with my butt and it's already this hard, you really[r]
+love it, don't you~? Young girls like us~! Eww, you perverted old[r]
+man!"[pcms]
 
 
 *5788|
 [fc]
-[ns]校長[nse]
-「ち、違う～、お願いだから助けてくれぇ～」[pcms]
+[ns]Principal[nse]
+"No, that's not it~ Please, I beg you, help me~"[pcms]
 
 
 *5789|
 [fc]
-丞実は、校長のその様子がいたく気に入ったらしく、[r]
-舌なめずりしそうな表情で見下ろしていた。[pcms]
+Tsugumi seems to be quite pleased with the principal's reaction,[r]
+looking down at him with a face that seems about to lick her lips.[pcms]
 
 
 *5790|
 ;旧ナンバー[vo_t s="tugumi0465"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0151"]
-[ns]丞実[nse]
-「このジジ～、いつもあたしたちの身体を[r]
-　いやらしい目で見てたの知ってんだよ？　なに怖がってるの？[r]
-　きゃはははははっ！」[pcms]
+[ns]Tsugumi[nse]
+"This old man~ always looking at our bodies with such lewd eyes, I[r]
+know it! What are you scared of? Kyahaha!"[pcms]
 
 
 *5791|
 ;旧ナンバー[vo_m s="infectionA0025"]
 [マイク 位置７][vo_mob s="R_onnakansenA0001"]
-[ns]女感染者Ａ[nse]
-「みっともなーい、お腹ブヨブヨ～」[pcms]
+[ns]Female Infected A[nse]
+"How shameful, such a flabby belly~"[pcms]
 
 
 *5792|
 ;旧ナンバー[vo_m s="infectionB0020"]
 [マイク 位置３][vo_mob s="R_onnakansenB0019"]
-[ns]女感染者Ｂ[nse]
-「でも、チンチンは大きいよね～」[pcms]
+[ns]Female Infected B[nse]
+"But his dick is big, isn't it~"[pcms]
 
 
 *5793|
 [fc]
-[ns]校長[nse]
-「ひぃぃぃいっ！　き、君たちぃ、やめなさ～い！」[pcms]
+[ns]Principal[nse]
+"Hiiiiii! You girls, please stop~!"[pcms]
 
 
 *5794|
 ;旧ナンバー[vo_t s="tugumi0466"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0152"]
-[ns]丞実[nse]
-「うふふふっ、こんなに大きくしてるくせに」[pcms]
+[ns]Tsugumi[nse]
+"Ufufufu, and yet you're making it so big"[pcms]
 
 
 *5795|
 [fc]
-丞実は、校長の堅くなっているチンコを尻で潰すように、[r]
-グリグリと円を描いてみせる。[pcms]
+Tsugumi grinds her ass against the principal's hard cock, drawing[r]
+circles with it as if to crush it.[pcms]
 
 
 *5796|
 [fc]
-[ns]校長[nse]
-「のおぉぉぉおっ！　そ、それだめぇぇぇっ！」[pcms]
+[ns]Principal[nse]
+"Nooooo! That's baddddd!"[pcms]
 
 ;;//メモ　校長、感染しているの？　なんだか後の文章に続かないので変更しちゃう
 
@@ -183,8 +181,8 @@
 
 *5796a|
 [fc]
-校長は威厳やら尊厳やら一切合切投げ捨てて、[r]
-情けない喘ぎ声を上げながら、必死に懇願を続けている。[pcms]
+The principal has thrown away all his dignity and is desperately[r]
+pleading while letting out pitiful moans.[pcms]
 
 ;;//■イベントCG　tug_H004
 [evcg storage="tug_H004b"][trans_c cross time=500]
@@ -193,129 +191,128 @@
 *5797|
 ;旧ナンバー[vo_m s="infectionA0026"]
 [マイク 位置７][vo_mob s="R_onnakansenA0002"]
-[ns]女感染者Ａ[nse]
-「校長先生、気持ちよさそ～、[r]
-　興奮しすぎて、死んじゃダメだよ～？」[pcms]
+[ns]Female Infected A[nse]
+"Principal, you seem to be enjoying it~ Don't get too excited and die[r]
+on us, okay~?"[pcms]
 
 
 *5798|
 ;旧ナンバー[vo_m s="infectionB0021"]
 [マイク 位置３][vo_mob s="R_onnakansenB0020"]
-[ns]女感染者Ｂ[nse]
-「キモイ～、キモイけど私もやってみたいよ～」[pcms]
+[ns]Female Infected B[nse]
+"Gross~ But I want to try it too~"[pcms]
 
 
 *5799|
 ;旧ナンバー[vo_t s="tugumi0467"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0153"]
-[ns]丞実[nse]
-「ほらぁ、入れて欲しいの～？」[pcms]
+[ns]Tsugumi[nse]
+"Look, do you want me to put it in~?"[pcms]
 [bgv_t to1 "旧tugumiZ0006"]
 
 
 *5800|
 [fc]
-[ns]校長[nse]
-「だ、駄目ぇぇ、もう許してぇぇえぇっ！」[pcms]
+[ns]Principal[nse]
+"No, no more, please forgive meeee!"[pcms]
 
 
 *5801|
 [fc]
-校長は、ジタバタと暴れながらも、丞実に取り押さえられて、[r]
-チンコを弄ばれている。[pcms]
+The principal is thrashing around but is being restrained by Tsugumi,[r]
+who is playing with his cock.[pcms]
 
 
 *5802|
 [fc]
-気持ちいいのは間違いないみたいで、[r]
-歳の割に元気な物がそそり立っているのが見えた。[pcms]
+It's clear he's feeling good; despite his age, his vigorous member is[r]
+standing tall.[pcms]
 
 
 *5803|
 ;旧ナンバー[vo_t s="tugumi0468"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0154"]
-[ns]丞実[nse]
-「そんなこと言って、本当はあたしと楽しみたいんでしょう～？[r]
-　男ってみんな同じだよね～、きゃはははっ！」[pcms]
+[ns]Tsugumi[nse]
+"Saying that but you really want to enjoy it with me, right~? All men[r]
+are the same~ Kyahaha!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to1 "旧tugumiZ0006"]
 
 
 *5804|
 [fc]
-[ns]校長[nse]
-「だ、誰か～、後生だから、助けてくれぇ～！」[pcms]
+[ns]Principal[nse]
+"Somebody~, for the love of God, help me~!"[pcms]
 
 
 *5805|
 [fc]
-周りで見ている女の子達も、興奮を抑えきれなくなったのか、[r]
-校長に群がってその身体に手を伸ばしはじめる。[pcms]
+The girls watching around are starting to reach out to the principal[r]
+as they can't contain their excitement anymore and swarm over his[r]
+body.[pcms]
 
 
 *5806|
 [fc]
-[ns]校長[nse]
-「ひぃぃぃぃっ！　こないでぇえぇぇっ！」[pcms]
+[ns]Principal[nse]
+"Hiiiiii! Don't come any closereeee!"[pcms]
 
 
 *5807|
 ;旧ナンバー[vo_m s="infectionA0027"]
 [マイク 位置７][vo_mob s="R_onnakansenA0003"]
-[ns]女感染者Ａ[nse]
-「しっかし、偉そうなヒゲ！　ムカつく！」[pcms]
+[ns]Female Infected A[nse]
+"But really, such an arrogant beard! It pisses me off!"[pcms]
 
 
 *5808|
 ;旧ナンバー[vo_m s="infectionB0022"]
 [マイク 位置３][vo_mob s="R_onnakansenB0021"]
-[ns]女感染者Ｂ[nse]
-;FHD「あたし、キスしちゃおうかな～、[r]
-「私、キスしちゃおうかな～、[r]
-　こんなオジンとキスするなんて、なんだか興奮する～」[pcms]
+[ns]Female Infected B[nse]
+"I might just kiss him~ Kissing such an old man, it's somehow[r]
+exciting~"[pcms]
 
 
 *5809|
 [fc]
-[ns]校長[nse]
-「き、キスしたら駄目ぇぇっ！[r]
-　も、もっと自分を大切……あひゃあぁぁぁっ！」[pcms]
+[ns]Principal[nse]
+"Kissing is badddd! Value yourself more...ahyaaaahhh!"[pcms]
 
 
 *5810|
 [fc]
-校長のセリフを邪魔するみたいに、[r]
-丞実がチンコを片手で握りつぶすように持ち直す。[pcms]
+As if to interrupt the principal's words, Tsugumi readjusts her grip[r]
+on his cock as if to crush it with one hand.[pcms]
 
 
 *5811|
 [fc]
-体液で感染することは、校長もわかっているんだろう。[r]
-必死にそれを回避しようとしているように見える。[pcms]
+The principal must understand that the infection spreads through[r]
+bodily fluids. He seems desperate to avoid it.[pcms]
 
 
 *5812|
 ;旧ナンバー[vo_t s="tugumi0469"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0155"]
-[ns]丞実[nse]
-「それじゃあ……ヒヒ爺のオチンポ、味見しちゃおうかな～」[pcms]
+[ns]Tsugumi[nse]
+"So then... maybe I'll have a taste of the old man's dick~"[pcms]
 
 
 *5813|
 [fc]
-チンコを持った丞実が、自分のあそこにあてがうように、[r]
-腰の位置を調節していく。[pcms]
+Tsugumi holds the cock and adjusts her hips as if to align it with her[r]
+pussy.[pcms]
 
 
 *5814|
 [fc]
-[ns]校長[nse]
-「入れちゃ駄目ぇぇぇぇっ！」[pcms]
+[ns]Principal[nse]
+"Don't put it in, noooooo!"[pcms]
 
 
 *5815|
 [fc]
-校長の絶叫もむなしく、丞実はストンと自分の腰を落として、[r]
-身体の中にチンコを迎え入れていった。[pcms]
+Despite the principal's screams, Tsugumi drops her hips down,[r]
+welcoming his cock inside her body.[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -327,22 +324,21 @@
 *5816|
 ;旧ナンバー[vo_t s="tugumi0470"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0156"]
-[ns]丞実[nse]
-「あんいいいっ！　これすごおぉぃいぃぃっ！」[pcms]
+[ns]Tsugumi[nse]
+"Ahh, it feels so good! This is amazing!"[pcms]
 [bgv_t to2 "旧tugumiZ0007"]
 
 
 *5817|
 [fc]
-[ns]校長[nse]
-「ぎやぁぁあぁぁぁぁぁぁぁっ！」[pcms]
+[ns]Principal[nse]
+"Gyaaaaaaaah!"[pcms]
 
 
 *5818|
 [fc]
-校長は、もう半狂乱になって暴れているけど、[r]
-周りの女の子によってたかって押さえつけられ、[r]
-身動きを取ることも満足に出来ないようだった。[pcms]
+The principal is now half-mad with frenzy, struggling, but the girls[r]
+around him hold him down, preventing him from moving satisfactorily.[pcms]
 
 ;;//se_sex03.ogg(LOOP)
 [se_HLoop buf2 storage="se_sex03"]
@@ -351,42 +347,41 @@
 *5819|
 ;旧ナンバー[vo_t s="tugumi0471"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0157"]
-[ns]丞実[nse]
-「ヒヒ爺のオチンポ、気持ちいいよぉぉぉっ！」[pcms]
+[ns]Tsugumi[nse]
+"Hehe, the old man's dick feels so good!"[pcms]
 [bgv_t to1 "旧tugumiZ0006"]
 
 
 *5820|
 ;旧ナンバー[vo_m s="infectionA0028"]
 [マイク 位置７][vo_mob s="R_onnakansenA0004"]
-[ns]女感染者Ａ[nse]
-「ああぁん、私も、私もしたいぃぃっ！」[pcms]
+[ns]Female Infected A[nse]
+"Aaah, I want to do it too, I want it!"[pcms]
 
 
 *5821|
 ;旧ナンバー[vo_m s="infectionB0023"]
 [マイク 位置３][vo_mob s="R_onnakansenB0022"]
-[ns]女感染者Ｂ[nse]
-「校長先生～、私にもいろいろ教えてくださいよ～」[pcms]
+[ns]Female Infected B[nse]
+"Principal~ teach me various things too~"[pcms]
 
 
 *5822|
 [fc]
-[ns]校長[nse]
-「ひいぃぃぃっ！　あひいいぃぃぃぃっ！[r]
-　締め付けてくるぅぅぅぅっ！」[pcms]
+[ns]Principal[nse]
+"Hiiiiii! It's tightening up!"[pcms]
 
 
 *5823|
 [fc]
-どれほどの激しい締め付けなのか、[r]
-校長の目がひっくり返りそうなほど見開かれている。[pcms]
+The intensity of the squeeze is such that the principal's eyes are[r]
+wide open as if they're about to roll back in his head.[pcms]
 
 
 *5824|
 [fc]
-丞実は、もっと校長とつながりたいのか、[r]
-腰をグイグイと押しつけて、チンコを奥まで銜え込んでいった。[pcms]
+Tsugumi, as if wanting to connect more with the principal, pushes her[r]
+hips down forcefully, taking his cock deeper inside her.[pcms]
 
 ;;//■イベントCG　tug_H004
 [evcg storage="tug_H004d"][trans_c cross time=500]
@@ -395,120 +390,114 @@
 *5825|
 ;旧ナンバー[vo_t s="tugumi0472"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0158"]
-[ns]丞実[nse]
-「小汚い包茎チンポの癖にぃっ！[r]
-　こんなにお腹の奥が削られてるよぉ！」[pcms]
+[ns]Tsugumi[nse]
+"For such a dirty uncircumcised dick! It's scraping against my insides[r]
+so much!"[pcms]
 [bgv_t to2 "旧tugumiZ0007"]
 
 
 *5826|
 [fc]
-丞実が、大きな胸をゆさゆさと揺らしながら、[r]
-腰を激しく上下させていく。[pcms]
+Tsugumi shakes her large breasts while moving her hips up and down[r]
+vigorously.[pcms]
 
 
 *5827|
 [fc]
-まるで、工事現場の機械のように、[r]
-強く激しい腰の動きで、校長にお尻をぶつけて、[r]
-びたんびたんと音を響かせていた。[pcms]
+Like a machine at a construction site, she slams her butt against the[r]
+principal with strong, intense movements, making a slapping sound.[pcms]
 
 
 *5828|
 [fc]
-[ns]校長[nse]
-「は、激しすぎるぅぅぅぅ～っ！[r]
-　もっと、やさしくしてぇぇぇぇっ！」[pcms]
+[ns]Principal[nse]
+"It's too intense! Be gentler with meee!"[pcms]
 
 
 *5829|
 ;旧ナンバー[vo_m s="infectionA0029"]
 [マイク 位置７][vo_mob s="R_onnakansenA0005"]
-[ns]女感染者Ａ[nse]
-「なーんか、ガリガリでアバラ浮いてんの！[r]
-　生きてんのに、ミイラみたい！　キモッ！」[pcms]
+[ns]Female Infected A[nse]
+"Ew, he's all bony and his ribs are showing! He looks like a mummy[r]
+even though he's alive! Gross!"[pcms]
 
 
 *5830|
 ;旧ナンバー[vo_m s="infectionB0024"]
 [マイク 位置３][vo_mob s="R_onnakansenB0023"]
-[ns]女感染者Ｂ[nse]
-「校長先生かわいい～、私も絶対食べちゃうんだから～」[pcms]
+[ns]Female Infected B[nse]
+"Principal is so cute~ I'm definitely going to eat him up~"[pcms]
 
 
 *5831|
 [fc]
-丞実は、よほど校長のチンコが気にいったのか、[r]
-踊るように飛び跳ねながら、腹の上で腰を振り乱していた。[pcms]
+Tsugumi seems to really like the principal's dick, as she bounces and[r]
+gyrates wildly on top of his stomach.[pcms]
 
 
 *5832|
 [fc]
-まるで、この獲物は自分のものだとでも言うように、[r]
-マーキングしているようにさえ見える。[pcms]
+It's as if she's marking her territory, claiming this prey as her own.[pcms]
 
 
 *5833|
 ;旧ナンバー[vo_t s="tugumi0473"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0159"]
-[ns]丞実[nse]
-「じじ～のオチンポ、ゴリゴリのオチンポすごいぃぃぃ～！[r]
-　私たちとこうするのが夢だったんでしょう～！」[pcms]
+[ns]Tsugumi[nse]
+"Old man's dick, your hard dick is amazing! This must have been your[r]
+dream to do it with us~!"[pcms]
 [bgv_t to1 "旧tugumiZ0006"]
 
 
 *5834|
 [fc]
-[ns]校長[nse]
-「もうやめてくだしゃいいいぃい！[r]
-　精液出ちゃうようぉぉぉぉっ！」[pcms]
+[ns]Principal[nse]
+"Please stop it now! I'm going to cum!"[pcms]
 
 
 *5835|
 [fc]
-まだ始まって数分の状態なのに、[r]
-校長は絶頂を訴え、怯えた声を上げていた。[pcms]
+Despite it being only a few minutes since they started, the principal[r]
+is pleading for climax, his voice filled with fear.[pcms]
 
 
 *5836|
 [fc]
-丞実の中がそれほど気持ちいいのか、[r]
-日々妄想していた校長の夢が叶ったからなのかはわからないが、[r]
-カエルのような声で喘ぎ声を上げている。[pcms]
+Whether Tsugumi's insides feel that good or the principal's fantasies[r]
+have come true is unclear, but he moans in a frog-like voice.[pcms]
 
 
 *5837|
 ;旧ナンバー[vo_t s="tugumi0474"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0160"]
-[ns]丞実[nse]
-「なんか、いつもより気持ちがいい～っ！[r]
-　校長先生すごいよぉぉぉぉぉっ！」[pcms]
+[ns]Tsugumi[nse]
+"Somehow, it feels even better than usual! Principal, you're amazing!"[pcms]
 [bgv_t to2 "旧tugumiZ0007"]
 
 
 *5838|
 [fc]
-手慣れた仕草や、言葉の端々に現れている物言いからして、[r]
-丞実は処女じゃなかったんだろう。[pcms]
+From her practiced movements and the way she speaks, it seems Tsugumi[r]
+is not a virgin.[pcms]
 
 
 *5839|
 [fc]
-この期に及んで、だからどうということもないが、[r]
-少し心にモヤのかかる思いがする。[pcms]
+At this point, it doesn't really matter, but there's a slight cloud of[r]
+disappointment in the air.[pcms]
 
 
 *5840|
 ;旧ナンバー[vo_m s="infectionA0030"]
 [マイク 位置７][vo_mob s="R_onnakansenA0006"]
-[ns]女感染者Ａ[nse]
-「校長先生、イッちゃうの？　私たちでイッちゃうの？」[pcms]
+[ns]Female Infected A[nse]
+"Principal, are you going to cum? Are you going to cum with us?"[pcms]
 
 
 *5841|
 [fc]
-[ns]校長[nse]
-「あああぁぁあーっ！　だめぇぇぇっ！　出ちゃううぅぅっ！」[pcms]
+[ns]Principal[nse]
+"Aaaaah-! Nooo! I'm going to cum!"[pcms]
 
 ;;//■イベントCG　tug_H004 挿入
 [evcg storage="tug_H004c"][trans_c cross time=500]
@@ -517,50 +506,49 @@
 *5842|
 ;旧ナンバー[vo_t s="tugumi0475"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0161"]
-[ns]丞実[nse]
-「出したいならお願いしなさい！[r]
-　勝手に出したらお仕置きするからね！」[pcms]
+[ns]Tsugumi[nse]
+"If you want to cum, you have to ask for it! If you cum without[r]
+permission, you'll be punished!"[pcms]
 [bgv_t to1 "旧tugumiZ0006"]
 
 
 *5843|
 ;旧ナンバー[vo_m s="infectionB0025"]
 [マイク 位置３][vo_mob s="R_onnakansenB0024"]
-[ns]女感染者Ｂ[nse]
-「そうだよ～？　キンタマ潰しちゃうぞっ！」[pcms]
+[ns]Female Infected B[nse]
+"That's right~? We'll crush your balls!"[pcms]
 
 
 *5844|
 [fc]
-[ns]校長[nse]
-「そっ……それはダメでしゅよ！？[r]
-　出したくないっ！　出しませんからっ！」[pcms]
+[ns]Principal[nse]
+"That... that's not allowed! I don't want to cum! I won't cum!"[pcms]
 
 
 *5845|
 ;旧ナンバー[vo_t s="tugumi0476"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0162"]
-[ns]丞実[nse]
-「ほら、早くお願いしないと酷い目に合わせるからねっ！」[pcms]
+[ns]Tsugumi[nse]
+"Hurry up and ask for it or I'll make you suffer!"[pcms]
 
 
 *5846|
 [fc]
-[ns]校長[nse]
-「ヒィィィッ！　出るぅっ！　出ちゃうぅぅぅっ！」[pcms]
+[ns]Principal[nse]
+"Hiiii! I'm going to cum! I'm cumming!"[pcms]
 
 
 *5847|
 ;旧ナンバー[vo_t s="tugumi0477"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0163"]
-[ns]丞実[nse]
-「お願いしなさいっ！」[pcms]
+[ns]Tsugumi[nse]
+"Ask for it!"[pcms]
 
 
 *5848|
 [fc]
-[ns]校長[nse]
-「出させてっ！　イカせてくださいいいぃぃぃぃっ！」[pcms]
+[ns]Principal[nse]
+"Please let me cum! Please let me orgasm!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -574,31 +562,31 @@
 *5849|
 ;旧ナンバー[vo_t s="tugumi0478"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0164"]
-[ns]丞実[nse]
-「あ……！　ああぁあっ！」[pcms]
+[ns]Tsugumi[nse]
+"Ah...! Aaaah!"[pcms]
 [bgv_t to2 "旧tugumiZ0007"]
 
 
 *5850|
 [fc]
-校長の身体がガクガクと震えると、[r]
-突然、ピンと頭からつま先まで芯が入ったように硬直する。[pcms]
+The principal's body shakes violently and then suddenly stiffens from[r]
+head to toe as if a rod has been inserted through him.[pcms]
 
 
 *5851|
 [fc]
-丞実に……イカされてしまったんだろう。[pcms]
+He must have been made to orgasm by Tsugumi.[pcms]
 
 
 *5852|
 [fc]
-感染者と性交渉を持った時点で、[r]
-あの校長の人間としての一生は終わっていた。[pcms]
+The moment he had sexual intercourse with an infected person, the[r]
+principal's life as a human being was over.[pcms]
 
 
 *5853|
 [fc]
-もう、どうすることもできない事実だ。[pcms]
+It's an irreversible fact now.[pcms]
 
 ;;//■イベントCG　tug_H004
 [evcg storage="tug_H004g"][trans_c cross time=500]
@@ -607,55 +595,55 @@
 *5854|
 ;旧ナンバー[vo_t s="tugumi0479"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0165"]
-[ns]丞実[nse]
-「んいいいぃぃぃぃっ！　中出し気持ちいいよぉぉぉおぉっ！」[pcms]
+[ns]Tsugumi[nse]
+"Nnngggghhh! Cumming inside feels so good!"[pcms]
 
 
 *5855|
 [fc]
-淫猥な言葉を連発している丞実も、もう見るに堪えない。[r]
-なのに、俺はその現場から目を離すことが出来なかった。[pcms]
+Tsugumi, who keeps spouting lewd words, is unbearable to watch. Yet, I[r]
+couldn't take my eyes off the scene.[pcms]
 
 
 *5856|
 ;旧ナンバー[vo_t s="tugumi0480"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0166"]
-[ns]丞実[nse]
-「にいちゃ～ん、あたしの初生中だしだよぉ～！[r]
-　校長の包茎チンポで、中出しされちゃったぁ～！」[pcms]
+[ns]Tsugumi[nse]
+"Big brother~ This is my first time getting creampied! I got filled up[r]
+by the principal's foreskin-covered cock~!"[pcms]
 [bgv_t to1 "旧tugumiZ0006"]
 
 
 *5857|
 [fc]
-[ns]克己[nse]
-「くっ……」[pcms]
+[ns]Kazumi[nse]
+"Guh..."[pcms]
 
 
 *5858|
 [fc]
-俺を呼ぶ声に、[r]
-思わずアイツの小さい頃のことを思い出してしまう。[pcms]
+The voice calling for me involuntarily brings back memories of her[r]
+childhood.[pcms]
 
 
 *5859|
 [fc]
-そのとたん、楽しそうに笑う丞実が、[r]
-不憫で仕方なく見えてしまう。[pcms]
+And at that moment, the sight of Tsugumi laughing happily seems[r]
+unbearably pitiful.[pcms]
 
 
 *5860|
 [fc]
-[ns]校長[nse]
-「はひぃっ、もう、もう、許してくれぇ～」[pcms]
+[ns]Principal[nse]
+"Hiiii! Please, no more, have mercy~"[pcms]
 
 
 *5861|
 ;旧ナンバー[vo_t s="tugumi0481"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0167"]
-[ns]丞実[nse]
-「まだこんなにビンビンのくせにっ！[r]
-　ヒヒ爺のオチンポをもっとかわいがってあげるっ！」[pcms]
+[ns]Tsugumi[nse]
+"But you're still so hard! I'll take even better care of your old[r]
+man's cock!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to1 "旧tugumiZ0006"]
 
 ;;//se_sex03.ogg(LOOP)
@@ -664,254 +652,248 @@
 
 *5862|
 [fc]
-[ns]校長[nse]
-「あひぃぃぃいいぃぃっ！　もうやめてぇぇぇぇええぇっ！」[pcms]
+[ns]Principal[nse]
+"Ahhiiiiii! Stop it, please stop eeeeeeek!"[pcms]
 
 
 *5863|
 [fc]
-まだ自分が絶頂に達していないのか、[r]
-丞実は校長がイッたばかりのところで、[r]
-すぐに２回戦を始めるつもりのようだった。[pcms]
+It seems Tsugumi, who hasn't reached her climax yet, is ready to start[r]
+round two right after the principal has just orgasmed.[pcms]
 
 
 *5864|
 [fc]
-丞実は、相変わらず乱暴に校長の身体の上で跳ね回り、[r]
-肉と肉のぶつかる音を辺りに響かせている。[pcms]
+Tsugumi is still bouncing roughly on top of the principal's body,[r]
+making the sound of flesh hitting flesh echo around them.[pcms]
 
 
 *5865|
 ;旧ナンバー[vo_m s="infectionA0031"]
 [マイク 位置７][vo_mob s="R_onnakansenA0007"]
-[ns]女感染者Ａ[nse]
-「あ～ん、次は私がしようと思ってたのにぃっ！」[pcms]
+[ns]Female Infected A[nse]
+"Ahhn, I was going to be next!"[pcms]
 
 
 *5866|
 ;旧ナンバー[vo_m s="infectionB0026"]
 [マイク 位置３][vo_mob s="R_onnakansenB0025"]
-[ns]女感染者Ｂ[nse]
-「じゅんばん、じゅんばんだよぉ～！」[pcms]
+[ns]Female Infected B[nse]
+"It's my turn, my turn~"[pcms]
 
 
 *5867|
 [fc]
-校長にとってはイキ地獄。[r]
-これから、何回も若い身体に搾り取られる運命だ。[pcms]
+For the principal, it's an orgasm hell. He's fated to be milked by[r]
+young bodies over and over again.[pcms]
 
 
 *5868|
 [fc]
-ある意味、拷問より酷い扱いなのかもしれない。[pcms]
+In a way, it might be a treatment worse than torture.[pcms]
 
 
 *5869|
 ;旧ナンバー[vo_t s="tugumi0482"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0168"]
-[ns]丞実[nse]
-「出したばっかりなのに、堅いのぉ～、[r]
-　おへその裏が、ゴリゴリ削られてるぅ～」[pcms]
+[ns]Tsugumi[nse]
+"Even though you just came, you're still so hard~ It feels like it's[r]
+scraping against the back of my navel~"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to1 "旧tugumiZ0006"]
 
 
 *5870|
 [fc]
-丞実はもう、アヘ顔一歩手前まで快楽に落ちていて、[r]
-腰を振ることに夢中になっている。[pcms]
+Tsugumi is on the verge of an ahegao face, lost in pleasure and[r]
+focused on moving her hips.[pcms]
 
 
 *5871|
 [fc]
-この状況で校長のチンコが萎えないのは、[r]
-もうウィルスが身体に回っているからなんだろうか……。[pcms]
+I wonder if the principal's cock remains erect in this situation[r]
+because the virus has already spread through his body...[pcms]
 
 
 *5872|
 [fc]
-[ns]校長[nse]
-「ひぎいぃぃっ！　死ぬっ、死んでしまうよぉぉっ！」[pcms]
+[ns]Principal[nse]
+"Higiiii! I'm going to die, I'm really going to die!"[pcms]
 
 
 *5873|
 [fc]
-快楽と恐怖の狭間で、校長の精神が破綻寸前まできている。[pcms]
+Caught between pleasure and fear, the principal's sanity is on the[r]
+brink of collapse.[pcms]
 
 
 *5874|
 [fc]
-髪に白いものが混じっている歳で、[r]
-若い身体を何人も相手するのは苦痛にしかならないだろう。[pcms]
+At his age, with white mixed into his hair, facing so many young[r]
+bodies must be nothing but agony.[pcms]
 
 
 *5875|
 ;旧ナンバー[vo_m s="infectionA0032"]
 [マイク 位置７][vo_mob s="R_onnakansenA0008"]
-[ns]女感染者Ａ[nse]
-「まだまだ、いっぱいイカせてあげるよ～、[r]
-　みんな最低二回ずつだからね～？」[pcms]
+[ns]Female Infected A[nse]
+"We're going to make you cum lots more, everyone gets at least two[r]
+turns~"[pcms]
 
 
 *5876|
 ;旧ナンバー[vo_m s="infectionB0027"]
 [マイク 位置３][vo_mob s="R_onnakansenB0026"]
-[ns]女感染者Ｂ[nse]
-「だめぇ～、わたしは、よんかいね～？」[pcms]
+[ns]Female Infected B[nse]
+"No way~ I want four turns~"[pcms]
 
 
 *5877|
 [fc]
-[ns]校長[nse]
-「む、無理、無理ですっ！！[r]
-　もう勘弁してくださいぃぃぃっ！」[pcms]
+[ns]Principal[nse]
+"Impossible, impossible! Please, I beg you, no more!"[pcms]
 
 
 *5878|
 ;旧ナンバー[vo_t s="tugumi0483"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0169"]
-[ns]丞実[nse]
-「こんないい大人が、情けない顔でお願いしてるぅぅ～、[r]
-　あぁああぁぁぁっ！　いいよぉおぉぉぉっ！[r]
-　んぅうううっ……んあぁあぁ！！」[pcms]
+[ns]Tsugumi[nse]
+"Such a grown man begging with such a pathetic face~ Ahhhhh! That's[r]
+good! Nnnngh...nahhhh!"[pcms]
 [bgv_t to2 "旧tugumiZ0007"]
 
 
 *5879|
 [fc]
-校長は泣き言を言いながらも、チンコは逞しく立てたままで、[r]
-丞実にいいように食われていた。[pcms]
+Despite his pleas, the principal's cock remains proudly erect,[r]
+devoured by Tsugumi as she pleases.[pcms]
 
 
 *5880|
 [fc]
-むしろ、衰えるどころかさっきよりも更に、[r]
-丞実を感じさせているくらいに見える。[pcms]
+Rather than wilting, it seems even more capable of pleasing Tsugumi[r]
+than before.[pcms]
 
 
 *5881|
 ;旧ナンバー[vo_t s="tugumi0484"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0170"]
-[ns]丞実[nse]
-「もっと奥の方までゴリゴリ削ってぇっ！[r]
-　堅いの好き、ヒヒじじ～の堅いの好きなのぉっ！」[pcms]
+[ns]Tsugumi[nse]
+"Grind it harder against my insides! I love hard ones, I love your[r]
+hard old man cock!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5882|
 ;旧ナンバー[vo_m s="infectionA0033"]
 [マイク 位置７][vo_mob s="R_onnakansenA0009"]
-[ns]女感染者Ａ[nse]
-「校長の堅いんだ～？　ガリガリのひよわボディーなのに、[r]
-　アソコは堅いんだぁ～」[pcms]
+[ns]Female Infected A[nse]
+"The principal's is hard~? Despite his scrawny weak body, he's got a[r]
+hard one down there~"[pcms]
 
 
 *5883|
 ;旧ナンバー[vo_m s="infectionB0028"]
 [マイク 位置３][vo_mob s="R_onnakansenB0027"]
-[ns]女感染者Ｂ[nse]
-「こうちょうきもいのに、えっちしたくて、たまらないの～」[pcms]
+[ns]Female Infected B[nse]
+"Even though the principal is gross, I can't wait to have sex~"[pcms]
 
 
 *5884|
 [fc]
-丞実は、校長のことなんてお構いなしに腰を振りたくり、[r]
-ひたすらに快感を求め続けていた。[pcms]
+Tsugumi continues to ride the principal without any concern for him,[r]
+seeking pleasure relentlessly.[pcms]
 
 
 *5885|
 [fc]
-周りに群がっていた女の子達も、[r]
-母親のお乳を求める子ヤギのように密集している。[pcms]
+The girls crowding around are clustered like baby goats seeking their[r]
+mother's milk.[pcms]
 
 
 *5886|
 [fc]
-[ns]校長[nse]
-「はひぃぃいぃっ！　はひいぃぃっ！　ふひいぃぃっ！」[pcms]
+[ns]Principal[nse]
+"Hahiiiiii! Hahiiii! Fuhiiii!"[pcms]
 
 
 *5887|
 [fc]
-校長が、不整脈を起こしているような、[r]
-荒い呼吸になり始めていた。[pcms]
+The principal's breathing becomes ragged as if he's having arrhythmia.[pcms]
 
 
 *5888|
 [fc]
-なんだか少し様子がおかしい。[pcms]
+Something seems a bit off.[pcms]
 
 
 *5889|
 [fc]
-でも、周りの女の子達は全く気にもとめずに、[r]
-セックスの対象として、校長を求めつづけていく。[pcms]
+But the girls around him don't care at all and continue to seek him[r]
+out as a sexual object.[pcms]
 
 
 *5890|
 ;旧ナンバー[vo_t s="tugumi0485"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0171"]
-[ns]丞実[nse]
-「やっ……やだぁあっ！！　このじじ～！[r]
-　こんなに立派なオチンポ持ってるなんてぇ！[r]
-　先輩よりもずっとすごいよぉぉぉっ！」[pcms]
+[ns]Tsugumi[nse]
+"No...no way! This old man! Having such a splendid cock! It's way[r]
+better than my senior's!"[pcms]
 [bgv_t to1 "旧tugumiZ0006"]
 
 
 *5891|
 ;旧ナンバー[vo_m s="infectionA0034"]
 [マイク 位置７][vo_mob s="R_onnakansenA0010"]
-[ns]女感染者Ａ[nse]
-「いいなぁ、いいなぁ、代わって、もう我慢できないのっ！」[pcms]
+[ns]Female Infected A[nse]
+"I'm so jealous, I can't wait any longer, let me switch with you!"[pcms]
 
 
 *5892|
 ;旧ナンバー[vo_m s="infectionB0029"]
 [マイク 位置３][vo_mob s="R_onnakansenB0028"]
-[ns]女感染者Ｂ[nse]
-「せっくすぅ～、わたしも、せっくすしたいのぉ～」[pcms]
+[ns]Female Infected B[nse]
+"Sex~ I want to have sex too~"[pcms]
 
 
 *5893|
 [fc]
-[ns]校長[nse]
-「もう……だめっ、本当に、ううううっ！」[pcms]
+[ns]Principal[nse]
+"It's no use...really, uuuuuuh!"[pcms]
 
 
 *5894|
 [fc]
-校長がイキそうだと思ったのか、[r]
-丞実は腰の運動を加速して、更なる快感をむさぼりはじめる。[pcms]
+Thinking that the principal is about to cum again, Tsugumi accelerates[r]
+her hip movements to indulge in even more pleasure.[pcms]
 
 
 *5895|
 [fc]
-その動きは、もうセックスと言うよりなにかの機械だ。[r]
-俺にそう思わせるくらい、メチャクチャな動きをしている。[pcms]
+Her movements are more like a machine than sex. They're so wild that[r]
+it makes me think that way.[pcms]
 
 
 *5896|
 ;旧ナンバー[vo_t s="tugumi0486"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0172"]
-[ns]丞実[nse]
-「あたしも、あたしもイッちゃうよぉぉぉっ！[r]
-　ガリガリのミイラ校長にイカされちゃうっ！[r]
-　やらしい目でジロジロ見てた変態校長にイカされちゃぅ！」[pcms]
+[ns]Tsugumi[nse]
+"I'm going to cum too! I'm going to be made to cum by the mummy-like[r]
+principal! By the perverted principal who was staring at me with[r]
+lecherous eyes!"[pcms]
 
 
 *5897|
 [fc]
-[ns]校長[nse]
-「あひいっ、ふひいぃっ、ぐひぃぃっ！[r]
-　たっ……楽しんで頂けましたかぁあぁあぁあぁぁ！！！[r]
-　おひぃああぁあああぁぁぁ！！！」[pcms]
+[ns]Principal[nse]
+"Ahiiii, fuhiiii, guhiiii! Did you... enjoy yourself aaaaaahhhhh!!![r]
+Ohiiiiiaaaaahhhhh!!!"[pcms]
 
 
 *5898|
 ;旧ナンバー[vo_t s="tugumi0487"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0173"]
-[ns]丞実[nse]
-「あっ！　ああっ！　ふあぁぁぁあぁぁぁっ！！[r]
-　んぁああぁあああぁああぁ――――！！！」[pcms]
+[ns]Tsugumi[nse]
+"Ah! Aaah! Fuahhhhhhhhhh!! Naaahhhhhhhhh----!!!"[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -926,25 +908,25 @@
 
 *5899|
 [fc]
-あれほどの、狂おしい動きを見せていた丞実の身体が、[r]
-ぴたっと制止して背中をのけぞらせていた。[pcms]
+Tsugumi's body, which had been showing such mad movements, suddenly[r]
+stopped and arched her back.[pcms]
 
 
 *5900|
 [fc]
-どれほどの激しい絶頂を感じているのか、[r]
-その姿を見ているだけでも手に汗を握ってしまう光景だ。[pcms]
+The sight of her experiencing such an intense climax was so gripping[r]
+that it made one's palms sweat just by watching.[pcms]
 
 
 *5901|
 [fc]
-でも、反面、校長はぴくりとも動かずに、[r]
-なんの声も反応も見せることはなかった。[pcms]
+But on the other hand, the principal didn't move an inch, nor did he[r]
+make any sound or reaction.[pcms]
 
 
 *5902|
 [fc]
-気絶してしまったんだろうか……？[pcms]
+I wonder if he's passed out...?[pcms]
 
 ;;//■イベントCG　tug_H004
 [evcg storage="tug_H004h"][trans_c cross time=500]
@@ -953,21 +935,22 @@
 *5903|
 ;旧ナンバー[vo_t s="tugumi0488"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0174"]
-[ns]丞実[nse]
-「イクッ！！　じじーの中だしせーえきでイッちゃううっ！！[r]
-　ふぁ、ふあぁぁぁぁあぁぁぁあっ……」[pcms]
+[ns]Tsugumi[nse]
+"I'm cumming!! I'm going to cum from the old man's creampie! Faaah,[r]
+fuahhhhhhhhhh..."[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_t to2 "旧tugumiZ0007"]
 
 
 *5904|
 [fc]
-丞実が、大きく息をするように快感の余韻から帰ってくる。[pcms]
+Tsugumi comes back from the afterglow of pleasure as if taking a deep[r]
+breath.[pcms]
 
 
 *5905|
 [fc]
-数秒の間、時間が止まったかのように動きを止めていた身体が、[r]
-もそもそと動いて身じろぎをしていた。[pcms]
+Her body, which had stopped moving for a few seconds as if time had[r]
+stopped, began to stir and fidget.[pcms]
 
 ;;//se_sex01.ogg
 [se_H buf1 storage="se_sex01"]
@@ -976,21 +959,20 @@
 *5906|
 ;旧ナンバー[vo_m s="infectionA0035"]
 [マイク 位置７][vo_mob s="R_onnakansenA0011"]
-[ns]女感染者Ａ[nse]
-「あーっ、抜けちゃった～」[pcms]
+[ns]Female Infected A[nse]
+"Ah, it came out~"[pcms]
 
 
 *5907|
 [fc]
-丞実と校長をつないでいたチンコが、[r]
-するっと抜け落ちて白濁液をこぼしていく。[pcms]
+The cock that connected Tsugumi and the principal slipped out,[r]
+spilling cloudy fluid.[pcms]
 
 
 *5908|
 [fc]
-完全に萎えた校長のそれは、[r]
-順番を待っている若い身体のうずきに応えることは、[r]
-出来ないように見えた。[pcms]
+The completely flaccid principal's member seemed unable to respond to[r]
+the throbbing of the young bodies waiting their turn.[pcms]
 
 ;FHD 停止ここか
 [bgvstop t]
@@ -998,67 +980,67 @@
 *5909|
 ;旧ナンバー[vo_t s="tugumi0489"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0175"]
-[ns]丞実[nse]
-「イカせて下さいって、言わなかったからお仕置きだよ！」[pcms]
+[ns]Tsugumi[nse]
+"That's your punishment for not saying 'please make me cum'!"[pcms]
 
 
 *5910|
 [fc]
-丞実が、校長の顔を平手で何度か叩いていく。[pcms]
+Tsugumi slaps the principal's face several times with her open hand.[pcms]
 
 
 *5911|
 [fc]
-少し首をかしげた丞実が校長を揺するが、[r]
-まったく反応を見せなかった。[pcms]
+Tsugumi tilts her head slightly and shakes the principal, but he shows[r]
+no response.[pcms]
 
 
 *5912|
 ;旧ナンバー[vo_t s="tugumi0490"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0176"]
-[ns]丞実[nse]
-「ヒヒじじー校長が死んじゃった～！」[pcms]
+[ns]Tsugumi[nse]
+"Hehe, the old principal is dead~!"[pcms]
 
 
 *5913|
 ;旧ナンバー[vo_m s="infectionA0036"]
 [マイク 位置７][vo_mob s="R_onnakansenA0012"]
-[ns]女感染者Ａ[nse]
-「え～」[pcms]
+[ns]Female Infected A[nse]
+"Eh~"[pcms]
 
 
 *5914|
 [fc]
-驚きと言うよりも、残念だという声が周りの女の子達から上がる。[r]
-校長は、完全に人間扱いされていなかった……。[pcms]
+Rather than surprise, voices of disappointment rise from the girls[r]
+around. The principal was not being treated as a human at all...[pcms]
 
 
 *5915|
 ;旧ナンバー[vo_t s="tugumi0491"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0177"]
-[ns]丞実[nse]
-「はぁぁ……人生最後の濃厚精液で、あたし[ruby text="で　き"][ch text="妊娠"]ちゃうよぉ！[r]
-　兄ちゃん！　あたし……、[r]
-　校長の赤ちゃん妊娠しちゃうからね～！」[pcms]
+[ns]Tsugumi[nse]
+"Haaa... I'm going to get pregnant with the last rich semen of his[r]
+life! Big brother! I'm going to get pregnant with the principal's[r]
+baby~!"[pcms]
 
 
 *5916|
 [fc]
-[ns]克己[nse]
-「つ、丞実……」[pcms]
+[ns]Kazumi[nse]
+"Ts... Tsugumi..."[pcms]
 
 
 *5917|
 ;旧ナンバー[vo_t s="tugumi0492"]
 [マイク 位置１ ch=t][vo_t s="R_tug_BIN0178"]
-[ns]丞実[nse]
-「あはあはあははははは、あははははははっ！」[pcms]
+[ns]Tsugumi[nse]
+"Ahahaahaha, ahahahahaha!"[pcms]
 
 
 *5918|
 [fc]
-丞実は、狂気の笑い声を上げながら、[r]
-俺のいる合宿棟に向かって声を張り上げていた。[pcms]
+Tsugumi raises a mad laugh as she yells towards the training camp[r]
+building where I am.[pcms]
 
 
 *kaisou_end

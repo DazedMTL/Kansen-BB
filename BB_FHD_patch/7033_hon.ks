@@ -7,8 +7,9 @@
 
 *8919|
 [fc]
-だだっ子のように暴れる静ちゃんを後ろに放ると、[r]
-先生はブラウスごと白衣を脱ぎ捨てていた。[pcms]
+After throwing the rampaging Shizuka-chan behind him like a spoiled[r]
+child, the teacher had stripped off her blouse along with her lab[r]
+coat.[pcms]
 
 ;;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -27,62 +28,61 @@
 *8920|
 ;旧ナンバー[vo_h s="honma0167"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0072"]
-[ns]本間[nse]
-「はあっ、はあっ。[r]
-　わたしのおっぱい、みせてあげるわぁ」[pcms]
+[ns]Honma[nse]
+"Haa, haa. I'll show you my breasts."[pcms]
 [bgv_h to1 "旧honmaZ0007"]
 
 
 *8921|
 [fc]
-[ns]克己[nse]
-「お……おおおお……！！」[pcms]
+[ns]Kazumi[nse]
+"Oh... Oooooh...!!"[pcms]
 
 
 *8922|
 [fc]
-チラチラと横目にしていたけど、ナマで見る胸は驚きのサイズだ。[r]
-まさに爆乳。カップサイズでいったらＥ……いやＧとかか！？[pcms]
+I had been sneaking peeks, but seeing her breasts in the flesh, they[r]
+were surprisingly huge. Definitely a bombshell. If we're talking cup[r]
+size, E... no, maybe G or even!?[pcms]
 
 
 *8923|
 [fc]
-……もっとあるかも！？[pcms]
+...There might be even more!?[pcms]
 
 
 *8924|
 ;旧ナンバー[vo_h s="honma0168"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0073"]
-[ns]本間[nse]
-「うふふふ……こんなにガチガチになってるなんて、[r]
-　さすがわかいおとこねぇ」[pcms]
+[ns]Honma[nse]
+"Ufufufu... To think you're this hard, you really are a young man."[pcms]
 
 
 *8925|
 ;旧ナンバー[vo_h s="honma0169"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0074"]
-[ns]本間[nse]
-「セックス、ひさしぶりだから……すこしハードにいくわよぉ」[pcms]
+[ns]Honma[nse]
+"It's been a while since I've had sex... I'm going to go a little hard[r]
+on you."[pcms]
 
 
 *8926|
 [fc]
-肉食獣のように舌なめずりすると、元気を取り戻したアレの上に[r]
-先生はゆっくりと腰を下ろしてくる。[pcms]
+She licked her lips like a carnivorous beast, and then slowly lowered[r]
+her hips onto his revived member.[pcms]
 
 
 *8927|
 ;旧ナンバー[vo_h s="honma0170"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0075"]
-[ns]本間[nse]
-「あはっ、あはははは！！[r]
-　チンポっ、わかいおとこのぉっ、チンポぉぉぉ……」[pcms]
+[ns]Honma[nse]
+"Ahaha, ahahahaha!! Dick, a young man's... dick...!!"[pcms]
 
 
 *8928|
 [fc]
-裂けたストッキングの向こうでヒクヒクと蠢く赤い唇。[r]
-そこからはボタボタと白い汁が滴り落ちてくる。[pcms]
+Through the torn stockings, red lips twitch and squirm. From them,[r]
+white fluid drips down in drops.[pcms]
 
 ;;//■イベントCG　hon_H003
 [evcg storage="hon_H002c"][trans_c cross time=500]
@@ -91,15 +91,15 @@
 *8929|
 ;旧ナンバー[vo_h s="honma0171"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0076"]
-[ns]本間[nse]
-「ホント、ひさしぶりぃ。さっきなんてメじゃないぐらい、[r]
-　たっぷりたのしませてもらうから……かくごなさいなぁ」[pcms]
+[ns]Honma[nse]
+"Really, it's been so long. I'm going to enjoy this thoroughly...[r]
+prepare yourself."[pcms]
 
 
 *8930|
 [fc]
-半開きの口からも涎を滴らせ、恐ろしいことを口走る。[r]
-さっきのが目じゃないとしたら、一体どんな……？[pcms]
+Saliva drips from her half-open mouth as she utters terrifying things.[r]
+If what happened earlier was nothing, then what could possibly...?[pcms]
 
 ;;//■イベントCG　hon_H003
 [evcg storage="hon_H002b"][trans_c cross time=500]
@@ -108,9 +108,8 @@
 *8931|
 ;旧ナンバー[vo_h s="honma0172"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0077"]
-[ns]本間[nse]
-「さあぁ、イクわよぉおぉぉぉぉぉ！！[r]
-　タマのなかみ、ぜんぶしぼりだしてあげるわ！！」[pcms]
+[ns]Honma[nse]
+"Here we goooooo!! I'll squeeze out everything from your balls!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_h to1 "旧honmaZ0007"]
 
 ;;//se_sex03.ogg(LOOP)
@@ -119,20 +118,20 @@
 
 *8932|
 [fc]
-ヒタリとぬれそぼった襞が亀頭に吸い付くと、[r]
-そのまま飲み込み始める。それはまるで別の生き物のようだ。[pcms]
+The wet folds cling to the glans and begin to swallow it whole. It's[r]
+almost like a different creature.[pcms]
 
 
 *8933|
 [fc]
-[ns]克己[nse]
-「うっ、うわ…………」[pcms]
+[ns]Kazumi[nse]
+"Ugh, wow..."[pcms]
 
 
 *8934|
 [fc]
-年上の女性、きっとネットリした責めをしてくるんじゃないか？[r]
-そんなことを思ったのも束の間……。[pcms]
+An older woman, surely she would employ a sticky, lingering attack?[r]
+That thought was fleeting...[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -145,197 +144,195 @@
 
 *8935|
 [fc]
-[ns]克己[nse]
-「…………ッッ！！！？」[pcms]
+[ns]Kazumi[nse]
+"...Huh!!!?"[pcms]
 
 
 *8936|
 [fc]
-尻たぶを思い切り叩かれたような音と共に、[r]
-激しい水しぶきが顔にまで弾け飛んでくる！！[pcms]
+With a sound like a slap on the butt, a violent splash of water bursts[r]
+onto his face!![pcms]
 
 
 *8937|
 ;旧ナンバー[vo_h s="honma0173"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0078"]
-[ns]本間[nse]
-「うふふふふっ！！　なにびっくりしてるかしら？[r]
-　ここからがホンバンなんだから！！」[pcms]
+[ns]Honma[nse]
+"Ufufufufu!! What are you so surprised about? This is where the real[r]
+show starts!!"[pcms]
 
 [se_H buf1 storage="se_sex01"]
 
 
 *8938|
 [fc]
-勢いよく叩き込んだ軽く腰が浮いたかと思うと、[r]
-再び叩きつけられる。[pcms]
+She thrusts down forcefully and just as her hips seem to lift[r]
+slightly, she slams down again.[pcms]
 
 
 *8939|
 ;旧ナンバー[vo_h s="honma0174"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0079"]
-[ns]本間[nse]
-「んぐううう！！　いいわよぉ、もっとかたくしなさい！[r]
-　もっとわたしのなかにぃ、つきたてなさい！！」[pcms]
+[ns]Honma[nse]
+"Nguuuu!! That's good, get harder! Thrust into me more, deeper[r]
+inside!!"[pcms]
 
 [se_HLoop buf2 storage="se_sex03"]
 
 
 *8940|
 [fc]
-浮いては叩き、浮いては叩く。[r]
-その凄まじい衝撃の連続に俺は気を失いそうになる。[pcms]
+Lifting and slamming, lifting and slamming. The relentless impact[r]
+almost makes me lose consciousness.[pcms]
 
 
 *8941|
 ;旧ナンバー[vo_h s="honma0175"]
 [マイク 位置８ ch=h][vo_h s="R_hon_BIN0080"]
-[ns]本間[nse]
-「はっ、はっ、はっ！！　んおおっ！！[r]
-　ちょっと……ちいさい、わね……でもいい……かたさよ！！[r]
-　ほらあ、なにサボってるの！？」[pcms]
+[ns]Honma[nse]
+"Hah, hah, hah!! Nohhh!! A little... small, isn't it... but it's[r]
+fine... the hardness is good!! Hey, what are you slacking for!?"[pcms]
 
 
 *8942|
 [fc]
-尻をギリギリとつねり上げられ、反射的に腰を突き上げてしまう。[pcms]
+She pinches the butt tightly and reflexively I thrust my hips up.[pcms]
 
 
 *8943|
 ;旧ナンバー[vo_h s="honma0176"]
 [マイク 位置８ ch=h][vo_h s="R_hon_BIN0081"]
-[ns]本間[nse]
-「んおおっっ！！　いっ、いいわよ！　そう、つきあげるのっ！[r]
-　おほおおお！！　あたるぅっ、おくにっ、あたるううう！！」[pcms]
+[ns]Honma[nse]
+"Nohhhhh!! That's good! Yes, thrust up! Ohhooo!! It hits deep inside,[r]
+it hits deep!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_h to1 "旧honmaZ0007"]
 
 
 *8944|
 [fc]
-それは静ちゃんとはまるで違う感触だった。[pcms]
+It was a sensation completely different from Shizuka-chan's.[pcms]
 
 
 *8945|
 [fc]
-彼女はどちらかというと柔らかくハリのある感じだったけど、[r]
-先生のは熟し切り、全体にまとわりつくような感じだ。[pcms]
+She was more on the soft and bouncy side, but the teacher's was fully[r]
+ripe and seemed to cling all over.[pcms]
 
 
 *8946|
 ;旧ナンバー[vo_h s="honma0177"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0082"]
-[ns]本間[nse]
-「いいっ、いいわあ！！　ふおおっ！！[r]
-　わたしのっ、ひさびさマンコっ、よろこんでるぅぅぅぅ！！！」[pcms]
+[ns]Honma[nse]
+"Good, so good!! Foooh!! My long-neglected pussy is so happy!!!"[pcms]
 
 
 *8947|
 [fc]
-全体に貼り付いた襞が上下の動きに合わせて蠢く。[r]
-なんて言うか、男を知り尽くした熟練の動きとでも言うか……。[pcms]
+The folds that clung all over writhed with each upward and downward[r]
+movement. It was like the skilled movements of a woman who knew men[r]
+inside out...[pcms]
 
 
 *8948|
 ;旧ナンバー[vo_h s="honma0178"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0083"]
-[ns]本間[nse]
-「ほらほらっ！！　こっちの方もっ、ちゃんとなめなさいッ！！」[pcms]
+[ns]Honma[nse]
+"Come on, come on!! You should lick this part properly too!!"[pcms]
 
 
 *8949|
 [fc]
-[ns]克己[nse]
-「うぶぅぅっ！？」[pcms]
+[ns]Kazumi[nse]
+"Ubuuuh!?"[pcms]
 
 
 *8950|
 [fc]
-目の前で揺れていた爆乳が視界を覆っていた。[r]
-それどころか、固くシコった赤茶色の乳首が[r]
-とあるＳＭ器具のように口を塞いでしまう！！[pcms]
+The huge breasts that had been swaying in front of me covered my field[r]
+of vision. Not only that, but the hard, reddish-brown nipples blocked[r]
+my mouth like some kind of SM device!![pcms]
 
 
 *8951|
 ;旧ナンバー[vo_h s="honma0179"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0084"]
-[ns]本間[nse]
-「くひいいぃっ！　ちくび……かみなさい！！[r]
-　ベロでころがしながらっ、やさしくかむのよ！！」[pcms]
+[ns]Honma[nse]
+"Kuhiiii! Bite... bite my nipples!! Roll them with your tongue gently[r]
+while biting!!"[pcms]
 
 
 *8952|
 [fc]
-それは命令だった。逆らうことなどできるはずもなく、[r]
-俺は息苦しさの中で柔らかいソレに愛撫を始める。[pcms]
+It was an order. Unable to resist, I began to caress the softness[r]
+amidst my breathlessness.[pcms]
 
 
 *8953|
 ;旧ナンバー[vo_h s="honma0180"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0085"]
-[ns]本間[nse]
-「おおおおおおッッ！！　おッ、くああああああ！！！[r]
-　いッ、いいわよ！！　あッ、あぐうッッ！！　はえええッ！」[pcms]
+[ns]Honma[nse]
+"Oooooohhh!! Ohh, kuaaaaaa!!! That's good!! Ahh, aguuuhh!! Haaeeehh!"[pcms]
 
 
 *8954|
 [fc]
-[ns]克己[nse]
-「う……ッ、ううううう…………！！」[pcms]
+[ns]Kazumi[nse]
+"Uh... Uuuuuuh...!!"[pcms]
 
 
 *8955|
 [fc]
-軽い酸欠状態になってきたのか、目の前がチカチカする。[r]
-それでも先生の命令に応え続ける。[pcms]
+I might be getting light-headed from lack of oxygen as my vision[r]
+starts to flicker. Still, I continue to obey the teacher's commands.[pcms]
 
 
 *8956|
 ;旧ナンバー[vo_h s="honma0181"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0086"]
-[ns]本間[nse]
-「おッ、ほおッ！　バイブがわりにしては、わるくないわ……！[r]
-　ほらぁ！！　ちくびだけじゃなくて、こっちもよ！！」[pcms]
+[ns]Honma[nse]
+"Ohh, hoooh! Not bad for a substitute for a vibrator...! Come on!! Not[r]
+just the nipples, this part too!!"[pcms]
 
 
 *8957|
 [fc]
-またも尻をつねられ、腰を突き上げてしまう。[r]
-でもそれで満足するはずはなく、何度も尻をつねり上げられる。[pcms]
+Once again she pinches my butt and I thrust my hips up. But that's not[r]
+enough for her satisfaction; she keeps pinching my butt over and over.[pcms]
 
 
 *8958|
 ;旧ナンバー[vo_h s="honma0182"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0087"]
-[ns]本間[nse]
-「あはッ、あははははははは！！！　ここがスイッチなのね！[r]
-　だったら……もっとパワーあげなくちゃ！！」[pcms]
+[ns]Honma[nse]
+"Ahah! Ahahahahahaha!!! This is the switch! Then... I need to turn up[r]
+the power more!!"[pcms]
 
 
 *8959|
 [fc]
-肉が引きちぎれるんじゃないかと思うほどに[r]
-尻肉をねじられ、俺は泣きながら腰を突き上げていく。[pcms]
+I'm twisted so hard I think my ass flesh might tear off, and I thrust[r]
+my hips up while crying.[pcms]
 
 
 *8960|
 ;旧ナンバー[vo_h s="honma0183"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0088"]
-[ns]本間[nse]
-「んふッ、んほぉッ！　いいッ、いいわあ！！[r]
-　おきにいりのッ、バイブよりッ、いいとこ、ついてくるぅうっ！」[pcms]
+[ns]Honma[nse]
+"Nfuuh, nhooh! Good, so good!! It's hitting all the right spots, even[r]
+better than my favorite vibrator!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_h to1 "旧honmaZ0007"]
 
 
 *8961|
 [fc]
-お気に入りの[ruby text="バイブ"][ch text="性具"]よりイイ感じなだけで、[r]
-俺という存在は認識されていないみたいだ。[pcms]
+It seems like I'm not even recognized as a person, just something that[r]
+feels better than her favorite sex toy.[pcms]
 
 
 *8962|
 [fc]
-ただ彼女が快感を貪るために腰を振り、[r]
-真っ赤に充血したアソコに刺激を送り続ける。[pcms]
+I just keep thrusting my hips to satisfy her greed for pleasure,[r]
+continuously stimulating her engorged, bright red pussy.[pcms]
 
 ;;//■イベントCG　hon_H003
 [evcg storage="hon_H002e"][trans_c cross time=500]
@@ -344,171 +341,166 @@
 *8963|
 ;旧ナンバー[vo_h s="honma0184"]
 [マイク 位置８ ch=h][vo_h s="R_hon_BIN0089"]
-[ns]本間[nse]
-「あああッ、イイわあッ！　ほひィ、くおおおおッッ！[r]
-　ちくび、ビリビリしてくるぅ！　くう、ううううンッッ！！」[pcms]
+[ns]Honma[nse]
+"Aaaaah! That's so good! Hohii, kuaaaaa! My nipples are tingling! Kuu,[r]
+uuuuun!"[pcms]
 
 
 *8964|
 [fc]
-乳首にも刺激を、と命令が下された……。[r]
-言われるままに前歯をあてがい、舌先を先端に擦りつける。[pcms]
+She ordered me to stimulate her nipples... I comply by pressing my[r]
+front teeth against them and rubbing the tips with my tongue.[pcms]
 
 
 *8965|
 ;旧ナンバー[vo_h s="honma0185"]
 [マイク 位置８ ch=h][vo_h s="R_hon_BIN0090"]
-[ns]本間[nse]
-「へあああッ！　これ、すごォォォォいッ！！[r]
-　ぜんじどうっ、オナニーマシーンよッ、はあああああッッ！！[r]
-　んひッ、んはああああッ、ほおおおおおぉぉおぉおッッ！！」[pcms]
+[ns]Honma[nse]
+"Heaaaah! This is amazing!! It's like a fully automatic masturbation[r]
+machine, haaaaah!! Nhih, nhahaaa, hoooooooh!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_h to1 "旧honmaZ0007"]
 
 
 *8966|
 [fc]
-[ns]克己[nse]
-「ぐっ、ぐう……」[pcms]
+[ns]Katsumi[nse]
+"Guh, guu..."[pcms]
 
 
 *8967|
 [fc]
-視界は白い塊で覆われながら、俺は絶え間ない息苦しさに喘いだ。[r]
-このままでは死んでしまう、そのぐらい苦しくて辛い。[pcms]
+My vision is covered in white spots as I gasp for air in the[r]
+relentless suffocation. It's so painful and hard that I might die like[r]
+this.[pcms]
 
 
 *8968|
 [fc]
-そのくせ先生が一心不乱に身体を叩きつけるたびに[r]
-腰の奥底から愉悦が掘り返され、恐ろしいほどの心地よさだった。[pcms]
+Yet every time she slams her body down without a care, pleasure is dug[r]
+up from the depths of my hips, and it feels terrifyingly good.[pcms]
 
 
 *8969|
 [fc]
-どこかで聞いた話だと、首を絞めながらセックスすると[r]
-激しく気持ちいいと言うけど、それは嘘じゃないかもしれない。[pcms]
+I've heard that sex feels incredibly good when you strangle yourself,[r]
+and that might not be a lie.[pcms]
 
 
 *8970|
 ;旧ナンバー[vo_h s="honma0186"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0091"]
-[ns]本間[nse]
-「あーーッ！　イイッ！　あのヒトのチンポよりイイッ！！[r]
-　こんなおとこに……ねとられてぇッ、[r]
-　きっとぉ、くやしがるわぁ！」[pcms]
+[ns]Honma[nse]
+"Ahh! Yes! Better than that guy's dick!! To be taken by such a man...[r]
+surely, he would be frustrated!"[pcms]
 
 
 *8971|
 ;旧ナンバー[vo_h s="honma0187"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0092"]
-[ns]本間[nse]
-「でもォ、あんしんしてぇッ！　コレは、ただのバイブだしィ！[r]
-　ああああッ！　にくバイブぅッ！　いいぃいぃぃぃいぃぃッ！」[pcms]
+[ns]Honma[nse]
+"But don't worry! This is just a vibrator! Aaaaaah! A meat vibrator![r]
+So goooood!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_h to1 "旧honmaZ0007"]
 
 
 *8972|
 [fc]
-ただひたすらに腰に叩きつけながら、そんなことを口走る。[r]
-先生がどれだけ欲求不満だったのか、その代償として[r]
-どれだけオナニーに耽っていたのか分かる発言だった。[pcms]
+She rants on while slamming her hips down relentlessly. Her words[r]
+reveal how sexually frustrated she was and how much she indulged in[r]
+masturbation as compensation.[pcms]
 
 
 *8972a|
 [fc]
-[ruby text="ウ　イ　ル　ス"][ch text="UNknown-LV4"]のせいで[r]
-頭がおかしくなってしまったにせよ、[r]
-――これが本性に違いない。[pcms]
+Even if her mind has gone crazy because of UNknown-LV4, --this must be[r]
+her true nature.[pcms]
 
 
 *8973|
 [fc]
-先生だけじゃなくて……。[r]
-美樹ちゃんも、静ちゃんも、丞実も……だ！！[pcms]
+Not just the teacher... Miki-chan, Shizuka-chan, and Tsugumi too...[r]
+all of them!![pcms]
 
 
 *8974|
 ;旧ナンバー[vo_h s="honma0188"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0093"]
-[ns]本間[nse]
-「おーーーーッ！　ぎッ、も゛ぢい゛い゛い゛ぃ゛ぃ゛ッ！！[r]
-　あかちゃんのへやッ！　しきゅうがッ、せいしほしがってる！[r]
-　あたらしいせいしでッ、はらみたいってェ！！！」[pcms]
+[ns]Honma[nse]
+"Ohhh! Tight, so damn tight!! The baby room! My womb is craving for[r]
+semen! It wants to be fertilized with fresh sperm!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_h to1 "旧honmaZ0007"]
 
 
 *8975|
 [fc]
-ネットリ絡みついた肉襞が精液を絞り出そうと[r]
-ぶるぶる震えている。使い古しの子宮に新たな卵子を仕込み、[r]
-精子の群れを今か今かと待ち構えている。[pcms]
+The sticky folds of flesh inside tremble as if trying to milk out the[r]
+semen. The worn-out womb is ready to implant a new egg and eagerly[r]
+awaits the swarm of sperm.[pcms]
 
 
 *8976|
 ;旧ナンバー[vo_h s="honma0189"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0094"]
-[ns]本間[nse]
-「だしてェッ！　せいしいっぱいだしてッ！！[r]
-　あおッ、おおおッ！！　おなかいっぱい、のませてェ！！」[pcms]
+[ns]Honma[nse]
+"Let it out! Release lots of semen!! Ahhh, ohhh! Fill my belly, let me[r]
+drink it all up!!"[pcms]
 
 
 *8977|
 [fc]
-激しい動きと柔らかな膣穴の蠕動に、[r]
-言われるまでもなく射精感が高まっていく。[pcms]
+The intense movements and the soft undulation of her vaginal walls[r]
+make me feel the urge to ejaculate without being told.[pcms]
 
 
 *8978|
 ;旧ナンバー[vo_h s="honma0190"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0095"]
-[ns]本間[nse]
-「はやくッ！　んッ、んいいいいぃぃいぃぃッ！！[r]
-　はッ、ほおおおおッ！　にくバイブッ、せいしだしなさいッ、[r]
-　なにやってるのよ、このやくたたずッ！！」[pcms]
+[ns]Honma[nse]
+"Hurry up! Nnng, niiiiice!! Haah, hoooooh! Meat vibrator, release your[r]
+semen, what are you doing, you good-for-nothing!!"[pcms]
 [bgv_h to3 "旧honmaZ0009"]
 
 
 *8979|
 [fc]
-先生は罵倒しながらも叩きつけるように腰を上下させてくる。[r]
-バチンバチンと肉同士が弾け合い、淫猥な水音があとに続いた。[pcms]
+She keeps slamming her hips up and down while cursing me. The sound of[r]
+flesh slapping together and lewd squelching follows.[pcms]
 
 
 *8980|
 [fc]
-そして、その激しい動きは自分勝手そのもので、[r]
-俺なんてどうでもいいと言わんばかりだった。[pcms]
+And those intense movements are utterly selfish, as if to say she[r]
+couldn't care less about me.[pcms]
 
 
 *8981|
 ;旧ナンバー[vo_h s="honma0191"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0096"]
-[ns]本間[nse]
-「さあッ、だしなさいよ！　はやくッ、はやくだせッッ！！[r]
-　うひぃッ、おッ、おおお…………ッ、も……もォ、イクぅッ！」[pcms]
+[ns]Honma[nse]
+"Come on, let it out! Hurry up and release it!! Uhihh, ohh, ooooh...[r]
+I'm... I'm coming!!"[pcms]
 
 
 *8982|
 [fc]
-さらに激しさを増したピストンに翻弄されながら[r]
-視界が明滅していく。ヤバイ、俺、本当に死ぬかも……。[pcms]
+The piston movements become even more violent and my vision starts to[r]
+flicker. This is bad, I might actually die...[pcms]
 
 
 *8983|
 ;旧ナンバー[vo_h s="honma0192"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0097"]
-[ns]本間[nse]
-「おッ、おッ、おおおおッ！　イグッ！！[r]
-　バイブでッ、イグウゥゥゥゥウゥゥゥゥゥッ！！[r]
-　ひぐッ、うおおぉぉおぉおぉぉぉッッッ！！」[pcms]
+[ns]Honma[nse]
+"Ohh, ohh, oooooh! I'm coming!! With the vibrator, I'm comingggggg!![r]
+Higuuh, uoooooohhhhh!!"[pcms]
 ;停止命令が不明なのでとりあえずまだコメントアウト[bgv_h to3 "旧honmaZ0009"]
 
 
 *8984|
 [fc]
-バネで弾かれたみたいに身体を仰け反らした瞬間、[r]
-押し潰すような締め付けが襲いかかった。[r]
-もちろん俺に抵抗する余地なんてなく……。[pcms]
+In an instant, as if sprung by a spring, her body arches back and a[r]
+crushing tightness attacks me. Of course, I have no chance to[r]
+resist...[pcms]
 
 ;;//#_射精フラッシュ＆射精SE＆窓オフオン＆SEループ停止
 ;m[stop_seHLoop buf2]
@@ -521,35 +513,34 @@
 
 *8985|
 [fc]
-[ns]克己[nse]
-「……………………ッッ！」[pcms]
+[ns]Kazumi[nse]
+"...!"[pcms]
 
 
 *8986|
 [fc]
-叫び声すら上げられないまま、俺は精液を絞り出されていた。[r]
-射精というより、『抜精』というのがピッタリする感じだ……。[pcms]
+Without even being able to scream, I was milked of my semen. It felt[r]
+more like being "extracted" than ejaculating...[pcms]
 
 
 *8987|
 ;旧ナンバー[vo_h s="honma0193"]
 [マイク 位置１ ch=h][vo_h s="R_hon_BIN0098"]
-[ns]本間[nse]
-「ほひいぃぃぃぃぃぃぃぃぃぃ！！！[r]
-　くうぅぅぅッ！　いきどまりッ、ブチあたってるぅぅぅ！！」[pcms]
+[ns]Honma[nse]
+"Hohiiiiiiiiii!!! Kuuuuh! It's hitting the dead end, smashing against[r]
+it!!"[pcms]
 [bgv_h to2 "旧honmaZ0008"]
 
 
 *8988|
 [fc]
-体内で弾ける熱い塊をゴクゴク飲み干しながら、[r]
-先生は喜悦に満ちた淫笑を浮かべる。[pcms]
+As she gulps down the hot lumps bursting inside her, the teacher wears[r]
+a joyous lewd smile.[pcms]
 
 
 *8989|
 [fc]
-そして、そのお返しとばかりに、[r]
-俺の口に生暖かいモノが流れ込んでくる……！！[pcms]
+And then, as if in return, something lukewarm flows into my mouth...!![pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -576,15 +567,16 @@
 *8990|
 ;旧ナンバー[vo_h s="honma0194"]
 [マイク 位置２ ch=h][vo_h s="R_hon_BIN0099"]
-[ns]本間[nse]
-「はへぇぇ……、ぼにゅー、でてきちゃったあああああ。[r]
-　せっかくだからぁ、ちゃんとのみほすのよぉぉおぉぉ！！」[pcms]
+[ns]Honma[nse]
+"Haahee... bon-yu-, it came out. Since it's here, make sure you drink[r]
+it all up!!"[pcms]
 
 
 *8991|
 [fc]
-生まれて初めて飲まされる、肉親以外の母乳はただ生温かく、[r]
-とても美味いと言えるものじゃなかった……。[pcms]
+For the first time in my life, I was made to drink breast milk from[r]
+someone other than a blood relative. It was lukewarm and couldn't[r]
+really be called delicious...[pcms]
 
 ;;//■イベントCG　hon_H003
 [evcg storage="hon_H002h"][trans_c cross time=500]
