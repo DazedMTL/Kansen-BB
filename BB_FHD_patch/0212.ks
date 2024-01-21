@@ -775,8 +775,8 @@ But the cell phone remained silent.[pcms]
 
 *1230|
 [fc]
-"Please try calling again later"  even that announcement was no[r]
-longer audible.[pcms]
+"Please try calling again later"  even that announcement was no longer[r]
+audible.[pcms]
 
 
 *1231|
@@ -1052,8 +1052,8 @@ The content should be... um...[pcms]
 
 *SEL01|無事ならメールをくれ／助けに行くから待ってろ
 [fc]
-[sel02 text='無事ならメールをくれ'   target=*SEL01_1]
-[sel04 text='助けに行くから待ってろ' target=*SEL01_2 end]
+[sel02 text='If you\'re safe, send me an email'   target=*SEL01_1]
+[sel04 text='I\'m coming to help, so wait for me' target=*SEL01_2 end]
 
 
 
@@ -1288,10 +1288,10 @@ time for a job change! Employment decided!!! Let's gooooo!!!"[pcms]
 ; ;[pcms]
 ;
 ;	ボタン選択肢ですが仮で通常選択肢表示
-;	[sel01 text='静'   target=*aspect_sel_SEL01]
-;	[sel02 text='克己' target=*aspect_sel_SEL02]
-;	[sel03 text='丞実' target=*aspect_sel_SEL03 end]
-;	;[sel04 text='ザッピングキャンセル' target=*0210_jump end]
+;	[sel01 text='Shizuka'   target=*aspect_sel_SEL01]
+;	[sel02 text='Kazumi' target=*aspect_sel_SEL02]
+;	[sel03 text='Tsugumi' target=*aspect_sel_SEL03 end]
+;	;[sel04 text='Zapping Cancel' target=*0210_jump end]
 
 
 [eval exp="f.zap = '0212'"]

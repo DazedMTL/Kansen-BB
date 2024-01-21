@@ -401,8 +401,8 @@ hesitate.[pcms]
 
 *SEL13|中庭を抜ける！／体育館の横の方だ！
 [fc]
-[sel02 text='中庭を抜ける！'     target=*SEL13_1]
-[sel04 text='体育館の横の方だ！' target=*SEL13_2 end]
+[sel02 text='Let\'s go through the courtyard!'     target=*SEL13_1]
+[sel04 text='It\'s on the side of the gymnasium!' target=*SEL13_2 end]
 
 
 

@@ -261,8 +261,8 @@ The direction I'll choose is...[pcms]
 
 *SEL12|正門側だ！／裏門側だ！
 [fc]
-[sel02 text='正門側だ！' target=*SEL12_1]
-[sel04 text='裏門側だ！' target=*SEL12_2 end]
+[sel02 text='It\'s the front gate side!' target=*SEL12_1]
+[sel04 text='It\'s the back gate side!' target=*SEL12_2 end]
 
 ;選択肢後の処理しときたいからここに飛ばしてから実際のjump先へ
 ;-------------------------------------------------------------------------------

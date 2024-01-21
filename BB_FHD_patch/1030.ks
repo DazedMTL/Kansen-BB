@@ -477,8 +477,8 @@ Which way? Which way should we go!?[pcms]
 
 *SEL10|正門側へ！／裏門側だ！
 [fc]
-[sel02 text='正門側へ！' target=*SEL10_1]
-[sel04 text='裏門側だ！' target=*SEL10_2 end]
+[sel02 text='To the main gate side!' target=*SEL10_1]
+[sel04 text='It\'s the back gate side!' target=*SEL10_2 end]
 
 
 

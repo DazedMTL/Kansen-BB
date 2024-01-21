@@ -737,8 +737,8 @@ up at the ceiling.[pcms]
 
 *SEL07|ここにいても仕方ない。合宿所に行ってみよう／うかつにココから出ない方がよさそう……
 [fc]
-[sel02 text='ここにいても仕方ない。合宿所に行ってみよう' target=*SEL07_1]
-[sel04 text='うかつにココから出ない方がよさそう……'     target=*SEL07_2 end]
+[sel02 text='There\'s no point in staying here Let\'s head to the training camp' target=*SEL07_1]
+[sel04 text='It seems better not to carelessly leave from here'     target=*SEL07_2 end]
 
 
 ;選択肢後の処理しときたいからここに飛ばしてから実際のjump先へ

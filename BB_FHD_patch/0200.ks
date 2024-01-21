@@ -522,9 +522,9 @@ magazines and buy some coffee milk!"[pcms]
 ; ;[pcms]
 ;
 ;	ボタン選択肢ですが仮で通常選択肢表示
-;	[sel02 text='克己' target=*aspect_sel_SEL02]
-;	[sel03 text='丞実' target=*aspect_sel_SEL03 end]
-;	;[sel04 text='ザッピングキャンセル' target=*0210_jump end]
+;	[sel02 text='Kazumi' target=*aspect_sel_SEL02]
+;	[sel03 text='Tsugumi' target=*aspect_sel_SEL03 end]
+;	;[sel04 text='Zapping Cancel' target=*0210_jump end]
 [eval exp="f.zap = '0200'"]
 [eval exp="f.zap_siz = void"]
 [eval exp="f.zap_kat = '*aspect_sel_SEL02'"]

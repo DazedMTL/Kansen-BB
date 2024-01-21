@@ -1328,9 +1328,9 @@ Just as I was starting to calm down, my heart rate shoots up again.[pcms]
 
 *SEL02|Z‘îŠX‚Ì˜H’n‚Ö“P‘Ş^—‚¿’…‚¢‚Äl‚¦‚é^‹­s“Ë”j‚ ‚é‚Ì‚İ‚¾I
 [fc]
-[sel01 text='Z‘îŠX‚Ì˜H’n‚Ö“P‘Ş'   target=*SEL02_1]
-[sel03 text='—‚¿’…‚¢‚Äl‚¦‚é'     target=*SEL02_2]
-[sel05 text='‹­s“Ë”j‚ ‚é‚Ì‚İ‚¾I' target=*SEL02_3 end]
+[sel01 text='Retreat to the residential area alley'   target=*SEL02_1]
+[sel03 text='Calm down and think'     target=*SEL02_2]
+[sel05 text='I have no choice but to force my way through!' target=*SEL02_3 end]
 
 ;‘I‘ğˆŒã‚Ìˆ—‚µ‚Æ‚«‚½‚¢‚©‚ç‚±‚±‚É”ò‚Î‚µ‚Ä‚©‚çÀÛ‚Ìjumpæ‚Ö
 ;-------------------------------------------------------------------------------
@@ -1358,8 +1358,8 @@ Just as I was starting to calm down, my heart rate shoots up again.[pcms]
 
 *SEL03|Z‘îŠX‚Ì˜H’n‚Ö“P‘Ş^—‚¿’…‚¢‚Äl‚¦‚é
 [fc]
-[sel02 text='Z‘îŠX‚Ì˜H’n‚Ö“P‘Ş' target=*SEL03_1]
-[sel04 text='—‚¿’…‚¢‚Äl‚¦‚é'   target=*SEL03_2 end]
+[sel02 text='Retreat to the residential alley' target=*SEL03_1]
+[sel04 text='Calm down and think'   target=*SEL03_2 end]
 
 
 ;‘I‘ğˆŒã‚Ìˆ—‚µ‚Æ‚«‚½‚¢‚©‚ç‚±‚±‚É”ò‚Î‚µ‚Ä‚©‚çÀÛ‚Ìjumpæ‚Ö
@@ -2054,8 +2054,8 @@ That means...![pcms]
 
 *SEL04|^³–Ê‚ÌŒš•¨‚Ì•û‚Ö^ƒKƒ‰ƒX’£‚è‚ÌŒš•¨‚Ì•û‚Ö
 [fc]
-[sel02 text='^³–Ê‚ÌŒš•¨‚Ì•û‚Ö'     target=*SEL04_1]
-[sel04 text='ƒKƒ‰ƒX’£‚è‚ÌŒš•¨‚Ì•û‚Ö' target=*SEL04_2 end]
+[sel02 text='Towards the building right in front'     target=*SEL04_1]
+[sel04 text='Towards the glass building' target=*SEL04_2 end]
 
 
 ;‘I‘ğˆŒã‚Ìˆ—‚µ‚Æ‚«‚½‚¢‚©‚ç‚±‚±‚É”ò‚Î‚µ‚Ä‚©‚çÀÛ‚Ìjumpæ‚Ö

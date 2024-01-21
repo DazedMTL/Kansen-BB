@@ -735,7 +735,7 @@ I asked while looking at the crying girls.[pcms]
 *7638|
 [fc]
 [ns]Kazumi[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 [ChrSetEx layer=4 chbase="hon1_hak_a"][ChrSetParts layer=4 chface="F1_hon01"][ChrSetXY layer=4 x="&sf.std_h_xí≤êÆ*585" y="&sf.std_h_yí≤êÆ*-10"][trans_c cross time=150]
 

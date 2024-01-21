@@ -754,8 +754,8 @@ What should I do, meeeeee!!!"[pcms]
 
 *SEL09|丞実のところへ行く／今はこのまま……
 [fc]
-[sel02 text='丞実のところへ行く' target=*SEL09_1]
-[sel04 text='今はこのまま……'   target=*SEL09_2 end]
+[sel02 text='Go to Tsugumi\'s place' target=*SEL09_1]
+[sel04 text='Just like this for now'   target=*SEL09_2 end]
 
 ;選択肢後の処理しときたいからここに飛ばしてから実際のjump先へ
 ;-------------------------------------------------------------------------------

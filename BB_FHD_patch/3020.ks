@@ -691,8 +691,8 @@ of the infected.[pcms]
 *7399|
 [fc]
 Tsugumi had taken down the infected with a move like a special[r]
-technique from a period dramasmartly, swiftly, and brilliantly...[r]
-with a single strike.[pcms]
+technique from a period dramasmartly, swiftly, and brilliantly... with[r]
+a single strike.[pcms]
 
 
 *7400|
@@ -850,9 +850,9 @@ Damn it, what should we do at a time like this!?[pcms]
 
 *SEL17|Å’Z‹——£‚Å—ˆ‚½“¹‚ğ–ß‚éI^æ‚è‚ ‚¦‚¸‚RŠK‚Éã‚ë‚¤I^”ñíŠK’i‚©‚ç’Eo‚¾I
 [fc]
-[sel01 text='Å’Z‹——£‚Å—ˆ‚½“¹‚ğ–ß‚éI' target=*SEL17_1]
-[sel03 text='æ‚è‚ ‚¦‚¸‚RŠK‚Éã‚ë‚¤I' target=*SEL17_2]
-[sel05 text='”ñíŠK’i‚©‚ç’Eo‚¾I'     target=*SEL17_3 end]
+[sel01 text='Return by the shortest route we came!' target=*SEL17_1]
+[sel03 text='Let\'s go up to the third floor for now!' target=*SEL17_2]
+[sel05 text='Escape from the emergency stairs!'     target=*SEL17_3 end]
 
 
 ;‘I‘ğˆŒã‚Ìˆ—‚µ‚Æ‚«‚½‚¢‚©‚ç‚±‚±‚É”ò‚Î‚µ‚Ä‚©‚çÀÛ‚Ìjumpæ‚Ö

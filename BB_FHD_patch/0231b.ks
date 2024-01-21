@@ -259,8 +259,8 @@ Should I go help Tsugumi...? Or should I help Shizuka-chan...!?[pcms]
 
 *SEL05|åÀ‚ğ•‚¯‚És‚­^Ã‚É‹¦—Í‚·‚é
 [fc]
-[sel02 text='åÀ‚ğ•‚¯‚És‚­' target=*SEL05_1]
-[sel04 text='Ã‚É‹¦—Í‚·‚é'     target=*SEL05_2 end]
+[sel02 text='Go to save Tsugumi' target=*SEL05_1]
+[sel04 text='Cooperate with Shizuka'     target=*SEL05_2 end]
 
 
 

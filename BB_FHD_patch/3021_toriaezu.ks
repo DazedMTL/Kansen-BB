@@ -104,9 +104,9 @@ I have to act to reassure Tsugumi!![pcms]
 
 *SEL18|—‚¿’…‚¢‚Äl‚¦‚é^‚±‚Ì‚Ü‚Ü‚RŠK‚ğ“Ë‚ÁØ‚éI^”ñíŠK’i‚©‚ç’EoI
 [fc]
-[sel01 text='—‚¿’…‚¢‚Äl‚¦‚é'          target=*SEL18_1]
-[sel03 text='‚±‚Ì‚Ü‚Ü‚RŠK‚ğ“Ë‚ÁØ‚éI'  target=*SEL18_2]
-[sel05 text='”ñíŠK’i‚©‚ç’EoI'        target=*SEL18_3 end]
+[sel01 text='Calm down and think about it'          target=*SEL18_1]
+[sel03 text='Charge through the third floor as is!'  target=*SEL18_2]
+[sel05 text='Escape from the emergency stairs!'        target=*SEL18_3 end]
 
 ;‘I‘ğˆŒã‚Ìˆ—‚µ‚Æ‚«‚½‚¢‚©‚ç‚±‚±‚É”ò‚Î‚µ‚Ä‚©‚çÀÛ‚Ìjumpæ‚Ö
 ;-------------------------------------------------------------------------------

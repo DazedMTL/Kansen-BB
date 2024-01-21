@@ -31,8 +31,8 @@
 
 *SEL08|真正面の建物の方へ／ガラス張りの建物の方へ
 [fc]
-[sel02 text='真正面の建物の方へ'     target=*SEL08_1]
-[sel04 text='ガラス張りの建物の方へ' target=*SEL08_2 end]
+[sel02 text='Towards the building right in front'     target=*SEL08_1]
+[sel04 text='Towards the glass building' target=*SEL08_2 end]
 
 
 ;選択肢後の処理しときたいからここに飛ばしてから実際のjump先へ

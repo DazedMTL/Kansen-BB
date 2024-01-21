@@ -298,8 +298,8 @@ In my case, what should I do...!?[pcms]
 
 *SEL15|‚PŠK‚©‚ç’†‚ÉN“ü^‚QŠK‚©‚ç’†‚ÉN“ü
 [fc]
-[sel02 text='‚PŠK‚©‚ç’†‚ÉN“ü' target=*SEL15_1]
-[sel04 text='‚QŠK‚©‚ç’†‚ÉN“ü' target=*SEL15_2 end]
+[sel02 text='Infiltrate from the first floor' target=*SEL15_1]
+[sel04 text='Infiltrate from the second floor' target=*SEL15_2 end]
 
 
 ;‘I‘ğˆŒã‚Ìˆ—‚µ‚Æ‚«‚½‚¢‚©‚ç‚±‚±‚É”ò‚Î‚µ‚Ä‚©‚çÀÛ‚Ìjumpæ‚Ö

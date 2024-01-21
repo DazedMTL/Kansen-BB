@@ -928,8 +928,8 @@ And if she's not okay, what should we do...?[pcms]
 
 
 *SEL11|åÀ‚ğ’†‚É“ü‚ê‚é^åÀ‚ğ’†‚É“ü‚ê‚È‚¢
-[sel02 text='åÀ‚ğ’†‚É“ü‚ê‚é'   target=*SEL11_1]
-[sel04 text='åÀ‚ğ’†‚É“ü‚ê‚È‚¢' target=*SEL11_2 end]
+[sel02 text='Let Tsugumi in'   target=*SEL11_1]
+[sel04 text='Don\'t let Tsugumi in' target=*SEL11_2 end]
 
 
 

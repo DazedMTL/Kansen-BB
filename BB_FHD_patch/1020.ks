@@ -1093,8 +1093,7 @@ letting air in.[pcms]
 [ns]Tsugumi[nse]
 "I'll wash every nook and cranny of your body. I'll even shove my arm[r]
 up your ass and polish your insides until they sparkle. Just kidding,[r]
-drop dead."[pcms]
-Just kidding, drop dead."[pcms]
+drop dead." Just kidding, drop dead."[pcms]
 
 
 *3792|

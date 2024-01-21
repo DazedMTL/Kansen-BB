@@ -642,7 +642,7 @@ things for him... Hehe...ah-..amuu..."[pcms]
 ;旧ナンバー[vo_m s="mama0008"]
 [マイク 位置１][vo_mob s="R_kanMAS0007"]
 [ns]Infected Mama[nse]
-"Ufufu...nnnghh...lerroo...belooohh.... Chu..nngh..puahh.. The balls[r]
+"Ufufu...nnnghh...lerroo...belooohh... Chu..nngh..puahh.. The balls[r]
 are tightening up. Papa liked this too, Haruki...Akira..."[pcms]
 
 

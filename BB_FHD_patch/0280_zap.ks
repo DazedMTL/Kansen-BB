@@ -1077,8 +1077,8 @@ we just need to figure out how to get out of this room![pcms]
 
 *SEL06|保健室の出入り口から廊下へ／窓から中庭へ
 [fc]
-[sel02 text='保健室の出入り口から廊下へ' target=*SEL06_1]
-[sel04 text='窓から中庭へ'               target=*SEL06_2 end]
+[sel02 text='From the infirmary entrance to the hallway' target=*SEL06_1]
+[sel04 text='Through the window to the courtyard'               target=*SEL06_2 end]
 
 ;選択肢後の処理しときたいからここに飛ばしてから実際のjump先へ
 ;-------------------------------------------------------------------------------
@@ -1720,7 +1720,7 @@ is believe that.[pcms]
 
 *2986|
 [fc]
-Surely everyone is thinking the same thing. Miki, Honma-sensei, and I[r]
+Surely everyone is thinking the same thing. Miki, Honma- sensei, and I[r]
 looked at each other, nodded in agreement, and then stood up for one[r]
 last push.[pcms]
 
@@ -1867,10 +1867,10 @@ watching Miki twist her body and desperately resist.[pcms]
 [pcms]
 ;
 ;	ボタン選択肢ですが仮で通常選択肢表示
-;	;[sel01 text='静'   target=*aspect_sel_SEL01]
-;	[sel02 text='克己' target=*aspect_sel_SEL02]
-;	[sel03 text='丞実' target=*aspect_sel_SEL03 end]
-;	;[sel04 text='ザッピングキャンセル' target=*0210_jump end]
+;	;[sel01 text='Shizuka'   target=*aspect_sel_SEL01]
+;	[sel02 text='Kazumi' target=*aspect_sel_SEL02]
+;	[sel03 text='Tsugumi' target=*aspect_sel_SEL03 end]
+;	;[sel04 text='Zapping Cancel' target=*0210_jump end]
 ;
 [eval exp="f.zap = '0280_zap'"]
 [eval exp="f.zap_siz = void"]

@@ -852,7 +852,7 @@ feels like it's melting from the inside.[pcms]
 ;旧ナンバー[vo_m s="yamaguti0010"]
 [マイク 位置７][vo_mob s="R_yamaguchi0011"]
 [ns]Yamaguchi[nse]
-"Boss... your pussy is cute... chuuu.... Nuuuuh..."[pcms]
+"Boss... your pussy is cute... chuuu... Nuuuuh..."[pcms]
 
 
 *2035|

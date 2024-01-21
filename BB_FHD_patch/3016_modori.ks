@@ -83,8 +83,8 @@ This choice here will determine my fate!![pcms]
 
 *SEL16|多少の強引さは必要！　突破するッ！／非常階段から迂回しよう
 [fc]
-[sel02 text='多少の強引さは必要！　突破するッ！'           target=*SEL16_1]
-[sel04 text='非常階段から迂回しよう' target=*SEL16_2 end]
+[sel02 text='Some forcefulness is necessary! Break through!'           target=*SEL16_1]
+[sel04 text='Let\'s take a detour through the emergency stairs' target=*SEL16_2 end]
 
 ;選択肢後の処理しときたいからここに飛ばしてから実際のjump先へ
 ;-------------------------------------------------------------------------------

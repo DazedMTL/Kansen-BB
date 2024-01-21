@@ -327,8 +327,8 @@ I--[pcms]
 
 *SEL14|一番近い出入り口の非常階段側へ向かう／道は開くもの！　窓から教室に入る
 [fc]
-[sel02 text='一番近い出入り口の非常階段側へ向かう' target=*SEL14_1]
-[sel04 text='道は開くもの！　窓から教室に入る'     target=*SEL14_2 end]
+[sel02 text='Head towards the emergency stairs by the nearest entrance' target=*SEL14_1]
+[sel04 text='Paths will open! I\'ll enter the classroom through the window'     target=*SEL14_2 end]
 
 
 
